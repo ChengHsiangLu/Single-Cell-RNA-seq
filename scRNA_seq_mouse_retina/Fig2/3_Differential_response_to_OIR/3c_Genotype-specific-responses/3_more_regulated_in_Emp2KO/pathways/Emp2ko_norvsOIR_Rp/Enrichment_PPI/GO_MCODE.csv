@@ -1,0 +1,25 @@
+Name,Category,CategoryID,GO,Description,PARENT_GO,LogP,Enrichment,Z-score,#TotalGeneInLibrary,#GeneInGO,#GeneInHitList,#GeneInGOAndHitList,%InGO,STDV %InGO,GeneID,Hits,Log(q-value)
+hits,GO Biological Processes,19,GO:0031507,heterochromatin formation,19_GO:0048519 negative regulation of biological process,-4.4,20,8.6,21160,166,25,4,16,7.3,13990|15081|20602|22290,Smarcad1|H3f3b|Ncor2|Uty,-0.46
+hits,Reactome Gene Sets,6,R-MMU-9841922,MLL4 and MLL3 complexes regulate expression of PPARG target genes in adipogenesis and hepatic steatosis,,-4.1,36,10,21160,71,25,3,12,6.5,15081|20602|68024,H3f3b|Ncor2|H2bc4,-0.46
+hits,Reactome Gene Sets,6,R-MMU-9851695,Epigenetic regulation of adipogenesis genes by MLL3 and MLL4 complexes,,-4.1,36,10,21160,71,25,3,12,6.5,15081|20602|68024,H3f3b|Ncor2|H2bc4,-0.46
+hits,Reactome Gene Sets,6,R-MMU-9006931,Signaling by Nuclear Receptors,,-4.1,17,7.7,21160,203,25,4,16,7.3,15081|15519|20602|68024,H3f3b|Hsp90aa1|Ncor2|H2bc4,-0.46
+hits,Reactome Gene Sets,6,R-MMU-9818564,Epigenetic regulation of gene expression by MLL3 and MLL4 complexes,,-4,33,9.7,21160,77,25,3,12,6.5,15081|20602|68024,H3f3b|Ncor2|H2bc4,-0.46
+hits,GO Biological Processes,19,GO:0045814,"negative regulation of gene expression, epigenetic",19_GO:0048519 negative regulation of biological process,-3.9,15,7.4,21160,219,25,4,16,7.3,13990|15081|20602|22290,Smarcad1|H3f3b|Ncor2|Uty,-0.46
+hits,Reactome Gene Sets,6,R-MMU-9018519,Estrogen-dependent gene expression,,-3.8,29,9,21160,88,25,3,12,6.5,15081|15519|68024,H3f3b|Hsp90aa1|H2bc4,-0.43
+hits,Reactome Gene Sets,6,R-MMU-9917777,Epigenetic regulation by WDR5-containing histone modifying complexes,,-3.6,24,8.2,21160,105,25,3,12,6.5,15081|20602|68024,H3f3b|Ncor2|H2bc4,-0.26
+hits,GO Biological Processes,19,GO:0040029,epigenetic regulation of gene expression,19_GO:0050789 regulation of biological process,-3.3,11,5.9,21160,320,25,4,16,7.3,13990|15081|20602|22290,Smarcad1|H3f3b|Ncor2|Uty,-0.095
+hits,GO Biological Processes,19,GO:0010951,negative regulation of endopeptidase activity,19_GO:0048519 negative regulation of biological process,-3.2,18,6.9,21160,144,25,3,12,6.5,22370|30948|54208,Vtn|Bin1|Arl6ip1,-0.033
+hits,Reactome Gene Sets,6,R-MMU-8939211,ESR-mediated signaling,,-3.1,17,6.7,21160,153,25,3,12,6.5,15081|15519|68024,H3f3b|Hsp90aa1|H2bc4,0
+hits,GO Biological Processes,19,GO:0010466,negative regulation of peptidase activity,19_GO:0048519 negative regulation of biological process,-3.1,16,6.5,21160,161,25,3,12,6.5,22370|30948|54208,Vtn|Bin1|Arl6ip1,0
+hits,Reactome Gene Sets,6,R-MMU-212165,Epigenetic regulation of gene expression,,-3,15,6.2,21160,172,25,3,12,6.5,15081|20602|68024,H3f3b|Ncor2|H2bc4,0
+hits,GO Biological Processes,19,GO:0008016,regulation of heart contraction,19_GO:0032501 multicellular organismal process,-2.8,13,5.7,21160,202,25,3,12,6.5,11957|15519|30948,Atp5pf|Hsp90aa1|Bin1,0
+hits,Reactome Gene Sets,6,R-MMU-1852241,Organelle biogenesis and maintenance,,-2.7,12,5.5,21160,211,25,3,12,6.5,11957|15519|66043,Atp5pf|Hsp90aa1|Atp5f1d,0
+hits,GO Biological Processes,19,GO:0051346,negative regulation of hydrolase activity,19_GO:0065007 biological regulation,-2.7,12,5.4,21160,218,25,3,12,6.5,22370|30948|54208,Vtn|Bin1|Arl6ip1,0
+hits,GO Biological Processes,19,GO:0045861,negative regulation of proteolysis,19_GO:0048519 negative regulation of biological process,-2.4,9.2,4.7,21160,277,25,3,12,6.5,22370|30948|54208,Vtn|Bin1|Arl6ip1,0
+hits,GO Biological Processes,19,GO:1903522,regulation of blood circulation,19_GO:0032501 multicellular organismal process,-2.4,9.2,4.7,21160,277,25,3,12,6.5,11957|15519|30948,Atp5pf|Hsp90aa1|Bin1,0
+hits,GO Biological Processes,19,GO:0052548,regulation of endopeptidase activity,19_GO:0050789 regulation of biological process,-2.3,8.8,4.6,21160,290,25,3,12,6.5,22370|30948|54208,Vtn|Bin1|Arl6ip1,0
+hits,GO Biological Processes,19,GO:0016071,mRNA metabolic process,19_GO:0009987 cellular process,-2.2,5.4,3.9,21160,626,25,4,16,7.3,50926|75956|234023|270627,Hnrnpdl|Srrm2|Arglu1|Taf1,0
+hits,GO Biological Processes,19,GO:0052547,regulation of peptidase activity,19_GO:0050789 regulation of biological process,-2.2,8,4.3,21160,319,25,3,12,6.5,22370|30948|54208,Vtn|Bin1|Arl6ip1,0
+hits,Reactome Gene Sets,6,R-MMU-68886,M Phase,,-2,6.7,3.9,21160,379,25,3,12,6.5,15081|15519|68024,H3f3b|Hsp90aa1|H2bc4,0
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-212436,Generic Transcription Pathway,,-3.4,17,6.8,21160,761,5,3,60,22,15081|68024|270627,H3f3b|H2bc4|Taf1,-0.11
+hits_SUB1_MCODE_1,Reactome Gene Sets,6,R-MMU-212436,Generic Transcription Pathway,,-3.4,17,6.8,21160,761,5,3,60,22,15081|68024|270627,H3f3b|H2bc4|Taf1,-0.11

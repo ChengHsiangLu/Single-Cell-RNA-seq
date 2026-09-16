@@ -1,0 +1,11 @@
+_MEMBER_hits,_LogP_hits,GO,Description,_PATTERN_,_RANK_,CHILD_GO_hits
+1,-4.386213304939487,GO:0040011,locomotion,M1,1,GO:0030335 positive regulation of cell migration
+1,-3.4179215318943514,GO:0051179,localization,M1,1,GO:0046903 secretion
+1,-3.257185321735606,GO:0032502,developmental process,M1,1,GO:0001525 angiogenesis
+1,-3.172412949125321,GO:0050789,regulation of biological process,M1,1,GO:0043405 regulation of MAP kinase activity
+1,-3.122025812146217,GO:0040007,growth,M1,1,GO:0040008 regulation of growth
+1,-2.8312956281993977,GO:0009987,cellular process,M1,1,GO:0044283 small molecule biosynthetic process
+1,-2.745832038940393,GO:0022414,reproductive process,M1,1,GO:2000241 regulation of reproductive process
+1,-2.3068425453776324,GO:0048519,negative regulation of biological process,M1,1,GO:0007162 negative regulation of cell adhesion
+1,-2.2663184322608094,GO:0050896,response to stimulus,M1,1,GO:0070372 regulation of ERK1 and ERK2 cascade
+1,-2.0926868286894558,GO:0042592,homeostatic process,M1,1,GO:0048872 homeostasis of number of cells

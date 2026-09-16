@@ -1,0 +1,6 @@
+Network,Annotation
+hits,GO:0006351|DNA-templated transcription|-7.6;GO:0071407|cellular response to organic cyclic compound|-7.2;GO:0030856|regulation of epithelial cell differentiation|-6.5
+hits_MCODE_ALL,GO:0071277|cellular response to calcium ion|-8.5;R-MMU-2454202|Fc epsilon receptor (FCERI) signaling|-8.3;R-MMU-2262752|Cellular responses to stress|-7.8
+hits_SUB1_MCODE_1,GO:0071277|cellular response to calcium ion|-10.7;GO:0048545|response to steroid hormone|-10.3;mmu04380|Osteoclast differentiation - Mus musculus (house mouse)|-9.7
+hits_SUB1_MCODE_2,R-MMU-9755511|KEAP1-NFE2L2 pathway|-9.5;R-MMU-9711123|Cellular response to chemical stress|-8.0;R-MMU-8951664|Neddylation|-7.4
+hits_SUB1_MCODE_3,GO:1903312|negative regulation of mRNA metabolic process|-7.0;GO:0050684|regulation of mRNA processing|-6.5;R-MMU-72163|mRNA Splicing - Major Pathway|-6.2

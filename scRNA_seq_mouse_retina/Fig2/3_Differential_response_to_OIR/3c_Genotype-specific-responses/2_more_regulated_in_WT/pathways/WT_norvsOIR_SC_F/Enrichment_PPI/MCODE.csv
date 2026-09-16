@@ -1,0 +1,11 @@
+Cluster,Score,Type,Gene,Symbol,Network
+1,1.0,Clustered,15516,Hsp90ab1,MyList_SUB1
+1,1.0,Clustered,19744,Rheb,MyList_SUB1
+1,1.0,Clustered,69159,Rhebl1,MyList_SUB1
+1,1.0,Seed,16443,Itsn1,MyList_SUB1
+2,1.0,Clustered,13207,Ddx5,MyList_SUB1
+2,1.0,Clustered,18458,Pabpc1,MyList_SUB1
+2,1.0,Clustered,320632,Snrnp200,MyList_SUB1
+3,1.0,Seed,77891,Ube2s,MyList_SUB2
+3,1.0,Clustered,621823,Psme2b,MyList_SUB2
+3,1.0,Clustered,70247,Psmd1,MyList_SUB2

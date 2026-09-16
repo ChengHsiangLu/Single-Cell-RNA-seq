@@ -1,0 +1,11 @@
+_MEMBER_hits,_LogP_hits,GO,Description,_PATTERN_,_RANK_,CHILD_GO_hits
+1,-6.867564288135753,GO:0009987,cellular process,M1,1,GO:0019320 hexose catabolic process
+1,-6.220161879391948,GO:0032502,developmental process,M1,1,GO:0060041 retina development in camera-type eye
+1,-4.629215487878917,GO:0032501,multicellular organismal process,M1,1,GO:0050953 sensory perception of light stimulus
+1,-4.331379322981379,GO:0048511,rhythmic process,M1,1,GO:0032922 circadian regulation of gene expression
+1,-4.269443545075984,GO:0050789,regulation of biological process,M1,1,GO:0043523 regulation of neuron apoptotic process
+1,-4.2199060245027615,GO:0051179,localization,M1,1,GO:0061669 spontaneous neurotransmitter secretion
+1,-4.168295111938009,GO:0048519,negative regulation of biological process,M1,1,GO:2001243 negative regulation of intrinsic apoptotic signaling pathway
+1,-4.040882366867422,GO:0048518,positive regulation of biological process,M1,1,GO:0045923 positive regulation of fatty acid metabolic process
+1,-3.6274929370043916,GO:0050896,response to stimulus,M1,1,GO:0030522 intracellular receptor signaling pathway
+1,-2.684254013065265,GO:0042592,homeostatic process,M1,1,GO:0032469 endoplasmic reticulum calcium ion homeostasis

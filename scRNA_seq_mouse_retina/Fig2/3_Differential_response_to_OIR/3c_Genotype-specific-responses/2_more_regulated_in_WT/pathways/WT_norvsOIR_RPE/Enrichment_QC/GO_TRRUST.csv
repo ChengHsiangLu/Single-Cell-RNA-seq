@@ -1,0 +1,3 @@
+_MEMBER_hits,_LogP_hits,GO,_PATTERN_,_RANK_,GiniIndex,Category,CategoryID,Description,PARENT_GO,LogP,Enrichment,Z-score,#TotalGeneInLibrary,#GeneInGO,#GeneInHitList,#GeneInGOAndHitList,%InGO,STDV %InGO,GeneID,Hits,Log(q-value),EvidenceCutoff
+1,-2.5,TRR01347,M1,1,0,TRRUST,34,Regulated by: Sp1,,-2.5,3.3,3.7,21160,280,181,8,4.4,1.5,11816|11820|12162|12444|12857|17319|212541|225845,Apoe|App|Bmp7|Ccnd2|Cox4i1|Mif|Rho|Plaat3,0,0
+1,-2.3,TRR01368,M1,1,0,TRRUST,34,Regulated by: Stat3,,-2.3,5.8,4,21160,81,181,4,2.2,1.1,12444|16011|17748|19211,Ccnd2|Igfbp5|Mt1|Pten,0,0

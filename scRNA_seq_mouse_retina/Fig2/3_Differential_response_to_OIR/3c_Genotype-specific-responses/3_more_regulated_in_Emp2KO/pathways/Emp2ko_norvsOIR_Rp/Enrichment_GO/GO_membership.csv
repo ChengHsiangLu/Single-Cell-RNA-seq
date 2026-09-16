@@ -1,0 +1,47 @@
+_MEMBER_hits,_LogP_hits,GO,Description,_PATTERN_,_RANK_,GiniIndex
+1,-2.2,GO:0006397,mRNA processing,M1,1,0
+1,-2.5,GO:0046034,ATP metabolic process,M1,1,0
+1,-2.3,GO:0009205,purine ribonucleoside triphosphate metabolic process,M1,1,0
+1,-2.9,GO:0043632,modification-dependent macromolecule catabolic process,M1,1,0
+1,-2.4,GO:0051603,proteolysis involved in protein catabolic process,M1,1,0
+1,-4.6,GO:0046548,retinal rod cell development,M1,1,0
+1,-2.7,GO:0001754,eye photoreceptor cell differentiation,M1,1,0
+1,-2.3,GO:0043484,regulation of RNA splicing,M1,1,0
+1,-2,GO:0006119,oxidative phosphorylation,M1,1,0
+1,-2.2,GO:0048592,eye morphogenesis,M1,1,0
+1,-2.7,R-MMU-9841922,MLL4 and MLL3 complexes regulate expression of PPARG target genes in adipogenesis and hepatic steatosis,M1,1,0
+1,-2.3,GO:0061024,membrane organization,M1,1,0
+1,-2.1,GO:0060041,retina development in camera-type eye,M1,1,0
+1,-2.4,R-MMU-9018519,Estrogen-dependent gene expression,M1,1,0
+1,-2.2,R-MMU-9006931,Signaling by Nuclear Receptors,M1,1,0
+1,-2.5,GO:0048593,camera-type eye morphogenesis,M1,1,0
+1,-2.2,GO:0009144,purine nucleoside triphosphate metabolic process,M1,1,0
+1,-4,GO:0060221,retinal rod cell differentiation,M1,1,0
+1,-2.7,GO:0042461,photoreceptor cell development,M1,1,0
+1,-2.2,GO:0099072,regulation of postsynaptic membrane neurotransmitter receptor levels,M1,1,0
+1,-2.9,GO:0019941,modification-dependent protein catabolic process,M1,1,0
+1,-3.1,GO:0060219,camera-type eye photoreceptor cell differentiation,M1,1,0
+1,-2.1,GO:0006941,striated muscle contraction,M1,1,0
+1,-2.6,GO:0008380,RNA splicing,M1,1,0
+1,-2.6,GO:0006091,generation of precursor metabolites and energy,M1,1,0
+1,-2.5,GO:0031507,heterochromatin formation,M1,1,0
+1,-2.3,GO:0007005,mitochondrion organization,M1,1,0
+1,-2.7,GO:0016071,mRNA metabolic process,M1,1,0
+1,-2.2,R-MMU-9917777,Epigenetic regulation by WDR5-containing histone modifying complexes,M1,1,0
+1,-2.2,GO:0009199,ribonucleoside triphosphate metabolic process,M1,1,0
+1,-3.2,GO:0071826,protein-RNA complex organization,M1,1,0
+1,-2.6,R-MMU-9818564,Epigenetic regulation of gene expression by MLL3 and MLL4 complexes,M1,1,0
+1,-2.7,R-MMU-9851695,Epigenetic regulation of adipogenesis genes by MLL3 and MLL4 complexes,M1,1,0
+1,-3.3,GO:0022618,protein-RNA complex assembly,M1,1,0
+1,-3.1,GO:0042462,eye photoreceptor cell development,M1,1,0
+1,-3,GO:0040029,epigenetic regulation of gene expression,M1,1,0
+1,-3,GO:0006511,ubiquitin-dependent protein catabolic process,M1,1,0
+1,-2.4,GO:0046530,photoreceptor cell differentiation,M1,1,0
+1,-2.1,GO:0007006,mitochondrial membrane organization,M1,1,0
+1,-2.1,GO:0009141,nucleoside triphosphate metabolic process,M1,1,0
+1,-2.1,R-MMU-1483206,Glycerophospholipid biosynthesis,M1,1,0
+1,-2.3,GO:0070647,protein modification by small protein conjugation or removal,M1,1,0
+1,-2.4,GO:0060042,retina morphogenesis in camera-type eye,M1,1,0
+1,-2.1,GO:0097250,mitochondrial respirasome assembly,M1,1,0
+1,-2.9,GO:0045814,"negative regulation of gene expression, epigenetic",M1,1,0
+1,-2.3,GO:0003407,neural retina development,M1,1,0

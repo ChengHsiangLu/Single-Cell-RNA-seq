@@ -1,0 +1,5 @@
+Cluster,Score,Type,Gene,Symbol,Network
+1,1.5,Clustered,16542,Kdr,hits_SUB1
+1,1.5,Clustered,330662,Dock1,hits_SUB1
+1,1.5,Clustered,245880,Wasf3,hits_SUB1
+1,1.5,Seed,140579,Elmo2,hits_SUB1

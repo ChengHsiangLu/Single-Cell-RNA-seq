@@ -1,0 +1,11 @@
+Cluster,Score,Type,Gene,Symbol,Network
+1,1.5,Clustered,22143,Tuba1b,hits_SUB1
+1,1.5,Seed,100732,Mapre3,hits_SUB1
+1,1.5,Clustered,16563,Kif2a,hits_SUB1
+1,1.5,Clustered,22154,Tubb5,hits_SUB1
+2,1.0,Clustered,26420,Mapk9,hits_SUB1
+2,1.0,Seed,14697,Gnb5,hits_SUB1
+2,1.0,Clustered,14688,Gnb1,hits_SUB1
+3,1.0,Clustered,18641,Pfkl,hits_SUB1
+3,1.0,Clustered,14751,Gpi1,hits_SUB1
+3,1.0,Clustered,11674,Aldoa,hits_SUB1

@@ -1,0 +1,184 @@
+_MEMBER_hits,_LogP_hits,GO,Description,_PATTERN_,_RANK_,GiniIndex
+1,-2.7,GO:0036293,response to decreased oxygen levels,M1,1,0
+1,-2.3,GO:0048593,camera-type eye morphogenesis,M1,1,0
+1,-2.2,GO:0005975,carbohydrate metabolic process,M1,1,0
+1,-3.7,GO:0009154,purine ribonucleotide catabolic process,M1,1,0
+1,-2.6,GO:1903530,regulation of secretion by cell,M1,1,0
+1,-2.6,GO:0051046,regulation of secretion,M1,1,0
+1,-3,GO:0000226,microtubule cytoskeleton organization,M1,1,0
+1,-2.8,GO:0044282,small molecule catabolic process,M1,1,0
+1,-2.4,GO:1904035,regulation of epithelial cell apoptotic process,M1,1,0
+1,-2.1,GO:1902532,negative regulation of intracellular signal transduction,M1,1,0
+1,-3,GO:0046321,positive regulation of fatty acid oxidation,M1,1,0
+1,-2.4,R-MMU-8953897,Cellular responses to stimuli,M1,1,0
+1,-2,GO:0060042,retina morphogenesis in camera-type eye,M1,1,0
+1,-3,GO:0061462,protein localization to lysosome,M1,1,0
+1,-4,GO:0006090,pyruvate metabolic process,M1,1,0
+1,-2.4,GO:0016079,synaptic vesicle exocytosis,M1,1,0
+1,-4.3,mmu04922,Glucagon signaling pathway - Mus musculus (house mouse),M1,1,0
+1,-5.1,GO:0006006,glucose metabolic process,M1,1,0
+1,-3.1,GO:0007423,sensory organ development,M1,1,0
+1,-2.6,GO:2001234,negative regulation of apoptotic signaling pathway,M1,1,0
+1,-4.6,GO:0001654,eye development,M1,1,0
+1,-2.2,GO:0017156,calcium-ion regulated exocytosis,M1,1,0
+1,-3.5,GO:0072526,pyridine-containing compound catabolic process,M1,1,0
+1,-2.1,R-MMU-9707564,Cytoprotection by HMOX1,M1,1,0
+1,-4,GO:0006376,mRNA splice site recognition,M1,1,0
+1,-3,R-MMU-2187338,Visual phototransduction,M1,1,0
+1,-3.5,GO:0009261,ribonucleotide catabolic process,M1,1,0
+1,-2.6,GO:0032303,regulation of icosanoid secretion,M1,1,0
+1,-3.4,GO:0009134,nucleoside diphosphate catabolic process,M1,1,0
+1,-2.8,mmu04728,Dopaminergic synapse - Mus musculus (house mouse),M1,1,0
+1,-3.9,GO:0007601,visual perception,M1,1,0
+1,-2.4,mmu04066,HIF-1 signaling pathway - Mus musculus (house mouse),M1,1,0
+1,-2.5,GO:0048511,rhythmic process,M1,1,0
+1,-2.5,mmu04931,Insulin resistance - Mus musculus (house mouse),M1,1,0
+1,-3,WP157,Glycolysis and gluconeogenesis,M1,1,0
+1,-2.1,GO:0019725,cellular homeostasis,M1,1,0
+1,-5.5,GO:0006007,glucose catabolic process,M1,1,0
+1,-2.9,GO:0019362,pyridine nucleotide metabolic process,M1,1,0
+1,-3.6,GO:0019364,pyridine nucleotide catabolic process,M1,1,0
+1,-3.8,GO:0009132,nucleoside diphosphate metabolic process,M1,1,0
+1,-3.2,GO:0019217,regulation of fatty acid metabolic process,M1,1,0
+1,-6.7,GO:0046365,monosaccharide catabolic process,M1,1,0
+1,-4,GO:0009185,ribonucleoside diphosphate metabolic process,M1,1,0
+1,-2.9,GO:0006094,gluconeogenesis,M1,1,0
+1,-3.4,GO:0006195,purine nucleotide catabolic process,M1,1,0
+1,-3,GO:0043065,positive regulation of apoptotic process,M1,1,0
+1,-3.6,GO:0007269,neurotransmitter secretion,M1,1,0
+1,-3.8,WP2084,SREBF and miR33 in cholesterol and lipid homeostasis,M1,1,0
+1,-2,GO:0002831,regulation of response to biotic stimulus,M1,1,0
+1,-2.4,GO:0010565,regulation of ketone metabolic process,M1,1,0
+1,-4.7,GO:0061621,canonical glycolysis,M1,1,0
+1,-2.3,mmu04530,Tight junction - Mus musculus (house mouse),M1,1,0
+1,-2.2,GO:0046890,regulation of lipid biosynthetic process,M1,1,0
+1,-2.6,GO:0046364,monosaccharide biosynthetic process,M1,1,0
+1,-2.3,GO:0046034,ATP metabolic process,M1,1,0
+1,-3,GO:0000245,spliceosomal complex assembly,M1,1,0
+1,-3.8,mmu04152,AMPK signaling pathway - Mus musculus (house mouse),M1,1,0
+1,-2.8,GO:0071453,cellular response to oxygen levels,M1,1,0
+1,-2.1,GO:1904951,positive regulation of establishment of protein localization,M1,1,0
+1,-2.6,GO:0051402,neuron apoptotic process,M1,1,0
+1,-2.6,R-MMU-71387,Metabolism of carbohydrates,M1,1,0
+1,-5.2,GO:0043010,camera-type eye development,M1,1,0
+1,-2.3,mmu04919,Thyroid hormone signaling pathway - Mus musculus (house mouse),M1,1,0
+1,-4.3,GO:0061615,glycolytic process through fructose-6-phosphate,M1,1,0
+1,-2.1,GO:0051588,regulation of neurotransmitter transport,M1,1,0
+1,-6.9,GO:0019320,hexose catabolic process,M1,1,0
+1,-3,GO:0043524,negative regulation of neuron apoptotic process,M1,1,0
+1,-2.4,GO:0046928,regulation of neurotransmitter secretion,M1,1,0
+1,-2,GO:1903573,negative regulation of response to endoplasmic reticulum stress,M1,1,0
+1,-3.6,GO:0030522,intracellular receptor signaling pathway,M1,1,0
+1,-3.5,GO:0009191,ribonucleoside diphosphate catabolic process,M1,1,0
+1,-4.4,GO:0009135,purine nucleoside diphosphate metabolic process,M1,1,0
+1,-2.7,GO:1901632,regulation of synaptic vesicle membrane organization,M1,1,0
+1,-3.4,R-MMU-70326,Glucose metabolism,M1,1,0
+1,-2.1,GO:0046320,regulation of fatty acid oxidation,M1,1,0
+1,-3.3,mmu04920,Adipocytokine signaling pathway - Mus musculus (house mouse),M1,1,0
+1,-2.7,GO:2001242,regulation of intrinsic apoptotic signaling pathway,M1,1,0
+1,-2.7,GO:0002833,positive regulation of response to biotic stimulus,M1,1,0
+1,-3.4,GO:0048791,calcium ion-regulated exocytosis of neurotransmitter,M1,1,0
+1,-3.7,R-MMU-70171,Glycolysis,M1,1,0
+1,-2.4,R-MMU-556833,Metabolism of lipids,M1,1,0
+1,-2.7,GO:0031630,regulation of synaptic vesicle fusion to presynaptic active zone membrane,M1,1,0
+1,-2.1,GO:0062197,cellular response to chemical stress,M1,1,0
+1,-4.2,GO:2001243,negative regulation of intrinsic apoptotic signaling pathway,M1,1,0
+1,-2,GO:0018193,peptidyl-amino acid modification,M1,1,0
+1,-3.3,GO:0009314,response to radiation,M1,1,0
+1,-3.8,GO:0051223,regulation of protein transport,M1,1,0
+1,-2.6,GO:2000193,positive regulation of fatty acid transport,M1,1,0
+1,-2.2,GO:0050796,regulation of insulin secretion,M1,1,0
+1,-3.9,GO:0098814,spontaneous synaptic transmission,M1,1,0
+1,-3.4,GO:0009416,response to light stimulus,M1,1,0
+1,-2,R-MMU-428157,Sphingolipid metabolism,M1,1,0
+1,-4.3,GO:0019677,NAD catabolic process,M1,1,0
+1,-2.1,GO:0035967,cellular response to topologically incorrect protein,M1,1,0
+1,-3.5,GO:0071456,cellular response to hypoxia,M1,1,0
+1,-3.1,GO:0001666,response to hypoxia,M1,1,0
+1,-2.9,GO:0046496,nicotinamide nucleotide metabolic process,M1,1,0
+1,-4.2,GO:0061669,spontaneous neurotransmitter secretion,M1,1,0
+1,-2,mmu04371,Apelin signaling pathway - Mus musculus (house mouse),M1,1,0
+1,-2.1,GO:1902991,regulation of amyloid precursor protein catabolic process,M1,1,0
+1,-4.4,GO:0061620,glycolytic process through glucose-6-phosphate,M1,1,0
+1,-4.4,GO:0009179,purine ribonucleoside diphosphate metabolic process,M1,1,0
+1,-4.3,GO:0043523,regulation of neuron apoptotic process,M1,1,0
+1,-3,GO:0099504,synaptic vesicle cycle,M1,1,0
+1,-2.4,WP1269,Fatty acid beta oxidation,M1,1,0
+1,-2.7,mmu04936,Alcoholic liver disease - Mus musculus (house mouse),M1,1,0
+1,-6.2,GO:0060041,retina development in camera-type eye,M1,1,0
+1,-5.2,GO:0019318,hexose metabolic process,M1,1,0
+1,-2,WP232,G protein signaling pathways,M1,1,0
+1,-3.7,GO:0019674,NAD metabolic process,M1,1,0
+1,-2.1,GO:0032434,regulation of proteasomal ubiquitin-dependent protein catabolic process,M1,1,0
+1,-3.4,mmu00010,Glycolysis / Gluconeogenesis - Mus musculus (house mouse),M1,1,0
+1,-3.6,mmu00030,Pentose phosphate pathway - Mus musculus (house mouse),M1,1,0
+1,-3.5,mmu00051,Fructose and mannose metabolism - Mus musculus (house mouse),M1,1,0
+1,-2.9,GO:0007623,circadian rhythm,M1,1,0
+1,-2,GO:1904063,negative regulation of cation transmembrane transport,M1,1,0
+1,-2.2,GO:2000191,regulation of fatty acid transport,M1,1,0
+1,-2,GO:0048592,eye morphogenesis,M1,1,0
+1,-2.9,R-MMU-70263,Gluconeogenesis,M1,1,0
+1,-2.1,GO:0032787,monocarboxylic acid metabolic process,M1,1,0
+1,-3.7,GO:0046032,ADP catabolic process,M1,1,0
+1,-2.1,GO:0010563,negative regulation of phosphorus metabolic process,M1,1,0
+1,-2.8,GO:0043068,positive regulation of programmed cell death,M1,1,0
+1,-2.3,GO:0023061,signal release,M1,1,0
+1,-2.7,R-MMU-2514856,The phototransduction cascade,M1,1,0
+1,-4.1,GO:0070201,regulation of establishment of protein localization,M1,1,0
+1,-2,mmu00565,Ether lipid metabolism - Mus musculus (house mouse),M1,1,0
+1,-4.7,GO:0061718,glucose catabolic process to pyruvate,M1,1,0
+1,-2.9,GO:0045292,"mRNA cis splicing, via spliceosome",M1,1,0
+1,-2.7,R-MMU-8955332,Carboxyterminal post-translational modifications of tubulin,M1,1,0
+1,-2.2,GO:0070482,response to oxygen levels,M1,1,0
+1,-2,mmu05010,Alzheimer disease - Mus musculus (house mouse),M1,1,0
+1,-2.8,GO:0072524,pyridine-containing compound metabolic process,M1,1,0
+1,-3.6,GO:0009137,purine nucleoside diphosphate catabolic process,M1,1,0
+1,-2.8,GO:0019319,hexose biosynthetic process,M1,1,0
+1,-2.6,GO:2000300,regulation of synaptic vesicle exocytosis,M1,1,0
+1,-3,GO:0019216,regulation of lipid metabolic process,M1,1,0
+1,-3,GO:0036294,cellular response to decreased oxygen levels,M1,1,0
+1,-2.3,GO:0016051,carbohydrate biosynthetic process,M1,1,0
+1,-3.8,GO:0042752,regulation of circadian rhythm,M1,1,0
+1,-4.6,GO:0050953,sensory perception of light stimulus,M1,1,0
+1,-2.1,GO:0031338,regulation of vesicle fusion,M1,1,0
+1,-3.6,GO:0099643,signal release from synapse,M1,1,0
+1,-4.6,GO:0150063,visual system development,M1,1,0
+1,-3.1,R-MMU-4086398,Ca2+ pathway,M1,1,0
+1,-3.2,WP493,Mapk signaling pathway,M1,1,0
+1,-4,GO:0045923,positive regulation of fatty acid metabolic process,M1,1,0
+1,-2.2,R-MMU-109582,Hemostasis,M1,1,0
+1,-2.7,GO:0099003,vesicle-mediated transport in synapse,M1,1,0
+1,-3.5,GO:0006734,NADH metabolic process,M1,1,0
+1,-2.3,GO:0007254,JNK cascade,M1,1,0
+1,-4.5,GO:0048880,sensory system development,M1,1,0
+1,-3.7,GO:0060627,regulation of vesicle-mediated transport,M1,1,0
+1,-4.7,GO:0006735,NADH regeneration,M1,1,0
+1,-2.3,GO:0035966,response to topologically incorrect protein,M1,1,0
+1,-2.7,GO:1903829,positive regulation of protein localization,M1,1,0
+1,-2.1,GO:0045936,negative regulation of phosphate metabolic process,M1,1,0
+1,-2.1,GO:0009205,purine ribonucleoside triphosphate metabolic process,M1,1,0
+1,-3.8,GO:0016052,carbohydrate catabolic process,M1,1,0
+1,-2.9,GO:0018200,peptidyl-glutamic acid modification,M1,1,0
+1,-3.1,GO:1902992,negative regulation of amyloid precursor protein catabolic process,M1,1,0
+1,-4.6,GO:0046031,ADP metabolic process,M1,1,0
+1,-2.4,R-MMU-5673000,RAF activation,M1,1,0
+1,-3.2,GO:0072665,protein localization to vacuole,M1,1,0
+1,-3,GO:0072523,purine-containing compound catabolic process,M1,1,0
+1,-3.6,GO:0009181,purine ribonucleoside diphosphate catabolic process,M1,1,0
+1,-2.1,WP447,Adipogenesis genes,M1,1,0
+1,-2.9,GO:0032305,positive regulation of icosanoid secretion,M1,1,0
+1,-2.7,GO:1901292,nucleoside phosphate catabolic process,M1,1,0
+1,-2.2,GO:0032436,positive regulation of proteasomal ubiquitin-dependent protein catabolic process,M1,1,0
+1,-2.6,GO:0046434,organophosphate catabolic process,M1,1,0
+1,-2.3,GO:0009746,response to hexose,M1,1,0
+1,-2.7,GO:0032469,endoplasmic reticulum calcium ion homeostasis,M1,1,0
+1,-2.7,GO:0006836,neurotransmitter transport,M1,1,0
+1,-2.4,GO:0071470,cellular response to osmotic stress,M1,1,0
+1,-4.3,GO:0032922,circadian regulation of gene expression,M1,1,0
+1,-3.9,GO:0006096,glycolytic process,M1,1,0
+1,-2.5,R-MMU-5628897,TP53 Regulates Metabolic Genes,M1,1,0
+1,-4.7,GO:0005996,monosaccharide metabolic process,M1,1,0
+1,-3.8,WP3675,Factors and pathways affecting insulin like growth factor IGF1 Akt signaling,M1,1,0
+1,-2.1,R-MMU-383280,Nuclear Receptor transcription pathway,M1,1,0
+1,-2.2,GO:0034284,response to monosaccharide,M1,1,0
+1,-3,GO:0009166,nucleotide catabolic process,M1,1,0

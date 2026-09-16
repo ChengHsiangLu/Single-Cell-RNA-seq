@@ -1,0 +1,4 @@
+Network,Annotation
+hits,GO:0007623|circadian rhythm|-7.1;GO:0048511|rhythmic process|-6.8;R-MMU-9006934|Signaling by Receptor Tyrosine Kinases|-6.8
+hits_MCODE_ALL,R-MMU-4420097|VEGFA-VEGFR2 Pathway|-9.5;R-MMU-194138|Signaling by VEGF|-9.4;R-MMU-2029482|Regulation of actin dynamics for phagocytic cup formation|-7.2
+hits_SUB1_MCODE_1,R-MMU-4420097|VEGFA-VEGFR2 Pathway|-9.5;R-MMU-194138|Signaling by VEGF|-9.4;R-MMU-2029482|Regulation of actin dynamics for phagocytic cup formation|-7.2

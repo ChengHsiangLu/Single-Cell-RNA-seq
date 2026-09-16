@@ -1,0 +1,78 @@
+_MEMBER_MyList,_LogP_MyList,GO,Description,_PATTERN_,_RANK_,GiniIndex
+1,-2.2,mmu04218,Cellular senescence - Mus musculus (house mouse),M1,1,0
+1,-2.4,GO:0051960,regulation of nervous system development,M1,1,0
+1,-2.4,GO:0050807,regulation of synapse organization,M1,1,0
+1,-4,mmu04140,Autophagy - animal - Mus musculus (house mouse),M1,1,0
+1,-3.4,mmu05020,Prion disease - Mus musculus (house mouse),M1,1,0
+1,-2.3,GO:1903311,regulation of mRNA metabolic process,M1,1,0
+1,-4.3,GO:0045724,positive regulation of cilium assembly,M1,1,0
+1,-2.1,GO:0042542,response to hydrogen peroxide,M1,1,0
+1,-2.4,GO:1900182,positive regulation of protein localization to nucleus,M1,1,0
+1,-2.2,mmu04213,Longevity regulating pathway - multiple species - Mus musculus (house mouse),M1,1,0
+1,-2.8,mmu04210,Apoptosis - Mus musculus (house mouse),M1,1,0
+1,-2.1,GO:0001890,placenta development,M1,1,0
+1,-3.2,WP3855,Dysregulated miRNA targeting in insulin PI3K AKT signaling,M1,1,0
+1,-3.4,GO:0036503,ERAD pathway,M1,1,0
+1,-3.5,GO:0010498,proteasomal protein catabolic process,M1,1,0
+1,-2.2,GO:0006644,phospholipid metabolic process,M1,1,0
+1,-2.5,R-MMU-212436,Generic Transcription Pathway,M1,1,0
+1,-2.3,GO:0014037,Schwann cell differentiation,M1,1,0
+1,-2,R-MMU-68882,Mitotic Anaphase,M1,1,0
+1,-2.4,GO:0050803,regulation of synapse structure or activity,M1,1,0
+1,-2.3,GO:1902115,regulation of organelle assembly,M1,1,0
+1,-2.3,GO:0097435,supramolecular fiber organization,M1,1,0
+1,-2.3,GO:0060043,regulation of cardiac muscle cell proliferation,M1,1,0
+1,-3.3,R-MMU-69275,G2/M Transition,M1,1,0
+1,-2.4,GO:0031023,microtubule organizing center organization,M1,1,0
+1,-2.4,mmu04714,Thermogenesis - Mus musculus (house mouse),M1,1,0
+1,-2.2,GO:0090596,sensory organ morphogenesis,M1,1,0
+1,-2.1,mmu05200,Pathways in cancer - Mus musculus (house mouse),M1,1,0
+1,-2.4,R-MMU-1640170,Cell Cycle,M1,1,0
+1,-2.9,GO:0022011,myelination in peripheral nervous system,M1,1,0
+1,-2.5,GO:1902117,positive regulation of organelle assembly,M1,1,0
+1,-2.7,GO:0043087,regulation of GTPase activity,M1,1,0
+1,-2.4,mmu00565,Ether lipid metabolism - Mus musculus (house mouse),M1,1,0
+1,-4.2,R-MMU-2262752,Cellular responses to stress,M1,1,0
+1,-2.2,R-MMU-68877,Mitotic Prometaphase,M1,1,0
+1,-2.6,GO:0060113,inner ear receptor cell differentiation,M1,1,0
+1,-2.7,mmu05012,Parkinson disease - Mus musculus (house mouse),M1,1,0
+1,-2.5,mmu05207,Chemical carcinogenesis - receptor activation - Mus musculus (house mouse),M1,1,0
+1,-2.1,GO:0120034,positive regulation of plasma membrane bounded cell projection assembly,M1,1,0
+1,-2,GO:0048678,response to axon injury,M1,1,0
+1,-2,R-MMU-2555396,Mitotic Metaphase and Anaphase,M1,1,0
+1,-2.4,GO:0061005,cell differentiation involved in kidney development,M1,1,0
+1,-2.1,GO:0018209,peptidyl-serine modification,M1,1,0
+1,-2.2,R-MMU-453279,Mitotic G1 phase and G1/S transition,M1,1,0
+1,-2.2,GO:0018105,peptidyl-serine phosphorylation,M1,1,0
+1,-2.7,GO:0007422,peripheral nervous system development,M1,1,0
+1,-2.7,GO:0060117,auditory receptor cell development,M1,1,0
+1,-2.2,GO:0048762,mesenchymal cell differentiation,M1,1,0
+1,-2.1,GO:0043085,positive regulation of catalytic activity,M1,1,0
+1,-2.3,R-MMU-1234174,Cellular response to hypoxia,M1,1,0
+1,-2.4,R-MMU-5654736,Signaling by FGFR1,M1,1,0
+1,-2.7,GO:1902017,regulation of cilium assembly,M1,1,0
+1,-2,GO:0044089,positive regulation of cellular component biogenesis,M1,1,0
+1,-2.9,GO:0032292,peripheral nervous system axon ensheathment,M1,1,0
+1,-3.7,R-MMU-8953897,Cellular responses to stimuli,M1,1,0
+1,-3,GO:0034976,response to endoplasmic reticulum stress,M1,1,0
+1,-2.5,mmu05014,Amyotrophic lateral sclerosis - Mus musculus (house mouse),M1,1,0
+1,-2.4,GO:0048638,regulation of developmental growth,M1,1,0
+1,-2.4,R-MMU-2467813,Separation of Sister Chromatids,M1,1,0
+1,-2.4,GO:1901888,regulation of cell junction assembly,M1,1,0
+1,-3.2,R-MMU-453274,Mitotic G2-G2/M phases,M1,1,0
+1,-2,WP310,mRNA processing,M1,1,0
+1,-2.4,GO:0042490,mechanoreceptor differentiation,M1,1,0
+1,-2.1,GO:0001895,retina homeostasis,M1,1,0
+1,-3.2,GO:0042491,inner ear auditory receptor cell differentiation,M1,1,0
+1,-2,GO:0032956,regulation of actin cytoskeleton organization,M1,1,0
+1,-2.2,mmu04928,"Parathyroid hormone synthesis, secretion and action - Mus musculus (house mouse)",M1,1,0
+1,-2,GO:0051493,regulation of cytoskeleton organization,M1,1,0
+1,-2.5,R-MMU-9006925,Intracellular signaling by second messengers,M1,1,0
+1,-2.5,GO:0002244,hematopoietic progenitor cell differentiation,M1,1,0
+1,-2.4,GO:0014044,Schwann cell development,M1,1,0
+1,-2.2,R-MMU-8852276,The role of GTSE1 in G2/M progression after G2 checkpoint,M1,1,0
+1,-2.8,mmu04915,Estrogen signaling pathway - Mus musculus (house mouse),M1,1,0
+1,-3,GO:0035315,hair cell differentiation,M1,1,0
+1,-3.2,GO:0051603,proteolysis involved in protein catabolic process,M1,1,0
+1,-2.9,R-MMU-69278,"Cell Cycle, Mitotic",M1,1,0
+1,-2.2,GO:0051336,regulation of hydrolase activity,M1,1,0

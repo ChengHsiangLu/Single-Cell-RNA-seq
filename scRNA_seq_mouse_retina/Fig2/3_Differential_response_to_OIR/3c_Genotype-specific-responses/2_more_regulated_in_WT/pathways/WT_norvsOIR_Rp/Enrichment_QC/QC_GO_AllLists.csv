@@ -1,0 +1,8 @@
+Category,CategoryID,GO,Description,PARENT_GO,LogP,Enrichment,Z-score,#TotalGeneInLibrary,#GeneInGO,#GeneInHitList,#GeneInGOAndHitList,%InGO,STDV %InGO,GeneID,Hits,Log(q-value),GeneList
+PaGenBase,36,PGB:00015,Tissue-specific: retina,,-12,11,12,21160,167,193,16,8.3,2,12951|14697|18587|18640|19023|19661|20028|50769|74309|75782|77974|108058|225998|235415|244484|270201,Crx|Gnb5|Pde6b|Pfkfb2|Ppef2|Rbp3|Pdc|Atp8a2|Osbp2|Lca5|Rdh12|Camk2d|Rorb|Cplx3|Wdr17|Klhl18,-8.5,hits
+PaGenBase,36,PGB:00269,Cell-specific: retinal pigment epithelium,,-8.5,5.4,8.4,21160,386,193,19,9.8,2.1,12759|12951|13447|14697|18587|18779|19013|19017|19661|20028|29873|74309|77569|225998|235415|239857|240595|244484|269615,Clu|Crx|Doc2b|Gnb5|Pde6b|Pla2r1|Ppara|Ppargc1a|Rbp3|Pdc|Cspg5|Osbp2|Limch1|Rorb|Cplx3|Cadm2|Kcnv2|Wdr17|Plch2,-5.9,hits
+PaGenBase,36,PGB:00221,Tissue-specific: eye,,-4.9,4,5.7,21160,382,193,14,7.3,1.9,12951|18587|19023|19661|20028|77974|108058|170772|225998|231503|235415|244484|269615|320557,Crx|Pde6b|Ppef2|Rbp3|Pdc|Rdh12|Camk2d|Glcci1|Rorb|Tmem150c|Cplx3|Wdr17|Plch2|Fam169a,-2.4,hits
+TRRUST,34,TRR00324,Regulated by: Esrra,,-4.4,41,11,21160,8,193,3,1.6,0.89,19013|19017|268903,Ppara|Ppargc1a|Nrip1,-2,hits
+TRRUST,34,TRR00999,Regulated by: Nrl,,-3.9,30,9.2,21160,11,193,3,1.6,0.89,18587|19661|240595,Pde6b|Rbp3|Kcnv2,-1.7,hits
+TRRUST,34,TRR00172,Regulated by: Crx,,-3.7,25,8.4,21160,13,193,3,1.6,0.89,18587|19661|240595,Pde6b|Rbp3|Kcnv2,-1.5,hits
+TRRUST,34,TRR01360,Regulated by: Srebf1,,-2.4,9.1,4.7,21160,36,193,3,1.6,0.89,12759|15357|19017,Clu|Hmgcr|Ppargc1a,-0.24,hits

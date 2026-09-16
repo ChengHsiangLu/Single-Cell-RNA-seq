@@ -1,0 +1,6 @@
+Network,Annotation
+hits,GO:0006007|glucose catabolic process|-6.9;GO:0006006|glucose metabolic process|-6.4;GO:0046031|ADP metabolic process|-6.3
+hits_MCODE_ALL,GO:0006735|NADH regeneration|-7.2;GO:0061718|glucose catabolic process to pyruvate|-7.2;GO:0061621|canonical glycolysis|-7.2
+hits_SUB1_MCODE_1,GO:0051225|spindle assembly|-6.3;GO:0000226|microtubule cytoskeleton organization|-6.2;GO:0007051|spindle organization|-5.7
+hits_SUB1_MCODE_2,mmu04926|Relaxin signaling pathway - Mus musculus (house mouse)|-6.6;mmu04728|Dopaminergic synapse - Mus musculus (house mouse)|-6.6;mmu04723|Retrograde endocannabinoid signaling - Mus musculus (house mouse)|-6.4
+hits_SUB1_MCODE_3,GO:0061621|canonical glycolysis|-9.3;GO:0006735|NADH regeneration|-9.3;GO:0061718|glucose catabolic process to pyruvate|-9.3

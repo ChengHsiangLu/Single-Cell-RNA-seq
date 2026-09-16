@@ -1,0 +1,5 @@
+Network,Annotation
+MyList,GO:0051960|regulation of nervous system development|-4.9;mmu04140|Autophagy - animal - Mus musculus (house mouse)|-4.9;mmu05020|Prion disease - Mus musculus (house mouse)|-4.6
+MyList_MCODE_ALL,R-MMU-2262752|Cellular responses to stress|-4.3;R-MMU-8953897|Cellular responses to stimuli|-4.1;GO:0007264|small GTPase-mediated signal transduction|-3.8
+MyList_SUB1_MCODE_1,GO:0007264|small GTPase-mediated signal transduction|-5.2
+MyList_SUB1_MCODE_2,GO:0008380|RNA splicing|-5.3;GO:0006397|mRNA processing|-5.0;GO:0016071|mRNA metabolic process|-4.6

@@ -1,0 +1,9 @@
+﻿GroupID,Category,Term,Description,LogP,Log(q-value),Genes,Symbols,InTerm_InList,Cluster
+1_Summary,GO Biological Processes,GO:0046548,retinal rod cell development,-4.617808078,-0.375,"18,185,198,887,595,300,000","Nrl,Rp1,Samd7,Nectin1",4/-,Rp
+2_Summary,GO Biological Processes,GO:0022618,protein-RNA complex assembly,-3.288146418,0,"1,551,926,908,538,900,000,000,000,000,000,000,000,000,000,000,000,000,000,000","Hsp90aa1,Eif2s3y,Sart3,Luc7l,Celf3,Hnrnpdl,Zfp326,Srrm2,Arglu1,Taf1,Usp22",11/-,Rp
+1_Summary,Reactome Gene Sets,R-MMU-2142753,Arachidonate metabolism,-4.433387809,-0.666,"14,598,189,791,921,500,000,000,000,000,000,000","Ggt1,Pon1,Ptgds,Gpam,Msmo1,Cers5,Aldoa",7/-,RPE
+2_Summary,GO Biological Processes,GO:0030335,positive regulation of cell migration,-4.386213305,-0.666,"1,167,414,366,185,900,000,000,000,000,000,000,000,000","Aldoa,Fzd4,Pdgfa,Vegfa,Rapgef4,Jam3,Tsg101,Dusp6",8/-,RPE
+1_Member,Reactome Gene Sets,R-MMU-1474244,Extracellular matrix organization,-2.83942169,0,"11,465,128,371,426,800,000,000,000","Actg1,Col8a1,Fn1,Sntb2,Itga8",5/262,SC_F
+2_Summary,Reactome Gene Sets,R-MMU-421270,Cell-cell junction organization,-3.351331455,0,"114,655,787,593,737","Actg1,Angptl4,Pard6g",3/-,SC_F
+1_Summary,GO Biological Processes,GO:0030856,regulation of epithelial cell differentiation,-6.087757664,-1.844,"1,219,212,226,125,770,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000","Zfp36l1,Btg1,Cdkn1c,Cebpb,S1pr2,Maff,Rock1,Zeb1,Zfp36,Zeb2,Klf7,Spred2",12/-,Muller
+2_Summary,GO Biological Processes,GO:0006351,DNA-templated transcription,-5.439870983,-1.497,"1,260,813,211,136,530,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000","Cebpb,Dhx9,Egr1,Fos,Fosb,Jun,Junb,Jund,Klf4,Rela,Srf,Thra,Prdm4,Gtf2a1,Smarca5,Rrn3,Flna,Kat7,Zc3h4,Bdp1,Cdkn1c,Socs1,Kit,Zfp36,Tcirg1,Ufl1,Vps54,Itgb8,Zfp36l1,Coa5",30/-,Muller

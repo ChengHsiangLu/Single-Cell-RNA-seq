@@ -1,0 +1,2 @@
+Category,CategoryID,GO,Description,PARENT_GO,LogP,Enrichment,Z-score,#TotalGeneInLibrary,#GeneInGO,#GeneInHitList,#GeneInGOAndHitList,%InGO,STDV %InGO,GeneID,Hits,Log(q-value),GeneList
+PaGenBase,36,PGB:00010,Tissue-specific: brain,,-3.4,2.6,4.1,21160,661,213,17,8,1.9,11864|12569|13807|18377|18475|20272|23836|26414|66259|104001|106014|106763|211739|217480|244723|320840|434008,Arnt2|Cdk5r1|Eno2|Omg|Pafah1b2|Scn7a|Cdh20|Mapk10|Camk2n1|Rtn1|Tafa5|Ttbk1|Vstm2a|Dgkb|Olfm2|Negr1|Tmem178b,-0.43,hits

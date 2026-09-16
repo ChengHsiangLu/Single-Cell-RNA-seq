@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<graph label="hits" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cy="http://www.cytoscape.org" xmlns="http://www.cs.rpi.edu/XGMML" >
+  <att name="documentVersion" value="1.1"/>
+  <att name="networkMetadata">
+    <rdf:RDF>
+      <rdf:Description rdf:about="http://www.cytoscape.org/">
+        <dc:type>Protein-Protein Interaction</dc:type>
+        <dc:description>N/A</dc:description>
+        <dc:identifier>N/A</dc:identifier>
+        <dc:date>2025-02-24 14:43:04</dc:date>
+        <dc:title>Cytoscape Network</dc:title>
+        <dc:source>http://www.cytoscape.org/</dc:source>
+        <dc:format>Cytoscape-XGMML</dc:format>
+      </rdf:Description>
+    </rdf:RDF>
+  </att>
+  <att type="string" name="backgroundColor" value="#ffffff"/>
+  <att type="real" name="GRAPH_VIEW_ZOOM" value="1.0"/>
+  <att type="real" name="GRAPH_VIEW_CENTER_X" value="300.0"/>
+  <att type="real" name="GRAPH_VIEW_CENTER_Y" value="300.0"/>
+  <node label="Aplp1" id="1">
+    <att type="string" name="canonicalName" value="Aplp1"/>
+    <att type="string" name="Gene" value="11803"/>
+    <att type="string" name="Symbol" value="Aplp1"/>
+    <att type="integer" name="DEGREE" value="1"/>
+    <graphics type="CIRCLE" x="343.1564547130687" y="206.7161996567399"/>
+  </node>
+  <node label="Pdgfa" id="2">
+    <att type="string" name="canonicalName" value="Pdgfa"/>
+    <att type="string" name="Gene" value="18590"/>
+    <att type="string" name="Symbol" value="Pdgfa"/>
+    <att type="integer" name="DEGREE" value="1"/>
+    <graphics type="CIRCLE" x="449.82355423549814" y="279.1483319172505"/>
+  </node>
+  <node label="Ptgds" id="3">
+    <att type="string" name="canonicalName" value="Ptgds"/>
+    <att type="string" name="Gene" value="19215"/>
+    <att type="string" name="Symbol" value="Ptgds"/>
+    <att type="integer" name="DEGREE" value="1"/>
+    <graphics type="CIRCLE" x="442.55213319396165" y="315.18063236610794"/>
+  </node>
+  <node label="Vegfa" id="4">
+    <att type="string" name="canonicalName" value="Vegfa"/>
+    <att type="string" name="Gene" value="22339"/>
+    <att type="string" name="Symbol" value="Vegfa"/>
+    <att type="integer" name="DEGREE" value="1"/>
+    <graphics type="CIRCLE" x="236.12115991152365" y="403.36002265079185"/>
+  </node>
+  <edge label="11803 (pp) 19215" source="1" target="3">
+    <att type="string" name="canonicalName" value="11803 (pp) 19215"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="int" name="SCORE" value="241"/>
+    <att type="string" name="support" value="{&quot;StringDB&quot;: &quot;physical&quot;, &quot;StringEvidence&quot;: &quot;experiments:0.210,coexpression:0.071,textmining:0.023&quot;, &quot;String_Score_Physical&quot;: 241, &quot;String_Score_Combined&quot;: 312}"/>
+  </edge>
+  <edge label="18590 (pp) 22339" source="2" target="4">
+    <att type="string" name="canonicalName" value="18590 (pp) 22339"/>
+    <att type="string" name="interaction" value="pp"/>
+    <att type="int" name="SCORE" value="292"/>
+    <att type="string" name="support" value="{&quot;StringDB&quot;: &quot;functional&quot;, &quot;StringEvidence&quot;: &quot;textmining:0.498,coexpression:0.013&quot;, &quot;OmniPath&quot;: &quot;pathwayextra&quot;, &quot;OmniPath_Reference&quot;: &quot;Wang&quot;, &quot;String_Score_Combined&quot;: 525, &quot;String_Score_Physical&quot;: 292}"/>
+  </edge>
+</graph>

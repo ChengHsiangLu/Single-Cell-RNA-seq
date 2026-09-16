@@ -1,0 +1,8 @@
+Network,Annotation
+hits,WP295|Electron transport chain|-15.8;GO:0009060|aerobic respiration|-15.2;mmu00190|Oxidative phosphorylation - Mus musculus (house mouse)|-15.0
+hits_MCODE_ALL,GO:0006119|oxidative phosphorylation|-19.2;mmu00190|Oxidative phosphorylation - Mus musculus (house mouse)|-18.4;WP295|Electron transport chain|-18.2
+hits_SUB1_MCODE_1,GO:0006119|oxidative phosphorylation|-27.1;mmu00190|Oxidative phosphorylation - Mus musculus (house mouse)|-26.3;mmu04932|Non-alcoholic fatty liver disease - Mus musculus (house mouse)|-25.6
+hits_SUB1_MCODE_2,GO:0002183|cytoplasmic translational initiation|-9.9;GO:0006413|translational initiation|-8.6;GO:0002181|cytoplasmic translation|-7.6
+hits_SUB1_MCODE_3,R-MMU-8951664|Neddylation|-7.4;R-MMU-6781827|Transcription-Coupled Nucleotide Excision Repair (TC-NER)|-6.5;R-MMU-5696399|Global Genome Nucleotide Excision Repair (GG-NER)|-6.4
+hits_SUB1_MCODE_4,GO:1905906|regulation of amyloid fibril formation|-8.8;GO:1900221|regulation of amyloid-beta clearance|-8.7;GO:1902993|positive regulation of amyloid precursor protein catabolic process|-8.2
+hits_SUB1_MCODE_5,R-MMU-6811434|COPI-dependent Golgi-to-ER retrograde traffic|-7.1;R-MMU-8856688|Golgi-to-ER retrograde transport|-6.7;R-MMU-199977|ER to Golgi Anterograde Transport|-6.5

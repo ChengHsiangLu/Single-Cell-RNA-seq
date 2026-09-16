@@ -1,0 +1,143 @@
+_MEMBER_hits,_LogP_hits,GO,Description,_PATTERN_,_RANK_,GiniIndex
+1,-2.8,GO:0046394,carboxylic acid biosynthetic process,M1,1,0
+1,-2.1,GO:0046395,carboxylic acid catabolic process,M1,1,0
+1,-3.1,GO:0055088,lipid homeostasis,M1,1,0
+1,-4.4,GO:0002040,sprouting angiogenesis,M1,1,0
+1,-3.1,GO:0044248,cellular catabolic process,M1,1,0
+1,-3.6,GO:0001944,vasculature development,M1,1,0
+1,-2.4,mmu00052,Galactose metabolism - Mus musculus (house mouse),M1,1,0
+1,-2.6,GO:0007626,locomotory behavior,M1,1,0
+1,-2.4,mmu00561,Glycerolipid metabolism - Mus musculus (house mouse),M1,1,0
+1,-2.7,GO:0045475,locomotor rhythm,M1,1,0
+1,-2.8,GO:0019677,NAD catabolic process,M1,1,0
+1,-2.1,GO:0006633,fatty acid biosynthetic process,M1,1,0
+1,-2.1,GO:0071827,plasma lipoprotein particle organization,M1,1,0
+1,-2.2,GO:1901342,regulation of vasculature development,M1,1,0
+1,-2,GO:1905954,positive regulation of lipid localization,M1,1,0
+1,-2.1,GO:0030111,regulation of Wnt signaling pathway,M1,1,0
+1,-2.8,GO:0006090,pyruvate metabolic process,M1,1,0
+1,-2.8,GO:0061615,glycolytic process through fructose-6-phosphate,M1,1,0
+1,-2.4,mmu04510,Focal adhesion - Mus musculus (house mouse),M1,1,0
+1,-2.5,mmu05231,Choline metabolism in cancer - Mus musculus (house mouse),M1,1,0
+1,-2.7,GO:0072521,purine-containing compound metabolic process,M1,1,0
+1,-3.2,GO:0045596,negative regulation of cell differentiation,M1,1,0
+1,-2,GO:0008285,negative regulation of cell population proliferation,M1,1,0
+1,-2.6,GO:0060541,respiratory system development,M1,1,0
+1,-2.6,GO:0007173,epidermal growth factor receptor signaling pathway,M1,1,0
+1,-2.2,GO:0045686,negative regulation of glial cell differentiation,M1,1,0
+1,-2.1,GO:0090287,regulation of cellular response to growth factor stimulus,M1,1,0
+1,-2.4,GO:0045598,regulation of fat cell differentiation,M1,1,0
+1,-5.7,GO:0007623,circadian rhythm,M1,1,0
+1,-3.1,GO:0061718,glucose catabolic process to pyruvate,M1,1,0
+1,-2.2,GO:0050807,regulation of synapse organization,M1,1,0
+1,-3.2,GO:0048512,circadian behavior,M1,1,0
+1,-2.1,GO:1902532,negative regulation of intracellular signal transduction,M1,1,0
+1,-2.2,mmu04066,HIF-1 signaling pathway - Mus musculus (house mouse),M1,1,0
+1,-2.3,GO:2001014,regulation of skeletal muscle cell differentiation,M1,1,0
+1,-3.8,R-MMU-422475,Axon guidance,M1,1,0
+1,-2.1,GO:0050865,regulation of cell activation,M1,1,0
+1,-2.5,R-MMU-3769402,Deactivation of the beta-catenin transactivating complex,M1,1,0
+1,-2.8,GO:0051156,glucose 6-phosphate metabolic process,M1,1,0
+1,-2.2,GO:0036314,response to sterol,M1,1,0
+1,-2.7,WP4346,Cholesterol metabolism with Bloch and Kandutsch Russell pathways,M1,1,0
+1,-2.1,GO:1904705,regulation of vascular associated smooth muscle cell proliferation,M1,1,0
+1,-4.7,mmu04710,Circadian rhythm - Mus musculus (house mouse),M1,1,0
+1,-2.4,GO:0048660,regulation of smooth muscle cell proliferation,M1,1,0
+1,-2.3,GO:0090162,establishment of epithelial cell polarity,M1,1,0
+1,-3,GO:0007622,rhythmic behavior,M1,1,0
+1,-2.1,GO:0042110,T cell activation,M1,1,0
+1,-2.6,GO:0010876,lipid localization,M1,1,0
+1,-3.5,GO:0019362,pyridine nucleotide metabolic process,M1,1,0
+1,-2.4,WP523,Regulation of actin cytoskeleton,M1,1,0
+1,-2.2,GO:0072330,monocarboxylic acid biosynthetic process,M1,1,0
+1,-3,GO:0032787,monocarboxylic acid metabolic process,M1,1,0
+1,-2.9,GO:0030323,respiratory tube development,M1,1,0
+1,-2.3,GO:0032368,regulation of lipid transport,M1,1,0
+1,-3.1,GO:0061621,canonical glycolysis,M1,1,0
+1,-2.9,GO:0048009,insulin-like growth factor receptor signaling pathway,M1,1,0
+1,-3,GO:0019320,hexose catabolic process,M1,1,0
+1,-2.2,GO:0050863,regulation of T cell activation,M1,1,0
+1,-3.5,GO:0042752,regulation of circadian rhythm,M1,1,0
+1,-2.9,GO:0030324,lung development,M1,1,0
+1,-2.5,GO:0043603,amide metabolic process,M1,1,0
+1,-2.9,GO:0061620,glycolytic process through glucose-6-phosphate,M1,1,0
+1,-2.2,GO:0048710,regulation of astrocyte differentiation,M1,1,0
+1,-2.4,GO:0036315,cellular response to sterol,M1,1,0
+1,-2.3,GO:0045765,regulation of angiogenesis,M1,1,0
+1,-2.1,GO:0072523,purine-containing compound catabolic process,M1,1,0
+1,-4,GO:0048514,blood vessel morphogenesis,M1,1,0
+1,-2.2,GO:0001892,embryonic placenta development,M1,1,0
+1,-4.6,GO:0048511,rhythmic process,M1,1,0
+1,-2.6,GO:2000147,positive regulation of cell motility,M1,1,0
+1,-3.9,GO:0001568,blood vessel development,M1,1,0
+1,-2.8,GO:1905709,negative regulation of membrane permeability,M1,1,0
+1,-2.9,GO:0046365,monosaccharide catabolic process,M1,1,0
+1,-2,GO:0032091,negative regulation of protein binding,M1,1,0
+1,-2.3,GO:0021954,central nervous system neuron development,M1,1,0
+1,-3.3,GO:1905666,regulation of protein localization to endosome,M1,1,0
+1,-2.4,R-MMU-556833,Metabolism of lipids,M1,1,0
+1,-2.8,WP157,Glycolysis and gluconeogenesis,M1,1,0
+1,-2.2,GO:0000165,MAPK cascade,M1,1,0
+1,-2.4,GO:1905952,regulation of lipid localization,M1,1,0
+1,-2.7,GO:0009648,photoperiodism,M1,1,0
+1,-2.2,GO:1902414,protein localization to cell junction,M1,1,0
+1,-5.1,GO:0032922,circadian regulation of gene expression,M1,1,0
+1,-2.3,GO:1904706,negative regulation of vascular associated smooth muscle cell proliferation,M1,1,0
+1,-3.8,R-MMU-9675108,Nervous system development,M1,1,0
+1,-2.8,mmu01200,Carbon metabolism - Mus musculus (house mouse),M1,1,0
+1,-3.7,R-MMU-9006934,Signaling by Receptor Tyrosine Kinases,M1,1,0
+1,-2.1,GO:0016054,organic acid catabolic process,M1,1,0
+1,-3.2,mmu05230,Central carbon metabolism in cancer - Mus musculus (house mouse),M1,1,0
+1,-2,GO:0035418,protein localization to synapse,M1,1,0
+1,-2.2,GO:0022407,regulation of cell-cell adhesion,M1,1,0
+1,-2.2,GO:0051960,regulation of nervous system development,M1,1,0
+1,-3.8,GO:0006909,phagocytosis,M1,1,0
+1,-2.1,GO:0050890,cognition,M1,1,0
+1,-2,GO:0021955,central nervous system neuron axonogenesis,M1,1,0
+1,-2.8,GO:0042063,gliogenesis,M1,1,0
+1,-2.3,R-MMU-77289,Mitochondrial Fatty Acid Beta-Oxidation,M1,1,0
+1,-2.2,GO:2001244,positive regulation of intrinsic apoptotic signaling pathway,M1,1,0
+1,-2.3,GO:0038127,ERBB signaling pathway,M1,1,0
+1,-2.5,GO:0040017,positive regulation of locomotion,M1,1,0
+1,-3,GO:0001525,angiogenesis,M1,1,0
+1,-2.7,GO:0009649,entrainment of circadian clock,M1,1,0
+1,-2.1,GO:0050803,regulation of synapse structure or activity,M1,1,0
+1,-3.5,GO:0046496,nicotinamide nucleotide metabolic process,M1,1,0
+1,-2.4,GO:0002694,regulation of leukocyte activation,M1,1,0
+1,-2.4,R-MMU-1266738,Developmental Biology,M1,1,0
+1,-2.7,GO:0006753,nucleoside phosphate metabolic process,M1,1,0
+1,-3.1,GO:0055092,sterol homeostasis,M1,1,0
+1,-2.3,GO:0007272,ensheathment of neurons,M1,1,0
+1,-2.1,GO:0051098,regulation of binding,M1,1,0
+1,-2.2,GO:0048013,ephrin receptor signaling pathway,M1,1,0
+1,-3.4,GO:1905668,positive regulation of protein localization to endosome,M1,1,0
+1,-2.2,GO:0048662,negative regulation of smooth muscle cell proliferation,M1,1,0
+1,-2.3,GO:0032006,regulation of TOR signaling,M1,1,0
+1,-2.3,GO:0008366,axon ensheathment,M1,1,0
+1,-3.3,GO:0072524,pyridine-containing compound metabolic process,M1,1,0
+1,-2.8,GO:0030335,positive regulation of cell migration,M1,1,0
+1,-2.7,GO:0050765,negative regulation of phagocytosis,M1,1,0
+1,-3.2,mmu00010,Glycolysis / Gluconeogenesis - Mus musculus (house mouse),M1,1,0
+1,-2.8,GO:0016053,organic acid biosynthetic process,M1,1,0
+1,-2.1,GO:0071347,cellular response to interleukin-1,M1,1,0
+1,-3.8,GO:0060600,dichotomous subdivision of an epithelial terminal unit,M1,1,0
+1,-2.4,GO:0006536,glutamate metabolic process,M1,1,0
+1,-2,WP265,Delta Notch signaling pathway,M1,1,0
+1,-3.1,GO:0006735,NADH regeneration,M1,1,0
+1,-2.5,GO:0019674,NAD metabolic process,M1,1,0
+1,-2.2,WP5298,Dravet syndrome Scn1a A1783V point mutation model,M1,1,0
+1,-2.5,GO:0055086,nucleobase-containing small molecule metabolic process,M1,1,0
+1,-2.6,GO:1902895,positive regulation of miRNA transcription,M1,1,0
+1,-2.2,GO:0006734,NADH metabolic process,M1,1,0
+1,-3.1,GO:0042632,cholesterol homeostasis,M1,1,0
+1,-3,GO:0044283,small molecule biosynthetic process,M1,1,0
+1,-2.8,GO:0043153,entrainment of circadian clock by photoperiod,M1,1,0
+1,-3.5,R-MMU-8978868,Fatty acid metabolism,M1,1,0
+1,-2.1,GO:1902893,regulation of miRNA transcription,M1,1,0
+1,-2.7,GO:0006007,glucose catabolic process,M1,1,0
+1,-3.6,GO:0044282,small molecule catabolic process,M1,1,0
+1,-3.4,GO:0035239,tube morphogenesis,M1,1,0
+1,-2.5,mmu01212,Fatty acid metabolism - Mus musculus (house mouse),M1,1,0
+1,-2.3,GO:0042552,myelination,M1,1,0
+1,-2.4,GO:2000630,positive regulation of miRNA metabolic process,M1,1,0
+1,-2,GO:0008286,insulin receptor signaling pathway,M1,1,0

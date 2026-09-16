@@ -1,0 +1,14 @@
+_MEMBER_hits,_LogP_hits,GO,Description,_PATTERN_,_RANK_,CHILD_GO_hits
+1,-5.725320264580007,GO:0048511,rhythmic process,M1,1,GO:0007623 circadian rhythm
+1,-4.388878962998618,GO:0032502,developmental process,M1,1,GO:0002040 sprouting angiogenesis
+1,-3.765536673147469,GO:0051179,localization,M1,1,GO:0006909 phagocytosis
+1,-3.591608639324714,GO:0009987,cellular process,M1,1,GO:0044282 small molecule catabolic process
+1,-3.174476928393964,GO:0048519,negative regulation of biological process,M1,1,GO:0045596 negative regulation of cell differentiation
+1,-3.1240549760493157,GO:0042592,homeostatic process,M1,1,GO:0055088 lipid homeostasis
+1,-3.0429937208058937,GO:0032501,multicellular organismal process,M1,1,GO:0007622 rhythmic behavior
+1,-2.86684193847544,GO:0050896,response to stimulus,M1,1,GO:0048009 insulin-like growth factor receptor signaling pathway
+1,-2.813882043005541,GO:0065007,biological regulation,M1,1,GO:1905709 negative regulation of membrane permeability
+1,-2.788957918504417,GO:0040011,locomotion,M1,1,GO:0030335 positive regulation of cell migration
+1,-2.5576577942857845,GO:0048518,positive regulation of biological process,M1,1,GO:1902895 positive regulation of miRNA transcription
+1,-2.4378189555422,GO:0002376,immune system process,M1,1,GO:0002694 regulation of leukocyte activation
+1,-2.362019378642073,GO:0050789,regulation of biological process,M1,1,GO:0048660 regulation of smooth muscle cell proliferation

@@ -1,0 +1,765 @@
+Name,Category,CategoryID,GO,Description,PARENT_GO,LogP,Enrichment,Z-score,#TotalGeneInLibrary,#GeneInGO,#GeneInHitList,#GeneInGOAndHitList,%InGO,STDV %InGO,GeneID,Hits,Log(q-value)
+hits,GO Biological Processes,19,GO:0006351,DNA-templated transcription,19_GO:0009987 cellular process,-7.6,5,7.7,21160,542,141,18,13,2.8,12608|13211|13653|14281|14282|16476|16477|16478|16600|19697|20807|21833|72843|83602|192176|217127|330474|544971,Cebpb|Dhx9|Egr1|Fos|Fosb|Jun|Junb|Jund|Klf4|Rela|Srf|Thra|Prdm4|Gtf2a1|Flna|Kat7|Zc3h4|Bdp1,-4.5
+hits,GO Biological Processes,19,GO:0071407,cellular response to organic cyclic compound,19_GO:0050896 response to stimulus,-7.2,4.6,7.3,21160,581,141,18,13,2.8,12192|12369|12703|13211|13653|14148|14672|15387|15502|16600|18712|22629|22695|52857|66878|68667|192176|245944,Zfp36l1|Casp7|Socs1|Dhx9|Egr1|Fdx1|Gna11|Hnrnpk|Dnaja1|Klf4|Pim1|Ywhah|Zfp36|Gramd1a|Riok3|Trpm4|Flna|Vps54,-4.5
+hits,GO Biological Processes,19,GO:0030856,regulation of epithelial cell differentiation,19_GO:0032502 developmental process,-6.5,8.5,8.2,21160,177,141,10,7.1,2.2,12192|12577|12608|14739|17133|19877|21417|22695|24136|114716,Zfp36l1|Cdkn1c|Cebpb|S1pr2|Maff|Rock1|Zeb1|Zfp36|Zeb2|Spred2,-4.1
+hits,GO Biological Processes,19,GO:0006366,transcription by RNA polymerase II,19_GO:0009987 cellular process,-6.3,5.3,7,21160,400,141,14,9.9,2.5,12608|13653|14281|14282|16476|16477|16478|16600|20807|21833|72843|83602|192176|217127,Cebpb|Egr1|Fos|Fosb|Jun|Junb|Jund|Klf4|Srf|Thra|Prdm4|Gtf2a1|Flna|Kat7,-4
+hits,GO Biological Processes,19,GO:0030099,myeloid cell differentiation,19_GO:0032502 developmental process,-6,5.4,6.9,21160,361,141,13,9.2,2.4,12577|12608|12703|14281|16476|16477|16590|20807|21833|22695|192176|245944|320910,Cdkn1c|Cebpb|Socs1|Fos|Jun|Junb|Kit|Srf|Thra|Zfp36|Flna|Vps54|Itgb8,-3.8
+hits,Reactome Gene Sets,6,R-MMU-8953854,Metabolism of RNA,,-5.9,4.2,6.4,21160,568,141,16,11,2.7,12192|13211|14109|15387|19826|20383|22190|22695|53379|66878|66997|67045|67089|68134|78893|108062,Zfp36l1|Dhx9|Fau|Hnrnpk|Rnps1|Srsf3|Ubc|Zfp36|Hnrnpa2b1|Riok3|Psmd12|Riok2|Psmc6|Upf3b|Cnot10|Cstf2,-3.7
+hits,GO Biological Processes,19,GO:0070848,response to growth factor,19_GO:0050896 response to stimulus,-5.6,4,6.1,21160,596,141,16,11,2.7,12167|12192|13653|14281|16476|16590|16600|16998|18186|19697|19877|21417|22695|56320|108062|320910,Bmpr1b|Zfp36l1|Egr1|Fos|Jun|Kit|Klf4|Ltbp3|Nrp1|Rela|Rock1|Zeb1|Zfp36|Dbn1|Cstf2|Itgb8,-3.5
+hits,GO Biological Processes,19,GO:1902895,positive regulation of miRNA transcription,19_GO:0048518 positive regulation of biological process,-5.6,16,9.1,21160,58,141,6,4.3,1.7,13653|14281|16476|16600|19697|20807,Egr1|Fos|Jun|Klf4|Rela|Srf,-3.5
+hits,GO Biological Processes,19,GO:0071559,response to transforming growth factor beta,19_GO:0050896 response to stimulus,-5.6,7.8,7.3,21160,174,141,9,6.4,2.1,12167|12192|14281|16476|16998|19877|21417|56320|320910,Bmpr1b|Zfp36l1|Fos|Jun|Ltbp3|Rock1|Zeb1|Dbn1|Itgb8,-3.5
+hits,Reactome Gene Sets,6,R-MMU-2454202,Fc epsilon receptor (FCERI) signaling,,-5.5,11,8.1,21160,94,141,7,5,1.8,12314|14281|16476|19697|22190|66997|67089,Calm2|Fos|Jun|Rela|Ubc|Psmd12|Psmc6,-3.4
+hits,GO Biological Processes,19,GO:0048545,response to steroid hormone,19_GO:0050896 response to stimulus,-5.4,5.6,6.5,21160,293,141,11,7.8,2.3,12192|14281|14282|15502|16476|16477|16478|19697|22629|22695|245944,Zfp36l1|Fos|Fosb|Dnaja1|Jun|Junb|Jund|Rela|Ywhah|Zfp36|Vps54,-3.3
+hits,GO Biological Processes,19,GO:2000630,positive regulation of miRNA metabolic process,19_GO:0048518 positive regulation of biological process,-5.3,14,8.5,21160,65,141,6,4.3,1.7,13653|14281|16476|16600|19697|20807,Egr1|Fos|Jun|Klf4|Rela|Srf,-3.3
+hits,GO Biological Processes,19,GO:0071363,cellular response to growth factor stimulus,19_GO:0050896 response to stimulus,-5.2,4,5.9,21160,567,141,15,11,2.6,12167|12192|13653|14281|16476|16590|16600|16998|18186|19697|21417|22695|56320|108062|320910,Bmpr1b|Zfp36l1|Egr1|Fos|Jun|Kit|Klf4|Ltbp3|Nrp1|Rela|Zeb1|Zfp36|Dbn1|Cstf2|Itgb8,-3.2
+hits,GO Biological Processes,19,GO:0050684,regulation of mRNA processing,19_GO:0050789 regulation of biological process,-5.1,8.1,7.1,21160,149,141,8,5.7,1.9,12192|13211|15387|19826|20383|53379|68134|70248,Zfp36l1|Dhx9|Hnrnpk|Rnps1|Srsf3|Hnrnpa2b1|Upf3b|Dazap1,-3.2
+hits,GO Biological Processes,19,GO:1903311,regulation of mRNA metabolic process,19_GO:0050789 regulation of biological process,-5,5.1,6.1,21160,321,141,11,7.8,2.3,12192|12227|13211|15387|19826|19877|20383|22695|53379|68134|70248,Zfp36l1|Btg2|Dhx9|Hnrnpk|Rnps1|Rock1|Srsf3|Zfp36|Hnrnpa2b1|Upf3b|Dazap1,-3
+hits,GO Biological Processes,19,GO:0001541,ovarian follicle development,19_GO:0022414 reproductive process,-5,12,7.8,21160,75,141,6,4.3,1.7,12167|12608|15387|16322|16590|75410,Bmpr1b|Cebpb|Hnrnpk|Inha|Kit|Kmt2b,-3
+hits,Reactome Gene Sets,6,R-MMU-983169,Class I MHC mediated antigen processing & presentation,,-4.9,5.1,6.1,21160,324,141,11,7.8,2.3,12703|20439|22190|22319|66997|67089|68098|217232|231672|240028|268291,Socs1|Siah2|Ubc|Vamp3|Psmd12|Psmc6|Rchy1|Cdc27|Fbxw8|Lnpep|Rnf217,-3
+hits,GO Biological Processes,19,GO:0071356,cellular response to tumor necrosis factor,19_GO:0050896 response to stimulus,-4.9,7.4,6.7,21160,162,141,8,5.7,1.9,11886|12192|13211|14281|19697|21353|22695|56320,Asah1|Zfp36l1|Dhx9|Fos|Rela|Tank|Zfp36|Dbn1,-3
+hits,Reactome Gene Sets,6,R-MMU-983168,Antigen processing: Ubiquitination & Proteasome degradation,,-4.9,5.6,6.2,21160,269,141,10,7.1,2.2,12703|20439|22190|66997|67089|68098|217232|231672|240028|268291,Socs1|Siah2|Ubc|Psmd12|Psmc6|Rchy1|Cdc27|Fbxw8|Lnpep|Rnf217,-3
+hits,GO Biological Processes,19,GO:1902893,regulation of miRNA transcription,19_GO:0050789 regulation of biological process,-4.9,12,7.6,21160,78,141,6,4.3,1.7,13653|14281|16476|16600|19697|20807,Egr1|Fos|Jun|Klf4|Rela|Srf,-2.9
+hits,GO Biological Processes,19,GO:0071560,cellular response to transforming growth factor beta stimulus,19_GO:0050896 response to stimulus,-4.8,7.2,6.6,21160,166,141,8,5.7,1.9,12167|12192|14281|16476|16998|21417|56320|320910,Bmpr1b|Zfp36l1|Fos|Jun|Ltbp3|Zeb1|Dbn1|Itgb8,-2.9
+hits,Reactome Gene Sets,6,R-MMU-8953897,Cellular responses to stimuli,,-4.8,3.9,5.5,21160,543,141,14,9.9,2.5,12314|12577|12608|14281|14672|15502|16476|19697|22190|66997|67013|67089|217232|217365,Calm2|Cdkn1c|Cebpb|Fos|Gna11|Dnaja1|Jun|Rela|Ubc|Psmd12|Oma1|Psmc6|Cdc27|Nploc4,-2.9
+hits,GO Biological Processes,19,GO:0071396,cellular response to lipid,19_GO:0050896 response to stimulus,-4.7,3.4,5.4,21160,700,141,16,11,2.7,12192|12227|12369|12608|14148|14281|15387|15502|16600|18712|19697|22629|22695|52857|245944|320472,Zfp36l1|Btg2|Casp7|Cebpb|Fdx1|Fos|Hnrnpk|Dnaja1|Klf4|Pim1|Rela|Ywhah|Zfp36|Gramd1a|Vps54|Ppm1e,-2.9
+hits,GO Biological Processes,19,GO:0006403,RNA localization,19_GO:0051179 localization,-4.7,7.1,6.5,21160,169,141,8,5.7,1.9,11838|12192|12464|13211|20383|22695|53379|245000,Arc|Zfp36l1|Cct4|Dhx9|Srsf3|Zfp36|Hnrnpa2b1|Atr,-2.9
+hits,KEGG Pathway,24,mmu04010,MAPK signaling pathway - Mus musculus (house mouse),,-4.5,5,5.7,21160,299,141,10,7.1,2.2,14281|14673|16476|16478|16590|17346|17347|19697|20807|192176,Fos|Gna12|Jun|Jund|Kit|Mknk1|Mknk2|Rela|Srf|Flna,-2.7
+hits,GO Biological Processes,19,GO:1902746,regulation of lens fiber cell differentiation,19_GO:0032502 developmental process,-4.5,45,11,21160,10,141,3,2.1,1.2,12577|24136|114716,Cdkn1c|Zeb2|Spred2,-2.6
+hits,Reactome Gene Sets,6,R-MMU-166166,MyD88-independent TLR4 cascade,,-4.5,9.8,6.9,21160,92,141,6,4.3,1.7,14281|16476|19697|21353|22190|101568,Fos|Jun|Rela|Tank|Ubc|Vrk3,-2.6
+hits,Reactome Gene Sets,6,R-MMU-937061,TRIF (TICAM1)-mediated TLR4 signaling,,-4.5,9.8,6.9,21160,92,141,6,4.3,1.7,14281|16476|19697|21353|22190|101568,Fos|Jun|Rela|Tank|Ubc|Vrk3,-2.6
+hits,KEGG Pathway,24,mmu04380,Osteoclast differentiation - Mus musculus (house mouse),,-4.4,7.7,6.4,21160,136,141,7,5,1.8,12703|14281|14282|16476|16477|16478|19697,Socs1|Fos|Fosb|Jun|Junb|Jund|Rela,-2.6
+hits,KEGG Pathway,24,mmu04657,IL-17 signaling pathway - Mus musculus (house mouse),,-4.4,9.7,6.9,21160,93,141,6,4.3,1.7,12608|14281|14282|16476|16478|19697,Cebpb|Fos|Fosb|Jun|Jund|Rela,-2.6
+hits,GO Biological Processes,19,GO:0034612,response to tumor necrosis factor,19_GO:0050896 response to stimulus,-4.4,6.4,6.1,21160,188,141,8,5.7,1.9,11886|12192|13211|14281|19697|21353|22695|56320,Asah1|Zfp36l1|Dhx9|Fos|Rela|Tank|Zfp36|Dbn1,-2.6
+hits,GO Biological Processes,19,GO:0044057,regulation of system process,19_GO:0032501 multicellular organismal process,-4.4,3.4,5.1,21160,666,141,15,11,2.6,12314|14739|15387|16322|16590|16600|19877|20405|20807|21833|26357|56320|68667|74318|106628,Calm2|S1pr2|Hnrnpk|Inha|Kit|Klf4|Rock1|Sh3gl1|Srf|Thra|Abcg2|Dbn1|Trpm4|Hopx|Trip10,-2.6
+hits,GO Biological Processes,19,GO:2000628,regulation of miRNA metabolic process,19_GO:0050789 regulation of biological process,-4.4,9.5,6.8,21160,95,141,6,4.3,1.7,13653|14281|16476|16600|19697|20807,Egr1|Fos|Jun|Klf4|Rela|Srf,-2.6
+hits,Reactome Gene Sets,6,R-MMU-1168372,Downstream signaling events of B Cell Receptor (BCR),,-4.4,13,7.5,21160,58,141,5,3.5,1.6,12314|19697|22190|66997|67089,Calm2|Rela|Ubc|Psmd12|Psmc6,-2.6
+hits,KEGG Pathway,24,mmu05166,Human T-cell leukemia virus 1 infection - Mus musculus (house mouse),,-4.4,5.5,5.8,21160,247,141,9,6.4,2.1,13653|14281|16476|18186|19697|20807|22695|217232|245000,Egr1|Fos|Jun|Nrp1|Rela|Srf|Zfp36|Cdc27|Atr,-2.6
+hits,GO Biological Processes,19,GO:0141188,nucleic acid catabolic process,19_GO:0009987 cellular process,-4.4,6.3,6,21160,191,141,8,5.7,1.9,12192|19826|22695|68134|69724|78893|245944|330474,Zfp36l1|Rnps1|Zfp36|Upf3b|Rnaseh2a|Cnot10|Vps54|Zc3h4,-2.6
+hits,WikiPathways,27,WP273,Ovarian infertility,,-4.3,19,8.4,21160,31,141,4,2.8,1.4,12167|12608|13653|16322,Bmpr1b|Cebpb|Egr1|Inha,-2.5
+hits,GO Biological Processes,19,GO:0051592,response to calcium ion,19_GO:0050896 response to stimulus,-4.2,7.1,6.1,21160,149,141,7,5,1.8,12314|14281|14282|16476|16477|16478|245944,Calm2|Fos|Fosb|Jun|Junb|Jund|Vps54,-2.4
+hits,GO Biological Processes,19,GO:1901699,cellular response to nitrogen compound,19_GO:0050896 response to stimulus,-4.2,3.2,4.9,21160,696,141,15,11,2.6,12192|12369|13211|13653|14148|14281|14672|15387|16590|16600|19697|20383|66878|68667|192176,Zfp36l1|Casp7|Dhx9|Egr1|Fdx1|Fos|Gna11|Hnrnpk|Kit|Klf4|Rela|Srsf3|Riok3|Trpm4|Flna,-2.4
+hits,GO Biological Processes,19,GO:0051236,establishment of RNA localization,19_GO:0051179 localization,-4.2,7,6,21160,150,141,7,5,1.8,11838|12192|13211|20383|22695|53379|245000,Arc|Zfp36l1|Dhx9|Srsf3|Zfp36|Hnrnpa2b1|Atr,-2.4
+hits,Reactome Gene Sets,6,R-MMU-69620,Cell Cycle Checkpoints,,-4.2,5.2,5.5,21160,262,141,9,6.4,2.1,12577|13589|22190|22629|22630|66997|67089|217232|320394,Cdkn1c|Mapre1|Ubc|Ywhah|Ywhaq|Psmd12|Psmc6|Cdc27|Cenpt,-2.4
+hits,Reactome Gene Sets,6,R-MMU-166016,Toll Like Receptor 4 (TLR4) Cascade,,-4.1,8.3,6.3,21160,108,141,6,4.3,1.7,14281|16476|19697|21353|22190|101568,Fos|Jun|Rela|Tank|Ubc|Vrk3,-2.3
+hits,KEGG Pathway,24,mmu04110,Cell cycle - Mus musculus (house mouse),,-4.1,6.7,5.9,21160,157,141,7,5,1.8,12577|19651|22629|22630|71521|217232|245000,Cdkn1c|Rbl2|Ywhah|Ywhaq|Pds5a|Cdc27|Atr,-2.3
+hits,Reactome Gene Sets,6,R-MMU-9006936,Signaling by TGFB family members,,-4,8.3,6.2,21160,109,141,6,4.3,1.7,12167|16322|16998|22190|218441|320910,Bmpr1b|Inha|Ltbp3|Ubc|Zfyve16|Itgb8,-2.3
+hits,Reactome Gene Sets,6,R-MMU-1280218,Adaptive Immune System,,-4,3.3,4.8,21160,636,141,14,9.9,2.5,12314|12703|19697|20439|22190|22319|66997|67089|68098|217232|226977|231672|240028|268291,Calm2|Socs1|Rela|Siah2|Ubc|Vamp3|Psmd12|Psmc6|Rchy1|Cdc27|Actr1b|Fbxw8|Lnpep|Rnf217,-2.3
+hits,WikiPathways,27,WP493,Mapk signaling pathway,,-4,6.6,5.8,21160,159,141,7,5,1.8,12369|14281|14673|16476|16478|20807|192176,Casp7|Fos|Gna12|Jun|Jund|Srf|Flna,-2.2
+hits,KEGG Pathway,24,mmu05031,Amphetamine addiction - Mus musculus (house mouse),,-4,11,6.7,21160,69,141,5,3.5,1.6,11838|12314|14281|14282|16476,Arc|Calm2|Fos|Fosb|Jun,-2.2
+hits,Reactome Gene Sets,6,R-MMU-450531,Regulation of mRNA stability by proteins that bind AU-rich elements,,-4,11,6.6,21160,71,141,5,3.5,1.6,12192|22190|22695|66997|67089,Zfp36l1|Ubc|Zfp36|Psmd12|Psmc6,-2.2
+hits,Reactome Gene Sets,6,R-MMU-5607764,CLEC7A (Dectin-1) signaling,,-4,11,6.6,21160,71,141,5,3.5,1.6,12314|19697|22190|66997|67089,Calm2|Rela|Ubc|Psmd12|Psmc6,-2.2
+hits,GO Biological Processes,19,GO:0045600,positive regulation of fat cell differentiation,19_GO:0032502 developmental process,-3.9,10,6.6,21160,72,141,5,3.5,1.6,12192|12608|18712|22695|68667,Zfp36l1|Cebpb|Pim1|Zfp36|Trpm4,-2.2
+hits,Reactome Gene Sets,6,R-MMU-168164,Toll Like Receptor 3 (TLR3) Cascade,,-3.9,10,6.6,21160,72,141,5,3.5,1.6,14281|16476|19697|22190|101568,Fos|Jun|Rela|Ubc|Vrk3,-2.2
+hits,Reactome Gene Sets,6,R-MMU-2559582,Senescence-Associated Secretory Phenotype (SASP),,-3.9,15,7.4,21160,39,141,4,2.8,1.4,12577|12608|22190|217232,Cdkn1c|Cebpb|Ubc|Cdc27,-2.1
+hits,GO Biological Processes,19,GO:0010975,regulation of neuron projection development,19_GO:0032502 developmental process,-3.9,3.4,4.7,21160,578,141,13,9.2,2.4,11785|11838|15387|15982|16600|18186|20807|22629|24136|56320|105689|192176|231672,Apbb1|Arc|Hnrnpk|Ifrd1|Klf4|Nrp1|Srf|Ywhah|Zeb2|Dbn1|Mycbp2|Flna|Fbxw8,-2.1
+hits,Reactome Gene Sets,6,R-MMU-975871,MyD88 cascade initiated on plasma membrane,,-3.9,10,6.5,21160,74,141,5,3.5,1.6,14281|16476|19697|22190|101568,Fos|Jun|Rela|Ubc|Vrk3,-2.1
+hits,Reactome Gene Sets,6,R-MMU-168176,Toll Like Receptor 5 (TLR5) Cascade,,-3.9,10,6.5,21160,74,141,5,3.5,1.6,14281|16476|19697|22190|101568,Fos|Jun|Rela|Ubc|Vrk3,-2.1
+hits,Reactome Gene Sets,6,R-MMU-168142,Toll Like Receptor 10 (TLR10) Cascade,,-3.9,10,6.5,21160,74,141,5,3.5,1.6,14281|16476|19697|22190|101568,Fos|Jun|Rela|Ubc|Vrk3,-2.1
+hits,KEGG Pathway,24,mmu04668,TNF signaling pathway - Mus musculus (house mouse),,-3.9,7.6,5.9,21160,118,141,6,4.3,1.7,12369|12608|14281|16476|16477|19697,Casp7|Cebpb|Fos|Jun|Junb|Rela,-2.1
+hits,GO Biological Processes,19,GO:0007611,learning or memory,19_GO:0032501 multicellular organismal process,-3.8,4.2,5,21160,357,141,10,7.1,2.2,11838|12227|13653|14281|16476|16590|20807|21833|68667|195018,Arc|Btg2|Egr1|Fos|Jun|Kit|Srf|Thra|Trpm4|Zzef1,-2.1
+hits,Reactome Gene Sets,6,R-MMU-181438,Toll Like Receptor 2 (TLR2) Cascade,,-3.8,10,6.4,21160,75,141,5,3.5,1.6,14281|16476|19697|22190|101568,Fos|Jun|Rela|Ubc|Vrk3,-2.1
+hits,Reactome Gene Sets,6,R-MMU-168188,Toll Like Receptor TLR6:TLR2 Cascade,,-3.8,10,6.4,21160,75,141,5,3.5,1.6,14281|16476|19697|22190|101568,Fos|Jun|Rela|Ubc|Vrk3,-2.1
+hits,Reactome Gene Sets,6,R-MMU-168179,Toll Like Receptor TLR1:TLR2 Cascade,,-3.8,10,6.4,21160,75,141,5,3.5,1.6,14281|16476|19697|22190|101568,Fos|Jun|Rela|Ubc|Vrk3,-2.1
+hits,Reactome Gene Sets,6,R-MMU-166058,MyD88:MAL(TIRAP) cascade initiated on plasma membrane,,-3.8,10,6.4,21160,75,141,5,3.5,1.6,14281|16476|19697|22190|101568,Fos|Jun|Rela|Ubc|Vrk3,-2.1
+hits,KEGG Pathway,24,mmu05203,Viral carcinogenesis - Mus musculus (house mouse),,-3.8,5.3,5.3,21160,228,141,8,5.7,1.9,15387|16476|19651|19697|20807|22629|22630|83602,Hnrnpk|Jun|Rbl2|Rela|Srf|Ywhah|Ywhaq|Gtf2a1,-2.1
+hits,GO Biological Processes,19,GO:0006401,RNA catabolic process,19_GO:0009987 cellular process,-3.8,6.1,5.5,21160,171,141,7,5,1.8,12192|19826|22695|68134|69724|78893|330474,Zfp36l1|Rnps1|Zfp36|Upf3b|Rnaseh2a|Cnot10|Zc3h4,-2.1
+hits,KEGG Pathway,24,mmu05133,Pertussis - Mus musculus (house mouse),,-3.8,9.7,6.3,21160,77,141,5,3.5,1.6,12314|12369|14281|16476|19697,Calm2|Casp7|Fos|Jun|Rela,-2.1
+hits,GO Biological Processes,19,GO:0032870,cellular response to hormone stimulus,19_GO:0050896 response to stimulus,-3.8,3.3,4.6,21160,591,141,13,9.2,2.4,12192|14281|14282|15387|15502|16590|18712|19697|20383|21833|22629|22695|245944,Zfp36l1|Fos|Fosb|Hnrnpk|Dnaja1|Kit|Pim1|Rela|Srsf3|Thra|Ywhah|Zfp36|Vps54,-2.1
+hits,WikiPathways,27,WP572,EGFR1 signaling pathway,,-3.8,6,5.4,21160,175,141,7,5,1.8,12608|12703|14281|16476|16478|19707|23942,Cebpb|Socs1|Fos|Jun|Jund|Reps1|Mta2,-2
+hits,GO Biological Processes,19,GO:0051028,mRNA transport,19_GO:0051179 localization,-3.8,7.3,5.8,21160,123,141,6,4.3,1.7,11838|12192|13211|20383|22695|53379,Arc|Zfp36l1|Dhx9|Srsf3|Zfp36|Hnrnpa2b1,-2
+hits,GO Biological Processes,19,GO:0048024,"regulation of mRNA splicing, via spliceosome",19_GO:0050789 regulation of biological process,-3.8,7.3,5.8,21160,123,141,6,4.3,1.7,15387|19826|20383|53379|68134|70248,Hnrnpk|Rnps1|Srsf3|Hnrnpa2b1|Upf3b|Dazap1,-2
+hits,GO Biological Processes,19,GO:0008585,female gonad development,19_GO:0022414 reproductive process,-3.7,7.3,5.7,21160,124,141,6,4.3,1.7,12167|12608|15387|16322|16590|75410,Bmpr1b|Cebpb|Hnrnpk|Inha|Kit|Kmt2b,-2
+hits,Reactome Gene Sets,6,R-MMU-975138,TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation,,-3.7,9.5,6.2,21160,79,141,5,3.5,1.6,14281|16476|19697|22190|101568,Fos|Jun|Rela|Ubc|Vrk3,-2
+hits,Reactome Gene Sets,6,R-MMU-975155,MyD88 dependent cascade initiated on endosome,,-3.7,9.4,6.2,21160,80,141,5,3.5,1.6,14281|16476|19697|22190|101568,Fos|Jun|Rela|Ubc|Vrk3,-2
+hits,GO Biological Processes,19,GO:0032570,response to progesterone,19_GO:0050896 response to stimulus,-3.7,14,6.9,21160,44,141,4,2.8,1.4,14281|14282|19697|245944,Fos|Fosb|Rela|Vps54,-2
+hits,Reactome Gene Sets,6,R-MMU-5689603,UCH proteinases,,-3.7,9.3,6.1,21160,81,141,5,3.5,1.6,22190|66997|67089|109241|110962,Ubc|Psmd12|Psmc6|Mbd5|Mbd6,-2
+hits,GO Biological Processes,19,GO:0046545,development of primary female sexual characteristics,19_GO:0022414 reproductive process,-3.7,7.1,5.6,21160,127,141,6,4.3,1.7,12167|12608|15387|16322|16590|75410,Bmpr1b|Cebpb|Hnrnpk|Inha|Kit|Kmt2b,-2
+hits,GO Biological Processes,19,GO:0040008,regulation of growth,19_GO:0040007 growth,-3.7,3,4.5,21160,691,141,14,9.9,2.5,15387|15982|18186|18712|20807|56320|70925|72843|74318|105689|106628|109241|217127|245944,Hnrnpk|Ifrd1|Nrp1|Pim1|Srf|Dbn1|Cdkn2aip|Prdm4|Hopx|Mycbp2|Trip10|Mbd5|Kat7|Vps54,-2
+hits,GO Biological Processes,19,GO:0120035,regulation of plasma membrane bounded cell projection organization,19_GO:0050789 regulation of biological process,-3.6,2.9,4.4,21160,782,141,15,11,2.6,11785|11838|15387|15982|16590|16600|18186|20807|22629|24057|24136|56320|105689|192176|231672,Apbb1|Arc|Hnrnpk|Ifrd1|Kit|Klf4|Nrp1|Srf|Ywhah|Sh3yl1|Zeb2|Dbn1|Mycbp2|Flna|Fbxw8,-1.9
+hits,Reactome Gene Sets,6,R-MMU-983705,Signaling by the B Cell Receptor (BCR),,-3.6,9,6,21160,83,141,5,3.5,1.6,12314|19697|22190|66997|67089,Calm2|Rela|Ubc|Psmd12|Psmc6,-1.9
+hits,Reactome Gene Sets,6,R-MMU-168181,Toll Like Receptor 7/8 (TLR7/8) Cascade,,-3.6,8.9,6,21160,84,141,5,3.5,1.6,14281|16476|19697|22190|101568,Fos|Jun|Rela|Ubc|Vrk3,-1.9
+hits,GO Biological Processes,19,GO:0007616,long-term memory,19_GO:0032501 multicellular organismal process,-3.6,13,6.7,21160,46,141,4,2.8,1.4,11838|13653|20807|68667,Arc|Egr1|Srf|Trpm4,-1.9
+hits,Reactome Gene Sets,6,R-MMU-1169091,Activation of NF-kappaB in B cells,,-3.6,13,6.7,21160,46,141,4,2.8,1.4,19697|22190|66997|67089,Rela|Ubc|Psmd12|Psmc6,-1.9
+hits,Reactome Gene Sets,6,R-MMU-110320,Translesion Synthesis by POLH,,-3.6,24,8.1,21160,19,141,3,2.1,1.2,22190|68098|217365,Ubc|Rchy1|Nploc4,-1.9
+hits,GO Biological Processes,19,GO:0002573,myeloid leukocyte differentiation,19_GO:0032502 developmental process,-3.6,5.6,5.2,21160,187,141,7,5,1.8,12703|14281|16476|16477|16590|245944|320910,Socs1|Fos|Jun|Junb|Kit|Vps54|Itgb8,-1.9
+hits,GO Biological Processes,19,GO:0071277,cellular response to calcium ion,19_GO:0050896 response to stimulus,-3.6,8.7,5.9,21160,86,141,5,3.5,1.6,14281|14282|16476|16477|16478,Fos|Fosb|Jun|Junb|Jund,-1.9
+hits,Reactome Gene Sets,6,R-MMU-5357801,Programmed Cell Death,,-3.6,8.7,5.9,21160,86,141,5,3.5,1.6,19877|22190|22629|22630|67013,Rock1|Ubc|Ywhah|Ywhaq|Oma1,-1.9
+hits,GO Biological Processes,19,GO:0031344,regulation of cell projection organization,19_GO:0050789 regulation of biological process,-3.5,2.8,4.3,21160,798,141,15,11,2.6,11785|11838|15387|15982|16590|16600|18186|20807|22629|24057|24136|56320|105689|192176|231672,Apbb1|Arc|Hnrnpk|Ifrd1|Kit|Klf4|Nrp1|Srf|Ywhah|Sh3yl1|Zeb2|Dbn1|Mycbp2|Flna|Fbxw8,-1.9
+hits,GO Biological Processes,19,GO:0016071,mRNA metabolic process,19_GO:0009987 cellular process,-3.5,3.1,4.4,21160,626,141,13,9.2,2.4,12192|13211|15387|19826|20383|21833|22695|53379|66381|68134|78893|108062|192176,Zfp36l1|Dhx9|Hnrnpk|Rnps1|Srsf3|Thra|Zfp36|Hnrnpa2b1|Rnf113a2|Upf3b|Cnot10|Cstf2|Flna,-1.9
+hits,GO Biological Processes,19,GO:2000142,regulation of DNA-templated transcription initiation,19_GO:0050789 regulation of biological process,-3.5,8.6,5.8,21160,87,141,5,3.5,1.6,16476|20807|21833|67089|83602,Jun|Srf|Thra|Psmc6|Gtf2a1,-1.9
+hits,GO Biological Processes,19,GO:1903320,regulation of protein modification by small protein conjugation or removal,19_GO:0050789 regulation of biological process,-3.5,4.8,4.9,21160,252,141,8,5.7,1.9,13653|15502|19697|20439|21353|67819|68098|105689,Egr1|Dnaja1|Rela|Siah2|Tank|Derl1|Rchy1|Mycbp2,-1.8
+hits,GO Biological Processes,19,GO:0031047,regulatory ncRNA-mediated gene silencing,19_GO:0048519 negative regulation of biological process,-3.5,5.5,5.1,21160,191,141,7,5,1.8,13211|15387|20383|22695|53379|78455|78893,Dhx9|Hnrnpk|Srsf3|Zfp36|Hnrnpa2b1|Helz|Cnot10,-1.8
+hits,WikiPathways,27,WP202,Hypertrophy model,,-3.5,23,7.9,21160,20,141,3,2.1,1.2,15982|16478|21417,Ifrd1|Jund|Zeb1,-1.8
+hits,Reactome Gene Sets,6,R-MMU-168138,Toll Like Receptor 9 (TLR9) Cascade,,-3.5,8.5,5.8,21160,88,141,5,3.5,1.6,14281|16476|19697|22190|101568,Fos|Jun|Rela|Ubc|Vrk3,-1.8
+hits,Reactome Gene Sets,6,R-MMU-5621481,C-type lectin receptors (CLRs),,-3.5,8.4,5.8,21160,89,141,5,3.5,1.6,12314|19697|22190|66997|67089,Calm2|Rela|Ubc|Psmd12|Psmc6,-1.8
+hits,GO Biological Processes,19,GO:0043484,regulation of RNA splicing,19_GO:0050789 regulation of biological process,-3.5,5.4,5,21160,195,141,7,5,1.8,15387|19826|20383|27878|53379|68134|70248,Hnrnpk|Rnps1|Srsf3|Tada1|Hnrnpa2b1|Upf3b|Dazap1,-1.8
+hits,GO Biological Processes,19,GO:1903313,positive regulation of mRNA metabolic process,19_GO:0048518 positive regulation of biological process,-3.5,6.5,5.3,21160,139,141,6,4.3,1.7,12192|12227|19877|22695|68134|70248,Zfp36l1|Btg2|Rock1|Zfp36|Upf3b|Dazap1,-1.8
+hits,Reactome Gene Sets,6,R-MMU-187577,SCF(Skp2)-mediated degradation of p27/p21,,-3.5,12,6.4,21160,50,141,4,2.8,1.4,12577|22190|66997|67089,Cdkn1c|Ubc|Psmd12|Psmc6,-1.8
+hits,Reactome Gene Sets,6,R-MMU-8939236,RUNX1 regulates transcription of genes involved in differentiation of HSCs,,-3.5,12,6.4,21160,50,141,4,2.8,1.4,21406|22190|66997|67089,Tcf12|Ubc|Psmd12|Psmc6,-1.8
+hits,GO Biological Processes,19,GO:0048638,regulation of developmental growth,19_GO:0040007 growth,-3.5,3.8,4.6,21160,398,141,10,7.1,2.2,15387|15982|18186|18712|20807|56320|74318|105689|106628|109241,Hnrnpk|Ifrd1|Nrp1|Pim1|Srf|Dbn1|Hopx|Mycbp2|Trip10|Mbd5,-1.8
+hits,GO Biological Processes,19,GO:1901873,regulation of post-translational protein modification,19_GO:0050789 regulation of biological process,-3.5,4.7,4.8,21160,258,141,8,5.7,1.9,13653|15502|19697|20439|21353|67819|68098|105689,Egr1|Dnaja1|Rela|Siah2|Tank|Derl1|Rchy1|Mycbp2,-1.8
+hits,Reactome Gene Sets,6,R-MMU-168898,Toll-like Receptor Cascades,,-3.4,6.4,5.3,21160,140,141,6,4.3,1.7,14281|16476|19697|21353|22190|101568,Fos|Jun|Rela|Tank|Ubc|Vrk3,-1.8
+hits,Reactome Gene Sets,6,R-MMU-9006934,Signaling by Receptor Tyrosine Kinases,,-3.4,3.8,4.6,21160,400,141,10,7.1,2.2,12314|16590|17346|18186|19877|20405|20807|22190|101568|114716,Calm2|Kit|Mknk1|Nrp1|Rock1|Sh3gl1|Srf|Ubc|Vrk3|Spred2,-1.8
+hits,Reactome Gene Sets,6,R-MMU-2559583,Cellular Senescence,,-3.4,6.4,5.3,21160,141,141,6,4.3,1.7,12577|12608|14281|16476|22190|217232,Cdkn1c|Cebpb|Fos|Jun|Ubc|Cdc27,-1.8
+hits,Reactome Gene Sets,6,R-MMU-69580,p53-Dependent G1/S DNA damage checkpoint,,-3.4,12,6.3,21160,51,141,4,2.8,1.4,12577|22190|66997|67089,Cdkn1c|Ubc|Psmd12|Psmc6,-1.8
+hits,Reactome Gene Sets,6,R-MMU-8878166,Transcriptional regulation by RUNX2,,-3.4,12,6.3,21160,51,141,4,2.8,1.4,22190|53892|66997|67089,Ubc|Ppm1d|Psmd12|Psmc6,-1.8
+hits,Reactome Gene Sets,6,R-MMU-69563,p53-Dependent G1 DNA Damage Response,,-3.4,12,6.3,21160,51,141,4,2.8,1.4,12577|22190|66997|67089,Cdkn1c|Ubc|Psmd12|Psmc6,-1.8
+hits,GO Biological Processes,19,GO:0010720,positive regulation of cell development,19_GO:0032502 developmental process,-3.4,3.2,4.4,21160,559,141,12,8.5,2.3,12192|12703|14281|14739|16476|16590|18186|19697|20807|24136|56320|231672,Zfp36l1|Socs1|Fos|S1pr2|Jun|Kit|Nrp1|Rela|Srf|Zeb2|Dbn1|Fbxw8,-1.8
+hits,GO Biological Processes,19,GO:0050890,cognition,19_GO:0032501 multicellular organismal process,-3.4,3.7,4.5,21160,403,141,10,7.1,2.2,11838|12227|13653|14281|16476|16590|20807|21833|68667|195018,Arc|Btg2|Egr1|Fos|Jun|Kit|Srf|Thra|Trpm4|Zzef1,-1.8
+hits,Reactome Gene Sets,6,R-MMU-2262752,Cellular responses to stress,,-3.4,3.4,4.4,21160,480,141,11,7.8,2.3,12577|12608|14281|15502|16476|22190|66997|67013|67089|217232|217365,Cdkn1c|Cebpb|Fos|Dnaja1|Jun|Ubc|Psmd12|Oma1|Psmc6|Cdc27|Nploc4,-1.8
+hits,GO Biological Processes,19,GO:0032446,protein modification by small protein conjugation,19_GO:0009987 cellular process,-3.4,3,4.3,21160,645,141,13,9.2,2.4,12703|14109|20439|22190|66381|68098|68667|105689|195018|212123|217232|231672|268291,Socs1|Fau|Siah2|Ubc|Rnf113a2|Rchy1|Trpm4|Mycbp2|Zzef1|Dcaf15|Cdc27|Fbxw8|Rnf217,-1.8
+hits,KEGG Pathway,24,mmu05022,Pathways of neurodegeneration - multiple diseases - Mus musculus (house mouse),,-3.4,3.4,4.4,21160,481,141,11,7.8,2.3,12314|12369|19697|21353|22190|66997|67089|67819|68118|226977|237782,Calm2|Casp7|Rela|Tank|Ubc|Psmd12|Psmc6|Derl1|Atg101|Actr1b|Smcr8,-1.8
+hits,Reactome Gene Sets,6,R-MMU-450294,MAP kinase activation,,-3.4,12,6.2,21160,52,141,4,2.8,1.4,14281|16476|22190|101568,Fos|Jun|Ubc|Vrk3,-1.7
+hits,Reactome Gene Sets,6,R-MMU-448424,Interleukin-17 signaling,,-3.4,12,6.2,21160,52,141,4,2.8,1.4,14281|16476|22190|101568,Fos|Jun|Ubc|Vrk3,-1.7
+hits,Reactome Gene Sets,6,R-MMU-449147,Signaling by Interleukins,,-3.4,4.5,4.8,21160,264,141,8,5.7,1.9,12703|14281|16476|19697|22190|66997|67089|101568,Socs1|Fos|Jun|Rela|Ubc|Psmd12|Psmc6|Vrk3,-1.7
+hits,GO Biological Processes,19,GO:0046683,response to organophosphorus,19_GO:0050896 response to stimulus,-3.4,6.2,5.2,21160,145,141,6,4.3,1.7,12192|14148|14281|14282|19697|68667,Zfp36l1|Fdx1|Fos|Fosb|Rela|Trpm4,-1.7
+hits,Reactome Gene Sets,6,R-MMU-5658442,Regulation of RAS by GAPs,,-3.4,11,6.2,21160,53,141,4,2.8,1.4,22190|66997|67089|114716,Ubc|Psmd12|Psmc6|Spred2,-1.7
+hits,Reactome Gene Sets,6,R-MMU-174084,Autodegradation of Cdh1 by Cdh1:APC/C,,-3.4,11,6.2,21160,53,141,4,2.8,1.4,22190|66997|67089|217232,Ubc|Psmd12|Psmc6|Cdc27,-1.7
+hits,Reactome Gene Sets,6,R-MMU-69615,G1/S DNA Damage Checkpoints,,-3.4,11,6.2,21160,53,141,4,2.8,1.4,12577|22190|66997|67089,Cdkn1c|Ubc|Psmd12|Psmc6,-1.7
+hits,GO Biological Processes,19,GO:0002521,leukocyte differentiation,19_GO:0032502 developmental process,-3.3,3.4,4.3,21160,491,141,11,7.8,2.3,12192|12703|13653|14281|16476|16477|16590|20807|217127|245944|320910,Zfp36l1|Socs1|Egr1|Fos|Jun|Junb|Kit|Srf|Kat7|Vps54|Itgb8,-1.7
+hits,Reactome Gene Sets,6,R-MMU-72187,mRNA 3'-end processing,,-3.3,11,6.1,21160,54,141,4,2.8,1.4,19826|20383|68134|108062,Rnps1|Srsf3|Upf3b|Cstf2,-1.7
+hits,Reactome Gene Sets,6,R-MMU-174154,APC/C:Cdc20 mediated degradation of Securin,,-3.3,11,6.1,21160,54,141,4,2.8,1.4,22190|66997|67089|217232,Ubc|Psmd12|Psmc6|Cdc27,-1.7
+hits,GO Biological Processes,19,GO:0007612,learning,19_GO:0032501 multicellular organismal process,-3.3,5.1,4.8,21160,206,141,7,5,1.8,11838|12227|14281|16476|16590|20807|195018,Arc|Btg2|Fos|Jun|Kit|Srf|Zzef1,-1.7
+hits,GO Biological Processes,19,GO:1903131,mononuclear cell differentiation,19_GO:0032502 developmental process,-3.3,3.6,4.4,21160,415,141,10,7.1,2.2,12192|12703|13653|14281|16476|16590|20807|217127|245944|320910,Zfp36l1|Socs1|Egr1|Fos|Jun|Kit|Srf|Kat7|Vps54|Itgb8,-1.7
+hits,GO Biological Processes,19,GO:0050658,RNA transport,19_GO:0051179 localization,-3.3,6.1,5.1,21160,148,141,6,4.3,1.7,11838|12192|13211|20383|22695|53379,Arc|Zfp36l1|Dhx9|Srsf3|Zfp36|Hnrnpa2b1,-1.7
+hits,GO Biological Processes,19,GO:0050657,nucleic acid transport,19_GO:0051179 localization,-3.3,6.1,5.1,21160,148,141,6,4.3,1.7,11838|12192|13211|20383|22695|53379,Arc|Zfp36l1|Dhx9|Srsf3|Zfp36|Hnrnpa2b1,-1.7
+hits,GO Biological Processes,19,GO:0070647,protein modification by small protein conjugation or removal,19_GO:0009987 cellular process,-3.3,2.8,4.1,21160,750,141,14,9.9,2.5,12703|14109|20439|22190|66381|68098|68667|71198|105689|195018|212123|217232|231672|268291,Socs1|Fau|Siah2|Ubc|Rnf113a2|Rchy1|Trpm4|Otud1|Mycbp2|Zzef1|Dcaf15|Cdc27|Fbxw8|Rnf217,-1.7
+hits,GO Biological Processes,19,GO:0090257,regulation of muscle system process,19_GO:0032501 multicellular organismal process,-3.3,4.4,4.6,21160,273,141,8,5.7,1.9,12314|16590|16600|19877|20807|56320|68667|106628,Calm2|Kit|Klf4|Rock1|Srf|Dbn1|Trpm4|Trip10,-1.7
+hits,GO Biological Processes,19,GO:1900151,"regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay",19_GO:0048519 negative regulation of biological process,-3.3,19,7.1,21160,24,141,3,2.1,1.2,12192|13211|22695,Zfp36l1|Dhx9|Zfp36,-1.7
+hits,GO Biological Processes,19,GO:0035994,response to muscle stretch,19_GO:0050896 response to stimulus,-3.3,19,7.1,21160,24,141,3,2.1,1.2,14281|16476|19697,Fos|Jun|Rela,-1.7
+hits,GO Biological Processes,19,GO:1903312,negative regulation of mRNA metabolic process,19_GO:0048519 negative regulation of biological process,-3.3,7.5,5.3,21160,100,141,5,3.5,1.6,13211|15387|19826|22695|53379,Dhx9|Hnrnpk|Rnps1|Zfp36|Hnrnpa2b1,-1.6
+hits,Reactome Gene Sets,6,R-MMU-2871837,FCERI mediated NF-kB activation,,-3.2,11,5.9,21160,57,141,4,2.8,1.4,19697|22190|66997|67089,Rela|Ubc|Psmd12|Psmc6,-1.6
+hits,Reactome Gene Sets,6,R-MMU-212436,Generic Transcription Pathway,,-3.2,2.8,4.1,21160,761,141,14,9.9,2.5,12227|12577|21406|21833|22190|22629|22630|23942|53892|66997|67089|75410|78893|233060,Btg2|Cdkn1c|Tcf12|Thra|Ubc|Ywhah|Ywhaq|Mta2|Ppm1d|Psmd12|Psmc6|Kmt2b|Cnot10|Zfp382,-1.6
+hits,GO Biological Processes,19,GO:0007179,transforming growth factor beta receptor signaling pathway,19_GO:0050896 response to stimulus,-3.2,7.4,5.3,21160,101,141,5,3.5,1.6,12167|14281|16476|16998|320910,Bmpr1b|Fos|Jun|Ltbp3|Itgb8,-1.6
+hits,GO Biological Processes,19,GO:0048025,"negative regulation of mRNA splicing, via spliceosome",19_GO:0048519 negative regulation of biological process,-3.2,18,7,21160,25,141,3,2.1,1.2,15387|19826|53379,Hnrnpk|Rnps1|Hnrnpa2b1,-1.6
+hits,GO Biological Processes,19,GO:0035855,megakaryocyte development,19_GO:0032502 developmental process,-3.2,18,7,21160,25,141,3,2.1,1.2,16590|20807|192176,Kit|Srf|Flna,-1.6
+hits,GO Biological Processes,19,GO:0050686,negative regulation of mRNA processing,19_GO:0048519 negative regulation of biological process,-3.2,18,7,21160,25,141,3,2.1,1.2,15387|19826|53379,Hnrnpk|Rnps1|Hnrnpa2b1,-1.6
+hits,GO Biological Processes,19,GO:0045604,regulation of epidermal cell differentiation,19_GO:0032502 developmental process,-3.2,10,5.8,21160,58,141,4,2.8,1.4,12192|17133|19877|22695,Zfp36l1|Maff|Rock1|Zfp36,-1.6
+hits,GO Biological Processes,19,GO:0016567,protein ubiquitination,19_GO:0009987 cellular process,-3.2,3,4.1,21160,592,141,12,8.5,2.3,12703|14109|20439|22190|66381|68098|105689|195018|212123|217232|231672|268291,Socs1|Fau|Siah2|Ubc|Rnf113a2|Rchy1|Mycbp2|Zzef1|Dcaf15|Cdc27|Fbxw8|Rnf217,-1.6
+hits,Reactome Gene Sets,6,R-MMU-69017,CDK-mediated phosphorylation and removal of Cdc6,,-3.2,10,5.8,21160,59,141,4,2.8,1.4,22190|66997|67089|217232,Ubc|Psmd12|Psmc6|Cdc27,-1.6
+hits,Reactome Gene Sets,6,R-MMU-174184,Cdc20:Phospho-APC/C mediated degradation of Cyclin A,,-3.2,10,5.8,21160,59,141,4,2.8,1.4,22190|66997|67089|217232,Ubc|Psmd12|Psmc6|Cdc27,-1.6
+hits,GO Biological Processes,19,GO:0051591,response to cAMP,19_GO:0050896 response to stimulus,-3.2,7.2,5.2,21160,104,141,5,3.5,1.6,12192|14148|14281|14282|19697,Zfp36l1|Fdx1|Fos|Fosb|Rela,-1.6
+hits,GO Biological Processes,19,GO:0001829,trophectodermal cell differentiation,19_GO:0032502 developmental process,-3.2,17,6.8,21160,26,141,3,2.1,1.2,16477|20807|74318,Junb|Srf|Hopx,-1.6
+hits,WikiPathways,27,WP3654,Novel Jun Dmp1 pathway,,-3.2,17,6.8,21160,26,141,3,2.1,1.2,14281|16476|16477,Fos|Jun|Junb,-1.6
+hits,Reactome Gene Sets,6,R-MMU-9648002,RAS processing,,-3.2,17,6.8,21160,26,141,3,2.1,1.2,12314|19671|22190,Calm2|Rce1|Ubc,-1.6
+hits,Reactome Gene Sets,6,R-MMU-450282,MAPK targets/ Nuclear events mediated by MAP kinases,,-3.2,17,6.8,21160,26,141,3,2.1,1.2,14281|16476|101568,Fos|Jun|Vrk3,-1.6
+hits,GO Biological Processes,19,GO:0046660,female sex differentiation,19_GO:0022414 reproductive process,-3.2,5.7,4.9,21160,158,141,6,4.3,1.7,12167|12608|15387|16322|16590|75410,Bmpr1b|Cebpb|Hnrnpk|Inha|Kit|Kmt2b,-1.6
+hits,Reactome Gene Sets,6,R-MMU-109581,Apoptosis,,-3.2,10,5.7,21160,60,141,4,2.8,1.4,19877|22629|22630|67013,Rock1|Ywhah|Ywhaq|Oma1,-1.6
+hits,Reactome Gene Sets,6,R-MMU-69202,Cyclin E associated events during G1/S transition,,-3.2,10,5.7,21160,60,141,4,2.8,1.4,12577|22190|66997|67089,Cdkn1c|Ubc|Psmd12|Psmc6,-1.6
+hits,Reactome Gene Sets,6,R-MMU-174178,APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1,,-3.2,10,5.7,21160,60,141,4,2.8,1.4,22190|66997|67089|217232,Ubc|Psmd12|Psmc6|Cdc27,-1.6
+hits,Reactome Gene Sets,6,R-MMU-179419,APC:Cdc20 mediated degradation of cell cycle proteins prior to satisfation of the cell cycle checkpoint,,-3.2,10,5.7,21160,60,141,4,2.8,1.4,22190|66997|67089|217232,Ubc|Psmd12|Psmc6|Cdc27,-1.6
+hits,GO Biological Processes,19,GO:0048639,positive regulation of developmental growth,19_GO:0040007 growth,-3.2,4.8,4.6,21160,220,141,7,5,1.8,15387|18186|18712|20807|56320|74318|106628,Hnrnpk|Nrp1|Pim1|Srf|Dbn1|Hopx|Trip10,-1.6
+hits,Reactome Gene Sets,6,R-MMU-8852276,The role of GTSE1 in G2/M progression after G2 checkpoint,,-3.1,9.8,5.7,21160,61,141,4,2.8,1.4,13589|22190|66997|67089,Mapre1|Ubc|Psmd12|Psmc6,-1.5
+hits,WikiPathways,27,WP1763,Mechanisms associated with pluripotency,,-3.1,4.1,4.4,21160,292,141,8,5.7,1.9,13211|14281|16600|18712|19651|19697|19877|23942,Dhx9|Fos|Klf4|Pim1|Rbl2|Rela|Rock1|Mta2,-1.5
+hits,Reactome Gene Sets,6,R-MMU-69656,Cyclin A:Cdk2-associated events at S phase entry,,-3.1,9.7,5.6,21160,62,141,4,2.8,1.4,12577|22190|66997|67089,Cdkn1c|Ubc|Psmd12|Psmc6,-1.5
+hits,Reactome Gene Sets,6,R-MMU-9755511,KEAP1-NFE2L2 pathway,,-3.1,9.7,5.6,21160,62,141,4,2.8,1.4,22190|66997|67089|217365,Ubc|Psmd12|Psmc6|Nploc4,-1.5
+hits,Reactome Gene Sets,6,R-MMU-176409,APC/C:Cdc20 mediated degradation of mitotic proteins,,-3.1,9.7,5.6,21160,62,141,4,2.8,1.4,22190|66997|67089|217232,Ubc|Psmd12|Psmc6|Cdc27,-1.5
+hits,Reactome Gene Sets,6,R-MMU-5688426,Deubiquitination,,-3.1,4.7,4.5,21160,225,141,7,5,1.8,19671|20439|22190|66997|67089|109241|110962,Rce1|Siah2|Ubc|Psmd12|Psmc6|Mbd5|Mbd6,-1.5
+hits,Reactome Gene Sets,6,R-MMU-73856,RNA Polymerase II Transcription Termination,,-3.1,9.5,5.6,21160,63,141,4,2.8,1.4,19826|20383|68134|108062,Rnps1|Srsf3|Upf3b|Cstf2,-1.5
+hits,Reactome Gene Sets,6,R-MMU-176814,Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins,,-3.1,9.5,5.6,21160,63,141,4,2.8,1.4,22190|66997|67089|217232,Ubc|Psmd12|Psmc6|Cdc27,-1.5
+hits,GO Biological Processes,19,GO:0014074,response to purine-containing compound,19_GO:0050896 response to stimulus,-3.1,5.5,4.7,21160,165,141,6,4.3,1.7,12192|14148|14281|14282|19697|68667,Zfp36l1|Fdx1|Fos|Fosb|Rela|Trpm4,-1.5
+hits,Reactome Gene Sets,6,R-MMU-2467813,Separation of Sister Chromatids,,-3,5.4,4.7,21160,167,141,6,4.3,1.7,13589|22190|66997|67089|217232|320394,Mapre1|Ubc|Psmd12|Psmc6|Cdc27|Cenpt,-1.5
+hits,Reactome Gene Sets,6,R-MMU-1834949,Cytosolic sensors of pathogen-associated DNA,,-3,16,6.4,21160,29,141,3,2.1,1.2,13211|19697|22190,Dhx9|Rela|Ubc,-1.5
+hits,Reactome Gene Sets,6,R-MMU-202424,Downstream TCR signaling,,-3,9.2,5.4,21160,65,141,4,2.8,1.4,19697|22190|66997|67089,Rela|Ubc|Psmd12|Psmc6,-1.5
+hits,KEGG Pathway,24,mmu05014,Amyotrophic lateral sclerosis - Mus musculus (house mouse),,-3,3.6,4.2,21160,375,141,9,6.4,2.1,20383|21353|53379|66997|67089|67819|68118|226977|237782,Srsf3|Tank|Hnrnpa2b1|Psmd12|Psmc6|Derl1|Atg101|Actr1b|Smcr8,-1.5
+hits,GO Biological Processes,19,GO:0045682,regulation of epidermis development,19_GO:0032502 developmental process,-3,9.1,5.4,21160,66,141,4,2.8,1.4,12192|17133|19877|22695,Zfp36l1|Maff|Rock1|Zfp36,-1.4
+hits,Reactome Gene Sets,6,R-MMU-195258,RHO GTPase Effectors,,-3,4.5,4.4,21160,234,141,7,5,1.8,12314|13589|19877|20807|22629|22630|320394,Calm2|Mapre1|Rock1|Srf|Ywhah|Ywhaq|Cenpt,-1.4
+hits,Reactome Gene Sets,6,R-MMU-201451,Signaling by BMP,,-3,15,6.3,21160,30,141,3,2.1,1.2,12167|16322|218441,Bmpr1b|Inha|Zfyve16,-1.4
+hits,GO Biological Processes,19,GO:0033119,negative regulation of RNA splicing,19_GO:0048519 negative regulation of biological process,-3,15,6.3,21160,30,141,3,2.1,1.2,15387|19826|53379,Hnrnpk|Rnps1|Hnrnpa2b1,-1.4
+hits,GO Biological Processes,19,GO:0001654,eye development,19_GO:0032502 developmental process,-3,3.3,4,21160,460,141,10,7.1,2.2,12167|12577|14281|16476|16600|18186|20807|21417|71521|74206,Bmpr1b|Cdkn1c|Fos|Jun|Klf4|Nrp1|Srf|Zeb1|Pds5a|Sipa1l3,-1.4
+hits,KEGG Pathway,24,mmu04928,"Parathyroid hormone synthesis, secretion and action - Mus musculus (house mouse)",,-3,6.5,4.8,21160,116,141,5,3.5,1.6,13653|14281|14672|14673|16478,Egr1|Fos|Gna11|Gna12|Jund,-1.4
+hits,GO Biological Processes,19,GO:0150063,visual system development,19_GO:0032502 developmental process,-3,3.2,4,21160,463,141,10,7.1,2.2,12167|12577|14281|16476|16600|18186|20807|21417|71521|74206,Bmpr1b|Cdkn1c|Fos|Jun|Klf4|Nrp1|Srf|Zeb1|Pds5a|Sipa1l3,-1.4
+hits,GO Biological Processes,19,GO:0001892,embryonic placenta development,19_GO:0032502 developmental process,-2.9,6.4,4.8,21160,117,141,5,3.5,1.6,12192|12577|12608|16477|231672,Zfp36l1|Cdkn1c|Cebpb|Junb|Fbxw8,-1.4
+hits,Reactome Gene Sets,6,R-MMU-453279,Mitotic G1 phase and G1/S transition,,-2.9,6.4,4.8,21160,117,141,5,3.5,1.6,12577|19651|22190|66997|67089,Cdkn1c|Rbl2|Ubc|Psmd12|Psmc6,-1.4
+hits,GO Biological Processes,19,GO:0007519,skeletal muscle tissue development,19_GO:0032502 developmental process,-2.9,5.1,4.5,21160,175,141,6,4.3,1.7,12227|13653|14281|17133|101568|245944,Btg2|Egr1|Fos|Maff|Vrk3|Vps54,-1.4
+hits,GO Biological Processes,19,GO:0048880,sensory system development,19_GO:0032502 developmental process,-2.9,3.2,3.9,21160,470,141,10,7.1,2.2,12167|12577|14281|16476|16600|18186|20807|21417|71521|74206,Bmpr1b|Cdkn1c|Fos|Jun|Klf4|Nrp1|Srf|Zeb1|Pds5a|Sipa1l3,-1.3
+hits,GO Biological Processes,19,GO:0051054,positive regulation of DNA metabolic process,19_GO:0048518 positive regulation of biological process,-2.9,3.8,4.1,21160,316,141,8,5.7,1.9,11785|12464|13211|16476|16600|53379|217127|245000,Apbb1|Cct4|Dhx9|Jun|Klf4|Hnrnpa2b1|Kat7|Atr,-1.3
+hits,GO Biological Processes,19,GO:0050767,regulation of neurogenesis,19_GO:0032502 developmental process,-2.9,3.2,3.9,21160,473,141,10,7.1,2.2,12227|15982|16590|18186|19697|20807|22629|24136|56320|231672,Btg2|Ifrd1|Kit|Nrp1|Rela|Srf|Ywhah|Zeb2|Dbn1|Fbxw8,-1.3
+hits,Reactome Gene Sets,6,R-MMU-68867,Assembly of the pre-replicative complex,,-2.9,8.5,5.2,21160,71,141,4,2.8,1.4,22190|66997|67089|217232,Ubc|Psmd12|Psmc6|Cdc27,-1.3
+hits,GO Biological Processes,19,GO:0048812,neuron projection morphogenesis,19_GO:0032502 developmental process,-2.9,3,3.8,21160,559,141,11,7.8,2.3,11785|12167|18186|19877|20807|23954|24136|56320|105689|232807|245944,Apbb1|Bmpr1b|Nrp1|Rock1|Srf|Nek3|Zeb2|Dbn1|Mycbp2|Ppp1r12c|Vps54,-1.3
+hits,Reactome Gene Sets,6,R-MMU-6791312,TP53 Regulates Transcription of Cell Cycle Genes,,-2.9,14,6,21160,33,141,3,2.1,1.2,12227|12577|78893,Btg2|Cdkn1c|Cnot10,-1.3
+hits,GO Biological Processes,19,GO:0030219,megakaryocyte differentiation,19_GO:0032502 developmental process,-2.9,14,6,21160,33,141,3,2.1,1.2,16590|20807|192176,Kit|Srf|Flna,-1.3
+hits,GO Biological Processes,19,GO:1901654,response to ketone,19_GO:0050896 response to stimulus,-2.9,3.8,4.1,21160,319,141,8,5.7,1.9,12227|14148|14281|14282|15387|16600|19697|245944,Btg2|Fdx1|Fos|Fosb|Hnrnpk|Klf4|Rela|Vps54,-1.3
+hits,Reactome Gene Sets,6,R-MMU-194315,Signaling by Rho GTPases,,-2.9,2.9,3.8,21160,562,141,11,7.8,2.3,12314|12874|13589|19877|20807|22319|22629|22630|69581|106628|320394,Calm2|Cpd|Mapre1|Rock1|Srf|Vamp3|Ywhah|Ywhaq|Rhou|Trip10|Cenpt,-1.3
+hits,GO Biological Processes,19,GO:0040029,epigenetic regulation of gene expression,19_GO:0050789 regulation of biological process,-2.9,3.8,4.1,21160,320,141,8,5.7,1.9,12577|13653|15387|23942|53892|75410|105203|217127,Cdkn1c|Egr1|Hnrnpk|Mta2|Ppm1d|Kmt2b|Tasor2|Kat7,-1.3
+hits,Reactome Gene Sets,6,R-MMU-174143,APC/C-mediated degradation of cell cycle proteins,,-2.8,8.2,5.1,21160,73,141,4,2.8,1.4,22190|66997|67089|217232,Ubc|Psmd12|Psmc6|Cdc27,-1.3
+hits,GO Biological Processes,19,GO:0035914,skeletal muscle cell differentiation,19_GO:0032502 developmental process,-2.8,8.2,5.1,21160,73,141,4,2.8,1.4,12227|13653|14281|17133,Btg2|Egr1|Fos|Maff,-1.3
+hits,Reactome Gene Sets,6,R-MMU-453276,Regulation of mitotic cell cycle,,-2.8,8.2,5.1,21160,73,141,4,2.8,1.4,22190|66997|67089|217232,Ubc|Psmd12|Psmc6|Cdc27,-1.3
+hits,GO Biological Processes,19,GO:0120039,plasma membrane bounded cell projection morphogenesis,19_GO:0032502 developmental process,-2.8,2.9,3.8,21160,565,141,11,7.8,2.3,11785|12167|18186|19877|20807|23954|24136|56320|105689|232807|245944,Apbb1|Bmpr1b|Nrp1|Rock1|Srf|Nek3|Zeb2|Dbn1|Mycbp2|Ppp1r12c|Vps54,-1.3
+hits,Reactome Gene Sets,6,R-MMU-5673001,RAF/MAP kinase cascade,,-2.8,4.2,4.2,21160,250,141,7,5,1.8,12314|16590|19671|22190|66997|67089|114716,Calm2|Kit|Rce1|Ubc|Psmd12|Psmc6|Spred2,-1.3
+hits,GO Biological Processes,19,GO:0006275,regulation of DNA replication,19_GO:0050789 regulation of biological process,-2.8,6.1,4.6,21160,124,141,5,3.5,1.6,13211|16476|71521|217127|245000,Dhx9|Jun|Pds5a|Kat7|Atr,-1.3
+hits,GO Biological Processes,19,GO:0043434,response to peptide hormone,19_GO:0050896 response to stimulus,-2.8,3.1,3.8,21160,482,141,10,7.1,2.2,12192|12227|13653|14281|15387|16590|19697|19877|20383|21406,Zfp36l1|Btg2|Egr1|Fos|Hnrnpk|Kit|Rela|Rock1|Srsf3|Tcf12,-1.3
+hits,GO Biological Processes,19,GO:0045927,positive regulation of growth,19_GO:0040007 growth,-2.8,3.7,4,21160,324,141,8,5.7,1.9,15387|18186|18712|20807|56320|70925|74318|106628,Hnrnpk|Nrp1|Pim1|Srf|Dbn1|Cdkn2aip|Hopx|Trip10,-1.3
+hits,GO Biological Processes,19,GO:0009755,hormone-mediated signaling pathway,19_GO:0050896 response to stimulus,-2.8,6,4.6,21160,125,141,5,3.5,1.6,15502|18712|19697|21833|22629,Dnaja1|Pim1|Rela|Thra|Ywhah,-1.3
+hits,Reactome Gene Sets,6,R-MMU-72163,mRNA Splicing - Major Pathway,,-2.8,4.9,4.3,21160,185,141,6,4.3,1.7,13211|15387|19826|20383|53379|68134,Dhx9|Hnrnpk|Rnps1|Srsf3|Hnrnpa2b1|Upf3b,-1.3
+hits,GO Biological Processes,19,GO:1901655,cellular response to ketone,19_GO:0050896 response to stimulus,-2.8,4.8,4.3,21160,186,141,6,4.3,1.7,12227|14148|14281|15387|16600|245944,Btg2|Fdx1|Fos|Hnrnpk|Klf4|Vps54,-1.3
+hits,GO Biological Processes,19,GO:0001701,in utero embryonic development,19_GO:0032502 developmental process,-2.8,2.9,3.8,21160,571,141,11,7.8,2.3,12192|12577|12608|14673|16477|17133|20807|56320|74318|231672|245944,Zfp36l1|Cdkn1c|Cebpb|Gna12|Junb|Maff|Srf|Dbn1|Hopx|Fbxw8|Vps54,-1.3
+hits,KEGG Pathway,24,mmu04071,Sphingolipid signaling pathway - Mus musculus (house mouse),,-2.8,6,4.6,21160,126,141,5,3.5,1.6,11886|14673|14739|19697|19877,Asah1|Gna12|S1pr2|Rela|Rock1,-1.3
+hits,GO Biological Processes,19,GO:2000144,positive regulation of DNA-templated transcription initiation,19_GO:0048518 positive regulation of biological process,-2.8,8,5,21160,75,141,4,2.8,1.4,16476|20807|67089|83602,Jun|Srf|Psmc6|Gtf2a1,-1.3
+hits,Reactome Gene Sets,6,R-MMU-1236975,Antigen processing-Cross presentation,,-2.8,8,5,21160,75,141,4,2.8,1.4,22319|66997|67089|240028,Vamp3|Psmd12|Psmc6|Lnpep,-1.3
+hits,GO Biological Processes,19,GO:0045616,regulation of keratinocyte differentiation,19_GO:0032502 developmental process,-2.8,13,5.8,21160,35,141,3,2.1,1.2,12192|19877|22695,Zfp36l1|Rock1|Zfp36,-1.3
+hits,GO Biological Processes,19,GO:0150117,positive regulation of cell-substrate junction organization,19_GO:0048518 positive regulation of biological process,-2.8,13,5.8,21160,35,141,3,2.1,1.2,18186|19877|212307,Nrp1|Rock1|Mapre2,-1.3
+hits,GO Biological Processes,19,GO:0051276,chromosome organization,19_GO:0009987 cellular process,-2.8,3.1,3.8,21160,489,141,10,7.1,2.2,13211|13589|23942|53379|67241|71521|76789|192176|245000|320394,Dhx9|Mapre1|Mta2|Hnrnpa2b1|Smc6|Pds5a|Mzt1|Flna|Atr|Cenpt,-1.3
+hits,GO Biological Processes,19,GO:0097306,cellular response to alcohol,19_GO:0050896 response to stimulus,-2.8,4.8,4.3,21160,188,141,6,4.3,1.7,12227|14148|14281|15387|16600|52857,Btg2|Fdx1|Fos|Hnrnpk|Klf4|Gramd1a,-1.3
+hits,GO Biological Processes,19,GO:0048858,cell projection morphogenesis,19_GO:0032502 developmental process,-2.8,2.9,3.7,21160,575,141,11,7.8,2.3,11785|12167|18186|19877|20807|23954|24136|56320|105689|232807|245944,Apbb1|Bmpr1b|Nrp1|Rock1|Srf|Nek3|Zeb2|Dbn1|Mycbp2|Ppp1r12c|Vps54,-1.3
+hits,GO Biological Processes,19,GO:0045596,negative regulation of cell differentiation,19_GO:0048519 negative regulation of biological process,-2.8,2.6,3.6,21160,756,141,13,9.2,2.4,11785|12192|12227|12703|15982|16998|18186|21417|22629|22695|68667|74318|114716,Apbb1|Zfp36l1|Btg2|Socs1|Ifrd1|Ltbp3|Nrp1|Zeb1|Ywhah|Zfp36|Trpm4|Hopx|Spred2,-1.3
+hits,Reactome Gene Sets,6,R-MMU-5684996,MAPK1/MAPK3 signaling,,-2.8,4.1,4.1,21160,256,141,7,5,1.8,12314|16590|19671|22190|66997|67089|114716,Calm2|Kit|Rce1|Ubc|Psmd12|Psmc6|Spred2,-1.2
+hits,GO Biological Processes,19,GO:0008285,negative regulation of cell population proliferation,19_GO:0048519 negative regulation of biological process,-2.8,2.6,3.6,21160,757,141,13,9.2,2.4,12167|12227|12577|12608|12703|14673|14739|16476|16600|20807|21417|68118|338467,Bmpr1b|Btg2|Cdkn1c|Cebpb|Socs1|Gna12|S1pr2|Jun|Klf4|Srf|Zeb1|Atg101|Morc3,-1.2
+hits,GO Biological Processes,19,GO:0043523,regulation of neuron apoptotic process,19_GO:0050789 regulation of biological process,-2.8,3.6,4,21160,330,141,8,5.7,1.9,12227|12369|12608|13653|16476|18186|19877|245944,Btg2|Casp7|Cebpb|Egr1|Jun|Nrp1|Rock1|Vps54,-1.2
+hits,Reactome Gene Sets,6,R-MMU-9716542,"Signaling by Rho GTPases, Miro GTPases and RHOBTB3",,-2.8,2.9,3.7,21160,577,141,11,7.8,2.3,12314|12874|13589|19877|20807|22319|22629|22630|69581|106628|320394,Calm2|Cpd|Mapre1|Rock1|Srf|Vamp3|Ywhah|Ywhaq|Rhou|Trip10|Cenpt,-1.2
+hits,GO Biological Processes,19,GO:0060538,skeletal muscle organ development,19_GO:0032502 developmental process,-2.8,4.7,4.2,21160,190,141,6,4.3,1.7,12227|13653|14281|17133|101568|245944,Btg2|Egr1|Fos|Maff|Vrk3|Vps54,-1.2
+hits,Reactome Gene Sets,6,R-MMU-69052,Switching of origins to a post-replicative state,,-2.8,7.8,4.9,21160,77,141,4,2.8,1.4,22190|66997|67089|217232,Ubc|Psmd12|Psmc6|Cdc27,-1.2
+hits,GO Biological Processes,19,GO:0071347,cellular response to interleukin-1,19_GO:0050896 response to stimulus,-2.8,7.8,4.9,21160,77,141,4,2.8,1.4,12608|13653|19697|21353,Cebpb|Egr1|Rela|Tank,-1.2
+hits,Reactome Gene Sets,6,R-MMU-2173789,TGF-beta receptor signaling activates SMADs,,-2.8,13,5.7,21160,36,141,3,2.1,1.2,16998|22190|320910,Ltbp3|Ubc|Itgb8,-1.2
+hits,Reactome Gene Sets,6,R-MMU-2559580,Oxidative Stress Induced Senescence,,-2.8,13,5.7,21160,36,141,3,2.1,1.2,14281|16476|22190,Fos|Jun|Ubc,-1.2
+hits,Reactome Gene Sets,6,R-MMU-72203,Processing of Capped Intron-Containing Pre-mRNA,,-2.7,4.1,4.1,21160,259,141,7,5,1.8,13211|15387|19826|20383|53379|68134|108062,Dhx9|Hnrnpk|Rnps1|Srsf3|Hnrnpa2b1|Upf3b|Cstf2,-1.2
+hits,Reactome Gene Sets,6,R-MMU-72172,mRNA Splicing,,-2.7,4.7,4.2,21160,191,141,6,4.3,1.7,13211|15387|19826|20383|53379|68134,Dhx9|Hnrnpk|Rnps1|Srsf3|Hnrnpa2b1|Upf3b,-1.2
+hits,GO Biological Processes,19,GO:0051960,regulation of nervous system development,19_GO:0032502 developmental process,-2.7,2.8,3.7,21160,581,141,11,7.8,2.3,12227|15387|15982|16590|18186|19697|20807|22629|24136|56320|231672,Btg2|Hnrnpk|Ifrd1|Kit|Nrp1|Rela|Srf|Ywhah|Zeb2|Dbn1|Fbxw8,-1.2
+hits,GO Biological Processes,19,GO:0008306,associative learning,19_GO:0032501 multicellular organismal process,-2.7,5.8,4.5,21160,130,141,5,3.5,1.6,12227|14281|16590|20807|195018,Btg2|Fos|Kit|Srf|Zzef1,-1.2
+hits,Reactome Gene Sets,6,R-MMU-1640170,Cell Cycle,,-2.7,2.8,3.7,21160,582,141,11,7.8,2.3,12577|13589|19651|22190|22629|22630|66997|67089|76789|217232|320394,Cdkn1c|Mapre1|Rbl2|Ubc|Ywhah|Ywhaq|Psmd12|Psmc6|Mzt1|Cdc27|Cenpt,-1.2
+hits,GO Biological Processes,19,GO:0043010,camera-type eye development,19_GO:0032502 developmental process,-2.7,3.3,3.8,21160,413,141,9,6.4,2.1,12167|12577|14281|16476|16600|18186|20807|21417|71521,Bmpr1b|Cdkn1c|Fos|Jun|Klf4|Nrp1|Srf|Zeb1|Pds5a,-1.2
+hits,GO Biological Processes,19,GO:0060260,regulation of transcription initiation by RNA polymerase II,19_GO:0050789 regulation of biological process,-2.7,7.7,4.9,21160,78,141,4,2.8,1.4,20807|21833|67089|83602,Srf|Thra|Psmc6|Gtf2a1,-1.2
+hits,Reactome Gene Sets,6,R-MMU-8856828,Clathrin-mediated endocytosis,,-2.7,5.7,4.4,21160,131,141,5,3.5,1.6,19707|20405|22190|22319|106628,Reps1|Sh3gl1|Ubc|Vamp3|Trip10,-1.2
+hits,Reactome Gene Sets,6,R-MMU-69242,S Phase,,-2.7,5.7,4.4,21160,131,141,5,3.5,1.6,12577|22190|66997|67089|217232,Cdkn1c|Ubc|Psmd12|Psmc6|Cdc27,-1.2
+hits,GO Biological Processes,19,GO:0010631,epithelial cell migration,19_GO:0032501 multicellular organismal process,-2.7,12,5.6,21160,37,141,3,2.1,1.2,16590|19877|24136,Kit|Rock1|Zeb2,-1.2
+hits,Reactome Gene Sets,6,R-MMU-75815,Ubiquitin-dependent degradation of Cyclin D,,-2.7,12,5.6,21160,37,141,3,2.1,1.2,22190|66997|67089,Ubc|Psmd12|Psmc6,-1.2
+hits,GO Biological Processes,19,GO:0032206,positive regulation of telomere maintenance,19_GO:0048518 positive regulation of biological process,-2.7,7.6,4.8,21160,79,141,4,2.8,1.4,12464|16600|53379|245000,Cct4|Klf4|Hnrnpa2b1|Atr,-1.2
+hits,GO Biological Processes,19,GO:0048168,regulation of neuronal synaptic plasticity,19_GO:0050789 regulation of biological process,-2.7,7.6,4.8,21160,79,141,4,2.8,1.4,11838|13653|16590|240028,Arc|Egr1|Kit|Lnpep,-1.2
+hits,Reactome Gene Sets,6,R-MMU-6807070,PTEN Regulation,,-2.7,7.6,4.8,21160,79,141,4,2.8,1.4,22190|23942|66997|67089,Ubc|Mta2|Psmd12|Psmc6,-1.2
+hits,GO Biological Processes,19,GO:0141091,transforming growth factor beta receptor superfamily signaling pathway,19_GO:0050896 response to stimulus,-2.7,4.6,4.2,21160,194,141,6,4.3,1.7,12167|13653|14281|16476|16998|320910,Bmpr1b|Egr1|Fos|Jun|Ltbp3|Itgb8,-1.2
+hits,Reactome Gene Sets,6,R-MMU-349425,Autodegradation of the E3 ubiquitin ligase COP1,,-2.7,12,5.5,21160,38,141,3,2.1,1.2,22190|66997|67089,Ubc|Psmd12|Psmc6,-1.2
+hits,Reactome Gene Sets,6,R-MMU-110313,Translesion synthesis by Y family DNA polymerases bypasses lesions on DNA template,,-2.7,12,5.5,21160,38,141,3,2.1,1.2,22190|68098|217365,Ubc|Rchy1|Nploc4,-1.2
+hits,Reactome Gene Sets,6,R-MMU-69610,p53-Independent DNA Damage Response,,-2.7,12,5.5,21160,38,141,3,2.1,1.2,22190|66997|67089,Ubc|Psmd12|Psmc6,-1.2
+hits,Reactome Gene Sets,6,R-MMU-69613,p53-Independent G1/S DNA damage checkpoint,,-2.7,12,5.5,21160,38,141,3,2.1,1.2,22190|66997|67089,Ubc|Psmd12|Psmc6,-1.2
+hits,Reactome Gene Sets,6,R-MMU-69601,Ubiquitin Mediated Degradation of Phosphorylated Cdc25A,,-2.7,12,5.5,21160,38,141,3,2.1,1.2,22190|66997|67089,Ubc|Psmd12|Psmc6,-1.2
+hits,GO Biological Processes,19,GO:0034655,nucleobase-containing compound catabolic process,19_GO:0009987 cellular process,-2.7,3.5,3.8,21160,341,141,8,5.7,1.9,12192|19826|22695|68134|69724|78893|245944|330474,Zfp36l1|Rnps1|Zfp36|Upf3b|Rnaseh2a|Cnot10|Vps54|Zc3h4,-1.2
+hits,GO Biological Processes,19,GO:0051052,regulation of DNA metabolic process,19_GO:0050789 regulation of biological process,-2.7,3,3.7,21160,505,141,10,7.1,2.2,11785|12464|13211|16476|16600|27878|53379|71521|217127|245000,Apbb1|Cct4|Dhx9|Jun|Klf4|Tada1|Hnrnpa2b1|Pds5a|Kat7|Atr,-1.2
+hits,GO Biological Processes,19,GO:0001890,placenta development,19_GO:0032502 developmental process,-2.7,4.5,4.1,21160,198,141,6,4.3,1.7,12192|12577|12608|16477|70248|231672,Zfp36l1|Cdkn1c|Cebpb|Junb|Dazap1|Fbxw8,-1.2
+hits,Reactome Gene Sets,6,R-MMU-202403,TCR signaling,,-2.7,7.3,4.7,21160,82,141,4,2.8,1.4,19697|22190|66997|67089,Rela|Ubc|Psmd12|Psmc6,-1.2
+hits,GO Biological Processes,19,GO:0141193,nuclear receptor-mediated signaling pathway,19_GO:0050896 response to stimulus,-2.7,7.3,4.7,21160,82,141,4,2.8,1.4,15502|18712|21833|22629,Dnaja1|Pim1|Thra|Ywhah,-1.2
+hits,GO Biological Processes,19,GO:0048169,regulation of long-term neuronal synaptic plasticity,19_GO:0050789 regulation of biological process,-2.7,12,5.4,21160,39,141,3,2.1,1.2,13653|16590|240028,Egr1|Kit|Lnpep,-1.2
+hits,GO Biological Processes,19,GO:0051216,cartilage development,19_GO:0032502 developmental process,-2.6,4.5,4.1,21160,200,141,6,4.3,1.7,12167|16998|20807|21417|21833|320910,Bmpr1b|Ltbp3|Srf|Zeb1|Thra|Itgb8,-1.1
+hits,GO Biological Processes,19,GO:0009612,response to mechanical stimulus,19_GO:0050896 response to stimulus,-2.6,3.9,3.9,21160,270,141,7,5,1.8,12227|14281|14282|16476|16590|19697|245000,Btg2|Fos|Fosb|Jun|Kit|Rela|Atr,-1.1
+hits,GO Biological Processes,19,GO:0006402,mRNA catabolic process,19_GO:0048519 negative regulation of biological process,-2.6,5.5,4.3,21160,137,141,5,3.5,1.6,12192|19826|22695|68134|78893,Zfp36l1|Rnps1|Zfp36|Upf3b|Cnot10,-1.1
+hits,Reactome Gene Sets,6,R-MMU-68882,Mitotic Anaphase,,-2.6,4.5,4,21160,202,141,6,4.3,1.7,13589|22190|66997|67089|217232|320394,Mapre1|Ubc|Psmd12|Psmc6|Cdc27|Cenpt,-1.1
+hits,Reactome Gene Sets,6,R-MMU-8854050,FBXL7 down-regulates AURKA during mitotic entry and in early mitosis,,-2.6,11,5.3,21160,40,141,3,2.1,1.2,22190|66997|67089,Ubc|Psmd12|Psmc6,-1.1
+hits,Reactome Gene Sets,6,R-MMU-8939902,Regulation of RUNX2 expression and activity,,-2.6,11,5.3,21160,40,141,3,2.1,1.2,22190|66997|67089,Ubc|Psmd12|Psmc6,-1.1
+hits,Reactome Gene Sets,6,R-MMU-9762114,GSK3B and BTRC:CUL1-mediated-degradation of NFE2L2,,-2.6,11,5.3,21160,40,141,3,2.1,1.2,22190|66997|67089,Ubc|Psmd12|Psmc6,-1.1
+hits,GO Biological Processes,19,GO:0090132,epithelium migration,19_GO:0032501 multicellular organismal process,-2.6,11,5.3,21160,40,141,3,2.1,1.2,16590|19877|24136,Kit|Rock1|Zeb2,-1.1
+hits,Reactome Gene Sets,6,R-MMU-2555396,Mitotic Metaphase and Anaphase,,-2.6,4.4,4,21160,203,141,6,4.3,1.7,13589|22190|66997|67089|217232|320394,Mapre1|Ubc|Psmd12|Psmc6|Cdc27|Cenpt,-1.1
+hits,GO Biological Processes,19,GO:0061448,connective tissue development,19_GO:0032502 developmental process,-2.6,3.8,3.9,21160,274,141,7,5,1.8,12167|13653|16998|20807|21417|21833|320910,Bmpr1b|Egr1|Ltbp3|Srf|Zeb1|Thra|Itgb8,-1.1
+hits,KEGG Pathway,24,mmu04910,Insulin signaling pathway - Mus musculus (house mouse),,-2.6,5.4,4.2,21160,140,141,5,3.5,1.6,12314|12703|17346|17347|106628,Calm2|Socs1|Mknk1|Mknk2|Trip10,-1.1
+hits,Reactome Gene Sets,6,R-MMU-3700989,Transcriptional Regulation by TP53,,-2.6,3.8,3.9,21160,275,141,7,5,1.8,12227|12577|22190|22629|22630|23942|78893,Btg2|Cdkn1c|Ubc|Ywhah|Ywhaq|Mta2|Cnot10,-1.1
+hits,Reactome Gene Sets,6,R-MMU-382556,ABC-family proteins mediated transport,,-2.6,7.1,4.6,21160,85,141,4,2.8,1.4,22190|66997|67089|67819,Ubc|Psmd12|Psmc6|Derl1,-1.1
+hits,Reactome Gene Sets,6,R-MMU-9020702,Interleukin-1 signaling,,-2.6,7.1,4.6,21160,85,141,4,2.8,1.4,19697|22190|66997|67089,Rela|Ubc|Psmd12|Psmc6,-1.1
+hits,Reactome Gene Sets,6,R-MMU-4641257,Degradation of AXIN,,-2.6,11,5.2,21160,41,141,3,2.1,1.2,22190|66997|67089,Ubc|Psmd12|Psmc6,-1.1
+hits,Reactome Gene Sets,6,R-MMU-5610780,Degradation of GLI1 by the proteasome,,-2.6,11,5.2,21160,41,141,3,2.1,1.2,22190|66997|67089,Ubc|Psmd12|Psmc6,-1.1
+hits,GO Biological Processes,19,GO:0045601,regulation of endothelial cell differentiation,19_GO:0032502 developmental process,-2.6,11,5.2,21160,41,141,3,2.1,1.2,14739|19877|21417,S1pr2|Rock1|Zeb1,-1.1
+hits,GO Biological Processes,19,GO:1900026,positive regulation of substrate adhesion-dependent cell spreading,19_GO:0048518 positive regulation of biological process,-2.6,11,5.2,21160,41,141,3,2.1,1.2,18186|56320|192176,Nrp1|Dbn1|Flna,-1.1
+hits,GO Biological Processes,19,GO:0022411,cellular component disassembly,19_GO:0009987 cellular process,-2.6,3.8,3.8,21160,277,141,7,5,1.8,12314|16865|17957|20405|68098|245000|245944,Calm2|Eif2d|Napb|Sh3gl1|Rchy1|Atr|Vps54,-1.1
+hits,GO Biological Processes,19,GO:0032479,regulation of type I interferon production,19_GO:0032501 multicellular organismal process,-2.6,5.3,4.2,21160,142,141,5,3.5,1.6,13211|21353|66878|217365|338467,Dhx9|Tank|Riok3|Nploc4|Morc3,-1.1
+hits,Reactome Gene Sets,6,R-MMU-5683057,MAPK family signaling cascades,,-2.6,3.8,3.8,21160,279,141,7,5,1.8,12314|16590|19671|22190|66997|67089|114716,Calm2|Kit|Rce1|Ubc|Psmd12|Psmc6|Spred2,-1.1
+hits,Reactome Gene Sets,6,R-MMU-69002,DNA Replication Pre-Initiation,,-2.6,6.9,4.5,21160,87,141,4,2.8,1.4,22190|66997|67089|217232,Ubc|Psmd12|Psmc6|Cdc27,-1.1
+hits,Reactome Gene Sets,6,R-MMU-69541,Stabilization of p53,,-2.6,11,5.2,21160,42,141,3,2.1,1.2,22190|66997|67089,Ubc|Psmd12|Psmc6,-1.1
+hits,Reactome Gene Sets,6,R-MMU-69231,Cyclin D associated events in G1,,-2.6,11,5.2,21160,42,141,3,2.1,1.2,12577|19651|22190,Cdkn1c|Rbl2|Ubc,-1.1
+hits,Reactome Gene Sets,6,R-MMU-8941858,Regulation of RUNX3 expression and activity,,-2.6,11,5.2,21160,42,141,3,2.1,1.2,22190|66997|67089,Ubc|Psmd12|Psmc6,-1.1
+hits,Reactome Gene Sets,6,R-MMU-69236,G1 Phase,,-2.6,11,5.2,21160,42,141,3,2.1,1.2,12577|19651|22190,Cdkn1c|Rbl2|Ubc,-1.1
+hits,Reactome Gene Sets,6,R-MMU-450408,AUF1 (hnRNP D0) binds and destabilizes mRNA,,-2.6,11,5.2,21160,42,141,3,2.1,1.2,22190|66997|67089,Ubc|Psmd12|Psmc6,-1.1
+hits,GO Biological Processes,19,GO:1904358,positive regulation of telomere maintenance via telomere lengthening,19_GO:0048518 positive regulation of biological process,-2.6,11,5.2,21160,42,141,3,2.1,1.2,12464|53379|245000,Cct4|Hnrnpa2b1|Atr,-1.1
+hits,KEGG Pathway,24,mmu04270,Vascular smooth muscle contraction - Mus musculus (house mouse),,-2.6,5.2,4.2,21160,144,141,5,3.5,1.6,12314|14672|14673|19877|232807,Calm2|Gna11|Gna12|Rock1|Ppp1r12c,-1.1
+hits,Reactome Gene Sets,6,R-MMU-69481,G2/M Checkpoints,,-2.6,5.2,4.2,21160,144,141,5,3.5,1.6,22190|22629|22630|66997|67089,Ubc|Ywhah|Ywhaq|Psmd12|Psmc6,-1.1
+hits,GO Biological Processes,19,GO:0007178,cell surface receptor protein serine/threonine kinase signaling pathway,19_GO:0050896 response to stimulus,-2.5,4.3,3.9,21160,210,141,6,4.3,1.7,12167|13653|14281|16476|16998|320910,Bmpr1b|Egr1|Fos|Jun|Ltbp3|Itgb8,-1.1
+hits,GO Biological Processes,19,GO:0022604,regulation of cell morphogenesis,19_GO:0032502 developmental process,-2.5,3.7,3.8,21160,283,141,7,5,1.8,11838|14673|15387|16590|56320|69581|231672,Arc|Gna12|Hnrnpk|Kit|Dbn1|Rhou|Fbxw8,-1.1
+hits,Reactome Gene Sets,6,R-MMU-5676590,NIK-->noncanonical NF-kB signaling,,-2.5,10,5.1,21160,43,141,3,2.1,1.2,22190|66997|67089,Ubc|Psmd12|Psmc6,-1.1
+hits,Reactome Gene Sets,6,R-MMU-5610785,GLI3 is processed to GLI3R by the proteasome,,-2.5,10,5.1,21160,43,141,3,2.1,1.2,22190|66997|67089,Ubc|Psmd12|Psmc6,-1.1
+hits,Reactome Gene Sets,6,R-MMU-5607761,Dectin-1 mediated noncanonical NF-kB signaling,,-2.5,10,5.1,21160,43,141,3,2.1,1.2,22190|66997|67089,Ubc|Psmd12|Psmc6,-1.1
+hits,Reactome Gene Sets,6,R-MMU-6811440,Retrograde transport at the Trans-Golgi-Network,,-2.5,10,5.1,21160,43,141,3,2.1,1.2,17957|22319|245944,Napb|Vamp3|Vps54,-1.1
+hits,Reactome Gene Sets,6,R-MMU-4641258,Degradation of DVL,,-2.5,10,5.1,21160,43,141,3,2.1,1.2,22190|66997|67089,Ubc|Psmd12|Psmc6,-1.1
+hits,GO Biological Processes,19,GO:0030307,positive regulation of cell growth,19_GO:0040007 growth,-2.5,4.3,3.9,21160,211,141,6,4.3,1.7,15387|18186|20807|56320|70925|106628,Hnrnpk|Nrp1|Srf|Dbn1|Cdkn2aip|Trip10,-1.1
+hits,Reactome Gene Sets,6,R-MMU-1280215,Cytokine Signaling in Immune system,,-2.5,3,3.6,21160,444,141,9,6.4,2.1,12703|13211|14281|16476|19697|22190|66997|67089|101568,Socs1|Dhx9|Fos|Jun|Rela|Ubc|Psmd12|Psmc6|Vrk3,-1.1
+hits,GO Biological Processes,19,GO:1901875,positive regulation of post-translational protein modification,19_GO:0048518 positive regulation of biological process,-2.5,5.1,4.1,21160,146,141,5,3.5,1.6,13653|21353|67819|68098|105689,Egr1|Tank|Derl1|Rchy1|Mycbp2,-1.1
+hits,GO Biological Processes,19,GO:0008406,gonad development,19_GO:0022414 reproductive process,-2.5,3.7,3.8,21160,284,141,7,5,1.8,12167|12608|15387|16322|16590|75410|192176,Bmpr1b|Cebpb|Hnrnpk|Inha|Kit|Kmt2b|Flna,-1.1
+hits,GO Biological Processes,19,GO:2000736,regulation of stem cell differentiation,19_GO:0032502 developmental process,-2.5,6.7,4.4,21160,90,141,4,2.8,1.4,16998|22695|23942|72843,Ltbp3|Zfp36|Mta2|Prdm4,-1
+hits,GO Biological Processes,19,GO:0001570,vasculogenesis,19_GO:0032502 developmental process,-2.5,6.7,4.4,21160,90,141,4,2.8,1.4,12192|16477|18186|320910,Zfp36l1|Junb|Nrp1|Itgb8,-1
+hits,KEGG Pathway,24,mmu04912,GnRH signaling pathway - Mus musculus (house mouse),,-2.5,6.7,4.4,21160,90,141,4,2.8,1.4,12314|13653|14672|16476,Calm2|Egr1|Gna11|Jun,-1
+hits,Reactome Gene Sets,6,R-MMU-9759194,Nuclear events mediated by NFE2L2,,-2.5,10,5,21160,44,141,3,2.1,1.2,22190|66997|67089,Ubc|Psmd12|Psmc6,-1
+hits,KEGG Pathway,24,mmu05418,Fluid shear stress and atherosclerosis - Mus musculus (house mouse),,-2.5,5.1,4.1,21160,148,141,5,3.5,1.6,12167|12314|14281|16476|19697,Bmpr1b|Calm2|Fos|Jun|Rela,-1
+hits,GO Biological Processes,19,GO:0030036,actin cytoskeleton organization,19_GO:0009987 cellular process,-2.5,2.8,3.5,21160,535,141,10,7.1,2.2,12340|14739|16590|19877|20807|24136|56320|67252|69581|192176,Capza1|S1pr2|Kit|Rock1|Srf|Zeb2|Dbn1|Cap2|Rhou|Flna,-1
+hits,GO Biological Processes,19,GO:0080135,regulation of cellular response to stress,19_GO:0050896 response to stimulus,-2.5,2.8,3.5,21160,536,141,10,7.1,2.2,11785|13211|15387|15502|16600|27878|114716|192176|217127|245000,Apbb1|Dhx9|Hnrnpk|Dnaja1|Klf4|Tada1|Spred2|Flna|Kat7|Atr,-1
+hits,GO Biological Processes,19,GO:0021543,pallium development,19_GO:0032502 developmental process,-2.5,4.2,3.8,21160,215,141,6,4.3,1.7,12227|14281|15387|20807|24136|192176,Btg2|Fos|Hnrnpk|Srf|Zeb2|Flna,-1
+hits,GO Biological Processes,19,GO:0015931,nucleobase-containing compound transport,19_GO:0051179 localization,-2.5,4.2,3.8,21160,215,141,6,4.3,1.7,11838|12192|13211|20383|22695|53379,Arc|Zfp36l1|Dhx9|Srsf3|Zfp36|Hnrnpa2b1,-1
+hits,GO Biological Processes,19,GO:0045137,development of primary sexual characteristics,19_GO:0022414 reproductive process,-2.5,3.6,3.7,21160,288,141,7,5,1.8,12167|12608|15387|16322|16590|75410|192176,Bmpr1b|Cebpb|Hnrnpk|Inha|Kit|Kmt2b|Flna,-1
+hits,GO Biological Processes,19,GO:0071383,cellular response to steroid hormone stimulus,19_GO:0050896 response to stimulus,-2.5,5,4,21160,149,141,5,3.5,1.6,12192|15502|22629|22695|245944,Zfp36l1|Dnaja1|Ywhah|Zfp36|Vps54,-1
+hits,GO Biological Processes,19,GO:0032868,response to insulin,19_GO:0050896 response to stimulus,-2.5,3.6,3.7,21160,289,141,7,5,1.8,12192|13653|14281|15387|16590|19697|20383,Zfp36l1|Egr1|Fos|Hnrnpk|Kit|Rela|Srsf3,-1
+hits,WikiPathways,27,WP385,Myometrial relaxation and contraction pathways,,-2.5,5,4,21160,150,141,5,3.5,1.6,14281|16476|17133|22629|22630,Fos|Jun|Maff|Ywhah|Ywhaq,-1
+hits,KEGG Pathway,24,mmu05417,Lipid and atherosclerosis - Mus musculus (house mouse),,-2.5,4.1,3.8,21160,217,141,6,4.3,1.7,12314|12369|14281|16476|19697|21353,Calm2|Casp7|Fos|Jun|Rela|Tank,-1
+hits,GO Biological Processes,19,GO:0045598,regulation of fat cell differentiation,19_GO:0032502 developmental process,-2.5,5,4,21160,151,141,5,3.5,1.6,12192|12608|18712|22695|68667,Zfp36l1|Cebpb|Pim1|Zfp36|Trpm4,-1
+hits,GO Biological Processes,19,GO:0051090,regulation of DNA-binding transcription factor activity,19_GO:0050789 regulation of biological process,-2.5,3.2,3.6,21160,371,141,8,5.7,1.9,13211|15982|16590|16600|18712|19697|20807|192176,Dhx9|Ifrd1|Kit|Klf4|Pim1|Rela|Srf|Flna,-1
+hits,GO Biological Processes,19,GO:0007565,female pregnancy,19_GO:0022414 reproductive process,-2.5,4.1,3.8,21160,219,141,6,4.3,1.7,14281|14282|16477|26357|70248|245000,Fos|Fosb|Junb|Abcg2|Dazap1|Atr,-1
+hits,GO Biological Processes,19,GO:0048608,reproductive structure development,19_GO:0022414 reproductive process,-2.5,3.2,3.5,21160,372,141,8,5.7,1.9,12167|12577|12608|15387|16322|16590|75410|192176,Bmpr1b|Cdkn1c|Cebpb|Hnrnpk|Inha|Kit|Kmt2b|Flna,-1
+hits,WikiPathways,27,WP310,mRNA processing,,-2.5,3,3.5,21160,456,141,9,6.4,2.1,13211|15387|16865|19826|20383|53379|69724|70248|108062,Dhx9|Hnrnpk|Eif2d|Rnps1|Srsf3|Hnrnpa2b1|Rnaseh2a|Dazap1|Cstf2,-1
+hits,GO Biological Processes,19,GO:0001558,regulation of cell growth,19_GO:0040007 growth,-2.5,3,3.5,21160,456,141,9,6.4,2.1,15387|15982|18186|20807|56320|70925|72843|106628|217127,Hnrnpk|Ifrd1|Nrp1|Srf|Dbn1|Cdkn2aip|Prdm4|Trip10|Kat7,-1
+hits,Reactome Gene Sets,6,R-MMU-69206,G1/S Transition,,-2.4,6.4,4.3,21160,94,141,4,2.8,1.4,12577|22190|66997|67089,Cdkn1c|Ubc|Psmd12|Psmc6,-0.99
+hits,KEGG Pathway,24,mmu04921,Oxytocin signaling pathway - Mus musculus (house mouse),,-2.4,4.9,4,21160,153,141,5,3.5,1.6,12314|14281|16476|19877|232807,Calm2|Fos|Jun|Rock1|Ppp1r12c,-0.99
+hits,GO Biological Processes,19,GO:0043524,negative regulation of neuron apoptotic process,19_GO:0048519 negative regulation of biological process,-2.4,4.1,3.8,21160,221,141,6,4.3,1.7,12227|12608|16476|18186|19877|245944,Btg2|Cebpb|Jun|Nrp1|Rock1|Vps54,-0.98
+hits,GO Biological Processes,19,GO:0006417,regulation of translation,19_GO:0050789 regulation of biological process,-2.4,3.2,3.5,21160,375,141,8,5.7,1.9,12192|12227|13211|17346|17347|22695|68134|78893,Zfp36l1|Btg2|Dhx9|Mknk1|Mknk2|Zfp36|Upf3b|Cnot10,-0.98
+hits,KEGG Pathway,24,mmu04120,Ubiquitin mediated proteolysis - Mus musculus (house mouse),,-2.4,4.9,4,21160,154,141,5,3.5,1.6,12703|22190|68098|217232|231672,Socs1|Ubc|Rchy1|Cdc27|Fbxw8,-0.98
+hits,KEGG Pathway,24,mmu05200,Pathways in cancer - Mus musculus (house mouse),,-2.4,2.7,3.4,21160,548,141,10,7.1,2.2,12314|12369|14281|14672|14673|16476|16590|18712|19697|19877,Calm2|Casp7|Fos|Gna11|Gna12|Jun|Kit|Pim1|Rela|Rock1,-0.98
+hits,GO Biological Processes,19,GO:0061014,positive regulation of mRNA catabolic process,19_GO:0048519 negative regulation of biological process,-2.4,6.3,4.3,21160,95,141,4,2.8,1.4,12192|12227|19877|22695,Zfp36l1|Btg2|Rock1|Zfp36,-0.98
+hits,Reactome Gene Sets,6,R-MMU-8856825,Cargo recognition for clathrin-mediated endocytosis,,-2.4,6.3,4.3,21160,95,141,4,2.8,1.4,19707|20405|22190|22319,Reps1|Sh3gl1|Ubc|Vamp3,-0.98
+hits,Reactome Gene Sets,6,R-MMU-73893,DNA Damage Bypass,,-2.4,9.6,4.8,21160,47,141,3,2.1,1.2,22190|68098|217365,Ubc|Rchy1|Nploc4,-0.98
+hits,WikiPathways,27,WP108,Selenium metabolism selenoproteins,,-2.4,9.6,4.8,21160,47,141,3,2.1,1.2,14281|16476|19697,Fos|Jun|Rela,-0.98
+hits,GO Biological Processes,19,GO:0048066,developmental pigmentation,19_GO:0043473 pigmentation,-2.4,9.6,4.8,21160,47,141,3,2.1,1.2,14672|16590|24136,Gna11|Kit|Zeb2,-0.98
+hits,GO Biological Processes,19,GO:0090130,tissue migration,19_GO:0032501 multicellular organismal process,-2.4,9.6,4.8,21160,47,141,3,2.1,1.2,16590|19877|24136,Kit|Rock1|Zeb2,-0.98
+hits,GO Biological Processes,19,GO:0061458,reproductive system development,19_GO:0032502 developmental process,-2.4,3.2,3.5,21160,377,141,8,5.7,1.9,12167|12577|12608|15387|16322|16590|75410|192176,Bmpr1b|Cdkn1c|Cebpb|Hnrnpk|Inha|Kit|Kmt2b|Flna,-0.97
+hits,KEGG Pathway,24,mmu05167,Kaposi sarcoma-associated herpesvirus infection - Mus musculus (house mouse),,-2.4,4,3.7,21160,223,141,6,4.3,1.7,12314|14281|16476|19697|22190|22695,Calm2|Fos|Jun|Rela|Ubc|Zfp36,-0.97
+hits,GO Biological Processes,19,GO:0061515,myeloid cell development,19_GO:0032502 developmental process,-2.4,6.3,4.2,21160,96,141,4,2.8,1.4,12608|16590|20807|192176,Cebpb|Kit|Srf|Flna,-0.97
+hits,KEGG Pathway,24,mmu05030,Cocaine addiction - Mus musculus (house mouse),,-2.4,9.4,4.8,21160,48,141,3,2.1,1.2,14282|16476|19697,Fosb|Jun|Rela,-0.96
+hits,Reactome Gene Sets,6,R-MMU-5654736,Signaling by FGFR1,,-2.4,9.4,4.8,21160,48,141,3,2.1,1.2,17346|22190|114716,Mknk1|Ubc|Spred2,-0.96
+hits,Reactome Gene Sets,6,R-MMU-4608870,Asymmetric localization of PCP proteins,,-2.4,9.4,4.8,21160,48,141,3,2.1,1.2,22190|66997|67089,Ubc|Psmd12|Psmc6,-0.96
+hits,GO Biological Processes,19,GO:0071364,cellular response to epidermal growth factor stimulus,19_GO:0050896 response to stimulus,-2.4,9.4,4.8,21160,48,141,3,2.1,1.2,12192|14281|22695,Zfp36l1|Fos|Zfp36,-0.96
+hits,GO Biological Processes,19,GO:0031346,positive regulation of cell projection organization,19_GO:0048518 positive regulation of biological process,-2.4,2.9,3.4,21160,465,141,9,6.4,2.1,11785|15387|16590|18186|20807|24136|56320|192176|231672,Apbb1|Hnrnpk|Kit|Nrp1|Srf|Zeb2|Dbn1|Flna|Fbxw8,-0.96
+hits,GO Biological Processes,19,GO:0050772,positive regulation of axonogenesis,19_GO:0032502 developmental process,-2.4,6.2,4.2,21160,97,141,4,2.8,1.4,18186|20807|24136|56320,Nrp1|Srf|Zeb2|Dbn1,-0.96
+hits,GO Biological Processes,19,GO:0002244,hematopoietic progenitor cell differentiation,19_GO:0032502 developmental process,-2.4,4.8,3.9,21160,157,141,5,3.5,1.6,16590|20807|22695|67563|74206,Kit|Srf|Zfp36|Ciao3|Sipa1l3,-0.96
+hits,GO Biological Processes,19,GO:0070555,response to interleukin-1,19_GO:0050896 response to stimulus,-2.4,6.1,4.2,21160,98,141,4,2.8,1.4,12608|13653|19697|21353,Cebpb|Egr1|Rela|Tank,-0.94
+hits,GO Biological Processes,19,GO:0045740,positive regulation of DNA replication,19_GO:0048518 positive regulation of biological process,-2.4,9.2,4.7,21160,49,141,3,2.1,1.2,13211|16476|217127,Dhx9|Jun|Kat7,-0.94
+hits,Reactome Gene Sets,6,R-MMU-5358346,Hedgehog ligand biogenesis,,-2.4,9.2,4.7,21160,49,141,3,2.1,1.2,22190|66997|67089,Ubc|Psmd12|Psmc6,-0.94
+hits,GO Biological Processes,19,GO:1903115,regulation of actin filament-based movement,19_GO:0050789 regulation of biological process,-2.4,9.2,4.7,21160,49,141,3,2.1,1.2,24136|56320|68667,Zeb2|Dbn1|Trpm4,-0.94
+hits,WikiPathways,27,WP65,Insulin signaling,,-2.4,4.7,3.9,21160,159,141,5,3.5,1.6,12703|13653|14281|16476|20807,Socs1|Egr1|Fos|Jun|Srf,-0.94
+hits,Reactome Gene Sets,6,R-MMU-69275,G2/M Transition,,-2.4,4.7,3.9,21160,159,141,5,3.5,1.6,13589|22190|66997|67089|76789,Mapre1|Ubc|Psmd12|Psmc6|Mzt1,-0.94
+hits,Reactome Gene Sets,6,R-MMU-9006925,Intracellular signaling by second messengers,,-2.4,3.9,3.7,21160,228,141,6,4.3,1.7,12314|16590|22190|23942|66997|67089,Calm2|Kit|Ubc|Mta2|Psmd12|Psmc6,-0.94
+hits,GO Biological Processes,19,GO:0014706,striated muscle tissue development,19_GO:0032502 developmental process,-2.4,3.1,3.4,21160,385,141,8,5.7,1.9,12227|13653|14281|15982|17133|20807|101568|245944,Btg2|Egr1|Fos|Ifrd1|Maff|Srf|Vrk3|Vps54,-0.93
+hits,GO Biological Processes,19,GO:0010038,response to metal ion,19_GO:0050896 response to stimulus,-2.4,3.1,3.4,21160,385,141,8,5.7,1.9,12314|14281|14282|16476|16477|16478|16590|245944,Calm2|Fos|Fosb|Jun|Junb|Jund|Kit|Vps54,-0.93
+hits,GO Biological Processes,19,GO:0044089,positive regulation of cellular component biogenesis,19_GO:0048518 positive regulation of biological process,-2.4,2.7,3.3,21160,560,141,10,7.1,2.2,13589|16590|18186|19877|20807|67089|74318|192176|245000|320472,Mapre1|Kit|Nrp1|Rock1|Srf|Psmc6|Hopx|Flna|Atr|Ppm1e,-0.93
+hits,GO Biological Processes,19,GO:0097305,response to alcohol,19_GO:0050896 response to stimulus,-2.4,3.1,3.4,21160,386,141,8,5.7,1.9,11838|12227|14148|14281|14282|15387|16600|52857,Arc|Btg2|Fdx1|Fos|Fosb|Hnrnpk|Klf4|Gramd1a,-0.93
+hits,Reactome Gene Sets,6,R-MMU-453274,Mitotic G2-G2/M phases,,-2.3,4.7,3.8,21160,161,141,5,3.5,1.6,13589|22190|66997|67089|76789,Mapre1|Ubc|Psmd12|Psmc6|Mzt1,-0.92
+hits,GO Biological Processes,19,GO:0045930,negative regulation of mitotic cell cycle,19_GO:0048519 negative regulation of biological process,-2.3,3.9,3.6,21160,231,141,6,4.3,1.7,12192|12228|12577|16600|19651|245000,Zfp36l1|Btg3|Cdkn1c|Klf4|Rbl2|Atr,-0.91
+hits,Reactome Gene Sets,6,R-MMU-5689880,Ub-specific processing proteases,,-2.3,4.6,3.8,21160,162,141,5,3.5,1.6,19671|20439|22190|66997|67089,Rce1|Siah2|Ubc|Psmd12|Psmc6,-0.91
+hits,GO Biological Processes,19,GO:0000956,nuclear-transcribed mRNA catabolic process,19_GO:0048519 negative regulation of biological process,-2.3,5.9,4.1,21160,101,141,4,2.8,1.4,12192|19826|22695|68134,Zfp36l1|Rnps1|Zfp36|Upf3b,-0.91
+hits,WikiPathways,27,WP2432,Spinal cord injury,,-2.3,5.9,4.1,21160,101,141,4,2.8,1.4,12227|13653|14281|22695,Btg2|Egr1|Fos|Zfp36,-0.91
+hits,KEGG Pathway,24,mmu04933,AGE-RAGE signaling pathway in diabetic complications - Mus musculus (house mouse),,-2.3,5.9,4.1,21160,101,141,4,2.8,1.4,13653|16476|18712|19697,Egr1|Jun|Pim1|Rela,-0.91
+hits,GO Biological Processes,19,GO:0045646,regulation of erythrocyte differentiation,19_GO:0042592 homeostatic process,-2.3,8.8,4.6,21160,51,141,3,2.1,1.2,12192|22695|217127,Zfp36l1|Zfp36|Kat7,-0.9
+hits,WikiPathways,27,WP512,ID signaling pathway,,-2.3,8.8,4.6,21160,51,141,3,2.1,1.2,19651|19697|21406,Rbl2|Rela|Tcf12,-0.9
+hits,Reactome Gene Sets,6,R-MMU-1234176,Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha,,-2.3,8.8,4.6,21160,51,141,3,2.1,1.2,22190|66997|67089,Ubc|Psmd12|Psmc6,-0.9
+hits,GO Biological Processes,19,GO:0010837,regulation of keratinocyte proliferation,19_GO:0050789 regulation of biological process,-2.3,8.8,4.6,21160,51,141,3,2.1,1.2,12192|21417|22695,Zfp36l1|Zeb1|Zfp36,-0.9
+hits,GO Biological Processes,19,GO:0030516,regulation of axon extension,19_GO:0040007 growth,-2.3,5.9,4.1,21160,102,141,4,2.8,1.4,15982|18186|20807|56320,Ifrd1|Nrp1|Srf|Dbn1,-0.9
+hits,Reactome Gene Sets,6,R-MMU-446652,Interleukin-1 family signaling,,-2.3,5.9,4.1,21160,102,141,4,2.8,1.4,19697|22190|66997|67089,Rela|Ubc|Psmd12|Psmc6,-0.9
+hits,Reactome Gene Sets,6,R-MMU-69239,Synthesis of DNA,,-2.3,5.8,4,21160,103,141,4,2.8,1.4,22190|66997|67089|217232,Ubc|Psmd12|Psmc6|Cdc27,-0.88
+hits,KEGG Pathway,24,mmu05142,Chagas disease - Mus musculus (house mouse),,-2.3,5.8,4,21160,103,141,4,2.8,1.4,14281|14672|16476|19697,Fos|Gna11|Jun|Rela,-0.88
+hits,WikiPathways,27,WP113,TGF beta signaling pathway,,-2.3,8.7,4.5,21160,52,141,3,2.1,1.2,14281|16476|24136,Fos|Jun|Zeb2,-0.88
+hits,GO Biological Processes,19,GO:0010762,regulation of fibroblast migration,19_GO:0040011 locomotion,-2.3,8.7,4.5,21160,52,141,3,2.1,1.2,14673|23942|24136,Gna12|Mta2|Zeb2,-0.88
+hits,GO Biological Processes,19,GO:0045637,regulation of myeloid cell differentiation,19_GO:0002376 immune system process,-2.3,3.8,3.6,21160,236,141,6,4.3,1.7,12192|12608|14281|16476|22695|217127,Zfp36l1|Cebpb|Fos|Jun|Zfp36|Kat7,-0.88
+hits,GO Biological Processes,19,GO:0031667,response to nutrient levels,19_GO:0050896 response to stimulus,-2.3,2.6,3.2,21160,574,141,10,7.1,2.2,14281|16476|18712|19697|20807|21417|22695|24136|53892|67013,Fos|Jun|Pim1|Rela|Srf|Zeb1|Zfp36|Zeb2|Ppm1d|Oma1,-0.87
+hits,KEGG Pathway,24,mmu03015,mRNA surveillance pathway - Mus musculus (house mouse),,-2.3,5.8,4,21160,104,141,4,2.8,1.4,19826|68134|70248|108062,Rnps1|Upf3b|Dazap1|Cstf2,-0.87
+hits,GO Biological Processes,19,GO:2001237,negative regulation of extrinsic apoptotic signaling pathway,19_GO:0048519 negative regulation of biological process,-2.3,5.8,4,21160,104,141,4,2.8,1.4,16600|18186|19697|20439,Klf4|Nrp1|Rela|Siah2,-0.87
+hits,Reactome Gene Sets,6,R-MMU-8948751,Regulation of PTEN stability and activity,,-2.3,8.5,4.5,21160,53,141,3,2.1,1.2,22190|66997|67089,Ubc|Psmd12|Psmc6,-0.86
+hits,GO Biological Processes,19,GO:0070849,response to epidermal growth factor,19_GO:0050896 response to stimulus,-2.3,8.5,4.5,21160,53,141,3,2.1,1.2,12192|14281|22695,Zfp36l1|Fos|Zfp36,-0.86
+hits,GO Biological Processes,19,GO:0000278,mitotic cell cycle,19_GO:0009987 cellular process,-2.3,2.6,3.2,21160,577,141,10,7.1,2.2,12314|13589|19877|53892|69581|76789|192176|217232|245000|320394,Calm2|Mapre1|Rock1|Ppm1d|Rhou|Mzt1|Flna|Cdc27|Atr|Cenpt,-0.86
+hits,GO Biological Processes,19,GO:0051225,spindle assembly,19_GO:0009987 cellular process,-2.3,5.7,4,21160,105,141,4,2.8,1.4,13589|76789|192176|212307,Mapre1|Mzt1|Flna|Mapre2,-0.86
+hits,GO Biological Processes,19,GO:0032204,regulation of telomere maintenance,19_GO:0050789 regulation of biological process,-2.3,5.7,4,21160,105,141,4,2.8,1.4,12464|16600|53379|245000,Cct4|Klf4|Hnrnpa2b1|Atr,-0.86
+hits,GO Biological Processes,19,GO:0048167,regulation of synaptic plasticity,19_GO:0050789 regulation of biological process,-2.3,3,3.3,21160,402,141,8,5.7,1.9,11838|13653|15387|16590|20807|56320|195018|240028,Arc|Egr1|Hnrnpk|Kit|Srf|Dbn1|Zzef1|Lnpep,-0.84
+hits,GO Biological Processes,19,GO:0045773,positive regulation of axon extension,19_GO:0040007 growth,-2.3,8.3,4.4,21160,54,141,3,2.1,1.2,18186|20807|56320,Nrp1|Srf|Dbn1,-0.84
+hits,KEGG Pathway,24,mmu05170,Human immunodeficiency virus 1 infection - Mus musculus (house mouse),,-2.3,3.7,3.5,21160,241,141,6,4.3,1.7,12314|14281|14672|16476|19697|245000,Calm2|Fos|Gna11|Jun|Rela|Atr,-0.84
+hits,GO Biological Processes,19,GO:0050769,positive regulation of neurogenesis,19_GO:0032502 developmental process,-2.3,3.3,3.4,21160,319,141,7,5,1.8,16590|18186|19697|20807|24136|56320|231672,Kit|Nrp1|Rela|Srf|Zeb2|Dbn1|Fbxw8,-0.84
+hits,GO Biological Processes,19,GO:0006937,regulation of muscle contraction,19_GO:0032501 multicellular organismal process,-2.2,4.4,3.7,21160,170,141,5,3.5,1.6,12314|16590|20807|56320|68667,Calm2|Kit|Srf|Dbn1|Trpm4,-0.84
+hits,GO Biological Processes,19,GO:0072091,regulation of stem cell proliferation,19_GO:0050789 regulation of biological process,-2.2,5.6,3.9,21160,107,141,4,2.8,1.4,12192|16998|18712|217127,Zfp36l1|Ltbp3|Pim1|Kat7,-0.84
+hits,Reactome Gene Sets,6,R-MMU-1234174,Cellular response to hypoxia,,-2.2,8.2,4.4,21160,55,141,3,2.1,1.2,22190|66997|67089,Ubc|Psmd12|Psmc6,-0.82
+hits,GO Biological Processes,19,GO:0051129,negative regulation of cellular component organization,19_GO:0048519 negative regulation of biological process,-2.2,2.3,3.1,21160,778,141,12,8.5,2.3,12340|13589|15982|18186|19877|21833|22629|56320|66878|67013|192176|237782,Capza1|Mapre1|Ifrd1|Nrp1|Rock1|Thra|Ywhah|Dbn1|Riok3|Oma1|Flna|Smcr8,-0.82
+hits,Reactome Gene Sets,6,R-MMU-8878171,Transcriptional regulation by RUNX1,,-2.2,4.4,3.6,21160,172,141,5,3.5,1.6,21406|22190|66997|67089|75410,Tcf12|Ubc|Psmd12|Psmc6|Kmt2b,-0.82
+hits,KEGG Pathway,24,mmu04022,cGMP-PKG signaling pathway - Mus musculus (house mouse),,-2.2,4.4,3.6,21160,172,141,5,3.5,1.6,12314|14672|14673|19877|20807,Calm2|Gna11|Gna12|Rock1|Srf,-0.82
+hits,GO Biological Processes,19,GO:0010608,post-transcriptional regulation of gene expression,19_GO:0050789 regulation of biological process,-2.2,2.6,3.1,21160,587,141,10,7.1,2.2,12192|12227|13211|17346|17347|19877|22695|68134|78455|78893,Zfp36l1|Btg2|Dhx9|Mknk1|Mknk2|Rock1|Zfp36|Upf3b|Helz|Cnot10,-0.82
+hits,Reactome Gene Sets,6,R-MMU-69278,"Cell Cycle, Mitotic",,-2.2,2.7,3.2,21160,496,141,9,6.4,2.1,12577|13589|19651|22190|66997|67089|76789|217232|320394,Cdkn1c|Mapre1|Rbl2|Ubc|Psmd12|Psmc6|Mzt1|Cdc27|Cenpt,-0.81
+hits,GO Biological Processes,19,GO:0070167,regulation of biomineral tissue development,19_GO:0032502 developmental process,-2.2,5.5,3.9,21160,109,141,4,2.8,1.4,12167|12608|16998|68667,Bmpr1b|Cebpb|Ltbp3|Trpm4,-0.81
+hits,GO Biological Processes,19,GO:0019941,modification-dependent protein catabolic process,19_GO:0009987 cellular process,-2.2,2.5,3.1,21160,589,141,10,7.1,2.2,14109|20439|22190|67089|67819|68098|217232|217365|231672|268291,Fau|Siah2|Ubc|Psmc6|Derl1|Rchy1|Cdc27|Nploc4|Fbxw8|Rnf217,-0.81
+hits,Reactome Gene Sets,6,R-MMU-68949,Orc1 removal from chromatin,,-2.2,8,4.3,21160,56,141,3,2.1,1.2,22190|66997|67089,Ubc|Psmd12|Psmc6,-0.81
+hits,GO Biological Processes,19,GO:0046686,response to cadmium ion,19_GO:0050896 response to stimulus,-2.2,8,4.3,21160,56,141,3,2.1,1.2,14281|16476|16590,Fos|Jun|Kit,-0.81
+hits,GO Biological Processes,19,GO:0060537,muscle tissue development,19_GO:0032502 developmental process,-2.2,2.9,3.2,21160,410,141,8,5.7,1.9,12227|13653|14281|15982|17133|20807|101568|245944,Btg2|Egr1|Fos|Ifrd1|Maff|Srf|Vrk3|Vps54,-0.8
+hits,GO Biological Processes,19,GO:0014910,regulation of smooth muscle cell migration,19_GO:0040011 locomotion,-2.2,5.5,3.8,21160,110,141,4,2.8,1.4,13653|14673|14739|18186,Egr1|Gna12|S1pr2|Nrp1,-0.8
+hits,GO Biological Processes,19,GO:0050770,regulation of axonogenesis,19_GO:0032502 developmental process,-2.2,4.3,3.6,21160,175,141,5,3.5,1.6,15982|18186|20807|24136|56320,Ifrd1|Nrp1|Srf|Zeb2|Dbn1,-0.8
+hits,GO Biological Processes,19,GO:0033044,regulation of chromosome organization,19_GO:0050789 regulation of biological process,-2.2,3.6,3.4,21160,248,141,6,4.3,1.7,12464|16600|53379|67045|217232|245000,Cct4|Klf4|Hnrnpa2b1|Riok2|Cdc27|Atr,-0.8
+hits,GO Biological Processes,19,GO:0044703,multi-organism reproductive process,19_GO:0022414 reproductive process,-2.2,3.6,3.4,21160,248,141,6,4.3,1.7,14281|14282|16477|26357|70248|245000,Fos|Fosb|Junb|Abcg2|Dazap1|Atr,-0.8
+hits,GO Biological Processes,19,GO:0030029,actin filament-based process,19_GO:0009987 cellular process,-2.2,2.5,3.1,21160,593,141,10,7.1,2.2,12340|14739|16590|19877|20807|24136|56320|67252|69581|192176,Capza1|S1pr2|Kit|Rock1|Srf|Zeb2|Dbn1|Cap2|Rhou|Flna,-0.8
+hits,GO Biological Processes,19,GO:0032330,regulation of chondrocyte differentiation,19_GO:0032502 developmental process,-2.2,7.9,4.3,21160,57,141,3,2.1,1.2,12167|16998|19697,Bmpr1b|Ltbp3|Rela,-0.79
+hits,GO Biological Processes,19,GO:2001252,positive regulation of chromosome organization,19_GO:0048518 positive regulation of biological process,-2.2,5.4,3.8,21160,111,141,4,2.8,1.4,12464|16600|53379|245000,Cct4|Klf4|Hnrnpa2b1|Atr,-0.79
+hits,GO Biological Processes,19,GO:0021954,central nervous system neuron development,19_GO:0032502 developmental process,-2.2,5.4,3.8,21160,111,141,4,2.8,1.4,12227|18186|24136|105689,Btg2|Nrp1|Zeb2|Mycbp2,-0.79
+hits,Reactome Gene Sets,6,R-MMU-3858494,Beta-catenin independent WNT signaling,,-2.2,5.4,3.8,21160,111,141,4,2.8,1.4,12314|22190|66997|67089,Calm2|Ubc|Psmd12|Psmc6,-0.79
+hits,GO Biological Processes,19,GO:0043632,modification-dependent macromolecule catabolic process,19_GO:0009987 cellular process,-2.2,2.5,3.1,21160,594,141,10,7.1,2.2,14109|20439|22190|67089|67819|68098|217232|217365|231672|268291,Fau|Siah2|Ubc|Psmc6|Derl1|Rchy1|Cdc27|Nploc4|Fbxw8|Rnf217,-0.79
+hits,GO Biological Processes,19,GO:0006468,protein phosphorylation,19_GO:0009987 cellular process,-2.2,2.7,3.1,21160,503,141,9,6.4,2.1,16590|17346|17347|18712|19877|23954|67045|245000|338467,Kit|Mknk1|Mknk2|Pim1|Rock1|Nek3|Riok2|Atr|Morc3,-0.79
+hits,GO Biological Processes,19,GO:0007613,memory,19_GO:0032501 multicellular organismal process,-2.2,4.2,3.5,21160,177,141,5,3.5,1.6,11838|13653|14281|20807|68667,Arc|Egr1|Fos|Srf|Trpm4,-0.78
+hits,GO Biological Processes,19,GO:2001236,regulation of extrinsic apoptotic signaling pathway,19_GO:0050896 response to stimulus,-2.2,4.2,3.5,21160,177,141,5,3.5,1.6,12167|16600|18186|19697|20439,Bmpr1b|Klf4|Nrp1|Rela|Siah2,-0.78
+hits,GO Biological Processes,19,GO:0033120,positive regulation of RNA splicing,19_GO:0048518 positive regulation of biological process,-2.2,7.8,4.2,21160,58,141,3,2.1,1.2,15387|68134|70248,Hnrnpk|Upf3b|Dazap1,-0.78
+hits,GO Biological Processes,19,GO:0030522,intracellular receptor signaling pathway,19_GO:0050896 response to stimulus,-2.2,4.2,3.5,21160,178,141,5,3.5,1.6,15502|18712|19697|21833|22629,Dnaja1|Pim1|Rela|Thra|Ywhah,-0.77
+hits,KEGG Pathway,24,mmu05132,Salmonella infection - Mus musculus (house mouse),,-2.2,3.6,3.4,21160,252,141,6,4.3,1.7,12369|14281|16476|19697|192176|226977,Casp7|Fos|Jun|Rela|Flna|Actr1b,-0.77
+hits,GO Biological Processes,19,GO:0018105,peptidyl-serine phosphorylation,19_GO:0009987 cellular process,-2.2,5.3,3.8,21160,113,141,4,2.8,1.4,17346|19877|245000|338467,Mknk1|Rock1|Atr|Morc3,-0.77
+hits,GO Biological Processes,19,GO:0044706,multi-multicellular organism process,19_GO:0032501 multicellular organismal process,-2.2,3.6,3.4,21160,253,141,6,4.3,1.7,14281|14282|16477|26357|70248|245000,Fos|Fosb|Junb|Abcg2|Dazap1|Atr,-0.76
+hits,Reactome Gene Sets,6,R-MMU-69306,DNA Replication,,-2.1,5.3,3.7,21160,114,141,4,2.8,1.4,22190|66997|67089|217232,Ubc|Psmd12|Psmc6|Cdc27,-0.76
+hits,GO Biological Processes,19,GO:1900024,regulation of substrate adhesion-dependent cell spreading,19_GO:0050789 regulation of biological process,-2.1,7.6,4.2,21160,59,141,3,2.1,1.2,18186|56320|192176,Nrp1|Dbn1|Flna,-0.76
+hits,GO Biological Processes,19,GO:0035249,"synaptic transmission, glutamatergic",19_GO:0050789 regulation of biological process,-2.1,7.6,4.2,21160,59,141,3,2.1,1.2,17957|195018|245944,Napb|Zzef1|Vps54,-0.76
+hits,Reactome Gene Sets,6,R-MMU-5687128,MAPK6/MAPK4 signaling,,-2.1,7.6,4.2,21160,59,141,3,2.1,1.2,22190|66997|67089,Ubc|Psmd12|Psmc6,-0.76
+hits,GO Biological Processes,19,GO:0016197,endosomal transport,19_GO:0051179 localization,-2.1,3.5,3.3,21160,254,141,6,4.3,1.7,19707|22319|74385|192176|218441|245944,Reps1|Vamp3|Ap5m1|Flna|Zfyve16|Vps54,-0.76
+hits,GO Biological Processes,19,GO:0032970,regulation of actin filament-based process,19_GO:0050789 regulation of biological process,-2.1,2.9,3.1,21160,421,141,8,5.7,1.9,12340|18186|19877|24136|56320|68667|192176|320472,Capza1|Nrp1|Rock1|Zeb2|Dbn1|Trpm4|Flna|Ppm1e,-0.75
+hits,GO Biological Processes,19,GO:0032231,regulation of actin filament bundle assembly,19_GO:0050789 regulation of biological process,-2.1,5.2,3.7,21160,115,141,4,2.8,1.4,18186|56320|192176|320472,Nrp1|Dbn1|Flna|Ppm1e,-0.75
+hits,GO Biological Processes,19,GO:0060485,mesenchyme development,19_GO:0032502 developmental process,-2.1,3.5,3.3,21160,256,141,6,4.3,1.7,12192|18186|19877|24136|106628|192176,Zfp36l1|Nrp1|Rock1|Zeb2|Trip10|Flna,-0.75
+hits,GO Biological Processes,19,GO:0051489,regulation of filopodium assembly,19_GO:0050789 regulation of biological process,-2.1,7.5,4.1,21160,60,141,3,2.1,1.2,18186|20807|56320,Nrp1|Srf|Dbn1,-0.74
+hits,GO Biological Processes,19,GO:0001825,blastocyst formation,19_GO:0032502 developmental process,-2.1,7.5,4.1,21160,60,141,3,2.1,1.2,16477|20807|74318,Junb|Srf|Hopx,-0.74
+hits,KEGG Pathway,24,mmu04218,Cellular senescence - Mus musculus (house mouse),,-2.1,4.1,3.5,21160,182,141,5,3.5,1.6,12192|12314|19651|19697|245000,Zfp36l1|Calm2|Rbl2|Rela|Atr,-0.74
+hits,GO Biological Processes,19,GO:1903047,mitotic cell cycle process,19_GO:0009987 cellular process,-2.1,2.6,3.1,21160,514,141,9,6.4,2.1,12314|13589|19877|53892|69581|76789|192176|217232|245000,Calm2|Mapre1|Rock1|Ppm1d|Rhou|Mzt1|Flna|Cdc27|Atr,-0.74
+hits,KEGG Pathway,24,mmu04935,"Growth hormone synthesis, secretion and action - Mus musculus (house mouse)",,-2.1,5.1,3.7,21160,117,141,4,2.8,1.4,12703|14281|14672|16477,Socs1|Fos|Gna11|Junb,-0.73
+hits,GO Biological Processes,19,GO:0150076,neuroinflammatory response,19_GO:0050896 response to stimulus,-2.1,7.4,4.1,21160,61,141,3,2.1,1.2,16476|24136|245944,Jun|Zeb2|Vps54,-0.73
+hits,GO Biological Processes,19,GO:0007423,sensory organ development,19_GO:0032502 developmental process,-2.1,2.3,2.9,21160,710,141,11,7.8,2.3,12167|12577|14281|16476|16590|16600|18186|20807|21417|71521|74206,Bmpr1b|Cdkn1c|Fos|Jun|Kit|Klf4|Nrp1|Srf|Zeb1|Pds5a|Sipa1l3,-0.72
+hits,GO Biological Processes,19,GO:0048762,mesenchymal cell differentiation,19_GO:0032502 developmental process,-2.1,4.1,3.4,21160,185,141,5,3.5,1.6,18186|19877|24136|106628|192176,Nrp1|Rock1|Zeb2|Trip10|Flna,-0.72
+hits,GO Biological Processes,19,GO:0060711,labyrinthine layer development,19_GO:0032502 developmental process,-2.1,7.3,4,21160,62,141,3,2.1,1.2,12192|16477|231672,Zfp36l1|Junb|Fbxw8,-0.71
+hits,Reactome Gene Sets,6,R-MMU-195253,Degradation of beta-catenin by the destruction complex,,-2.1,7.3,4,21160,62,141,3,2.1,1.2,22190|66997|67089,Ubc|Psmd12|Psmc6,-0.71
+hits,GO Biological Processes,19,GO:0045639,positive regulation of myeloid cell differentiation,19_GO:0002376 immune system process,-2.1,5,3.6,21160,119,141,4,2.8,1.4,12192|14281|16476|217127,Zfp36l1|Fos|Jun|Kat7,-0.71
+hits,GO Biological Processes,19,GO:0061387,regulation of extent of cell growth,19_GO:0040007 growth,-2.1,5,3.6,21160,119,141,4,2.8,1.4,15982|18186|20807|56320,Ifrd1|Nrp1|Srf|Dbn1,-0.71
+hits,GO Biological Processes,19,GO:0051603,proteolysis involved in protein catabolic process,19_GO:0009987 cellular process,-2.1,2.3,2.9,21160,714,141,11,7.8,2.3,14109|20439|22190|67013|67089|67819|68098|217232|217365|231672|268291,Fau|Siah2|Ubc|Oma1|Psmc6|Derl1|Rchy1|Cdc27|Nploc4|Fbxw8|Rnf217,-0.7
+hits,GO Biological Processes,19,GO:0042391,regulation of membrane potential,19_GO:0065007 biological regulation,-2.1,2.6,3,21160,524,141,9,6.4,2.1,12314|14672|14739|16476|20405|22629|56320|68667|192176,Calm2|Gna11|S1pr2|Jun|Sh3gl1|Ywhah|Dbn1|Trpm4|Flna,-0.69
+hits,KEGG Pathway,24,mmu04722,Neurotrophin signaling pathway - Mus musculus (house mouse),,-2.1,5,3.6,21160,121,141,4,2.8,1.4,12314|16476|19697|72843,Calm2|Jun|Rela|Prdm4,-0.68
+hits,GO Biological Processes,19,GO:0038084,vascular endothelial growth factor signaling pathway,19_GO:0050896 response to stimulus,-2,7,4,21160,64,141,3,2.1,1.2,16590|18186|19697,Kit|Nrp1|Rela,-0.68
+hits,Reactome Gene Sets,6,R-MMU-9860931,Response of endothelial cells to shear stress,,-2,7,4,21160,64,141,3,2.1,1.2,12314|14672|19697,Calm2|Gna11|Rela,-0.68
+hits,Reactome Gene Sets,6,R-MMU-9855142,Cellular responses to mechanical stimuli,,-2,7,4,21160,64,141,3,2.1,1.2,12314|14672|19697,Calm2|Gna11|Rela,-0.68
+hits,GO Biological Processes,19,GO:0051899,membrane depolarization,19_GO:0065007 biological regulation,-2,7,4,21160,64,141,3,2.1,1.2,16476|22629|68667,Jun|Ywhah|Trpm4,-0.68
+hits,GO Biological Processes,19,GO:0098815,modulation of excitatory postsynaptic potential,19_GO:0032501 multicellular organismal process,-2,7,4,21160,64,141,3,2.1,1.2,14739|20405|56320,S1pr2|Sh3gl1|Dbn1,-0.68
+hits,GO Biological Processes,19,GO:0007346,regulation of mitotic cell cycle,19_GO:0050789 regulation of biological process,-2,2.6,3,21160,528,141,9,6.4,2.1,12192|12228|12577|16600|18712|19651|22629|67045|245000,Zfp36l1|Btg3|Cdkn1c|Klf4|Pim1|Rbl2|Ywhah|Riok2|Atr,-0.68
+hits,KEGG Pathway,24,mmu04114,Oocyte meiosis - Mus musculus (house mouse),,-2,4.9,3.5,21160,123,141,4,2.8,1.4,12314|22629|22630|217232,Calm2|Ywhah|Ywhaq|Cdc27,-0.66
+hits,Reactome Gene Sets,6,R-MMU-8878159,Transcriptional regulation by RUNX3,,-2,6.9,3.9,21160,65,141,3,2.1,1.2,22190|66997|67089,Ubc|Psmd12|Psmc6,-0.66
+hits,GO Biological Processes,19,GO:0043124,negative regulation of canonical NF-kappaB signal transduction,19_GO:0048519 negative regulation of biological process,-2,6.9,3.9,21160,65,141,3,2.1,1.2,16600|21353|66878,Klf4|Tank|Riok3,-0.66
+hits,GO Biological Processes,19,GO:1904356,regulation of telomere maintenance via telomere lengthening,19_GO:0050789 regulation of biological process,-2,6.9,3.9,21160,65,141,3,2.1,1.2,12464|53379|245000,Cct4|Hnrnpa2b1|Atr,-0.66
+hits,Reactome Gene Sets,6,R-MMU-199991,Membrane Trafficking,,-2,2.5,2.9,21160,533,141,9,6.4,2.1,12874|17957|19707|20405|22190|22319|106628|245638|245944,Cpd|Napb|Reps1|Sh3gl1|Ubc|Vamp3|Trip10|Tbc1d8b|Vps54,-0.66
+hits,Reactome Gene Sets,6,R-MMU-3247509,Chromatin modifying enzymes,,-2,3.9,3.3,21160,194,141,5,3.5,1.6,19697|20592|23942|75410|217127,Rela|Kdm5d|Mta2|Kmt2b|Kat7,-0.65
+hits,Reactome Gene Sets,6,R-MMU-4839726,Chromatin organization,,-2,3.9,3.3,21160,194,141,5,3.5,1.6,19697|20592|23942|75410|217127,Rela|Kdm5d|Mta2|Kmt2b|Kat7,-0.65
+hits,Reactome Gene Sets,6,R-MMU-5632684,Hedgehog 'on' state,,-2,6.8,3.9,21160,66,141,3,2.1,1.2,22190|66997|67089,Ubc|Psmd12|Psmc6,-0.65
+hits,GO Biological Processes,19,GO:0018209,peptidyl-serine modification,19_GO:0009987 cellular process,-2,4.8,3.5,21160,125,141,4,2.8,1.4,17346|19877|245000|338467,Mknk1|Rock1|Atr|Morc3,-0.65
+hits,GO Biological Processes,19,GO:0061013,regulation of mRNA catabolic process,19_GO:0048519 negative regulation of biological process,-2,3.8,3.3,21160,195,141,5,3.5,1.6,12192|12227|13211|19877|22695,Zfp36l1|Btg2|Dhx9|Rock1|Zfp36,-0.64
+hits,GO Biological Processes,19,GO:0140694,membraneless organelle assembly,19_GO:0009987 cellular process,-2,3,3,21160,356,141,7,5,1.8,13589|14109|20807|76789|192176|212307|320394,Mapre1|Fau|Srf|Mzt1|Flna|Mapre2|Cenpt,-0.64
+hits_MCODE_ALL,GO Biological Processes,19,GO:0071277,cellular response to calcium ion,19_GO:0050896 response to stimulus,-8.5,82,20,21160,86,15,5,33,12,14281|14282|16476|16477|16478,Fos|Fosb|Jun|Junb|Jund,-5.1
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-2454202,Fc epsilon receptor (FCERI) signaling,,-8.3,75,19,21160,94,15,5,33,12,14281|16476|22190|66997|67089,Fos|Jun|Ubc|Psmd12|Psmc6,-5
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-2262752,Cellular responses to stress,,-7.8,21,12,21160,480,15,7,47,13,14281|15502|16476|22190|66997|67089|217365,Fos|Dnaja1|Jun|Ubc|Psmd12|Psmc6|Nploc4,-4.6
+hits_MCODE_ALL,KEGG Pathway,24,mmu04380,Osteoclast differentiation - Mus musculus (house mouse),,-7.5,52,16,21160,136,15,5,33,12,14281|14282|16476|16477|16478,Fos|Fosb|Jun|Junb|Jund,-4.5
+hits_MCODE_ALL,GO Biological Processes,19,GO:0048545,response to steroid hormone,19_GO:0050896 response to stimulus,-7.5,29,13,21160,293,15,6,40,13,14281|14282|15502|16476|16477|16478,Fos|Fosb|Dnaja1|Jun|Junb|Jund,-4.5
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-8953897,Cellular responses to stimuli,,-7.4,18,11,21160,543,15,7,47,13,14281|15502|16476|22190|66997|67089|217365,Fos|Dnaja1|Jun|Ubc|Psmd12|Psmc6|Nploc4,-4.5
+hits_MCODE_ALL,GO Biological Processes,19,GO:0051592,response to calcium ion,19_GO:0050896 response to stimulus,-7.3,47,15,21160,149,15,5,33,12,14281|14282|16476|16477|16478,Fos|Fosb|Jun|Junb|Jund,-4.5
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-8953854,Metabolism of RNA,,-7.3,17,11,21160,568,15,7,47,13,13211|14109|15387|22190|53379|66997|67089,Dhx9|Fau|Hnrnpk|Ubc|Hnrnpa2b1|Psmd12|Psmc6,-4.5
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-9755511,KEAP1-NFE2L2 pathway,,-7.1,91,19,21160,62,15,4,27,11,22190|66997|67089|217365,Ubc|Psmd12|Psmc6|Nploc4,-4.4
+hits_MCODE_ALL,GO Biological Processes,19,GO:0071248,cellular response to metal ion,19_GO:0050896 response to stimulus,-6.7,35,13,21160,204,15,5,33,12,14281|14282|16476|16477|16478,Fos|Fosb|Jun|Junb|Jund,-4.2
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-1280215,Cytokine Signaling in Immune system,,-6.5,19,10,21160,444,15,6,40,13,13211|14281|16476|22190|66997|67089,Dhx9|Fos|Jun|Ubc|Psmd12|Psmc6,-4.1
+hits_MCODE_ALL,KEGG Pathway,24,mmu04657,IL-17 signaling pathway - Mus musculus (house mouse),,-6.3,61,15,21160,93,15,4,27,11,14281|14282|16476|16478,Fos|Fosb|Jun|Jund,-4
+hits_MCODE_ALL,WikiPathways,27,WP3654,Novel Jun Dmp1 pathway,,-6.1,1.6e+02,22,21160,26,15,3,20,10,14281|16476|16477,Fos|Jun|Junb,-3.9
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-449147,Signaling by Interleukins,,-6.1,27,11,21160,264,15,5,33,12,14281|16476|22190|66997|67089,Fos|Jun|Ubc|Psmd12|Psmc6,-3.9
+hits_MCODE_ALL,GO Biological Processes,19,GO:0006351,DNA-templated transcription,19_GO:0009987 cellular process,-5.9,16,9.2,21160,542,15,6,40,13,13211|14281|14282|16476|16477|16478,Dhx9|Fos|Fosb|Jun|Junb|Jund,-3.7
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-2559580,Oxidative Stress Induced Senescence,,-5.7,1.2e+02,19,21160,36,15,3,20,10,14281|16476|22190,Fos|Jun|Ubc,-3.5
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-75815,Ubiquitin-dependent degradation of Cyclin D,,-5.7,1.1e+02,18,21160,37,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.5
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-9711123,Cellular response to chemical stress,,-5.6,40,12,21160,140,15,4,27,11,22190|66997|67089|217365,Ubc|Psmd12|Psmc6|Nploc4,-3.5
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-69610,p53-Independent DNA Damage Response,,-5.6,1.1e+02,18,21160,38,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.5
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-69613,p53-Independent G1/S DNA damage checkpoint,,-5.6,1.1e+02,18,21160,38,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.5
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-69601,Ubiquitin Mediated Degradation of Phosphorylated Cdc25A,,-5.6,1.1e+02,18,21160,38,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.5
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-349425,Autodegradation of the E3 ubiquitin ligase COP1,,-5.6,1.1e+02,18,21160,38,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.5
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-8939902,Regulation of RUNX2 expression and activity,,-5.6,1.1e+02,18,21160,40,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.4
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-9762114,GSK3B and BTRC:CUL1-mediated-degradation of NFE2L2,,-5.6,1.1e+02,18,21160,40,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.4
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-8854050,FBXL7 down-regulates AURKA during mitotic entry and in early mitosis,,-5.6,1.1e+02,18,21160,40,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.4
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-5610780,Degradation of GLI1 by the proteasome,,-5.5,1e+02,17,21160,41,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.4
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-4641257,Degradation of AXIN,,-5.5,1e+02,17,21160,41,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.4
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-8941858,Regulation of RUNX3 expression and activity,,-5.5,1e+02,17,21160,42,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.4
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-450408,AUF1 (hnRNP D0) binds and destabilizes mRNA,,-5.5,1e+02,17,21160,42,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.4
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-69541,Stabilization of p53,,-5.5,1e+02,17,21160,42,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.4
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-5676590,NIK-->noncanonical NF-kB signaling,,-5.5,98,17,21160,43,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.4
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-5610785,GLI3 is processed to GLI3R by the proteasome,,-5.5,98,17,21160,43,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.4
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-4641258,Degradation of DVL,,-5.5,98,17,21160,43,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.4
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-5607761,Dectin-1 mediated noncanonical NF-kB signaling,,-5.5,98,17,21160,43,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.4
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-9759194,Nuclear events mediated by NFE2L2,,-5.4,96,17,21160,44,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.4
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-1169091,Activation of NF-kappaB in B cells,,-5.4,92,16,21160,46,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.3
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-4608870,Asymmetric localization of PCP proteins,,-5.3,88,16,21160,48,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.3
+hits_MCODE_ALL,GO Biological Processes,19,GO:0010038,response to metal ion,19_GO:0050896 response to stimulus,-5.3,18,9.1,21160,385,15,5,33,12,14281|14282|16476|16477|16478,Fos|Fosb|Jun|Junb|Jund,-3.3
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-5358346,Hedgehog ligand biogenesis,,-5.3,86,16,21160,49,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.2
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-8939236,RUNX1 regulates transcription of genes involved in differentiation of HSCs,,-5.3,85,16,21160,50,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.2
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-187577,SCF(Skp2)-mediated degradation of p27/p21,,-5.3,85,16,21160,50,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.2
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-69580,p53-Dependent G1/S DNA damage checkpoint,,-5.2,83,16,21160,51,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.2
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-1234176,Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha,,-5.2,83,16,21160,51,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.2
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-69563,p53-Dependent G1 DNA Damage Response,,-5.2,83,16,21160,51,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.2
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-8878166,Transcriptional regulation by RUNX2,,-5.2,83,16,21160,51,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.2
+hits_MCODE_ALL,GO Biological Processes,19,GO:0006366,transcription by RNA polymerase II,19_GO:0009987 cellular process,-5.2,18,8.9,21160,400,15,5,33,12,14281|14282|16476|16477|16478,Fos|Fosb|Jun|Junb|Jund,-3.2
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-448424,Interleukin-17 signaling,,-5.2,81,15,21160,52,15,3,20,10,14281|16476|22190,Fos|Jun|Ubc,-3.2
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-450294,MAP kinase activation,,-5.2,81,15,21160,52,15,3,20,10,14281|16476|22190,Fos|Jun|Ubc,-3.2
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-5658442,Regulation of RAS by GAPs,,-5.2,80,15,21160,53,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.2
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-174084,Autodegradation of Cdh1 by Cdh1:APC/C,,-5.2,80,15,21160,53,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.2
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-69615,G1/S DNA Damage Checkpoints,,-5.2,80,15,21160,53,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.2
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-8948751,Regulation of PTEN stability and activity,,-5.2,80,15,21160,53,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.2
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-174154,APC/C:Cdc20 mediated degradation of Securin,,-5.2,78,15,21160,54,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.2
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-1234174,Cellular response to hypoxia,,-5.1,77,15,21160,55,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.1
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-68949,Orc1 removal from chromatin,,-5.1,76,15,21160,56,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.1
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-2871837,FCERI mediated NF-kB activation,,-5.1,74,15,21160,57,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.1
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-1168372,Downstream signaling events of B Cell Receptor (BCR),,-5.1,73,15,21160,58,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.1
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-69017,CDK-mediated phosphorylation and removal of Cdc6,,-5,72,14,21160,59,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.1
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-174184,Cdc20:Phospho-APC/C mediated degradation of Cyclin A,,-5,72,14,21160,59,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.1
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-5687128,MAPK6/MAPK4 signaling,,-5,72,14,21160,59,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.1
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-179419,APC:Cdc20 mediated degradation of cell cycle proteins prior to satisfation of the cell cycle checkpoint,,-5,71,14,21160,60,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.1
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-69202,Cyclin E associated events during G1/S transition,,-5,71,14,21160,60,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.1
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-174178,APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1,,-5,71,14,21160,60,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.1
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-8852276,The role of GTSE1 in G2/M progression after G2 checkpoint,,-5,69,14,21160,61,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-3
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-8951664,Neddylation,,-5,28,10,21160,203,15,4,27,11,22190|66997|67089|217365,Ubc|Psmd12|Psmc6|Nploc4,-3
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-176409,APC/C:Cdc20 mediated degradation of mitotic proteins,,-5,68,14,21160,62,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-3
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-195253,Degradation of beta-catenin by the destruction complex,,-5,68,14,21160,62,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-3
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-69656,Cyclin A:Cdk2-associated events at S phase entry,,-5,68,14,21160,62,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-3
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-176814,Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins,,-5,67,14,21160,63,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-3
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-202424,Downstream TCR signaling,,-4.9,65,14,21160,65,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-3
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-8878159,Transcriptional regulation by RUNX3,,-4.9,65,14,21160,65,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-3
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-5632684,Hedgehog 'on' state,,-4.9,64,14,21160,66,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-3
+hits_MCODE_ALL,KEGG Pathway,24,mmu05031,Amphetamine addiction - Mus musculus (house mouse),,-4.8,61,13,21160,69,15,3,20,10,14281|14282|16476,Fos|Fosb|Jun,-2.9
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-68867,Assembly of the pre-replicative complex,,-4.8,60,13,21160,71,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-2.9
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-5607764,CLEC7A (Dectin-1) signaling,,-4.8,60,13,21160,71,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-2.9
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-450531,Regulation of mRNA stability by proteins that bind AU-rich elements,,-4.8,60,13,21160,71,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-2.9
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-4086400,PCP/CE pathway,,-4.8,59,13,21160,72,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-2.9
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-168164,Toll Like Receptor 3 (TLR3) Cascade,,-4.8,59,13,21160,72,15,3,20,10,14281|16476|22190,Fos|Jun|Ubc,-2.9
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-453276,Regulation of mitotic cell cycle,,-4.8,58,13,21160,73,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-2.9
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-174143,APC/C-mediated degradation of cell cycle proteins,,-4.8,58,13,21160,73,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-2.9
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-168142,Toll Like Receptor 10 (TLR10) Cascade,,-4.7,57,13,21160,74,15,3,20,10,14281|16476|22190,Fos|Jun|Ubc,-2.9
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-168176,Toll Like Receptor 5 (TLR5) Cascade,,-4.7,57,13,21160,74,15,3,20,10,14281|16476|22190,Fos|Jun|Ubc,-2.9
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-975871,MyD88 cascade initiated on plasma membrane,,-4.7,57,13,21160,74,15,3,20,10,14281|16476|22190,Fos|Jun|Ubc,-2.9
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-166058,MyD88:MAL(TIRAP) cascade initiated on plasma membrane,,-4.7,56,13,21160,75,15,3,20,10,14281|16476|22190,Fos|Jun|Ubc,-2.9
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-168188,Toll Like Receptor TLR6:TLR2 Cascade,,-4.7,56,13,21160,75,15,3,20,10,14281|16476|22190,Fos|Jun|Ubc,-2.9
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-168179,Toll Like Receptor TLR1:TLR2 Cascade,,-4.7,56,13,21160,75,15,3,20,10,14281|16476|22190,Fos|Jun|Ubc,-2.9
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-181438,Toll Like Receptor 2 (TLR2) Cascade,,-4.7,56,13,21160,75,15,3,20,10,14281|16476|22190,Fos|Jun|Ubc,-2.9
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-69052,Switching of origins to a post-replicative state,,-4.7,55,13,21160,77,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-2.8
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-6807070,PTEN Regulation,,-4.7,54,12,21160,79,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-2.8
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-975138,TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation,,-4.7,54,12,21160,79,15,3,20,10,14281|16476|22190,Fos|Jun|Ubc,-2.8
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-5668541,TNFR2 non-canonical NF-kB pathway,,-4.7,54,12,21160,79,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-2.8
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-975155,MyD88 dependent cascade initiated on endosome,,-4.6,53,12,21160,80,15,3,20,10,14281|16476|22190,Fos|Jun|Ubc,-2.8
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-5689603,UCH proteinases,,-4.6,52,12,21160,81,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-2.8
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-202403,TCR signaling,,-4.6,52,12,21160,82,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-2.8
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-983705,Signaling by the B Cell Receptor (BCR),,-4.6,51,12,21160,83,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-2.7
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-168181,Toll Like Receptor 7/8 (TLR7/8) Cascade,,-4.6,50,12,21160,84,15,3,20,10,14281|16476|22190,Fos|Jun|Ubc,-2.7
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-9020702,Interleukin-1 signaling,,-4.6,50,12,21160,85,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-2.7
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-382556,ABC-family proteins mediated transport,,-4.6,50,12,21160,85,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-2.7
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-69002,DNA Replication Pre-Initiation,,-4.5,49,12,21160,87,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-2.7
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-168138,Toll Like Receptor 9 (TLR9) Cascade,,-4.5,48,12,21160,88,15,3,20,10,14281|16476|22190,Fos|Jun|Ubc,-2.7
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-5621481,C-type lectin receptors (CLRs),,-4.5,48,12,21160,89,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-2.7
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-5610787,Hedgehog 'off' state,,-4.5,48,12,21160,89,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-2.7
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-166166,MyD88-independent TLR4 cascade,,-4.5,46,12,21160,92,15,3,20,10,14281|16476|22190,Fos|Jun|Ubc,-2.6
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-937061,TRIF (TICAM1)-mediated TLR4 signaling,,-4.5,46,12,21160,92,15,3,20,10,14281|16476|22190,Fos|Jun|Ubc,-2.6
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-69206,G1/S Transition,,-4.4,45,11,21160,94,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-2.6
+hits_MCODE_ALL,GO Biological Processes,19,GO:1903312,negative regulation of mRNA metabolic process,19_GO:0048519 negative regulation of biological process,-4.3,42,11,21160,100,15,3,20,10,13211|15387|53379,Dhx9|Hnrnpk|Hnrnpa2b1,-2.5
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-446652,Interleukin-1 family signaling,,-4.3,41,11,21160,102,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-2.5
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-69239,Synthesis of DNA,,-4.3,41,11,21160,103,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-2.5
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-166016,Toll Like Receptor 4 (TLR4) Cascade,,-4.2,39,11,21160,108,15,3,20,10,14281|16476|22190,Fos|Jun|Ubc,-2.5
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-3858494,Beta-catenin independent WNT signaling,,-4.2,38,10,21160,111,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-2.4
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-69306,DNA Replication,,-4.2,37,10,21160,114,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-2.4
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-453279,Mitotic G1 phase and G1/S transition,,-4.1,36,10,21160,117,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-2.4
+hits_MCODE_ALL,KEGG Pathway,24,mmu04668,TNF signaling pathway - Mus musculus (house mouse),,-4.1,36,10,21160,118,15,3,20,10,14281|16476|16477,Fos|Jun|Junb,-2.4
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-5358351,Signaling by Hedgehog,,-4.1,35,10,21160,121,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-2.3
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-69242,S Phase,,-4,32,9.6,21160,131,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-2.2
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-201681,TCF dependent signaling in response to WNT,,-3.9,31,9.3,21160,137,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-2.2
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-168898,Toll-like Receptor Cascades,,-3.9,30,9.2,21160,140,15,3,20,10,14281|16476|22190,Fos|Jun|Ubc,-2.2
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-2559583,Cellular Senescence,,-3.9,30,9.2,21160,141,15,3,20,10,14281|16476|22190,Fos|Jun|Ubc,-2.2
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-69481,G2/M Checkpoints,,-3.9,29,9.1,21160,144,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-2.1
+hits_MCODE_ALL,GO Biological Processes,19,GO:0050684,regulation of mRNA processing,19_GO:0050789 regulation of biological process,-3.8,28,8.9,21160,149,15,3,20,10,13211|15387|53379,Dhx9|Hnrnpk|Hnrnpa2b1,-2.1
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-69275,G2/M Transition,,-3.8,27,8.6,21160,159,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-2
+hits_MCODE_ALL,WikiPathways,27,WP493,Mapk signaling pathway,,-3.8,27,8.6,21160,159,15,3,20,10,14281|16476|16478,Fos|Jun|Jund,-2
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-453274,Mitotic G2-G2/M phases,,-3.7,26,8.6,21160,161,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-2
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-5689880,Ub-specific processing proteases,,-3.7,26,8.5,21160,162,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-2
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-2467813,Separation of Sister Chromatids,,-3.7,25,8.4,21160,167,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-2
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-8878171,Transcriptional regulation by RUNX1,,-3.7,25,8.3,21160,172,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-1.9
+hits_MCODE_ALL,WikiPathways,27,WP572,EGFR1 signaling pathway,,-3.6,24,8.2,21160,175,15,3,20,10,14281|16476|16478,Fos|Jun|Jund,-1.9
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-72163,mRNA Splicing - Major Pathway,,-3.6,23,8,21160,185,15,3,20,10,13211|15387|53379,Dhx9|Hnrnpk|Hnrnpa2b1,-1.9
+hits_MCODE_ALL,GO Biological Processes,19,GO:0002573,myeloid leukocyte differentiation,19_GO:0032502 developmental process,-3.5,23,7.9,21160,187,15,3,20,10,14281|16476|16477,Fos|Jun|Junb,-1.9
+hits_MCODE_ALL,GO Biological Processes,19,GO:0031047,regulatory ncRNA-mediated gene silencing,19_GO:0048519 negative regulation of biological process,-3.5,22,7.8,21160,191,15,3,20,10,13211|15387|53379,Dhx9|Hnrnpk|Hnrnpa2b1,-1.8
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-72172,mRNA Splicing,,-3.5,22,7.8,21160,191,15,3,20,10,13211|15387|53379,Dhx9|Hnrnpk|Hnrnpa2b1,-1.8
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-68882,Mitotic Anaphase,,-3.4,21,7.6,21160,202,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-1.8
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-2555396,Mitotic Metaphase and Anaphase,,-3.4,21,7.6,21160,203,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-1.8
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-1257604,PIP3 activates AKT signaling,,-3.4,21,7.5,21160,204,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-1.8
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-195721,Signaling by WNT,,-3.4,20,7.4,21160,214,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-1.7
+hits_MCODE_ALL,GO Biological Processes,19,GO:0007565,female pregnancy,19_GO:0022414 reproductive process,-3.3,19,7.3,21160,219,15,3,20,10,14281|14282|16477,Fos|Fosb|Junb,-1.7
+hits_MCODE_ALL,KEGG Pathway,24,mmu05167,Kaposi sarcoma-associated herpesvirus infection - Mus musculus (house mouse),,-3.3,19,7.2,21160,223,15,3,20,10,14281|16476|22190,Fos|Jun|Ubc,-1.7
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-5688426,Deubiquitination,,-3.3,19,7.2,21160,225,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-1.7
+hits_MCODE_ALL,KEGG Pathway,24,mmu05169,Epstein-Barr virus infection - Mus musculus (house mouse),,-3.3,19,7.1,21160,228,15,3,20,10,16476|66997|67089,Jun|Psmd12|Psmc6,-1.7
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-9006925,Intracellular signaling by second messengers,,-3.3,19,7.1,21160,228,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-1.7
+hits_MCODE_ALL,GO Biological Processes,19,GO:0034976,response to endoplasmic reticulum stress,19_GO:0050896 response to stimulus,-3.2,17,6.9,21160,242,15,3,20,10,16476|67089|217365,Jun|Psmc6|Nploc4,-1.6
+hits_MCODE_ALL,GO Biological Processes,19,GO:0019941,modification-dependent protein catabolic process,19_GO:0009987 cellular process,-3.2,9.6,5.6,21160,589,15,4,27,11,14109|22190|67089|217365,Fau|Ubc|Psmc6|Nploc4,-1.6
+hits_MCODE_ALL,GO Biological Processes,19,GO:0032870,cellular response to hormone stimulus,19_GO:0050896 response to stimulus,-3.2,9.5,5.6,21160,591,15,4,27,11,14281|14282|15387|15502,Fos|Fosb|Hnrnpk|Dnaja1,-1.6
+hits_MCODE_ALL,GO Biological Processes,19,GO:0044703,multi-organism reproductive process,19_GO:0022414 reproductive process,-3.2,17,6.8,21160,248,15,3,20,10,14281|14282|16477,Fos|Fosb|Junb,-1.6
+hits_MCODE_ALL,GO Biological Processes,19,GO:0043632,modification-dependent macromolecule catabolic process,19_GO:0009987 cellular process,-3.2,9.5,5.6,21160,594,15,4,27,11,14109|22190|67089|217365,Fau|Ubc|Psmc6|Nploc4,-1.6
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-5673001,RAF/MAP kinase cascade,,-3.2,17,6.7,21160,250,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-1.6
+hits_MCODE_ALL,GO Biological Processes,19,GO:0044706,multi-multicellular organism process,19_GO:0032501 multicellular organismal process,-3.2,17,6.7,21160,253,15,3,20,10,14281|14282|16477,Fos|Fosb|Junb,-1.6
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-5684996,MAPK1/MAPK3 signaling,,-3.1,17,6.7,21160,256,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-1.6
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-72203,Processing of Capped Intron-Containing Pre-mRNA,,-3.1,16,6.6,21160,259,15,3,20,10,13211|15387|53379,Dhx9|Hnrnpk|Hnrnpa2b1,-1.5
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-69620,Cell Cycle Checkpoints,,-3.1,16,6.6,21160,262,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-1.5
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-983168,Antigen processing: Ubiquitination & Proteasome degradation,,-3.1,16,6.5,21160,269,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-1.5
+hits_MCODE_ALL,GO Biological Processes,19,GO:0009612,response to mechanical stimulus,19_GO:0050896 response to stimulus,-3.1,16,6.5,21160,270,15,3,20,10,14281|14282|16476,Fos|Fosb|Jun,-1.5
+hits_MCODE_ALL,KEGG Pathway,24,mmu05012,Parkinson disease - Mus musculus (house mouse),,-3.1,15,6.4,21160,274,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-1.5
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-5683057,MAPK family signaling cascades,,-3,15,6.3,21160,279,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-1.5
+hits_MCODE_ALL,KEGG Pathway,24,mmu04010,MAPK signaling pathway - Mus musculus (house mouse),,-3,14,6.1,21160,299,15,3,20,10,14281|16476|16478,Fos|Jun|Jund,-1.4
+hits_MCODE_ALL,GO Biological Processes,19,GO:0051603,proteolysis involved in protein catabolic process,19_GO:0009987 cellular process,-2.9,7.9,5,21160,714,15,4,27,11,14109|22190|67089|217365,Fau|Ubc|Psmc6|Nploc4,-1.3
+hits_MCODE_ALL,GO Biological Processes,19,GO:0051054,positive regulation of DNA metabolic process,19_GO:0048518 positive regulation of biological process,-2.9,13,5.9,21160,316,15,3,20,10,13211|16476|53379,Dhx9|Jun|Hnrnpa2b1,-1.3
+hits_MCODE_ALL,GO Biological Processes,19,GO:1901654,response to ketone,19_GO:0050896 response to stimulus,-2.9,13,5.9,21160,319,15,3,20,10,14281|14282|15387,Fos|Fosb|Hnrnpk,-1.3
+hits_MCODE_ALL,GO Biological Processes,19,GO:1903311,regulation of mRNA metabolic process,19_GO:0050789 regulation of biological process,-2.9,13,5.9,21160,321,15,3,20,10,13211|15387|53379,Dhx9|Hnrnpk|Hnrnpa2b1,-1.3
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-983169,Class I MHC mediated antigen processing & presentation,,-2.9,13,5.8,21160,324,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-1.3
+hits_MCODE_ALL,KEGG Pathway,24,mmu05171,Coronavirus disease - COVID-19 - Mus musculus (house mouse),,-2.8,13,5.7,21160,334,15,3,20,10,14109|14281|16476,Fau|Fos|Jun,-1.3
+hits_MCODE_ALL,GO Biological Processes,19,GO:0030099,myeloid cell differentiation,19_GO:0032502 developmental process,-2.7,12,5.5,21160,361,15,3,20,10,14281|16476|16477,Fos|Jun|Junb,-1.2
+hits_MCODE_ALL,KEGG Pathway,24,mmu05014,Amyotrophic lateral sclerosis - Mus musculus (house mouse),,-2.7,11,5.4,21160,375,15,3,20,10,53379|66997|67089,Hnrnpa2b1|Psmd12|Psmc6,-1.2
+hits_MCODE_ALL,GO Biological Processes,19,GO:0008380,RNA splicing,19_GO:0009987 cellular process,-2.7,11,5.3,21160,376,15,3,20,10,13211|15387|53379,Dhx9|Hnrnpk|Hnrnpa2b1,-1.2
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-68886,M Phase,,-2.7,11,5.3,21160,379,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-1.2
+hits_MCODE_ALL,GO Biological Processes,19,GO:0097305,response to alcohol,19_GO:0050896 response to stimulus,-2.6,11,5.3,21160,386,15,3,20,10,14281|14282|15387,Fos|Fosb|Hnrnpk,-1.1
+hits_MCODE_ALL,WikiPathways,27,WP310,mRNA processing,,-2.4,9.3,4.8,21160,456,15,3,20,10,13211|15387|53379,Dhx9|Hnrnpk|Hnrnpa2b1,-0.98
+hits_MCODE_ALL,GO Biological Processes,19,GO:0006397,mRNA processing,19_GO:0009987 cellular process,-2.4,9.2,4.7,21160,461,15,3,20,10,13211|15387|53379,Dhx9|Hnrnpk|Hnrnpa2b1,-0.97
+hits_MCODE_ALL,KEGG Pathway,24,mmu05022,Pathways of neurodegeneration - multiple diseases - Mus musculus (house mouse),,-2.4,8.8,4.6,21160,481,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-0.93
+hits_MCODE_ALL,GO Biological Processes,19,GO:0002521,leukocyte differentiation,19_GO:0032502 developmental process,-2.3,8.6,4.5,21160,491,15,3,20,10,14281|16476|16477,Fos|Jun|Junb,-0.91
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-69278,"Cell Cycle, Mitotic",,-2.3,8.5,4.5,21160,496,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-0.9
+hits_MCODE_ALL,GO Biological Processes,19,GO:0009410,response to xenobiotic stimulus,19_GO:0050896 response to stimulus,-2.3,8.5,4.5,21160,500,15,3,20,10,14281|14282|16476,Fos|Fosb|Jun,-0.9
+hits_MCODE_ALL,GO Biological Processes,19,GO:0051052,regulation of DNA metabolic process,19_GO:0050789 regulation of biological process,-2.3,8.4,4.5,21160,505,15,3,20,10,13211|16476|53379,Dhx9|Jun|Hnrnpa2b1,-0.89
+hits_MCODE_ALL,GO Biological Processes,19,GO:0080135,regulation of cellular response to stress,19_GO:0050896 response to stimulus,-2.2,7.9,4.3,21160,536,15,3,20,10,13211|15387|15502,Dhx9|Hnrnpk|Dnaja1,-0.83
+hits_MCODE_ALL,GO Biological Processes,19,GO:0071407,cellular response to organic cyclic compound,19_GO:0050896 response to stimulus,-2.1,7.3,4.1,21160,581,15,3,20,10,13211|15387|15502,Dhx9|Hnrnpk|Dnaja1,-0.75
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-1640170,Cell Cycle,,-2.1,7.3,4.1,21160,582,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-0.75
+hits_MCODE_ALL,GO Biological Processes,19,GO:0016071,mRNA metabolic process,19_GO:0009987 cellular process,-2,6.8,3.9,21160,626,15,3,20,10,13211|15387|53379,Dhx9|Hnrnpk|Hnrnpa2b1,-0.68
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-1280218,Adaptive Immune System,,-2,6.7,3.9,21160,636,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-0.66
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-382551,Transport of small molecules,,-2,6.6,3.8,21160,638,15,3,20,10,22190|66997|67089,Ubc|Psmd12|Psmc6,-0.66
+hits_SUB1_MCODE_1,GO Biological Processes,19,GO:0071277,cellular response to calcium ion,19_GO:0050896 response to stimulus,-11,1.8e+02,30,21160,86,7,5,71,17,14281|14282|16476|16477|16478,Fos|Fosb|Jun|Junb|Jund,-6.4
+hits_SUB1_MCODE_1,GO Biological Processes,19,GO:0048545,response to steroid hormone,19_GO:0050896 response to stimulus,-10,62,19,21160,293,7,6,86,13,14281|14282|15502|16476|16477|16478,Fos|Fosb|Dnaja1|Jun|Junb|Jund,-6.4
+hits_SUB1_MCODE_1,KEGG Pathway,24,mmu04380,Osteoclast differentiation - Mus musculus (house mouse),,-9.7,1.1e+02,23,21160,136,7,5,71,17,14281|14282|16476|16477|16478,Fos|Fosb|Jun|Junb|Jund,-5.9
+hits_SUB1_MCODE_1,GO Biological Processes,19,GO:0051592,response to calcium ion,19_GO:0050896 response to stimulus,-9.5,1e+02,22,21160,149,7,5,71,17,14281|14282|16476|16477|16478,Fos|Fosb|Jun|Junb|Jund,-5.9
+hits_SUB1_MCODE_1,GO Biological Processes,19,GO:0071248,cellular response to metal ion,19_GO:0050896 response to stimulus,-8.8,74,19,21160,204,7,5,71,17,14281|14282|16476|16477|16478,Fos|Fosb|Jun|Junb|Jund,-5.3
+hits_SUB1_MCODE_1,KEGG Pathway,24,mmu04657,IL-17 signaling pathway - Mus musculus (house mouse),,-7.9,1.3e+02,23,21160,93,7,4,57,19,14281|14282|16476|16478,Fos|Fosb|Jun|Jund,-4.7
+hits_SUB1_MCODE_1,GO Biological Processes,19,GO:0010038,response to metal ion,19_GO:0050896 response to stimulus,-7.4,39,14,21160,385,7,5,71,17,14281|14282|16476|16477|16478,Fos|Fosb|Jun|Junb|Jund,-4.5
+hits_SUB1_MCODE_1,GO Biological Processes,19,GO:0006366,transcription by RNA polymerase II,19_GO:0009987 cellular process,-7.3,38,14,21160,400,7,5,71,17,14281|14282|16476|16477|16478,Fos|Fosb|Jun|Junb|Jund,-4.5
+hits_SUB1_MCODE_1,WikiPathways,27,WP3654,Novel Jun Dmp1 pathway,,-7.2,3.5e+02,32,21160,26,7,3,43,19,14281|16476|16477,Fos|Jun|Junb,-4.5
+hits_SUB1_MCODE_1,GO Biological Processes,19,GO:0006351,DNA-templated transcription,19_GO:0009987 cellular process,-6.7,28,12,21160,542,7,5,71,17,14281|14282|16476|16477|16478,Fos|Fosb|Jun|Junb|Jund,-4.2
+hits_SUB1_MCODE_1,KEGG Pathway,24,mmu05031,Amphetamine addiction - Mus musculus (house mouse),,-5.9,1.3e+02,20,21160,69,7,3,43,19,14281|14282|16476,Fos|Fosb|Jun,-3.7
+hits_SUB1_MCODE_1,KEGG Pathway,24,mmu04668,TNF signaling pathway - Mus musculus (house mouse),,-5.2,77,15,21160,118,7,3,43,19,14281|16476|16477,Fos|Jun|Junb,-3.2
+hits_SUB1_MCODE_1,WikiPathways,27,WP493,Mapk signaling pathway,,-4.8,57,13,21160,159,7,3,43,19,14281|16476|16478,Fos|Jun|Jund,-2.9
+hits_SUB1_MCODE_1,WikiPathways,27,WP572,EGFR1 signaling pathway,,-4.7,52,12,21160,175,7,3,43,19,14281|16476|16478,Fos|Jun|Jund,-2.9
+hits_SUB1_MCODE_1,GO Biological Processes,19,GO:0002573,myeloid leukocyte differentiation,19_GO:0032502 developmental process,-4.6,48,12,21160,187,7,3,43,19,14281|16476|16477,Fos|Jun|Junb,-2.8
+hits_SUB1_MCODE_1,GO Biological Processes,19,GO:0007565,female pregnancy,19_GO:0022414 reproductive process,-4.4,41,11,21160,219,7,3,43,19,14281|14282|16477,Fos|Fosb|Junb,-2.6
+hits_SUB1_MCODE_1,GO Biological Processes,19,GO:0044703,multi-organism reproductive process,19_GO:0022414 reproductive process,-4.3,37,10,21160,248,7,3,43,19,14281|14282|16477,Fos|Fosb|Junb,-2.5
+hits_SUB1_MCODE_1,GO Biological Processes,19,GO:0044706,multi-multicellular organism process,19_GO:0032501 multicellular organismal process,-4.2,36,10,21160,253,7,3,43,19,14281|14282|16477,Fos|Fosb|Junb,-2.5
+hits_SUB1_MCODE_1,GO Biological Processes,19,GO:0009612,response to mechanical stimulus,19_GO:0050896 response to stimulus,-4.2,34,9.8,21160,270,7,3,43,19,14281|14282|16476,Fos|Fosb|Jun,-2.4
+hits_SUB1_MCODE_1,KEGG Pathway,24,mmu04010,MAPK signaling pathway - Mus musculus (house mouse),,-4,30,9.3,21160,299,7,3,43,19,14281|16476|16478,Fos|Jun|Jund,-2.3
+hits_SUB1_MCODE_1,GO Biological Processes,19,GO:0030099,myeloid cell differentiation,19_GO:0032502 developmental process,-3.8,25,8.4,21160,361,7,3,43,19,14281|16476|16477,Fos|Jun|Junb,-2.1
+hits_SUB1_MCODE_1,Reactome Gene Sets,6,R-MMU-2262752,Cellular responses to stress,,-3.4,19,7.2,21160,480,7,3,43,19,14281|15502|16476,Fos|Dnaja1|Jun,-1.8
+hits_SUB1_MCODE_1,GO Biological Processes,19,GO:0002521,leukocyte differentiation,19_GO:0032502 developmental process,-3.4,18,7.1,21160,491,7,3,43,19,14281|16476|16477,Fos|Jun|Junb,-1.7
+hits_SUB1_MCODE_1,GO Biological Processes,19,GO:0009410,response to xenobiotic stimulus,19_GO:0050896 response to stimulus,-3.4,18,7.1,21160,500,7,3,43,19,14281|14282|16476,Fos|Fosb|Jun,-1.7
+hits_SUB1_MCODE_1,Reactome Gene Sets,6,R-MMU-8953897,Cellular responses to stimuli,,-3.3,17,6.7,21160,543,7,3,43,19,14281|15502|16476,Fos|Dnaja1|Jun,-1.6
+hits_SUB1_MCODE_1,GO Biological Processes,19,GO:0032870,cellular response to hormone stimulus,19_GO:0050896 response to stimulus,-3.2,15,6.4,21160,591,7,3,43,19,14281|14282|15502,Fos|Fosb|Dnaja1,-1.6
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-9755511,KEAP1-NFE2L2 pathway,,-9.5,2.7e+02,33,21160,62,5,4,80,18,22190|66997|67089|217365,Ubc|Psmd12|Psmc6|Nploc4,-5.9
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-9711123,Cellular response to chemical stress,,-8,1.2e+02,22,21160,140,5,4,80,18,22190|66997|67089|217365,Ubc|Psmd12|Psmc6|Nploc4,-4.7
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-8951664,Neddylation,,-7.4,83,18,21160,203,5,4,80,18,22190|66997|67089|217365,Ubc|Psmd12|Psmc6|Nploc4,-4.5
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-75815,Ubiquitin-dependent degradation of Cyclin D,,-7.3,3.4e+02,32,21160,37,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.5
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-349425,Autodegradation of the E3 ubiquitin ligase COP1,,-7.3,3.3e+02,32,21160,38,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.5
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-69610,p53-Independent DNA Damage Response,,-7.3,3.3e+02,32,21160,38,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.5
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-69613,p53-Independent G1/S DNA damage checkpoint,,-7.3,3.3e+02,32,21160,38,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.5
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-69601,Ubiquitin Mediated Degradation of Phosphorylated Cdc25A,,-7.3,3.3e+02,32,21160,38,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.5
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-9762114,GSK3B and BTRC:CUL1-mediated-degradation of NFE2L2,,-7.2,3.2e+02,31,21160,40,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.5
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-8854050,FBXL7 down-regulates AURKA during mitotic entry and in early mitosis,,-7.2,3.2e+02,31,21160,40,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.5
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-8939902,Regulation of RUNX2 expression and activity,,-7.2,3.2e+02,31,21160,40,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.5
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-4641257,Degradation of AXIN,,-7.2,3.1e+02,30,21160,41,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.5
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-5610780,Degradation of GLI1 by the proteasome,,-7.2,3.1e+02,30,21160,41,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.5
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-8941858,Regulation of RUNX3 expression and activity,,-7.1,3e+02,30,21160,42,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.5
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-69541,Stabilization of p53,,-7.1,3e+02,30,21160,42,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.5
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-450408,AUF1 (hnRNP D0) binds and destabilizes mRNA,,-7.1,3e+02,30,21160,42,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.5
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-5676590,NIK-->noncanonical NF-kB signaling,,-7.1,3e+02,30,21160,43,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.5
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-5610785,GLI3 is processed to GLI3R by the proteasome,,-7.1,3e+02,30,21160,43,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.5
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-4641258,Degradation of DVL,,-7.1,3e+02,30,21160,43,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.5
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-5607761,Dectin-1 mediated noncanonical NF-kB signaling,,-7.1,3e+02,30,21160,43,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.5
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-9759194,Nuclear events mediated by NFE2L2,,-7.1,2.9e+02,29,21160,44,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.4
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-1169091,Activation of NF-kappaB in B cells,,-7,2.8e+02,29,21160,46,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.4
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-4608870,Asymmetric localization of PCP proteins,,-7,2.6e+02,28,21160,48,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.4
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-5358346,Hedgehog ligand biogenesis,,-6.9,2.6e+02,28,21160,49,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.3
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-8939236,RUNX1 regulates transcription of genes involved in differentiation of HSCs,,-6.9,2.5e+02,28,21160,50,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.3
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-187577,SCF(Skp2)-mediated degradation of p27/p21,,-6.9,2.5e+02,28,21160,50,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.3
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-8878166,Transcriptional regulation by RUNX2,,-6.9,2.5e+02,27,21160,51,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.3
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-1234176,Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha,,-6.9,2.5e+02,27,21160,51,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.3
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-69580,p53-Dependent G1/S DNA damage checkpoint,,-6.9,2.5e+02,27,21160,51,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.3
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-69563,p53-Dependent G1 DNA Damage Response,,-6.9,2.5e+02,27,21160,51,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.3
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-8948751,Regulation of PTEN stability and activity,,-6.8,2.4e+02,27,21160,53,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.3
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-5658442,Regulation of RAS by GAPs,,-6.8,2.4e+02,27,21160,53,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.3
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-174084,Autodegradation of Cdh1 by Cdh1:APC/C,,-6.8,2.4e+02,27,21160,53,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.3
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-69615,G1/S DNA Damage Checkpoints,,-6.8,2.4e+02,27,21160,53,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.3
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-174154,APC/C:Cdc20 mediated degradation of Securin,,-6.8,2.4e+02,26,21160,54,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.3
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-1234174,Cellular response to hypoxia,,-6.8,2.3e+02,26,21160,55,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.3
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-68949,Orc1 removal from chromatin,,-6.8,2.3e+02,26,21160,56,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.3
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-2871837,FCERI mediated NF-kB activation,,-6.7,2.2e+02,26,21160,57,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.3
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-1168372,Downstream signaling events of B Cell Receptor (BCR),,-6.7,2.2e+02,26,21160,58,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.2
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-69017,CDK-mediated phosphorylation and removal of Cdc6,,-6.7,2.2e+02,25,21160,59,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.2
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-174184,Cdc20:Phospho-APC/C mediated degradation of Cyclin A,,-6.7,2.2e+02,25,21160,59,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.2
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-5687128,MAPK6/MAPK4 signaling,,-6.7,2.2e+02,25,21160,59,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.2
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-179419,APC:Cdc20 mediated degradation of cell cycle proteins prior to satisfation of the cell cycle checkpoint,,-6.7,2.1e+02,25,21160,60,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.2
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-69202,Cyclin E associated events during G1/S transition,,-6.7,2.1e+02,25,21160,60,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.2
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-174178,APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1,,-6.7,2.1e+02,25,21160,60,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.2
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-8852276,The role of GTSE1 in G2/M progression after G2 checkpoint,,-6.6,2.1e+02,25,21160,61,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.2
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-176409,APC/C:Cdc20 mediated degradation of mitotic proteins,,-6.6,2e+02,25,21160,62,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.2
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-195253,Degradation of beta-catenin by the destruction complex,,-6.6,2e+02,25,21160,62,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.2
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-69656,Cyclin A:Cdk2-associated events at S phase entry,,-6.6,2e+02,25,21160,62,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.2
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-176814,Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins,,-6.6,2e+02,25,21160,63,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.2
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-202424,Downstream TCR signaling,,-6.6,2e+02,24,21160,65,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.2
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-8878159,Transcriptional regulation by RUNX3,,-6.6,2e+02,24,21160,65,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.2
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-5632684,Hedgehog 'on' state,,-6.5,1.9e+02,24,21160,66,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.2
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-68867,Assembly of the pre-replicative complex,,-6.4,1.8e+02,23,21160,71,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.1
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-450531,Regulation of mRNA stability by proteins that bind AU-rich elements,,-6.4,1.8e+02,23,21160,71,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.1
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-5607764,CLEC7A (Dectin-1) signaling,,-6.4,1.8e+02,23,21160,71,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.1
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-4086400,PCP/CE pathway,,-6.4,1.8e+02,23,21160,72,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.1
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-174143,APC/C-mediated degradation of cell cycle proteins,,-6.4,1.7e+02,23,21160,73,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.1
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-453276,Regulation of mitotic cell cycle,,-6.4,1.7e+02,23,21160,73,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4.1
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-69052,Switching of origins to a post-replicative state,,-6.3,1.6e+02,22,21160,77,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-6807070,PTEN Regulation,,-6.3,1.6e+02,22,21160,79,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-5668541,TNFR2 non-canonical NF-kB pathway,,-6.3,1.6e+02,22,21160,79,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-5689603,UCH proteinases,,-6.3,1.6e+02,22,21160,81,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-202403,TCR signaling,,-6.3,1.5e+02,21,21160,82,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-983705,Signaling by the B Cell Receptor (BCR),,-6.2,1.5e+02,21,21160,83,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-4
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-382556,ABC-family proteins mediated transport,,-6.2,1.5e+02,21,21160,85,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.9
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-9020702,Interleukin-1 signaling,,-6.2,1.5e+02,21,21160,85,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.9
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-69002,DNA Replication Pre-Initiation,,-6.2,1.5e+02,21,21160,87,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.9
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-5621481,C-type lectin receptors (CLRs),,-6.1,1.4e+02,21,21160,89,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.9
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-5610787,Hedgehog 'off' state,,-6.1,1.4e+02,21,21160,89,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.9
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-69206,G1/S Transition,,-6.1,1.4e+02,20,21160,94,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.9
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-2454202,Fc epsilon receptor (FCERI) signaling,,-6.1,1.4e+02,20,21160,94,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.9
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-446652,Interleukin-1 family signaling,,-6,1.2e+02,19,21160,102,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.8
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-69239,Synthesis of DNA,,-6,1.2e+02,19,21160,103,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.7
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-2262752,Cellular responses to stress,,-5.9,35,12,21160,480,5,4,80,18,22190|66997|67089|217365,Ubc|Psmd12|Psmc6|Nploc4,-3.7
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-3858494,Beta-catenin independent WNT signaling,,-5.9,1.1e+02,18,21160,111,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.7
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-69306,DNA Replication,,-5.8,1.1e+02,18,21160,114,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.6
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-453279,Mitotic G1 phase and G1/S transition,,-5.8,1.1e+02,18,21160,117,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.6
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-5358351,Signaling by Hedgehog,,-5.7,1e+02,18,21160,121,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.6
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-8953897,Cellular responses to stimuli,,-5.7,31,11,21160,543,5,4,80,18,22190|66997|67089|217365,Ubc|Psmd12|Psmc6|Nploc4,-3.5
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-69242,S Phase,,-5.6,97,17,21160,131,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.5
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-8953854,Metabolism of RNA,,-5.6,30,11,21160,568,5,4,80,18,14109|22190|66997|67089,Fau|Ubc|Psmd12|Psmc6,-3.5
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-201681,TCF dependent signaling in response to WNT,,-5.6,93,17,21160,137,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.5
+hits_SUB1_MCODE_2,GO Biological Processes,19,GO:0019941,modification-dependent protein catabolic process,19_GO:0009987 cellular process,-5.5,29,10,21160,589,5,4,80,18,14109|22190|67089|217365,Fau|Ubc|Psmc6|Nploc4,-3.4
+hits_SUB1_MCODE_2,GO Biological Processes,19,GO:0043632,modification-dependent macromolecule catabolic process,19_GO:0009987 cellular process,-5.5,28,10,21160,594,5,4,80,18,14109|22190|67089|217365,Fau|Ubc|Psmc6|Nploc4,-3.4
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-69481,G2/M Checkpoints,,-5.5,88,16,21160,144,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.4
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-69275,G2/M Transition,,-5.4,80,15,21160,159,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.3
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-453274,Mitotic G2-G2/M phases,,-5.4,79,15,21160,161,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.3
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-5689880,Ub-specific processing proteases,,-5.4,78,15,21160,162,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.3
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-2467813,Separation of Sister Chromatids,,-5.3,76,15,21160,167,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.3
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-8878171,Transcriptional regulation by RUNX1,,-5.3,74,15,21160,172,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.2
+hits_SUB1_MCODE_2,GO Biological Processes,19,GO:0051603,proteolysis involved in protein catabolic process,19_GO:0009987 cellular process,-5.2,24,9.5,21160,714,5,4,80,18,14109|22190|67089|217365,Fau|Ubc|Psmc6|Nploc4,-3.2
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-68882,Mitotic Anaphase,,-5.1,63,14,21160,202,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.1
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-2555396,Mitotic Metaphase and Anaphase,,-5.1,63,14,21160,203,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.1
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-1257604,PIP3 activates AKT signaling,,-5.1,62,14,21160,204,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-3.1
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-195721,Signaling by WNT,,-5,59,13,21160,214,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-3
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-5688426,Deubiquitination,,-4.9,56,13,21160,225,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-3
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-9006925,Intracellular signaling by second messengers,,-4.9,56,13,21160,228,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-3
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-5673001,RAF/MAP kinase cascade,,-4.8,51,12,21160,250,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-2.9
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-5684996,MAPK1/MAPK3 signaling,,-4.8,50,12,21160,256,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-2.9
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-69620,Cell Cycle Checkpoints,,-4.7,48,12,21160,262,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-2.9
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-449147,Signaling by Interleukins,,-4.7,48,12,21160,264,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-2.9
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-983168,Antigen processing: Ubiquitination & Proteasome degradation,,-4.7,47,12,21160,269,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-2.8
+hits_SUB1_MCODE_2,KEGG Pathway,24,mmu05012,Parkinson disease - Mus musculus (house mouse),,-4.7,46,12,21160,274,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-2.8
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-5683057,MAPK family signaling cascades,,-4.7,46,12,21160,279,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-2.8
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-983169,Class I MHC mediated antigen processing & presentation,,-4.5,39,11,21160,324,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-2.6
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-68886,M Phase,,-4.3,33,9.8,21160,379,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-2.5
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-1280215,Cytokine Signaling in Immune system,,-4.1,29,9,21160,444,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-2.3
+hits_SUB1_MCODE_2,KEGG Pathway,24,mmu05022,Pathways of neurodegeneration - multiple diseases - Mus musculus (house mouse),,-3.9,26,8.7,21160,481,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-2.2
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-69278,"Cell Cycle, Mitotic",,-3.9,26,8.5,21160,496,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-2.2
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-1640170,Cell Cycle,,-3.7,22,7.8,21160,582,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-2
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-1280218,Adaptive Immune System,,-3.6,20,7.5,21160,636,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-1.9
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-382551,Transport of small molecules,,-3.6,20,7.5,21160,638,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-1.9
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-212436,Generic Transcription Pathway,,-3.4,17,6.8,21160,761,5,3,60,22,22190|66997|67089,Ubc|Psmd12|Psmc6,-1.7
+hits_SUB1_MCODE_3,GO Biological Processes,19,GO:1903312,negative regulation of mRNA metabolic process,19_GO:0048519 negative regulation of biological process,-7,2.1e+02,25,21160,100,3,3,1e+02,27,13211|15387|53379,Dhx9|Hnrnpk|Hnrnpa2b1,-4.4
+hits_SUB1_MCODE_3,GO Biological Processes,19,GO:0050684,regulation of mRNA processing,19_GO:0050789 regulation of biological process,-6.5,1.4e+02,21,21160,149,3,3,1e+02,27,13211|15387|53379,Dhx9|Hnrnpk|Hnrnpa2b1,-4.1
+hits_SUB1_MCODE_3,Reactome Gene Sets,6,R-MMU-72163,mRNA Splicing - Major Pathway,,-6.2,1.1e+02,18,21160,185,3,3,1e+02,27,13211|15387|53379,Dhx9|Hnrnpk|Hnrnpa2b1,-3.9
+hits_SUB1_MCODE_3,Reactome Gene Sets,6,R-MMU-72172,mRNA Splicing,,-6.1,1.1e+02,18,21160,191,3,3,1e+02,27,13211|15387|53379,Dhx9|Hnrnpk|Hnrnpa2b1,-3.9
+hits_SUB1_MCODE_3,GO Biological Processes,19,GO:0031047,regulatory ncRNA-mediated gene silencing,19_GO:0048519 negative regulation of biological process,-6.1,1.1e+02,18,21160,191,3,3,1e+02,27,13211|15387|53379,Dhx9|Hnrnpk|Hnrnpa2b1,-3.9
+hits_SUB1_MCODE_3,Reactome Gene Sets,6,R-MMU-72203,Processing of Capped Intron-Containing Pre-mRNA,,-5.7,82,16,21160,259,3,3,1e+02,27,13211|15387|53379,Dhx9|Hnrnpk|Hnrnpa2b1,-3.6
+hits_SUB1_MCODE_3,GO Biological Processes,19,GO:1903311,regulation of mRNA metabolic process,19_GO:0050789 regulation of biological process,-5.5,66,14,21160,321,3,3,1e+02,27,13211|15387|53379,Dhx9|Hnrnpk|Hnrnpa2b1,-3.4
+hits_SUB1_MCODE_3,GO Biological Processes,19,GO:0008380,RNA splicing,19_GO:0009987 cellular process,-5.3,56,13,21160,376,3,3,1e+02,27,13211|15387|53379,Dhx9|Hnrnpk|Hnrnpa2b1,-3.2
+hits_SUB1_MCODE_3,WikiPathways,27,WP310,mRNA processing,,-5,46,12,21160,456,3,3,1e+02,27,13211|15387|53379,Dhx9|Hnrnpk|Hnrnpa2b1,-3
+hits_SUB1_MCODE_3,GO Biological Processes,19,GO:0006397,mRNA processing,19_GO:0009987 cellular process,-5,46,12,21160,461,3,3,1e+02,27,13211|15387|53379,Dhx9|Hnrnpk|Hnrnpa2b1,-3
+hits_SUB1_MCODE_3,Reactome Gene Sets,6,R-MMU-8953854,Metabolism of RNA,,-4.7,37,10,21160,568,3,3,1e+02,27,13211|15387|53379,Dhx9|Hnrnpk|Hnrnpa2b1,-2.8
+hits_SUB1_MCODE_3,GO Biological Processes,19,GO:0016071,mRNA metabolic process,19_GO:0009987 cellular process,-4.6,34,9.9,21160,626,3,3,1e+02,27,13211|15387|53379,Dhx9|Hnrnpk|Hnrnpa2b1,-2.7

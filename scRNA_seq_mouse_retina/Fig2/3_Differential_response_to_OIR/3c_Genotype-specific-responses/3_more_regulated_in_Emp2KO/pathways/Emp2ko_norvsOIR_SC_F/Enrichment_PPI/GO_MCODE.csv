@@ -1,0 +1,27 @@
+Name,Category,CategoryID,GO,Description,PARENT_GO,LogP,Enrichment,Z-score,#TotalGeneInLibrary,#GeneInGO,#GeneInHitList,#GeneInGOAndHitList,%InGO,STDV %InGO,GeneID,Hits,Log(q-value)
+hits,WikiPathways,27,WP85,Focal adhesion,,-6.3,30,12,21160,185,19,5,26,10,11465|14268|16773|20363|241226,Actg1|Fn1|Lama2|Selenop|Itga8,-2
+hits,KEGG Pathway,24,mmu04510,Focal adhesion - Mus musculus (house mouse),,-4.6,22,9,21160,202,19,4,21,9.4,11465|14268|16773|241226,Actg1|Fn1|Lama2|Itga8,-0.71
+hits,KEGG Pathway,24,mmu04820,Cytoskeleton in muscle cells - Mus musculus (house mouse),,-4.3,19,8.4,21160,232,19,4,21,9.4,11465|14268|16773|241226,Actg1|Fn1|Lama2|Itga8,-0.71
+hits,KEGG Pathway,24,mmu05412,Arrhythmogenic right ventricular cardiomyopathy - Mus musculus (house mouse),,-4.2,39,11,21160,86,19,3,16,8.4,11465|16773|241226,Actg1|Lama2|Itga8,-0.71
+hits,KEGG Pathway,24,mmu04512,ECM-receptor interaction - Mus musculus (house mouse),,-4.2,38,10,21160,89,19,3,16,8.4,14268|16773|241226,Fn1|Lama2|Itga8,-0.71
+hits,Reactome Gene Sets,6,R-MMU-109582,Hemostasis,,-4.2,11,6.8,21160,505,19,5,26,10,11465|12306|14268|15078|20363,Actg1|Anxa2|Fn1|H3f3a|Selenop,-0.71
+hits,KEGG Pathway,24,mmu05410,Hypertrophic cardiomyopathy - Mus musculus (house mouse),,-4,33,9.7,21160,100,19,3,16,8.4,11465|16773|241226,Actg1|Lama2|Itga8,-0.65
+hits,KEGG Pathway,24,mmu05414,Dilated cardiomyopathy - Mus musculus (house mouse),,-4,32,9.6,21160,103,19,3,16,8.4,11465|16773|241226,Actg1|Lama2|Itga8,-0.65
+hits,Reactome Gene Sets,6,R-MMU-114608,Platelet degranulation,,-3.8,29,9,21160,115,19,3,16,8.4,11465|14268|20363,Actg1|Fn1|Selenop,-0.57
+hits,Reactome Gene Sets,6,R-MMU-76005,Response to elevated platelet cytosolic Ca2+,,-3.8,28,8.9,21160,119,19,3,16,8.4,11465|14268|20363,Actg1|Fn1|Selenop,-0.57
+hits,WikiPathways,27,WP2841,Focal adhesion PI3K Akt mTOR signaling pathway,,-3.8,14,7,21160,322,19,4,21,9.4,12539|14268|16773|241226,Cdc37|Fn1|Lama2|Itga8,-0.57
+hits,GO Biological Processes,19,GO:0007160,cell-matrix adhesion,19_GO:0009987 cellular process,-3.6,25,8.3,21160,135,19,3,16,8.4,12306|14268|241226,Anxa2|Fn1|Itga8,-0.48
+hits,KEGG Pathway,24,mmu04151,PI3K-Akt signaling pathway - Mus musculus (house mouse),,-3.6,12,6.5,21160,367,19,4,21,9.4,12539|14268|16773|241226,Cdc37|Fn1|Lama2|Itga8,-0.42
+hits,GO Biological Processes,19,GO:0031589,cell-substrate adhesion,19_GO:0009987 cellular process,-3.2,18,6.9,21160,189,19,3,16,8.4,12306|14268|241226,Anxa2|Fn1|Itga8,-0.12
+hits,KEGG Pathway,24,mmu04810,Regulation of actin cytoskeleton - Mus musculus (house mouse),,-2.9,14,6.1,21160,234,19,3,16,8.4,11465|14268|241226,Actg1|Fn1|Itga8,0
+hits,Reactome Gene Sets,6,R-MMU-76002,"Platelet activation, signaling and aggregation",,-2.9,14,6,21160,239,19,3,16,8.4,11465|14268|20363,Actg1|Fn1|Selenop,0
+hits,Reactome Gene Sets,6,R-MMU-1474244,Extracellular matrix organization,,-2.8,13,5.7,21160,262,19,3,16,8.4,11465|14268|241226,Actg1|Fn1|Itga8,0
+hits,GO Biological Processes,19,GO:0030198,extracellular matrix organization,19_GO:0009987 cellular process,-2.7,12,5.4,21160,288,19,3,16,8.4,12306|14268|241226,Anxa2|Fn1|Itga8,0
+hits,GO Biological Processes,19,GO:0045229,external encapsulating structure organization,19_GO:0009987 cellular process,-2.7,12,5.4,21160,289,19,3,16,8.4,12306|14268|241226,Anxa2|Fn1|Itga8,0
+hits,GO Biological Processes,19,GO:0043062,extracellular structure organization,19_GO:0009987 cellular process,-2.7,12,5.4,21160,290,19,3,16,8.4,12306|14268|241226,Anxa2|Fn1|Itga8,0
+hits,GO Biological Processes,19,GO:0042692,muscle cell differentiation,19_GO:0032502 developmental process,-2.5,9.7,4.9,21160,344,19,3,16,8.4,11465|15078|241226,Actg1|H3f3a|Itga8,0
+hits,GO Biological Processes,19,GO:0001525,angiogenesis,19_GO:0032502 developmental process,-2.4,9.3,4.8,21160,358,19,3,16,8.4,11465|12306|14268,Actg1|Anxa2|Fn1,0
+hits,KEGG Pathway,24,mmu05165,Human papillomavirus infection - Mus musculus (house mouse),,-2.4,9.3,4.8,21160,359,19,3,16,8.4,14268|16773|241226,Fn1|Lama2|Itga8,0
+hits,Reactome Gene Sets,6,R-MMU-9012999,RHO GTPase cycle,,-2.3,8.6,4.5,21160,388,19,3,16,8.4,11465|12539|20619,Actg1|Cdc37|Snap23,0
+hits,Reactome Gene Sets,6,R-MMU-9006934,Signaling by Receptor Tyrosine Kinases,,-2.3,8.4,4.5,21160,400,19,3,16,8.4,11465|12539|14268,Actg1|Cdc37|Fn1,0
+hits,GO Biological Processes,19,GO:0048514,blood vessel morphogenesis,19_GO:0032502 developmental process,-2.1,7,4,21160,476,19,3,16,8.4,11465|12306|14268,Actg1|Anxa2|Fn1,0

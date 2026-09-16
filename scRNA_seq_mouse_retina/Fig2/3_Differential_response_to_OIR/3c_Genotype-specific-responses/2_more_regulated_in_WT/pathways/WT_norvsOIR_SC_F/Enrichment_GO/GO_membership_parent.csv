@@ -1,0 +1,10 @@
+_MEMBER_MyList,_LogP_MyList,GO,Description,_PATTERN_,_RANK_,CHILD_GO_MyList
+1,-4.2505344552963615,GO:0048518,positive regulation of biological process,M1,1,GO:0045724 positive regulation of cilium assembly
+1,-3.4842974117039547,GO:0009987,cellular process,M1,1,GO:0010498 proteasomal protein catabolic process
+1,-3.444926426134391,GO:0050896,response to stimulus,M1,1,GO:0036503 ERAD pathway
+1,-3.2321803443810198,GO:0032502,developmental process,M1,1,GO:0042491 inner ear auditory receptor cell differentiation
+1,-2.7439507992970515,GO:0050789,regulation of biological process,M1,1,GO:1902017 regulation of cilium assembly
+1,-2.6564383861787717,GO:0065007,biological regulation,M1,1,GO:0043087 regulation of GTPase activity
+1,-2.3901383023465934,GO:0040007,growth,M1,1,GO:0048638 regulation of developmental growth
+1,-2.366188429164796,GO:0051179,localization,M1,1,GO:1900182 positive regulation of protein localization to nucleus
+1,-2.117479183725305,GO:0042592,homeostatic process,M1,1,GO:0001895 retina homeostasis

@@ -1,0 +1,4 @@
+Category,CategoryID,GO,Description,PARENT_GO,LogP,Enrichment,Z-score,#TotalGeneInLibrary,#GeneInGO,#GeneInHitList,#GeneInGOAndHitList,%InGO,STDV %InGO,GeneID,Hits,Log(q-value),GeneList
+PaGenBase,36,PGB:00269,Cell-specific: retinal pigment epithelium,,-7.4,5.1,7.6,21160,386,181,17,9.4,2.2,11500|11932|12759|12837|14607|18117|18424|19062|20347|22370|54612|55987|58909|212541|245049|329872|329941,Adam7|Atp1b2|Clu|Col8a1|Gip|Emc8|Otx2|Inpp5k|Sema3b|Vtn|Sfrp5|Cpxm2|Fam13a|Rho|Myrip|Frem1|Col8a2,-4.4,hits
+TRRUST,34,TRR01347,Regulated by: Sp1,,-2.5,3.3,3.7,21160,280,181,8,4.4,1.5,11816|11820|12162|12444|12857|17319|212541|225845,Apoe|App|Bmp7|Ccnd2|Cox4i1|Mif|Rho|Plaat3,0,hits
+TRRUST,34,TRR01368,Regulated by: Stat3,,-2.3,5.8,4,21160,81,181,4,2.2,1.1,12444|16011|17748|19211,Ccnd2|Igfbp5|Mt1|Pten,0,hits
