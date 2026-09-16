@@ -1,0 +1,5 @@
+Network,Annotation
+hits,mmu01200|Carbon metabolism - Mus musculus (house mouse)|-9.8;GO:0006091|generation of precursor metabolites and energy|-8.3;mmu01212|Fatty acid metabolism - Mus musculus (house mouse)|-6.7
+hits_MCODE_ALL,mmu01200|Carbon metabolism - Mus musculus (house mouse)|-10.5;GO:0006091|generation of precursor metabolites and energy|-8.0;mmu00030|Pentose phosphate pathway - Mus musculus (house mouse)|-7.1
+hits_SUB1_MCODE_1,R-MMU-9033241|Peroxisomal protein import|-7.6;R-MMU-9609507|Protein localization|-7.0
+hits_SUB3_MCODE_2,mmu00030|Pentose phosphate pathway - Mus musculus (house mouse)|-8.4;mmu01200|Carbon metabolism - Mus musculus (house mouse)|-6.7;GO:0046496|nicotinamide nucleotide metabolic process|-6.7

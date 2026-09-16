@@ -1,0 +1,2 @@
+_MEMBER_hits,_LogP_hits,GO,_PATTERN_,_RANK_,GiniIndex,Category,CategoryID,Description,PARENT_GO,LogP,Enrichment,Z-score,#TotalGeneInLibrary,#GeneInGO,#GeneInHitList,#GeneInGOAndHitList,%InGO,STDV %InGO,GeneID,Hits,Log(q-value),EvidenceCutoff
+1,-2.7,TRR01347,M1,1,0,TRRUST,34,Regulated by: Sp1,,-2.7,4.6,4.1,21160,280,99,6,6.1,2.4,11803|12162|12978|17254|20539|212541,Aplp1|Bmp7|Csf1r|Slc3a2|Slc7a5|Rho,-0.02,0

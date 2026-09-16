@@ -1,0 +1,241 @@
+_MEMBER_hits,_LogP_hits,GO,Description,_PATTERN_,_RANK_,GiniIndex
+1,-2.9,GO:0036293,response to decreased oxygen levels,M1,1,0
+1,-3,GO:0045638,negative regulation of myeloid cell differentiation,M1,1,0
+1,-2.2,GO:0019725,cellular homeostasis,M1,1,0
+1,-2.1,GO:0051962,positive regulation of nervous system development,M1,1,0
+1,-2.9,mmu04933,AGE-RAGE signaling pathway in diabetic complications - Mus musculus (house mouse),M1,1,0
+1,-2.1,GO:0007519,skeletal muscle tissue development,M1,1,0
+1,-3.5,GO:0009743,response to carbohydrate,M1,1,0
+1,-4.1,GO:0030010,establishment of cell polarity,M1,1,0
+1,-2.6,GO:0051028,mRNA transport,M1,1,0
+1,-5.2,WP2432,Spinal cord injury,M1,1,0
+1,-4.8,mmu05166,Human T-cell leukemia virus 1 infection - Mus musculus (house mouse),M1,1,0
+1,-4,GO:0014074,response to purine-containing compound,M1,1,0
+1,-4.4,GO:0071248,cellular response to metal ion,M1,1,0
+1,-3.5,GO:0040008,regulation of growth,M1,1,0
+1,-2.5,GO:0040017,positive regulation of locomotion,M1,1,0
+1,-3.3,GO:0046683,response to organophosphorus,M1,1,0
+1,-3.3,GO:0060537,muscle tissue development,M1,1,0
+1,-3.2,GO:0009952,anterior/posterior pattern specification,M1,1,0
+1,-3.2,GO:0050684,regulation of mRNA processing,M1,1,0
+1,-4,R-MMU-450294,MAP kinase activation,M1,1,0
+1,-3.7,mmu04928,"Parathyroid hormone synthesis, secretion and action - Mus musculus (house mouse)",M1,1,0
+1,-2.6,R-MMU-9006934,Signaling by Receptor Tyrosine Kinases,M1,1,0
+1,-3.8,GO:0045596,negative regulation of cell differentiation,M1,1,0
+1,-3.9,GO:1903131,mononuclear cell differentiation,M1,1,0
+1,-2.4,GO:0045600,positive regulation of fat cell differentiation,M1,1,0
+1,-3.5,R-MMU-166520,Signaling by NTRKs,M1,1,0
+1,-2.4,GO:1904035,regulation of epithelial cell apoptotic process,M1,1,0
+1,-3.7,R-MMU-8953897,Cellular responses to stimuli,M1,1,0
+1,-2.1,R-MMU-449147,Signaling by Interleukins,M1,1,0
+1,-2.3,GO:0035914,skeletal muscle cell differentiation,M1,1,0
+1,-2.2,GO:0071384,cellular response to corticosteroid stimulus,M1,1,0
+1,-2.9,GO:0050767,regulation of neurogenesis,M1,1,0
+1,-2.7,mmu04978,Mineral absorption - Mus musculus (house mouse),M1,1,0
+1,-2.3,GO:0071385,cellular response to glucocorticoid stimulus,M1,1,0
+1,-3.7,R-MMU-198725,Nuclear Events (kinase and transcription factor activation),M1,1,0
+1,-2.2,GO:0061157,mRNA destabilization,M1,1,0
+1,-4,GO:0051591,response to cAMP,M1,1,0
+1,-4.5,GO:0001944,vasculature development,M1,1,0
+1,-3.9,GO:0046686,response to cadmium ion,M1,1,0
+1,-2.8,R-MMU-166016,Toll Like Receptor 4 (TLR4) Cascade,M1,1,0
+1,-2.3,GO:0032870,cellular response to hormone stimulus,M1,1,0
+1,-2.3,GO:0045669,positive regulation of osteoblast differentiation,M1,1,0
+1,-3,GO:0010720,positive regulation of cell development,M1,1,0
+1,-3,GO:0032570,response to progesterone,M1,1,0
+1,-2.2,GO:0050779,RNA destabilization,M1,1,0
+1,-2.2,mmu04932,Non-alcoholic fatty liver disease - Mus musculus (house mouse),M1,1,0
+1,-4.1,GO:0006979,response to oxidative stress,M1,1,0
+1,-3.8,GO:0001894,tissue homeostasis,M1,1,0
+1,-2.5,R-MMU-6806834,Signaling by MET,M1,1,0
+1,-3.7,GO:0097306,cellular response to alcohol,M1,1,0
+1,-3,GO:0071363,cellular response to growth factor stimulus,M1,1,0
+1,-2.5,mmu04210,Apoptosis - Mus musculus (house mouse),M1,1,0
+1,-6.3,GO:2000630,positive regulation of miRNA metabolic process,M1,1,0
+1,-2.5,GO:0048511,rhythmic process,M1,1,0
+1,-2.8,GO:0045646,regulation of erythrocyte differentiation,M1,1,0
+1,-2.2,GO:0051090,regulation of DNA-binding transcription factor activity,M1,1,0
+1,-2.3,GO:0061035,regulation of cartilage development,M1,1,0
+1,-2.8,GO:0010837,regulation of keratinocyte proliferation,M1,1,0
+1,-3.1,GO:0034976,response to endoplasmic reticulum stress,M1,1,0
+1,-2.3,GO:0051236,establishment of RNA localization,M1,1,0
+1,-2.8,GO:1901655,cellular response to ketone,M1,1,0
+1,-3.4,GO:0002521,leukocyte differentiation,M1,1,0
+1,-3.2,GO:0010721,negative regulation of cell development,M1,1,0
+1,-2.3,GO:0050657,nucleic acid transport,M1,1,0
+1,-2.4,mmu05211,Renal cell carcinoma - Mus musculus (house mouse),M1,1,0
+1,-2.2,GO:0002244,hematopoietic progenitor cell differentiation,M1,1,0
+1,-3.2,GO:0045598,regulation of fat cell differentiation,M1,1,0
+1,-3.4,GO:0104004,cellular response to environmental stimulus,M1,1,0
+1,-2.1,mmu05235,PD-L1 expression and PD-1 checkpoint pathway in cancer - Mus musculus (house mouse),M1,1,0
+1,-3.2,GO:0030098,lymphocyte differentiation,M1,1,0
+1,-4.8,GO:0045647,negative regulation of erythrocyte differentiation,M1,1,0
+1,-3.8,WP572,EGFR1 signaling pathway,M1,1,0
+1,-3,GO:0003407,neural retina development,M1,1,0
+1,-2.3,GO:0002763,positive regulation of myeloid leukocyte differentiation,M1,1,0
+1,-2.1,GO:0071559,response to transforming growth factor beta,M1,1,0
+1,-2.7,GO:0043484,regulation of RNA splicing,M1,1,0
+1,-2.2,GO:0009314,response to radiation,M1,1,0
+1,-2.4,GO:0050678,regulation of epithelial cell proliferation,M1,1,0
+1,-2.2,GO:0045926,negative regulation of growth,M1,1,0
+1,-2.1,GO:0045786,negative regulation of cell cycle,M1,1,0
+1,-2.2,mmu04911,Insulin secretion - Mus musculus (house mouse),M1,1,0
+1,-2.6,GO:0001678,intracellular glucose homeostasis,M1,1,0
+1,-2.2,mmu04662,B cell receptor signaling pathway - Mus musculus (house mouse),M1,1,0
+1,-3.2,mmu05418,Fluid shear stress and atherosclerosis - Mus musculus (house mouse),M1,1,0
+1,-2.9,GO:0045494,photoreceptor cell maintenance,M1,1,0
+1,-2,GO:0043409,negative regulation of MAPK cascade,M1,1,0
+1,-2.6,GO:0043010,camera-type eye development,M1,1,0
+1,-2.4,GO:0048598,embryonic morphogenesis,M1,1,0
+1,-3.4,R-MMU-168188,Toll Like Receptor TLR6:TLR2 Cascade,M1,1,0
+1,-4,WP202,Hypertrophy model,M1,1,0
+1,-2.2,GO:0030900,forebrain development,M1,1,0
+1,-3.1,mmu04657,IL-17 signaling pathway - Mus musculus (house mouse),M1,1,0
+1,-2.2,GO:0071356,cellular response to tumor necrosis factor,M1,1,0
+1,-2.3,GO:0007423,sensory organ development,M1,1,0
+1,-3.2,GO:1901654,response to ketone,M1,1,0
+1,-2.5,GO:0060711,labyrinthine layer development,M1,1,0
+1,-3.1,R-MMU-166166,MyD88-independent TLR4 cascade,M1,1,0
+1,-2.5,GO:1903708,positive regulation of hemopoiesis,M1,1,0
+1,-2.3,GO:0001654,eye development,M1,1,0
+1,-2.1,GO:0016071,mRNA metabolic process,M1,1,0
+1,-3.7,GO:0043065,positive regulation of apoptotic process,M1,1,0
+1,-2.3,GO:0002761,regulation of myeloid leukocyte differentiation,M1,1,0
+1,-2.2,GO:0007611,learning or memory,M1,1,0
+1,-2.6,GO:2000147,positive regulation of cell motility,M1,1,0
+1,-2.1,GO:0006403,RNA localization,M1,1,0
+1,-3.6,GO:0009612,response to mechanical stimulus,M1,1,0
+1,-2.7,mmu04668,TNF signaling pathway - Mus musculus (house mouse),M1,1,0
+1,-3.2,GO:0021537,telencephalon development,M1,1,0
+1,-3.4,GO:0010038,response to metal ion,M1,1,0
+1,-2.2,WP265,Delta Notch signaling pathway,M1,1,0
+1,-2.2,GO:0043491,phosphatidylinositol 3-kinase/protein kinase B signal transduction,M1,1,0
+1,-2.4,GO:0030183,B cell differentiation,M1,1,0
+1,-3.3,R-MMU-975138,TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation,M1,1,0
+1,-4,GO:0062197,cellular response to chemical stress,M1,1,0
+1,-3.5,GO:0048514,blood vessel morphogenesis,M1,1,0
+1,-2.7,GO:0014706,striated muscle tissue development,M1,1,0
+1,-3.5,GO:0051960,regulation of nervous system development,M1,1,0
+1,-2.3,mmu05224,Breast cancer - Mus musculus (house mouse),M1,1,0
+1,-2.2,R-MMU-2262752,Cellular responses to stress,M1,1,0
+1,-2.6,mmu04010,MAPK signaling pathway - Mus musculus (house mouse),M1,1,0
+1,-2.7,GO:0071322,cellular response to carbohydrate stimulus,M1,1,0
+1,-2.3,GO:0048880,sensory system development,M1,1,0
+1,-2.1,GO:0045661,regulation of myoblast differentiation,M1,1,0
+1,-3.4,GO:0071214,cellular response to abiotic stimulus,M1,1,0
+1,-4.9,GO:0071276,cellular response to cadmium ion,M1,1,0
+1,-2.5,GO:1902107,positive regulation of leukocyte differentiation,M1,1,0
+1,-2.1,R-MMU-1280218,Adaptive Immune System,M1,1,0
+1,-4.9,GO:0006366,transcription by RNA polymerase II,M1,1,0
+1,-3.6,GO:1903706,regulation of hemopoiesis,M1,1,0
+1,-2.1,GO:0007623,circadian rhythm,M1,1,0
+1,-2.9,GO:0009611,response to wounding,M1,1,0
+1,-3.3,GO:0060218,hematopoietic stem cell differentiation,M1,1,0
+1,-2.2,WP1254,Apoptosis,M1,1,0
+1,-2.7,GO:0032868,response to insulin,M1,1,0
+1,-2.3,GO:0031667,response to nutrient levels,M1,1,0
+1,-2.1,mmu05210,Colorectal cancer - Mus musculus (house mouse),M1,1,0
+1,-3,GO:0061014,positive regulation of mRNA catabolic process,M1,1,0
+1,-3,GO:0010453,regulation of cell fate commitment,M1,1,0
+1,-5.2,GO:0006351,DNA-templated transcription,M1,1,0
+1,-4.1,GO:0001568,blood vessel development,M1,1,0
+1,-3.2,GO:0001666,response to hypoxia,M1,1,0
+1,-2.4,mmu05031,Amphetamine addiction - Mus musculus (house mouse),M1,1,0
+1,-3.5,R-MMU-168164,Toll Like Receptor 3 (TLR3) Cascade,M1,1,0
+1,-2.7,GO:0030335,positive regulation of cell migration,M1,1,0
+1,-2.6,GO:0060041,retina development in camera-type eye,M1,1,0
+1,-2.6,GO:0000302,response to reactive oxygen species,M1,1,0
+1,-2.4,R-MMU-168898,Toll-like Receptor Cascades,M1,1,0
+1,-2.8,GO:0045321,leukocyte activation,M1,1,0
+1,-2.9,GO:0071396,cellular response to lipid,M1,1,0
+1,-2.9,GO:0001525,angiogenesis,M1,1,0
+1,-2.2,GO:0070373,negative regulation of ERK1 and ERK2 cascade,M1,1,0
+1,-4.4,GO:0008285,negative regulation of cell population proliferation,M1,1,0
+1,-2.8,WP512,ID signaling pathway,M1,1,0
+1,-5.1,GO:0048545,response to steroid hormone,M1,1,0
+1,-5.8,GO:1902893,regulation of miRNA transcription,M1,1,0
+1,-2.8,GO:0031669,cellular response to nutrient levels,M1,1,0
+1,-3.4,R-MMU-168176,Toll Like Receptor 5 (TLR5) Cascade,M1,1,0
+1,-2.5,GO:0045682,regulation of epidermis development,M1,1,0
+1,-2.2,GO:0071560,cellular response to transforming growth factor beta stimulus,M1,1,0
+1,-2.4,R-MMU-163685,Integration of energy metabolism,M1,1,0
+1,-4.3,GO:0071277,cellular response to calcium ion,M1,1,0
+1,-3.6,GO:0043068,positive regulation of programmed cell death,M1,1,0
+1,-2.1,mmu01522,Endocrine resistance - Mus musculus (house mouse),M1,1,0
+1,-3.8,R-MMU-187037,Signaling by NTRK1 (TRKA),M1,1,0
+1,-3,GO:0009749,response to glucose,M1,1,0
+1,-2.8,WP544,Exercise induced circadian regulation,M1,1,0
+1,-2.7,GO:0009410,response to xenobiotic stimulus,M1,1,0
+1,-2.2,GO:1902105,regulation of leukocyte differentiation,M1,1,0
+1,-3.3,R-MMU-975155,MyD88 dependent cascade initiated on endosome,M1,1,0
+1,-2.4,GO:1903313,positive regulation of mRNA metabolic process,M1,1,0
+1,-5.3,GO:2000628,regulation of miRNA metabolic process,M1,1,0
+1,-5.1,WP65,Insulin signaling,M1,1,0
+1,-3.1,GO:0045637,regulation of myeloid cell differentiation,M1,1,0
+1,-3.5,GO:0043434,response to peptide hormone,M1,1,0
+1,-2.5,GO:0070482,response to oxygen levels,M1,1,0
+1,-3.4,R-MMU-975871,MyD88 cascade initiated on plasma membrane,M1,1,0
+1,-2.3,GO:0050658,RNA transport,M1,1,0
+1,-3.1,mmu04912,GnRH signaling pathway - Mus musculus (house mouse),M1,1,0
+1,-6.6,GO:1902895,positive regulation of miRNA transcription,M1,1,0
+1,-2.7,GO:0070849,response to epidermal growth factor,M1,1,0
+1,-5.3,R-MMU-450282,MAPK targets/ Nuclear events mediated by MAP kinases,M1,1,0
+1,-3.1,GO:0050768,negative regulation of neurogenesis,M1,1,0
+1,-2.3,GO:0150063,visual system development,M1,1,0
+1,-3.4,R-MMU-166058,MyD88:MAL(TIRAP) cascade initiated on plasma membrane,M1,1,0
+1,-3.4,mmu04380,Osteoclast differentiation - Mus musculus (house mouse),M1,1,0
+1,-2.8,GO:0034284,response to monosaccharide,M1,1,0
+1,-2.7,GO:0097305,response to alcohol,M1,1,0
+1,-2.1,GO:0061448,connective tissue development,M1,1,0
+1,-2.4,mmu05221,Acute myeloid leukemia - Mus musculus (house mouse),M1,1,0
+1,-3.2,GO:1903311,regulation of mRNA metabolic process,M1,1,0
+1,-2.3,GO:0051098,regulation of binding,M1,1,0
+1,-3.3,mmu04710,Circadian rhythm - Mus musculus (house mouse),M1,1,0
+1,-2.4,GO:0071774,response to fibroblast growth factor,M1,1,0
+1,-2.9,mmu05142,Chagas disease - Mus musculus (house mouse),M1,1,0
+1,-2.3,GO:0043433,negative regulation of DNA-binding transcription factor activity,M1,1,0
+1,-3.1,R-MMU-937061,TRIF (TICAM1)-mediated TLR4 signaling,M1,1,0
+1,-2.4,GO:0034614,cellular response to reactive oxygen species,M1,1,0
+1,-2.4,GO:0034599,cellular response to oxidative stress,M1,1,0
+1,-2.4,GO:0001701,in utero embryonic development,M1,1,0
+1,-4.1,WP493,Mapk signaling pathway,M1,1,0
+1,-2.9,GO:0051961,negative regulation of nervous system development,M1,1,0
+1,-2.5,GO:0001895,retina homeostasis,M1,1,0
+1,-2.3,GO:0042594,response to starvation,M1,1,0
+1,-3.2,R-MMU-168181,Toll Like Receptor 7/8 (TLR7/8) Cascade,M1,1,0
+1,-2,R-MMU-2454202,Fc epsilon receptor (FCERI) signaling,M1,1,0
+1,-3.7,GO:0031960,response to corticosteroid,M1,1,0
+1,-2.9,GO:0030856,regulation of epithelial cell differentiation,M1,1,0
+1,-3.4,R-MMU-168142,Toll Like Receptor 10 (TLR10) Cascade,M1,1,0
+1,-3,GO:0001558,regulation of cell growth,M1,1,0
+1,-2.1,GO:2000736,regulation of stem cell differentiation,M1,1,0
+1,-2,GO:0035239,tube morphogenesis,M1,1,0
+1,-2.6,GO:0045604,regulation of epidermal cell differentiation,M1,1,0
+1,-4.2,GO:0051592,response to calcium ion,M1,1,0
+1,-3.2,GO:0051099,positive regulation of binding,M1,1,0
+1,-4.1,GO:0070848,response to growth factor,M1,1,0
+1,-2.5,GO:0021543,pallium development,M1,1,0
+1,-3.3,GO:0007163,establishment or maintenance of cell polarity,M1,1,0
+1,-2.5,GO:0007507,heart development,M1,1,0
+1,-2.1,GO:0055082,intracellular chemical homeostasis,M1,1,0
+1,-2.8,GO:0046649,lymphocyte activation,M1,1,0
+1,-3.8,GO:0060249,anatomical structure homeostasis,M1,1,0
+1,-2.3,GO:0048863,stem cell differentiation,M1,1,0
+1,-2.1,GO:0007492,endoderm development,M1,1,0
+1,-2.5,GO:0040029,epigenetic regulation of gene expression,M1,1,0
+1,-3.4,R-MMU-181438,Toll Like Receptor 2 (TLR2) Cascade,M1,1,0
+1,-2.9,GO:0009746,response to hexose,M1,1,0
+1,-2.9,GO:0071364,cellular response to epidermal growth factor stimulus,M1,1,0
+1,-3.2,R-MMU-168138,Toll Like Receptor 9 (TLR9) Cascade,M1,1,0
+1,-2.4,GO:0071470,cellular response to osmotic stress,M1,1,0
+1,-2.1,GO:0003281,ventricular septum development,M1,1,0
+1,-3.5,GO:0032922,circadian regulation of gene expression,M1,1,0
+1,-4,R-MMU-448424,Interleukin-17 signaling,M1,1,0
+1,-2.4,R-MMU-2559583,Cellular Senescence,M1,1,0
+1,-4,GO:0051384,response to glucocorticoid,M1,1,0
+1,-2.9,GO:0030099,myeloid cell differentiation,M1,1,0
+1,-2.6,GO:0097191,extrinsic apoptotic signaling pathway,M1,1,0
+1,-2.9,GO:0061061,muscle structure development,M1,1,0
+1,-2.5,GO:0015931,nucleobase-containing compound transport,M1,1,0
+1,-2.4,mmu05203,Viral carcinogenesis - Mus musculus (house mouse),M1,1,0
+1,-3.4,R-MMU-168179,Toll Like Receptor TLR1:TLR2 Cascade,M1,1,0

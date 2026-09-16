@@ -1,0 +1,190 @@
+_MEMBER_hits,_LogP_hits,GO,Description,_PATTERN_,_RANK_,GiniIndex
+1,-3.6,GO:0010665,regulation of cardiac muscle cell apoptotic process,M1,1,0
+1,-2,mmu04657,IL-17 signaling pathway - Mus musculus (house mouse),M1,1,0
+1,-2.2,WP1560,MicroRNAs in cardiomyocyte hypertrophy,M1,1,0
+1,-2.2,GO:0001837,epithelial to mesenchymal transition,M1,1,0
+1,-2.9,GO:0097190,apoptotic signaling pathway,M1,1,0
+1,-2.4,mmu04728,Dopaminergic synapse - Mus musculus (house mouse),M1,1,0
+1,-2.9,mmu04310,Wnt signaling pathway - Mus musculus (house mouse),M1,1,0
+1,-2.8,GO:2000772,regulation of cellular senescence,M1,1,0
+1,-5.7,GO:0010661,positive regulation of muscle cell apoptotic process,M1,1,0
+1,-2.2,GO:1902115,regulation of organelle assembly,M1,1,0
+1,-2.8,GO:0051153,regulation of striated muscle cell differentiation,M1,1,0
+1,-3.2,GO:0050684,regulation of mRNA processing,M1,1,0
+1,-2.2,GO:2001234,negative regulation of apoptotic signaling pathway,M1,1,0
+1,-2.9,GO:1903312,negative regulation of mRNA metabolic process,M1,1,0
+1,-2.4,R-MMU-168164,Toll Like Receptor 3 (TLR3) Cascade,M1,1,0
+1,-3.2,R-MMU-5688426,Deubiquitination,M1,1,0
+1,-3.1,GO:0034391,regulation of smooth muscle cell apoptotic process,M1,1,0
+1,-3.2,GO:1903311,regulation of mRNA metabolic process,M1,1,0
+1,-3.8,GO:0150105,protein localization to cell-cell junction,M1,1,0
+1,-2.9,GO:0071900,regulation of protein serine/threonine kinase activity,M1,1,0
+1,-2.1,GO:0010038,response to metal ion,M1,1,0
+1,-2.1,mmu05210,Colorectal cancer - Mus musculus (house mouse),M1,1,0
+1,-4.3,GO:0043065,positive regulation of apoptotic process,M1,1,0
+1,-2.3,R-MMU-168188,Toll Like Receptor TLR6:TLR2 Cascade,M1,1,0
+1,-5.1,GO:2000060,positive regulation of ubiquitin-dependent protein catabolic process,M1,1,0
+1,-2.9,GO:0007623,circadian rhythm,M1,1,0
+1,-3.1,GO:0060420,regulation of heart growth,M1,1,0
+1,-2.1,GO:1901796,regulation of signal transduction by p53 class mediator,M1,1,0
+1,-4,GO:0009411,response to UV,M1,1,0
+1,-2.2,R-MMU-975155,MyD88 dependent cascade initiated on endosome,M1,1,0
+1,-3.2,GO:0010611,regulation of cardiac muscle hypertrophy,M1,1,0
+1,-2.1,GO:0008285,negative regulation of cell population proliferation,M1,1,0
+1,-3.2,GO:0043433,negative regulation of DNA-binding transcription factor activity,M1,1,0
+1,-3,mmu05166,Human T-cell leukemia virus 1 infection - Mus musculus (house mouse),M1,1,0
+1,-2.9,GO:0006469,negative regulation of protein kinase activity,M1,1,0
+1,-3.8,GO:0018210,peptidyl-threonine modification,M1,1,0
+1,-2.7,GO:0009299,mRNA transcription,M1,1,0
+1,-4.3,GO:0043518,"negative regulation of DNA damage response, signal transduction by p53 class mediator",M1,1,0
+1,-3.6,R-MMU-450282,MAPK targets/ Nuclear events mediated by MAP kinases,M1,1,0
+1,-3.9,GO:1902532,negative regulation of intracellular signal transduction,M1,1,0
+1,-3.6,GO:2000773,negative regulation of cellular senescence,M1,1,0
+1,-2.9,mmu04659,Th17 cell differentiation - Mus musculus (house mouse),M1,1,0
+1,-3.5,GO:0006511,ubiquitin-dependent protein catabolic process,M1,1,0
+1,-2.3,GO:0018193,peptidyl-amino acid modification,M1,1,0
+1,-3.5,GO:0061136,regulation of proteasomal protein catabolic process,M1,1,0
+1,-2,mmu01522,Endocrine resistance - Mus musculus (house mouse),M1,1,0
+1,-3.4,GO:0032088,negative regulation of NF-kappaB transcription factor activity,M1,1,0
+1,-2.3,mmu05162,Measles - Mus musculus (house mouse),M1,1,0
+1,-3.7,GO:0043502,regulation of muscle adaptation,M1,1,0
+1,-2,GO:0010564,regulation of cell cycle process,M1,1,0
+1,-2.5,GO:0039531,regulation of cytoplasmic pattern recognition receptor signaling pathway,M1,1,0
+1,-2.2,R-MMU-5689880,Ub-specific processing proteases,M1,1,0
+1,-3,GO:0051154,negative regulation of striated muscle cell differentiation,M1,1,0
+1,-3.6,GO:0010666,positive regulation of cardiac muscle cell apoptotic process,M1,1,0
+1,-2.8,GO:0008380,RNA splicing,M1,1,0
+1,-3.5,GO:0042176,regulation of protein catabolic process,M1,1,0
+1,-2.4,GO:0001819,positive regulation of cytokine production,M1,1,0
+1,-2.2,GO:1904705,regulation of vascular associated smooth muscle cell proliferation,M1,1,0
+1,-3.2,GO:0062197,cellular response to chemical stress,M1,1,0
+1,-2.2,mmu04390,Hippo signaling pathway - Mus musculus (house mouse),M1,1,0
+1,-3.6,R-MMU-8953854,Metabolism of RNA,M1,1,0
+1,-2.7,GO:0033673,negative regulation of kinase activity,M1,1,0
+1,-2.2,R-MMU-975138,TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation,M1,1,0
+1,-2.1,GO:0051051,negative regulation of transport,M1,1,0
+1,-2.5,GO:0039532,negative regulation of cytoplasmic pattern recognition receptor signaling pathway,M1,1,0
+1,-3.1,GO:0045601,regulation of endothelial cell differentiation,M1,1,0
+1,-3.4,mmu04210,Apoptosis - Mus musculus (house mouse),M1,1,0
+1,-3.2,R-MMU-2559580,Oxidative Stress Induced Senescence,M1,1,0
+1,-2.1,GO:0045786,negative regulation of cell cycle,M1,1,0
+1,-2.3,GO:1903556,negative regulation of tumor necrosis factor superfamily cytokine production,M1,1,0
+1,-3.2,GO:0014743,regulation of muscle hypertrophy,M1,1,0
+1,-3.9,GO:0048511,rhythmic process,M1,1,0
+1,-2.1,GO:0007034,vacuolar transport,M1,1,0
+1,-2.3,R-MMU-975871,MyD88 cascade initiated on plasma membrane,M1,1,0
+1,-2.6,mmu04510,Focal adhesion - Mus musculus (house mouse),M1,1,0
+1,-2.3,GO:0051865,protein autoubiquitination,M1,1,0
+1,-2.3,GO:0001558,regulation of cell growth,M1,1,0
+1,-2.9,WP310,mRNA processing,M1,1,0
+1,-2.7,GO:0032886,regulation of microtubule-based process,M1,1,0
+1,-2.1,R-MMU-166166,MyD88-independent TLR4 cascade,M1,1,0
+1,-4.5,GO:0032436,positive regulation of proteasomal ubiquitin-dependent protein catabolic process,M1,1,0
+1,-2.8,GO:0051090,regulation of DNA-binding transcription factor activity,M1,1,0
+1,-2.7,mmu04668,TNF signaling pathway - Mus musculus (house mouse),M1,1,0
+1,-2.1,mmu05225,Hepatocellular carcinoma - Mus musculus (house mouse),M1,1,0
+1,-2.1,mmu04912,GnRH signaling pathway - Mus musculus (house mouse),M1,1,0
+1,-3.2,GO:0055021,regulation of cardiac muscle tissue growth,M1,1,0
+1,-2.5,GO:0042752,regulation of circadian rhythm,M1,1,0
+1,-3.2,GO:0043516,"regulation of DNA damage response, signal transduction by p53 class mediator",M1,1,0
+1,-2.1,R-MMU-937061,TRIF (TICAM1)-mediated TLR4 signaling,M1,1,0
+1,-2,mmu04218,Cellular senescence - Mus musculus (house mouse),M1,1,0
+1,-2.7,GO:0030308,negative regulation of cell growth,M1,1,0
+1,-3.9,GO:0051147,regulation of muscle cell differentiation,M1,1,0
+1,-2.1,GO:0006417,regulation of translation,M1,1,0
+1,-3.3,GO:0048813,dendrite morphogenesis,M1,1,0
+1,-4.5,mmu04068,FoxO signaling pathway - Mus musculus (house mouse),M1,1,0
+1,-4.2,GO:0034614,cellular response to reactive oxygen species,M1,1,0
+1,-3,GO:2001235,positive regulation of apoptotic signaling pathway,M1,1,0
+1,-3,mmu04530,Tight junction - Mus musculus (house mouse),M1,1,0
+1,-2.8,R-MMU-448424,Interleukin-17 signaling,M1,1,0
+1,-2.3,R-MMU-168142,Toll Like Receptor 10 (TLR10) Cascade,M1,1,0
+1,-4.7,GO:0010660,regulation of muscle cell apoptotic process,M1,1,0
+1,-4,GO:1903050,regulation of proteolysis involved in protein catabolic process,M1,1,0
+1,-3.6,GO:0048024,"regulation of mRNA splicing, via spliceosome",M1,1,0
+1,-2.3,R-MMU-181438,Toll Like Receptor 2 (TLR2) Cascade,M1,1,0
+1,-2.4,GO:0032922,circadian regulation of gene expression,M1,1,0
+1,-2.3,mmu05212,Pancreatic cancer - Mus musculus (house mouse),M1,1,0
+1,-4.8,GO:0006979,response to oxidative stress,M1,1,0
+1,-2.1,mmu04520,Adherens junction - Mus musculus (house mouse),M1,1,0
+1,-2.6,WP1763,Mechanisms associated with pluripotency,M1,1,0
+1,-3.1,GO:0071391,cellular response to estrogen stimulus,M1,1,0
+1,-2.4,R-MMU-2559583,Cellular Senescence,M1,1,0
+1,-3,mmu04140,Autophagy - animal - Mus musculus (house mouse),M1,1,0
+1,-2.3,R-MMU-168179,Toll Like Receptor TLR1:TLR2 Cascade,M1,1,0
+1,-4.2,GO:0043068,positive regulation of programmed cell death,M1,1,0
+1,-5.3,GO:0009416,response to light stimulus,M1,1,0
+1,-2.8,GO:0071453,cellular response to oxygen levels,M1,1,0
+1,-2.3,GO:0045862,positive regulation of proteolysis,M1,1,0
+1,-2,WP5051,Na K ATPase Src signaling,M1,1,0
+1,-2.3,R-MMU-168176,Toll Like Receptor 5 (TLR5) Cascade,M1,1,0
+1,-4,GO:0051603,proteolysis involved in protein catabolic process,M1,1,0
+1,-4,GO:0034599,cellular response to oxidative stress,M1,1,0
+1,-2.2,GO:0036293,response to decreased oxygen levels,M1,1,0
+1,-4.4,GO:0000302,response to reactive oxygen species,M1,1,0
+1,-4.2,GO:0071901,negative regulation of protein serine/threonine kinase activity,M1,1,0
+1,-3.4,GO:0045732,positive regulation of protein catabolic process,M1,1,0
+1,-2.6,GO:1902903,regulation of supramolecular fiber organization,M1,1,0
+1,-2.5,GO:0051348,negative regulation of transferase activity,M1,1,0
+1,-2.1,GO:0070647,protein modification by small protein conjugation or removal,M1,1,0
+1,-2.3,GO:0006397,mRNA processing,M1,1,0
+1,-2.2,mmu04932,Non-alcoholic fatty liver disease - Mus musculus (house mouse),M1,1,0
+1,-2.3,GO:0034976,response to endoplasmic reticulum stress,M1,1,0
+1,-2.2,mmu05161,Hepatitis B - Mus musculus (house mouse),M1,1,0
+1,-2.5,GO:0000381,"regulation of alternative mRNA splicing, via spliceosome",M1,1,0
+1,-2.5,mmu05417,Lipid and atherosclerosis - Mus musculus (house mouse),M1,1,0
+1,-2.8,WP85,Focal adhesion,M1,1,0
+1,-2.6,GO:0046620,regulation of organ growth,M1,1,0
+1,-3.4,GO:0019941,modification-dependent protein catabolic process,M1,1,0
+1,-2.3,GO:0051099,positive regulation of binding,M1,1,0
+1,-2.3,GO:0061061,muscle structure development,M1,1,0
+1,-2.7,GO:0060043,regulation of cardiac muscle cell proliferation,M1,1,0
+1,-2.4,GO:0071456,cellular response to hypoxia,M1,1,0
+1,-4.9,GO:2000058,regulation of ubiquitin-dependent protein catabolic process,M1,1,0
+1,-3.5,GO:0051148,negative regulation of muscle cell differentiation,M1,1,0
+1,-2.9,mmu04137,Mitophagy - animal - Mus musculus (house mouse),M1,1,0
+1,-2.3,GO:0048662,negative regulation of smooth muscle cell proliferation,M1,1,0
+1,-3.7,R-MMU-72163,mRNA Splicing - Major Pathway,M1,1,0
+1,-2.4,GO:0032720,negative regulation of tumor necrosis factor production,M1,1,0
+1,-2.7,GO:0071482,cellular response to light stimulus,M1,1,0
+1,-3.2,GO:1901797,negative regulation of signal transduction by p53 class mediator,M1,1,0
+1,-3.6,GO:0010663,positive regulation of striated muscle cell apoptotic process,M1,1,0
+1,-4.8,mmu04141,Protein processing in endoplasmic reticulum - Mus musculus (house mouse),M1,1,0
+1,-4.6,R-MMU-72203,Processing of Capped Intron-Containing Pre-mRNA,M1,1,0
+1,-3.4,GO:0043632,modification-dependent macromolecule catabolic process,M1,1,0
+1,-2.4,GO:0048738,cardiac muscle tissue development,M1,1,0
+1,-3,GO:0045926,negative regulation of growth,M1,1,0
+1,-2.3,WP450,IL 2 signaling pathway,M1,1,0
+1,-2.4,GO:0009896,positive regulation of catabolic process,M1,1,0
+1,-3.1,GO:2001233,regulation of apoptotic signaling pathway,M1,1,0
+1,-3.6,R-MMU-72172,mRNA Splicing,M1,1,0
+1,-2.8,R-MMU-450294,MAP kinase activation,M1,1,0
+1,-2.6,GO:0046605,regulation of centrosome cycle,M1,1,0
+1,-3,GO:0051098,regulation of binding,M1,1,0
+1,-2.1,GO:0090257,regulation of muscle system process,M1,1,0
+1,-2.1,mmu05020,Prion disease - Mus musculus (house mouse),M1,1,0
+1,-3.5,mmu04071,Sphingolipid signaling pathway - Mus musculus (house mouse),M1,1,0
+1,-4.5,GO:0070301,cellular response to hydrogen peroxide,M1,1,0
+1,-2.1,GO:0016579,protein deubiquitination,M1,1,0
+1,-2.4,mmu05135,Yersinia infection - Mus musculus (house mouse),M1,1,0
+1,-2.6,GO:0031113,regulation of microtubule polymerization,M1,1,0
+1,-4.5,GO:0032434,regulation of proteasomal ubiquitin-dependent protein catabolic process,M1,1,0
+1,-2.1,R-MMU-168138,Toll Like Receptor 9 (TLR9) Cascade,M1,1,0
+1,-3.6,R-MMU-5689896,Ovarian tumor domain proteases,M1,1,0
+1,-2.5,GO:0035239,tube morphogenesis,M1,1,0
+1,-3.5,GO:0010662,regulation of striated muscle cell apoptotic process,M1,1,0
+1,-2.2,R-MMU-168181,Toll Like Receptor 7/8 (TLR7/8) Cascade,M1,1,0
+1,-2.4,GO:0045727,positive regulation of translation,M1,1,0
+1,-2.7,GO:0043484,regulation of RNA splicing,M1,1,0
+1,-2,GO:0044092,negative regulation of molecular function,M1,1,0
+1,-3,GO:0036294,cellular response to decreased oxygen levels,M1,1,0
+1,-4.5,GO:0016071,mRNA metabolic process,M1,1,0
+1,-2.2,GO:0033143,regulation of intracellular steroid hormone receptor signaling pathway,M1,1,0
+1,-2.2,WP493,Mapk signaling pathway,M1,1,0
+1,-4.2,GO:0009314,response to radiation,M1,1,0
+1,-3.8,GO:1901800,positive regulation of proteasomal protein catabolic process,M1,1,0
+1,-2.3,GO:0016358,dendrite development,M1,1,0
+1,-4.1,GO:0018107,peptidyl-threonine phosphorylation,M1,1,0
+1,-2.3,R-MMU-166058,MyD88:MAL(TIRAP) cascade initiated on plasma membrane,M1,1,0
+1,-4.7,GO:0042542,response to hydrogen peroxide,M1,1,0
+1,-4.5,GO:1903052,positive regulation of proteolysis involved in protein catabolic process,M1,1,0

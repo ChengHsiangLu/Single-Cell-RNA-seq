@@ -1,0 +1,24 @@
+Name,Category,CategoryID,GO,Description,PARENT_GO,LogP,Enrichment,Z-score,#TotalGeneInLibrary,#GeneInGO,#GeneInHitList,#GeneInGOAndHitList,%InGO,STDV %InGO,GeneID,Hits,Log(q-value)
+hits,Reactome Gene Sets,6,R-MMU-194315,Signaling by Rho GTPases,,-6,12,8.5,21160,562,22,7,32,9.9,11736|20662|67938|103468|106628|214137|217866,Ankfy1|Sos1|Myl12b|Nup107|Trip10|Arhgap29|Cdc42bpb,-1.9
+hits,Reactome Gene Sets,6,R-MMU-9716542,"Signaling by Rho GTPases, Miro GTPases and RHOBTB3",,-5.9,12,8.4,21160,577,22,7,32,9.9,11736|20662|67938|103468|106628|214137|217866,Ankfy1|Sos1|Myl12b|Nup107|Trip10|Arhgap29|Cdc42bpb,-1.9
+hits,Reactome Gene Sets,6,R-MMU-9012999,RHO GTPase cycle,,-4.4,12,7.3,21160,388,22,5,23,8.9,11736|20662|106628|214137|217866,Ankfy1|Sos1|Trip10|Arhgap29|Cdc42bpb,-0.62
+hits,KEGG Pathway,24,mmu04520,Adherens junction - Mus musculus (house mouse),,-3.9,31,9.4,21160,92,22,3,14,7.3,16337|67938|214137,Insr|Myl12b|Arhgap29,-0.3
+hits,WikiPathways,27,WP1763,Mechanisms associated with pluripotency,,-3.7,13,6.8,21160,292,22,4,18,8.2,16337|20588|20662|66830,Insr|Smarcc1|Sos1|Nacc1,-0.19
+hits,GO Biological Processes,19,GO:0006606,protein import into nucleus,19_GO:0051179 localization,-3.6,24,8.2,21160,119,22,3,14,7.3,13207|16648|103468,Ddx5|Kpna3|Nup107,-0.19
+hits,GO Biological Processes,19,GO:0051170,import into nucleus,19_GO:0051179 localization,-3.5,23,8,21160,126,22,3,14,7.3,13207|16648|103468,Ddx5|Kpna3|Nup107,-0.19
+hits,GO Biological Processes,19,GO:0008286,insulin receptor signaling pathway,19_GO:0050896 response to stimulus,-3.5,23,8,21160,126,22,3,14,7.3,16337|20588|20662,Insr|Smarcc1|Sos1,-0.19
+hits,KEGG Pathway,24,mmu04910,Insulin signaling pathway - Mus musculus (house mouse),,-3.4,21,7.5,21160,140,22,3,14,7.3,16337|20662|106628,Insr|Sos1|Trip10,-0.11
+hits,GO Biological Processes,19,GO:0034504,protein localization to nucleus,19_GO:0051179 localization,-2.9,14,6,21160,207,22,3,14,7.3,13207|16648|103468,Ddx5|Kpna3|Nup107,0
+hits,GO Biological Processes,19,GO:0032869,cellular response to insulin stimulus,19_GO:0050896 response to stimulus,-2.9,13,5.9,21160,216,22,3,14,7.3,16337|20588|20662,Insr|Smarcc1|Sos1,0
+hits,GO Biological Processes,19,GO:0051056,regulation of small GTPase mediated signal transduction,19_GO:0050896 response to stimulus,-2.7,12,5.5,21160,245,22,3,14,7.3,20662|214137|319974,Sos1|Arhgap29|Auts2,0
+hits,Reactome Gene Sets,6,R-MMU-71387,Metabolism of carbohydrates,,-2.7,11,5.4,21160,254,22,3,14,7.3,20322|21351|103468,Sord|Taldo1|Nup107,0
+hits,GO Biological Processes,19,GO:0006913,nucleocytoplasmic transport,19_GO:0051179 localization,-2.6,11,5.2,21160,266,22,3,14,7.3,13207|16648|103468,Ddx5|Kpna3|Nup107,0
+hits,GO Biological Processes,19,GO:0051169,nuclear transport,19_GO:0051179 localization,-2.6,11,5.2,21160,267,22,3,14,7.3,13207|16648|103468,Ddx5|Kpna3|Nup107,0
+hits,GO Biological Processes,19,GO:0032870,cellular response to hormone stimulus,19_GO:0050896 response to stimulus,-2.5,6.5,4.4,21160,591,22,4,18,8.2,13207|16337|20588|20662,Ddx5|Insr|Smarcc1|Sos1,0
+hits,GO Biological Processes,19,GO:0032868,response to insulin,19_GO:0050896 response to stimulus,-2.5,10,5,21160,289,22,3,14,7.3,16337|20588|20662,Insr|Smarcc1|Sos1,0
+hits,GO Biological Processes,19,GO:0007167,enzyme-linked receptor protein signaling pathway,19_GO:0050896 response to stimulus,-2.4,6,4.2,21160,636,22,4,18,8.2,13207|16337|20588|20662,Ddx5|Insr|Smarcc1|Sos1,0
+hits,GO Biological Processes,19,GO:0071375,cellular response to peptide hormone stimulus,19_GO:0050896 response to stimulus,-2.4,9.1,4.7,21160,317,22,3,14,7.3,16337|20588|20662,Insr|Smarcc1|Sos1,0
+hits,GO Biological Processes,19,GO:0072594,establishment of protein localization to organelle,19_GO:0051179 localization,-2.2,8,4.3,21160,362,22,3,14,7.3,13207|16648|103468,Ddx5|Kpna3|Nup107,0
+hits,GO Biological Processes,19,GO:0048608,reproductive structure development,19_GO:0022414 reproductive process,-2.2,7.8,4.2,21160,372,22,3,14,7.3,16337|20588|103468,Insr|Smarcc1|Nup107,0
+hits,GO Biological Processes,19,GO:0061458,reproductive system development,19_GO:0032502 developmental process,-2.2,7.7,4.2,21160,377,22,3,14,7.3,16337|20588|103468,Insr|Smarcc1|Nup107,0
+hits,GO Biological Processes,19,GO:0007169,cell surface receptor protein tyrosine kinase signaling pathway,19_GO:0050896 response to stimulus,-2,6.8,3.9,21160,422,22,3,14,7.3,16337|20588|20662,Insr|Smarcc1|Sos1,0

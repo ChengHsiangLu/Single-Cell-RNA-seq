@@ -1,0 +1,7 @@
+Cluster,Score,Type,Gene,Symbol,Network
+1,1.0,Clustered,12359,Cat,hits_SUB1
+1,1.0,Clustered,11430,Acox1,hits_SUB1
+1,1.0,Clustered,22190,Ubc,hits_SUB1
+2,1.0,Clustered,14751,Gpi1,hits_SUB3
+2,1.0,Seed,11676,Aldoc,hits_SUB3
+2,1.0,Clustered,21351,Taldo1,hits_SUB3

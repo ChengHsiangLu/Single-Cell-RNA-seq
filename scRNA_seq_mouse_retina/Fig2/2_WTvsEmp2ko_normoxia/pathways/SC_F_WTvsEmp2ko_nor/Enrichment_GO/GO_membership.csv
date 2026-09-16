@@ -1,0 +1,40 @@
+_MEMBER_hits,_LogP_hits,GO,Description,_PATTERN_,_RANK_,GiniIndex
+1,-4.4,GO:0045229,external encapsulating structure organization,M1,1,0
+1,-2.5,GO:0060173,limb development,M1,1,0
+1,-2,WP1763,Mechanisms associated with pluripotency,M1,1,0
+1,-2.4,GO:0010656,negative regulation of muscle cell apoptotic process,M1,1,0
+1,-2.7,GO:0051216,cartilage development,M1,1,0
+1,-2.4,GO:0010810,regulation of cell-substrate adhesion,M1,1,0
+1,-2.4,GO:0032940,secretion by cell,M1,1,0
+1,-2.7,GO:0043457,regulation of cellular respiration,M1,1,0
+1,-2.2,GO:0030178,negative regulation of Wnt signaling pathway,M1,1,0
+1,-3.4,GO:1903715,regulation of aerobic respiration,M1,1,0
+1,-2.4,R-MMU-9716542,"Signaling by Rho GTPases, Miro GTPases and RHOBTB3",M1,1,0
+1,-2.3,mmu04150,mTOR signaling pathway - Mus musculus (house mouse),M1,1,0
+1,-2.1,GO:0048193,Golgi vesicle transport,M1,1,0
+1,-2.1,GO:0035108,limb morphogenesis,M1,1,0
+1,-2.1,GO:0006892,post-Golgi vesicle-mediated transport,M1,1,0
+1,-3.2,GO:0030111,regulation of Wnt signaling pathway,M1,1,0
+1,-4.4,GO:0043062,extracellular structure organization,M1,1,0
+1,-3.2,GO:0072006,nephron development,M1,1,0
+1,-2.1,GO:0002062,chondrocyte differentiation,M1,1,0
+1,-4.4,GO:0030198,extracellular matrix organization,M1,1,0
+1,-2.2,R-MMU-9012999,RHO GTPase cycle,M1,1,0
+1,-2.1,GO:0035107,appendage morphogenesis,M1,1,0
+1,-2.4,GO:0048286,lung alveolus development,M1,1,0
+1,-2.5,GO:0045778,positive regulation of ossification,M1,1,0
+1,-2.4,GO:0140029,exocytic process,M1,1,0
+1,-2.1,GO:0045785,positive regulation of cell adhesion,M1,1,0
+1,-2.1,GO:0140352,export from cell,M1,1,0
+1,-2.7,GO:0051170,import into nucleus,M1,1,0
+1,-3.1,GO:0043467,regulation of generation of precursor metabolites and energy,M1,1,0
+1,-2.5,GO:0032835,glomerulus development,M1,1,0
+1,-2.3,GO:0072594,establishment of protein localization to organelle,M1,1,0
+1,-2.1,mmu04520,Adherens junction - Mus musculus (house mouse),M1,1,0
+1,-2.4,GO:0010811,positive regulation of cell-substrate adhesion,M1,1,0
+1,-2.9,GO:0035137,hindlimb morphogenesis,M1,1,0
+1,-2.2,GO:0061448,connective tissue development,M1,1,0
+1,-2,GO:0006886,intracellular protein transport,M1,1,0
+1,-2.5,GO:0048736,appendage development,M1,1,0
+1,-2.1,GO:0008088,axo-dendritic transport,M1,1,0
+1,-2.5,R-MMU-194315,Signaling by Rho GTPases,M1,1,0

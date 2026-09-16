@@ -1,0 +1,285 @@
+Name,Category,CategoryID,GO,Description,PARENT_GO,LogP,Enrichment,Z-score,#TotalGeneInLibrary,#GeneInGO,#GeneInHitList,#GeneInGOAndHitList,%InGO,STDV %InGO,GeneID,Hits,Log(q-value)
+hits,GO Biological Processes,19,GO:0071248,cellular response to metal ion,19_GO:0050896 response to stimulus,-7.6,22,12,21160,204,33,7,21,7.1,14281|14282|16476|16478|17748|17750|108079,Fos|Fosb|Jun|Jund|Mt1|Mt2|Prkaa2,-4.4
+hits,Reactome Gene Sets,6,R-MMU-8953897,Cellular responses to stimuli,,-7,11,9,21160,543,33,9,27,7.8,14281|14672|16476|17750|67665|81489|108079|217232|319158,Fos|Gna11|Jun|Mt2|Dctn4|Dnajb1|Prkaa2|Cdc27|H4c9,-3.9
+hits,GO Biological Processes,19,GO:0071276,cellular response to cadmium ion,19_GO:0050896 response to stimulus,-6.8,80,18,21160,32,33,4,12,5.7,14281|16476|17748|17750,Fos|Jun|Mt1|Mt2,-3.8
+hits,GO Biological Processes,19,GO:0071277,cellular response to calcium ion,19_GO:0050896 response to stimulus,-6.7,37,13,21160,86,33,5,15,6.2,14281|14282|16476|16478|108079,Fos|Fosb|Jun|Jund|Prkaa2,-3.7
+hits,GO Biological Processes,19,GO:0046686,response to cadmium ion,19_GO:0050896 response to stimulus,-5.8,46,13,21160,56,33,4,12,5.7,14281|16476|17748|17750,Fos|Jun|Mt1|Mt2,-2.9
+hits,GO Biological Processes,19,GO:0010038,response to metal ion,19_GO:0050896 response to stimulus,-5.8,12,8.3,21160,385,33,7,21,7.1,14281|14282|16476|16478|17748|17750|108079,Fos|Fosb|Jun|Jund|Mt1|Mt2|Prkaa2,-2.9
+hits,KEGG Pathway,24,mmu04380,Osteoclast differentiation - Mus musculus (house mouse),,-5.7,24,10,21160,136,33,5,15,6.2,14281|14282|16476|16478|18708,Fos|Fosb|Jun|Jund|Pik3r1,-2.9
+hits,GO Biological Processes,19,GO:0051592,response to calcium ion,19_GO:0050896 response to stimulus,-5.5,22,9.9,21160,149,33,5,15,6.2,14281|14282|16476|16478|108079,Fos|Fosb|Jun|Jund|Prkaa2,-2.8
+hits,WikiPathways,27,WP65,Insulin signaling,,-5.3,20,9.6,21160,159,33,5,15,6.2,14281|16476|18708|20807|108079,Fos|Jun|Pik3r1|Srf|Prkaa2,-2.7
+hits,GO Biological Processes,19,GO:0014074,response to purine-containing compound,19_GO:0050896 response to stimulus,-5.3,19,9.4,21160,165,33,5,15,6.2,14281|14282|18626|18708|108079,Fos|Fosb|Per1|Pik3r1|Prkaa2,-2.7
+hits,Reactome Gene Sets,6,R-MMU-2262752,Cellular responses to stress,,-5.1,9.4,7.3,21160,480,33,7,21,7.1,14281|16476|67665|81489|108079|217232|319158,Fos|Jun|Dctn4|Dnajb1|Prkaa2|Cdc27|H4c9,-2.5
+hits,Reactome Gene Sets,6,R-MMU-450282,MAPK targets/ Nuclear events mediated by MAP kinases,,-5.1,74,15,21160,26,33,3,9.1,5,14281|16476|101568,Fos|Jun|Vrk3,-2.5
+hits,KEGG Pathway,24,mmu04657,IL-17 signaling pathway - Mus musculus (house mouse),,-4.9,28,10,21160,93,33,4,12,5.7,14281|14282|16476|16478,Fos|Fosb|Jun|Jund,-2.4
+hits,GO Biological Processes,19,GO:0006351,DNA-templated transcription,19_GO:0009987 cellular process,-4.8,8.3,6.8,21160,542,33,7,21,7.1,12611|14281|14282|16476|16478|18708|20807,Cebpg|Fos|Fosb|Jun|Jund|Pik3r1|Srf,-2.4
+hits,GO Biological Processes,19,GO:0030099,myeloid cell differentiation,19_GO:0032502 developmental process,-4.8,11,7.3,21160,361,33,6,18,6.7,12611|14281|16476|18708|20807|67490,Cebpg|Fos|Jun|Pik3r1|Srf|Ufl1,-2.3
+hits,WikiPathways,27,WP2432,Spinal cord injury,,-4.7,25,9.7,21160,101,33,4,12,5.7,11852|12227|12824|14281,Rhob|Btg2|Col2a1|Fos,-2.3
+hits,KEGG Pathway,24,mmu05142,Chagas disease - Mus musculus (house mouse),,-4.7,25,9.6,21160,103,33,4,12,5.7,14281|14672|16476|18708,Fos|Gna11|Jun|Pik3r1,-2.3
+hits,GO Biological Processes,19,GO:0051591,response to cAMP,19_GO:0050896 response to stimulus,-4.7,25,9.6,21160,104,33,4,12,5.7,14281|14282|18626|18708,Fos|Fosb|Per1|Pik3r1,-2.3
+hits,KEGG Pathway,24,mmu05203,Viral carcinogenesis - Mus musculus (house mouse),,-4.6,14,7.8,21160,228,33,5,15,6.2,16476|18708|19651|20807|319158,Jun|Pik3r1|Rbl2|Srf|H4c9,-2.2
+hits,GO Biological Processes,19,GO:0006366,transcription by RNA polymerase II,19_GO:0009987 cellular process,-4.5,9.6,6.9,21160,400,33,6,18,6.7,14281|14282|16476|16478|18708|20807,Fos|Fosb|Jun|Jund|Pik3r1|Srf,-2.2
+hits,KEGG Pathway,24,mmu05166,Human T-cell leukemia virus 1 infection - Mus musculus (house mouse),,-4.4,13,7.5,21160,247,33,5,15,6.2,14281|16476|18708|20807|217232,Fos|Jun|Pik3r1|Srf|Cdc27,-2.1
+hits,KEGG Pathway,24,mmu04210,Apoptosis - Mus musculus (house mouse),,-4.3,19,8.3,21160,134,33,4,12,5.7,14281|16476|17210|18708,Fos|Jun|Mcl1|Pik3r1,-2
+hits,Reactome Gene Sets,6,R-MMU-2559583,Cellular Senescence,,-4.2,18,8.1,21160,141,33,4,12,5.7,14281|16476|217232|319158,Fos|Jun|Cdc27|H4c9,-1.9
+hits,WikiPathways,27,WP512,ID signaling pathway,,-4.2,38,10,21160,51,33,3,9.1,5,15205|19651|21406,Hes1|Rbl2|Tcf12,-1.9
+hits,Reactome Gene Sets,6,R-MMU-448424,Interleukin-17 signaling,,-4.1,37,10,21160,52,33,3,9.1,5,14281|16476|101568,Fos|Jun|Vrk3,-1.9
+hits,Reactome Gene Sets,6,R-MMU-450294,MAP kinase activation,,-4.1,37,10,21160,52,33,3,9.1,5,14281|16476|101568,Fos|Jun|Vrk3,-1.9
+hits,GO Biological Processes,19,GO:0046683,response to organophosphorus,19_GO:0050896 response to stimulus,-4.1,18,8,21160,145,33,4,12,5.7,14281|14282|18626|18708,Fos|Fosb|Per1|Pik3r1,-1.9
+hits,KEGG Pathway,24,mmu05224,Breast cancer - Mus musculus (house mouse),,-4.1,17,7.9,21160,147,33,4,12,5.7,14281|15205|16476|18708,Fos|Hes1|Jun|Pik3r1,-1.9
+hits,KEGG Pathway,24,mmu05418,Fluid shear stress and atherosclerosis - Mus musculus (house mouse),,-4.1,17,7.9,21160,148,33,4,12,5.7,14281|16476|18708|108079,Fos|Jun|Pik3r1|Prkaa2,-1.9
+hits,GO Biological Processes,19,GO:0048545,response to steroid hormone,19_GO:0050896 response to stimulus,-4.1,11,6.8,21160,293,33,5,15,6.2,14281|14282|16476|16478|18708,Fos|Fosb|Jun|Jund|Pik3r1,-1.8
+hits,GO Biological Processes,19,GO:0003007,heart morphogenesis,19_GO:0032502 developmental process,-4,11,6.7,21160,296,33,5,15,6.2,12824|15205|16007|16476|20807,Col2a1|Hes1|Ccn1|Jun|Srf,-1.8
+hits,GO Biological Processes,19,GO:1902895,positive regulation of miRNA transcription,19_GO:0048518 positive regulation of biological process,-4,33,9.7,21160,58,33,3,9.1,5,14281|16476|20807,Fos|Jun|Srf,-1.8
+hits,Reactome Gene Sets,6,R-MMU-187037,Signaling by NTRK1 (TRKA),,-4,33,9.6,21160,59,33,3,9.1,5,18708|20807|101568,Pik3r1|Srf|Vrk3,-1.8
+hits,WikiPathways,27,WP493,Mapk signaling pathway,,-4,16,7.6,21160,159,33,4,12,5.7,14281|16476|16478|20807,Fos|Jun|Jund|Srf,-1.8
+hits,KEGG Pathway,24,mmu04932,Non-alcoholic fatty liver disease - Mus musculus (house mouse),,-3.9,16,7.5,21160,162,33,4,12,5.7,14281|16476|18708|108079,Fos|Jun|Pik3r1|Prkaa2,-1.7
+hits,GO Biological Processes,19,GO:2000630,positive regulation of miRNA metabolic process,19_GO:0048518 positive regulation of biological process,-3.8,30,9.1,21160,65,33,3,9.1,5,14281|16476|20807,Fos|Jun|Srf,-1.7
+hits,WikiPathways,27,WP572,EGFR1 signaling pathway,,-3.8,15,7.2,21160,175,33,4,12,5.7,14281|16476|16478|18708,Fos|Jun|Jund|Pik3r1,-1.6
+hits,KEGG Pathway,24,mmu05031,Amphetamine addiction - Mus musculus (house mouse),,-3.8,28,8.8,21160,69,33,3,9.1,5,14281|14282|16476,Fos|Fosb|Jun,-1.6
+hits,Reactome Gene Sets,6,R-MMU-166520,Signaling by NTRKs,,-3.7,27,8.7,21160,71,33,3,9.1,5,18708|20807|101568,Pik3r1|Srf|Vrk3,-1.6
+hits,WikiPathways,27,WP85,Focal adhesion,,-3.7,14,6.9,21160,185,33,4,12,5.7,11852|12824|16476|18708,Rhob|Col2a1|Jun|Pik3r1,-1.5
+hits,Reactome Gene Sets,6,R-MMU-168164,Toll Like Receptor 3 (TLR3) Cascade,,-3.7,27,8.6,21160,72,33,3,9.1,5,14281|16476|101568,Fos|Jun|Vrk3,-1.5
+hits,Reactome Gene Sets,6,R-MMU-975871,MyD88 cascade initiated on plasma membrane,,-3.7,26,8.5,21160,74,33,3,9.1,5,14281|16476|101568,Fos|Jun|Vrk3,-1.5
+hits,Reactome Gene Sets,6,R-MMU-168142,Toll Like Receptor 10 (TLR10) Cascade,,-3.7,26,8.5,21160,74,33,3,9.1,5,14281|16476|101568,Fos|Jun|Vrk3,-1.5
+hits,Reactome Gene Sets,6,R-MMU-168176,Toll Like Receptor 5 (TLR5) Cascade,,-3.7,26,8.5,21160,74,33,3,9.1,5,14281|16476|101568,Fos|Jun|Vrk3,-1.5
+hits,Reactome Gene Sets,6,R-MMU-181438,Toll Like Receptor 2 (TLR2) Cascade,,-3.7,26,8.5,21160,75,33,3,9.1,5,14281|16476|101568,Fos|Jun|Vrk3,-1.5
+hits,Reactome Gene Sets,6,R-MMU-168179,Toll Like Receptor TLR1:TLR2 Cascade,,-3.7,26,8.5,21160,75,33,3,9.1,5,14281|16476|101568,Fos|Jun|Vrk3,-1.5
+hits,Reactome Gene Sets,6,R-MMU-168188,Toll Like Receptor TLR6:TLR2 Cascade,,-3.7,26,8.5,21160,75,33,3,9.1,5,14281|16476|101568,Fos|Jun|Vrk3,-1.5
+hits,Reactome Gene Sets,6,R-MMU-166058,MyD88:MAL(TIRAP) cascade initiated on plasma membrane,,-3.7,26,8.5,21160,75,33,3,9.1,5,14281|16476|101568,Fos|Jun|Vrk3,-1.5
+hits,GO Biological Processes,19,GO:0061061,muscle structure development,19_GO:0032502 developmental process,-3.6,6.6,5.4,21160,579,33,6,18,6.7,12227|14281|15205|20807|67220|101568,Btg2|Fos|Hes1|Srf|Plekho1|Vrk3,-1.5
+hits,GO Biological Processes,19,GO:1902893,regulation of miRNA transcription,19_GO:0050789 regulation of biological process,-3.6,25,8.3,21160,78,33,3,9.1,5,14281|16476|20807,Fos|Jun|Srf,-1.5
+hits,KEGG Pathway,24,mmu04151,PI3K-Akt signaling pathway - Mus musculus (house mouse),,-3.6,8.7,5.9,21160,367,33,5,15,6.2,12824|17210|18708|19651|108079,Col2a1|Mcl1|Pik3r1|Rbl2|Prkaa2,-1.5
+hits,Reactome Gene Sets,6,R-MMU-975138,TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation,,-3.6,24,8.2,21160,79,33,3,9.1,5,14281|16476|101568,Fos|Jun|Vrk3,-1.5
+hits,Reactome Gene Sets,6,R-MMU-975155,MyD88 dependent cascade initiated on endosome,,-3.6,24,8.2,21160,80,33,3,9.1,5,14281|16476|101568,Fos|Jun|Vrk3,-1.5
+hits,WikiPathways,27,WP1254,Apoptosis,,-3.6,24,8.2,21160,80,33,3,9.1,5,16476|17210|18708,Jun|Mcl1|Pik3r1,-1.5
+hits,WikiPathways,27,WP265,Delta Notch signaling pathway,,-3.6,23,8.1,21160,82,33,3,9.1,5,15205|16476|18708,Hes1|Jun|Pik3r1,-1.4
+hits,GO Biological Processes,19,GO:0007612,learning,19_GO:0032501 multicellular organismal process,-3.5,12,6.5,21160,206,33,4,12,5.7,12227|14281|16476|20807,Btg2|Fos|Jun|Srf,-1.4
+hits,Reactome Gene Sets,6,R-MMU-168181,Toll Like Receptor 7/8 (TLR7/8) Cascade,,-3.5,23,7.9,21160,84,33,3,9.1,5,14281|16476|101568,Fos|Jun|Vrk3,-1.4
+hits,KEGG Pathway,24,mmu04662,B cell receptor signaling pathway - Mus musculus (house mouse),,-3.5,23,7.9,21160,84,33,3,9.1,5,14281|16476|18708,Fos|Jun|Pik3r1,-1.4
+hits,KEGG Pathway,24,mmu05210,Colorectal cancer - Mus musculus (house mouse),,-3.5,22,7.7,21160,88,33,3,9.1,5,14281|16476|18708,Fos|Jun|Pik3r1,-1.4
+hits,Reactome Gene Sets,6,R-MMU-168138,Toll Like Receptor 9 (TLR9) Cascade,,-3.5,22,7.7,21160,88,33,3,9.1,5,14281|16476|101568,Fos|Jun|Vrk3,-1.4
+hits,KEGG Pathway,24,mmu05235,PD-L1 expression and PD-1 checkpoint pathway in cancer - Mus musculus (house mouse),,-3.5,22,7.7,21160,88,33,3,9.1,5,14281|16476|18708,Fos|Jun|Pik3r1,-1.4
+hits,Reactome Gene Sets,6,R-MMU-937061,TRIF (TICAM1)-mediated TLR4 signaling,,-3.4,21,7.6,21160,92,33,3,9.1,5,14281|16476|101568,Fos|Jun|Vrk3,-1.3
+hits,Reactome Gene Sets,6,R-MMU-166166,MyD88-independent TLR4 cascade,,-3.4,21,7.6,21160,92,33,3,9.1,5,14281|16476|101568,Fos|Jun|Vrk3,-1.3
+hits,KEGG Pathway,24,mmu01522,Endocrine resistance - Mus musculus (house mouse),,-3.4,21,7.5,21160,93,33,3,9.1,5,14281|16476|18708,Fos|Jun|Pik3r1,-1.3
+hits,GO Biological Processes,19,GO:0043010,camera-type eye development,19_GO:0032502 developmental process,-3.4,7.8,5.5,21160,413,33,5,15,6.2,14281|15205|16476|18626|20807,Fos|Hes1|Jun|Per1|Srf,-1.3
+hits,Reactome Gene Sets,6,R-MMU-2454202,Fc epsilon receptor (FCERI) signaling,,-3.4,20,7.5,21160,94,33,3,9.1,5,14281|16476|18708,Fos|Jun|Pik3r1,-1.3
+hits,GO Biological Processes,19,GO:1903131,mononuclear cell differentiation,19_GO:0032502 developmental process,-3.4,7.7,5.5,21160,415,33,5,15,6.2,12611|14281|16476|18708|20807,Cebpg|Fos|Jun|Pik3r1|Srf,-1.3
+hits,GO Biological Processes,19,GO:2000628,regulation of miRNA metabolic process,19_GO:0050789 regulation of biological process,-3.4,20,7.4,21160,95,33,3,9.1,5,14281|16476|20807,Fos|Jun|Srf,-1.3
+hits,GO Biological Processes,19,GO:0007507,heart development,19_GO:0032502 developmental process,-3.3,5.9,5,21160,656,33,6,18,6.7,12824|14672|15205|16007|16476|20807,Col2a1|Gna11|Hes1|Ccn1|Jun|Srf,-1.3
+hits,GO Biological Processes,19,GO:0034599,cellular response to oxidative stress,19_GO:0050896 response to stimulus,-3.3,11,6,21160,235,33,4,12,5.7,11852|14281|16476|108079,Rhob|Fos|Jun|Prkaa2,-1.3
+hits,KEGG Pathway,24,mmu05231,Choline metabolism in cancer - Mus musculus (house mouse),,-3.3,20,7.3,21160,98,33,3,9.1,5,14281|16476|18708,Fos|Jun|Pik3r1,-1.3
+hits,GO Biological Processes,19,GO:0003407,neural retina development,19_GO:0032502 developmental process,-3.3,19,7.3,21160,99,33,3,9.1,5,14281|15205|18626,Fos|Hes1|Per1,-1.3
+hits,WikiPathways,27,WP387,IL 6 signaling pathway,,-3.3,19,7.3,21160,99,33,3,9.1,5,14281|16476|18708,Fos|Jun|Pik3r1,-1.3
+hits,KEGG Pathway,24,mmu05170,Human immunodeficiency virus 1 infection - Mus musculus (house mouse),,-3.3,11,5.9,21160,241,33,4,12,5.7,14281|14672|16476|18708,Fos|Gna11|Jun|Pik3r1,-1.2
+hits,WikiPathways,27,WP2074,Neural crest differentiation,,-3.3,19,7.2,21160,101,33,3,9.1,5,11852|12824|15205,Rhob|Col2a1|Hes1,-1.2
+hits,KEGG Pathway,24,mmu04620,Toll-like receptor signaling pathway - Mus musculus (house mouse),,-3.2,18,7.1,21160,104,33,3,9.1,5,14281|16476|18708,Fos|Jun|Pik3r1,-1.2
+hits,KEGG Pathway,24,mmu05132,Salmonella infection - Mus musculus (house mouse),,-3.2,10,5.8,21160,252,33,4,12,5.7,11852|14281|16476|67665,Rhob|Fos|Jun|Dctn4,-1.2
+hits,Reactome Gene Sets,6,R-MMU-166016,Toll Like Receptor 4 (TLR4) Cascade,,-3.2,18,6.9,21160,108,33,3,9.1,5,14281|16476|101568,Fos|Jun|Vrk3,-1.2
+hits,GO Biological Processes,19,GO:0001654,eye development,19_GO:0032502 developmental process,-3.2,7,5.1,21160,460,33,5,15,6.2,14281|15205|16476|18626|20807,Fos|Hes1|Jun|Per1|Srf,-1.1
+hits,GO Biological Processes,19,GO:0150063,visual system development,19_GO:0032502 developmental process,-3.2,6.9,5.1,21160,463,33,5,15,6.2,14281|15205|16476|18626|20807,Fos|Hes1|Jun|Per1|Srf,-1.1
+hits,GO Biological Processes,19,GO:0007423,sensory organ development,19_GO:0032502 developmental process,-3.1,5.4,4.7,21160,710,33,6,18,6.7,12824|14281|15205|16476|18626|20807,Col2a1|Fos|Hes1|Jun|Per1|Srf,-1.1
+hits,KEGG Pathway,24,mmu04725,Cholinergic synapse - Mus musculus (house mouse),,-3.1,17,6.7,21160,113,33,3,9.1,5,14281|14672|18708,Fos|Gna11|Pik3r1,-1.1
+hits,Reactome Gene Sets,6,R-MMU-449147,Signaling by Interleukins,,-3.1,9.7,5.6,21160,264,33,4,12,5.7,14281|16476|18708|101568,Fos|Jun|Pik3r1|Vrk3,-1.1
+hits,GO Biological Processes,19,GO:0048880,sensory system development,19_GO:0032502 developmental process,-3.1,6.8,5,21160,470,33,5,15,6.2,14281|15205|16476|18626|20807,Fos|Hes1|Jun|Per1|Srf,-1.1
+hits,KEGG Pathway,24,mmu04928,"Parathyroid hormone synthesis, secretion and action - Mus musculus (house mouse)",,-3.1,17,6.7,21160,116,33,3,9.1,5,14281|14672|16478,Fos|Gna11|Jund,-1.1
+hits,GO Biological Processes,19,GO:0031669,cellular response to nutrient levels,19_GO:0050896 response to stimulus,-3.1,9.5,5.6,21160,269,33,4,12,5.7,14281|16476|20807|108079,Fos|Jun|Srf|Prkaa2,-1.1
+hits,GO Biological Processes,19,GO:0009612,response to mechanical stimulus,19_GO:0050896 response to stimulus,-3.1,9.5,5.6,21160,270,33,4,12,5.7,12227|14281|14282|16476,Btg2|Fos|Fosb|Jun,-1.1
+hits,GO Biological Processes,19,GO:0048514,blood vessel morphogenesis,19_GO:0032502 developmental process,-3.1,6.7,5,21160,476,33,5,15,6.2,11852|15205|16007|16476|20807,Rhob|Hes1|Ccn1|Jun|Srf,-1.1
+hits,KEGG Pathway,24,mmu04935,"Growth hormone synthesis, secretion and action - Mus musculus (house mouse)",,-3.1,16,6.6,21160,117,33,3,9.1,5,14281|14672|18708,Fos|Gna11|Pik3r1,-1.1
+hits,KEGG Pathway,24,mmu04668,TNF signaling pathway - Mus musculus (house mouse),,-3.1,16,6.6,21160,118,33,3,9.1,5,14281|16476|18708,Fos|Jun|Pik3r1,-1.1
+hits,GO Biological Processes,19,GO:0043279,response to alkaloid,19_GO:0050896 response to stimulus,-3.1,16,6.5,21160,121,33,3,9.1,5,14282|15205|108079,Fosb|Hes1|Prkaa2,-1.1
+hits,KEGG Pathway,24,mmu04660,T cell receptor signaling pathway - Mus musculus (house mouse),,-3,16,6.5,21160,122,33,3,9.1,5,14281|16476|18708,Fos|Jun|Pik3r1,-1.1
+hits,GO Biological Processes,19,GO:0002521,leukocyte differentiation,19_GO:0032502 developmental process,-3,6.5,4.9,21160,491,33,5,15,6.2,12611|14281|16476|18708|20807,Cebpg|Fos|Jun|Pik3r1|Srf,-1.1
+hits,GO Biological Processes,19,GO:0097191,extrinsic apoptotic signaling pathway,19_GO:0050896 response to stimulus,-3,16,6.4,21160,124,33,3,9.1,5,12824|17210|18708,Col2a1|Mcl1|Pik3r1,-1.1
+hits,GO Biological Processes,19,GO:0001678,intracellular glucose homeostasis,19_GO:0042592 homeostatic process,-3,15,6.3,21160,127,33,3,9.1,5,18708|20807|108079,Pik3r1|Srf|Prkaa2,-1
+hits,KEGG Pathway,24,mmu04926,Relaxin signaling pathway - Mus musculus (house mouse),,-3,15,6.2,21160,130,33,3,9.1,5,14281|16476|18708,Fos|Jun|Pik3r1,-1
+hits,GO Biological Processes,19,GO:0008306,associative learning,19_GO:0032501 multicellular organismal process,-3,15,6.2,21160,130,33,3,9.1,5,12227|14281|20807,Btg2|Fos|Srf,-1
+hits,KEGG Pathway,24,mmu04068,FoxO signaling pathway - Mus musculus (house mouse),,-2.9,14,6.2,21160,133,33,3,9.1,5,18708|19651|108079,Pik3r1|Rbl2|Prkaa2,-0.98
+hits,KEGG Pathway,24,mmu04010,MAPK signaling pathway - Mus musculus (house mouse),,-2.9,8.6,5.2,21160,299,33,4,12,5.7,14281|16476|16478|20807,Fos|Jun|Jund|Srf,-0.98
+hits,KEGG Pathway,24,mmu04915,Estrogen signaling pathway - Mus musculus (house mouse),,-2.9,14,6.1,21160,134,33,3,9.1,5,14281|16476|18708,Fos|Jun|Pik3r1,-0.97
+hits,GO Biological Processes,19,GO:0030218,erythrocyte differentiation,19_GO:0042592 homeostatic process,-2.9,14,6.1,21160,134,33,3,9.1,5,12611|20807|67490,Cebpg|Srf|Ufl1,-0.97
+hits,KEGG Pathway,24,mmu05135,Yersinia infection - Mus musculus (house mouse),,-2.9,14,6.1,21160,136,33,3,9.1,5,14281|16476|18708,Fos|Jun|Pik3r1,-0.96
+hits,Reactome Gene Sets,6,R-MMU-168898,Toll-like Receptor Cascades,,-2.9,14,6,21160,140,33,3,9.1,5,14281|16476|101568,Fos|Jun|Vrk3,-0.92
+hits,GO Biological Processes,19,GO:0062197,cellular response to chemical stress,19_GO:0050896 response to stimulus,-2.9,8.2,5.1,21160,313,33,4,12,5.7,11852|14281|16476|108079,Rhob|Fos|Jun|Prkaa2,-0.92
+hits,GO Biological Processes,19,GO:1901654,response to ketone,19_GO:0050896 response to stimulus,-2.8,8,5,21160,319,33,4,12,5.7,12227|14281|14282|108079,Btg2|Fos|Fosb|Prkaa2,-0.89
+hits,KEGG Pathway,24,mmu05162,Measles - Mus musculus (house mouse),,-2.8,13,5.9,21160,145,33,3,9.1,5,14281|16476|18708,Fos|Jun|Pik3r1,-0.89
+hits,KEGG Pathway,24,mmu05200,Pathways in cancer - Mus musculus (house mouse),,-2.8,5.9,4.5,21160,548,33,5,15,6.2,14281|14672|15205|16476|18708,Fos|Gna11|Hes1|Jun|Pik3r1,-0.89
+hits,GO Biological Processes,19,GO:0034614,cellular response to reactive oxygen species,19_GO:0050896 response to stimulus,-2.8,13,5.8,21160,146,33,3,9.1,5,11852|14281|16476,Rhob|Fos|Jun,-0.88
+hits,GO Biological Processes,19,GO:0034101,erythrocyte homeostasis,19_GO:0042592 homeostatic process,-2.8,13,5.8,21160,147,33,3,9.1,5,12611|20807|67490,Cebpg|Srf|Ufl1,-0.88
+hits,GO Biological Processes,19,GO:0021537,telencephalon development,19_GO:0032502 developmental process,-2.8,7.9,5,21160,324,33,4,12,5.7,12227|14281|15205|20807,Btg2|Fos|Hes1|Srf,-0.87
+hits,GO Biological Processes,19,GO:0010720,positive regulation of cell development,19_GO:0032502 developmental process,-2.8,5.7,4.5,21160,559,33,5,15,6.2,14281|15205|16476|20807|67490,Fos|Hes1|Jun|Srf|Ufl1,-0.86
+hits,GO Biological Processes,19,GO:0043523,regulation of neuron apoptotic process,19_GO:0050789 regulation of biological process,-2.8,7.8,4.9,21160,330,33,4,12,5.7,12227|16476|17210|17748,Btg2|Jun|Mcl1|Mt1,-0.85
+hits,GO Biological Processes,19,GO:0043433,negative regulation of DNA-binding transcription factor activity,19_GO:0050789 regulation of biological process,-2.8,13,5.7,21160,153,33,3,9.1,5,12611|15205|67490,Cebpg|Hes1|Ufl1,-0.84
+hits,KEGG Pathway,24,mmu04921,Oxytocin signaling pathway - Mus musculus (house mouse),,-2.8,13,5.7,21160,153,33,3,9.1,5,14281|16476|108079,Fos|Jun|Prkaa2,-0.84
+hits,GO Biological Processes,19,GO:0002761,regulation of myeloid leukocyte differentiation,19_GO:0002376 immune system process,-2.8,12,5.7,21160,154,33,3,9.1,5,14281|16476|18708,Fos|Jun|Pik3r1,-0.83
+hits,GO Biological Processes,19,GO:0003206,cardiac chamber morphogenesis,19_GO:0032502 developmental process,-2.7,12,5.6,21160,155,33,3,9.1,5,15205|16007|20807,Hes1|Ccn1|Srf,-0.83
+hits,GO Biological Processes,19,GO:0051960,regulation of nervous system development,19_GO:0032502 developmental process,-2.7,5.5,4.4,21160,581,33,5,15,6.2,12227|15205|18708|20807|67490,Btg2|Hes1|Pik3r1|Srf|Ufl1,-0.8
+hits,GO Biological Processes,19,GO:0051384,response to glucocorticoid,19_GO:0050896 response to stimulus,-2.7,12,5.5,21160,163,33,3,9.1,5,14281|14282|18708,Fos|Fosb|Pik3r1,-0.77
+hits,KEGG Pathway,24,mmu05161,Hepatitis B - Mus musculus (house mouse),,-2.7,12,5.5,21160,164,33,3,9.1,5,14281|16476|18708,Fos|Jun|Pik3r1,-0.76
+hits,GO Biological Processes,19,GO:0001568,blood vessel development,19_GO:0032502 developmental process,-2.7,5.4,4.3,21160,593,33,5,15,6.2,11852|15205|16007|16476|20807,Rhob|Hes1|Ccn1|Jun|Srf,-0.76
+hits,GO Biological Processes,19,GO:0097190,apoptotic signaling pathway,19_GO:0050896 response to stimulus,-2.7,7.3,4.7,21160,353,33,4,12,5.7,12824|16476|17210|18708,Col2a1|Jun|Mcl1|Pik3r1,-0.76
+hits,GO Biological Processes,19,GO:0001889,liver development,19_GO:0032502 developmental process,-2.7,12,5.4,21160,165,33,3,9.1,5,12611|15205|16476,Cebpg|Hes1|Jun,-0.76
+hits,GO Biological Processes,19,GO:0007611,learning or memory,19_GO:0032501 multicellular organismal process,-2.7,7.2,4.7,21160,357,33,4,12,5.7,12227|14281|16476|20807,Btg2|Fos|Jun|Srf,-0.75
+hits,GO Biological Processes,19,GO:0001525,angiogenesis,19_GO:0032502 developmental process,-2.7,7.2,4.6,21160,358,33,4,12,5.7,11852|16007|16476|20807,Rhob|Ccn1|Jun|Srf,-0.74
+hits,GO Biological Processes,19,GO:0061008,hepaticobiliary system development,19_GO:0032502 developmental process,-2.6,11,5.4,21160,168,33,3,9.1,5,12611|15205|16476,Cebpg|Hes1|Jun,-0.74
+hits,KEGG Pathway,24,mmu05165,Human papillomavirus infection - Mus musculus (house mouse),,-2.6,7.1,4.6,21160,359,33,4,12,5.7,12824|15205|18708|19651,Col2a1|Hes1|Pik3r1|Rbl2,-0.74
+hits,GO Biological Processes,19,GO:0007519,skeletal muscle tissue development,19_GO:0032502 developmental process,-2.6,11,5.2,21160,175,33,3,9.1,5,12227|14281|101568,Btg2|Fos|Vrk3,-0.7
+hits,GO Biological Processes,19,GO:0055082,intracellular chemical homeostasis,19_GO:0042592 homeostatic process,-2.6,5.2,4.2,21160,619,33,5,15,6.2,17748|17750|18708|20807|108079,Mt1|Mt2|Pik3r1|Srf|Prkaa2,-0.7
+hits,GO Biological Processes,19,GO:0051090,regulation of DNA-binding transcription factor activity,19_GO:0050789 regulation of biological process,-2.6,6.9,4.5,21160,371,33,4,12,5.7,12611|15205|20807|67490,Cebpg|Hes1|Srf|Ufl1,-0.7
+hits,GO Biological Processes,19,GO:0001944,vasculature development,19_GO:0032502 developmental process,-2.6,5.1,4.1,21160,633,33,5,15,6.2,11852|15205|16007|16476|20807,Rhob|Hes1|Ccn1|Jun|Srf,-0.66
+hits,Reactome Gene Sets,6,R-MMU-1280218,Adaptive Immune System,,-2.5,5,4.1,21160,636,33,5,15,6.2,12824|18708|67490|67665|217232,Col2a1|Pik3r1|Ufl1|Dctn4|Cdc27,-0.65
+hits,GO Biological Processes,19,GO:0031960,response to corticosteroid,19_GO:0050896 response to stimulus,-2.5,11,5.1,21160,183,33,3,9.1,5,14281|14282|18708,Fos|Fosb|Pik3r1,-0.65
+hits,GO Biological Processes,19,GO:0051962,positive regulation of nervous system development,19_GO:0032502 developmental process,-2.5,6.7,4.4,21160,384,33,4,12,5.7,15205|18708|20807|67490,Hes1|Pik3r1|Srf|Ufl1,-0.65
+hits,GO Biological Processes,19,GO:0014706,striated muscle tissue development,19_GO:0032502 developmental process,-2.5,6.7,4.4,21160,385,33,4,12,5.7,12227|14281|20807|101568,Btg2|Fos|Srf|Vrk3,-0.65
+hits,GO Biological Processes,19,GO:0097305,response to alcohol,19_GO:0050896 response to stimulus,-2.5,6.6,4.4,21160,386,33,4,12,5.7,12227|14281|14282|108079,Btg2|Fos|Fosb|Prkaa2,-0.65
+hits,GO Biological Processes,19,GO:1901655,cellular response to ketone,19_GO:0050896 response to stimulus,-2.5,10,5.1,21160,186,33,3,9.1,5,12227|14281|108079,Btg2|Fos|Prkaa2,-0.64
+hits,GO Biological Processes,19,GO:0002573,myeloid leukocyte differentiation,19_GO:0032502 developmental process,-2.5,10,5,21160,187,33,3,9.1,5,14281|16476|18708,Fos|Jun|Pik3r1,-0.64
+hits,GO Biological Processes,19,GO:0002262,myeloid cell homeostasis,19_GO:0042592 homeostatic process,-2.5,10,5,21160,187,33,3,9.1,5,12611|20807|67490,Cebpg|Srf|Ufl1,-0.64
+hits,GO Biological Processes,19,GO:0097306,cellular response to alcohol,19_GO:0050896 response to stimulus,-2.5,10,5,21160,188,33,3,9.1,5,12227|14281|108079,Btg2|Fos|Prkaa2,-0.63
+hits,GO Biological Processes,19,GO:0060538,skeletal muscle organ development,19_GO:0032502 developmental process,-2.5,10,5,21160,190,33,3,9.1,5,12227|14281|101568,Btg2|Fos|Vrk3,-0.62
+hits,Reactome Gene Sets,6,R-MMU-9006934,Signaling by Receptor Tyrosine Kinases,,-2.5,6.4,4.3,21160,400,33,4,12,5.7,12824|18708|20807|101568,Col2a1|Pik3r1|Srf|Vrk3,-0.6
+hits,GO Biological Processes,19,GO:0141091,transforming growth factor beta receptor superfamily signaling pathway,19_GO:0050896 response to stimulus,-2.5,9.9,4.9,21160,194,33,3,9.1,5,14281|15205|16476,Fos|Hes1|Jun,-0.6
+hits,GO Biological Processes,19,GO:0006979,response to oxidative stress,19_GO:0050896 response to stimulus,-2.5,6.4,4.3,21160,402,33,4,12,5.7,11852|14281|16476|108079,Rhob|Fos|Jun|Prkaa2,-0.6
+hits,GO Biological Processes,19,GO:0050890,cognition,19_GO:0032501 multicellular organismal process,-2.5,6.4,4.3,21160,403,33,4,12,5.7,12227|14281|16476|20807,Btg2|Fos|Jun|Srf,-0.6
+hits,GO Biological Processes,19,GO:0043484,regulation of RNA splicing,19_GO:0050789 regulation of biological process,-2.5,9.9,4.9,21160,195,33,3,9.1,5,15388|18708|53379,Hnrnpl|Pik3r1|Hnrnpa2b1,-0.6
+hits,GO Biological Processes,19,GO:0060537,muscle tissue development,19_GO:0032502 developmental process,-2.4,6.3,4.2,21160,410,33,4,12,5.7,12227|14281|20807|101568,Btg2|Fos|Srf|Vrk3,-0.57
+hits,GO Biological Processes,19,GO:0051216,cartilage development,19_GO:0032502 developmental process,-2.4,9.6,4.8,21160,200,33,3,9.1,5,12824|16007|20807,Col2a1|Ccn1|Srf,-0.57
+hits,KEGG Pathway,24,mmu04510,Focal adhesion - Mus musculus (house mouse),,-2.4,9.5,4.8,21160,202,33,3,9.1,5,12824|16476|18708,Col2a1|Jun|Pik3r1,-0.56
+hits,GO Biological Processes,19,GO:0000302,response to reactive oxygen species,19_GO:0050896 response to stimulus,-2.4,9.4,4.8,21160,204,33,3,9.1,5,11852|14281|16476,Rhob|Fos|Jun,-0.55
+hits,GO Biological Processes,19,GO:0003205,cardiac chamber development,19_GO:0032502 developmental process,-2.4,9.4,4.8,21160,204,33,3,9.1,5,15205|16007|20807,Hes1|Ccn1|Srf,-0.55
+hits,GO Biological Processes,19,GO:0009267,cellular response to starvation,19_GO:0050896 response to stimulus,-2.4,9.3,4.7,21160,207,33,3,9.1,5,14281|16476|108079,Fos|Jun|Prkaa2,-0.54
+hits,GO Biological Processes,19,GO:0007178,cell surface receptor protein serine/threonine kinase signaling pathway,19_GO:0050896 response to stimulus,-2.4,9.2,4.7,21160,210,33,3,9.1,5,14281|15205|16476,Fos|Hes1|Jun,-0.52
+hits,GO Biological Processes,19,GO:0060041,retina development in camera-type eye,19_GO:0032502 developmental process,-2.4,9.1,4.7,21160,212,33,3,9.1,5,14281|15205|18626,Fos|Hes1|Per1,-0.51
+hits,GO Biological Processes,19,GO:0021543,pallium development,19_GO:0032502 developmental process,-2.3,8.9,4.6,21160,215,33,3,9.1,5,12227|14281|20807,Btg2|Fos|Srf,-0.5
+hits,KEGG Pathway,24,mmu05417,Lipid and atherosclerosis - Mus musculus (house mouse),,-2.3,8.9,4.6,21160,217,33,3,9.1,5,14281|16476|18708,Fos|Jun|Pik3r1,-0.49
+hits,Reactome Gene Sets,6,R-MMU-1280215,Cytokine Signaling in Immune system,,-2.3,5.8,4,21160,444,33,4,12,5.7,14281|16476|18708|101568,Fos|Jun|Pik3r1|Vrk3,-0.47
+hits,GO Biological Processes,19,GO:0043524,negative regulation of neuron apoptotic process,19_GO:0048519 negative regulation of biological process,-2.3,8.7,4.6,21160,221,33,3,9.1,5,12227|16476|17748,Btg2|Jun|Mt1,-0.47
+hits,KEGG Pathway,24,mmu05167,Kaposi sarcoma-associated herpesvirus infection - Mus musculus (house mouse),,-2.3,8.6,4.5,21160,223,33,3,9.1,5,14281|16476|18708,Fos|Jun|Pik3r1,-0.46
+hits,KEGG Pathway,24,mmu04024,cAMP signaling pathway - Mus musculus (house mouse),,-2.3,8.6,4.5,21160,224,33,3,9.1,5,14281|16476|18708,Fos|Jun|Pik3r1,-0.46
+hits,GO Biological Processes,19,GO:0045321,leukocyte activation,19_GO:0002376 immune system process,-2.3,4.4,3.7,21160,729,33,5,15,6.2,12611|15205|16476|18708|20807,Cebpg|Hes1|Jun|Pik3r1|Srf,-0.45
+hits,GO Biological Processes,19,GO:0019725,cellular homeostasis,19_GO:0042592 homeostatic process,-2.3,4.4,3.7,21160,732,33,5,15,6.2,17748|17750|18708|20807|108079,Mt1|Mt2|Pik3r1|Srf|Prkaa2,-0.45
+hits,KEGG Pathway,24,mmu05169,Epstein-Barr virus infection - Mus musculus (house mouse),,-2.3,8.4,4.5,21160,228,33,3,9.1,5,15205|16476|18708,Hes1|Jun|Pik3r1,-0.44
+hits,KEGG Pathway,24,mmu05207,Chemical carcinogenesis - receptor activation - Mus musculus (house mouse),,-2.3,8.4,4.5,21160,228,33,3,9.1,5,14281|16476|18708,Fos|Jun|Pik3r1,-0.44
+hits,KEGG Pathway,24,mmu05208,Chemical carcinogenesis - reactive oxygen species - Mus musculus (house mouse),,-2.3,8.4,4.4,21160,229,33,3,9.1,5,14281|16476|18708,Fos|Jun|Pik3r1,-0.44
+hits,GO Biological Processes,19,GO:0009952,anterior/posterior pattern specification,19_GO:0032502 developmental process,-2.2,8.3,4.4,21160,233,33,3,9.1,5,12227|15205|20807,Btg2|Hes1|Srf,-0.42
+hits,GO Biological Processes,19,GO:0009636,response to toxic substance,19_GO:0050896 response to stimulus,-2.2,8.2,4.4,21160,234,33,3,9.1,5,14281|17748|17750,Fos|Mt1|Mt2,-0.42
+hits,GO Biological Processes,19,GO:0045637,regulation of myeloid cell differentiation,19_GO:0002376 immune system process,-2.2,8.2,4.4,21160,236,33,3,9.1,5,14281|16476|18708,Fos|Jun|Pik3r1,-0.41
+hits,GO Biological Processes,19,GO:0008285,negative regulation of cell population proliferation,19_GO:0048519 negative regulation of biological process,-2.2,4.2,3.6,21160,757,33,5,15,6.2,12227|15205|16476|18708|20807,Btg2|Hes1|Jun|Pik3r1|Srf,-0.4
+hits,GO Biological Processes,19,GO:0048863,stem cell differentiation,19_GO:0032502 developmental process,-2.2,8.1,4.3,21160,238,33,3,9.1,5,15205|20807|67490,Hes1|Srf|Ufl1,-0.4
+hits,Reactome Gene Sets,6,R-MMU-422475,Axon guidance,,-2.2,8.1,4.3,21160,238,33,3,9.1,5,11852|12824|18708,Rhob|Col2a1|Pik3r1,-0.4
+hits,GO Biological Processes,19,GO:0050767,regulation of neurogenesis,19_GO:0032502 developmental process,-2.2,5.4,3.8,21160,473,33,4,12,5.7,12227|15205|20807|67490,Btg2|Hes1|Srf|Ufl1,-0.4
+hits,Reactome Gene Sets,6,R-MMU-76002,"Platelet activation, signaling and aggregation",,-2.2,8,4.3,21160,239,33,3,9.1,5,11852|14672|18708,Rhob|Gna11|Pik3r1,-0.4
+hits,Reactome Gene Sets,6,R-MMU-9675108,Nervous system development,,-2.2,8,4.3,21160,239,33,3,9.1,5,11852|12824|18708,Rhob|Col2a1|Pik3r1,-0.4
+hits,GO Biological Processes,19,GO:0034976,response to endoplasmic reticulum stress,19_GO:0050896 response to stimulus,-2.2,7.9,4.3,21160,242,33,3,9.1,5,16476|18708|67490,Jun|Pik3r1|Ufl1,-0.39
+hits,GO Biological Processes,19,GO:0009314,response to radiation,19_GO:0050896 response to stimulus,-2.2,5.4,3.8,21160,478,33,4,12,5.7,11852|14281|18626|18708,Rhob|Fos|Per1|Pik3r1,-0.39
+hits,GO Biological Processes,19,GO:0030900,forebrain development,19_GO:0032502 developmental process,-2.2,5.3,3.8,21160,480,33,4,12,5.7,12227|14281|15205|20807,Btg2|Fos|Hes1|Srf,-0.38
+hits,GO Biological Processes,19,GO:0043434,response to peptide hormone,19_GO:0050896 response to stimulus,-2.2,5.3,3.8,21160,482,33,4,12,5.7,12227|14281|18708|21406,Btg2|Fos|Pik3r1|Tcf12,-0.38
+hits,GO Biological Processes,19,GO:0042594,response to starvation,19_GO:0050896 response to stimulus,-2.2,7.8,4.2,21160,247,33,3,9.1,5,14281|16476|108079,Fos|Jun|Prkaa2,-0.37
+hits,Reactome Gene Sets,6,R-MMU-1266738,Developmental Biology,,-2.2,5.2,3.8,21160,489,33,4,12,5.7,11852|12824|18708|21406,Rhob|Col2a1|Pik3r1|Tcf12,-0.36
+hits,GO Biological Processes,19,GO:0035239,tube morphogenesis,19_GO:0032502 developmental process,-2.2,4.1,3.5,21160,782,33,5,15,6.2,11852|15205|16007|16476|20807,Rhob|Hes1|Ccn1|Jun|Srf,-0.36
+hits,GO Biological Processes,19,GO:0006974,DNA damage response,19_GO:0050896 response to stimulus,-2.2,4.1,3.5,21160,784,33,5,15,6.2,12227|17210|18708|67490|101568,Btg2|Mcl1|Pik3r1|Ufl1|Vrk3,-0.36
+hits,GO Biological Processes,19,GO:0009410,response to xenobiotic stimulus,19_GO:0050896 response to stimulus,-2.1,5.1,3.7,21160,500,33,4,12,5.7,14281|14282|16476|108079,Fos|Fosb|Jun|Prkaa2,-0.33
+hits,GO Biological Processes,19,GO:0042593,glucose homeostasis,19_GO:0042592 homeostatic process,-2.1,7.3,4.1,21160,263,33,3,9.1,5,18708|20807|108079,Pik3r1|Srf|Prkaa2,-0.3
+hits,GO Biological Processes,19,GO:0033500,carbohydrate homeostasis,19_GO:0042592 homeostatic process,-2.1,7.3,4.1,21160,264,33,3,9.1,5,18708|20807|108079,Pik3r1|Srf|Prkaa2,-0.3
+hits,GO Biological Processes,19,GO:0007015,actin filament organization,19_GO:0009987 cellular process,-2.1,7,4,21160,274,33,3,9.1,5,11852|20807|69581,Rhob|Srf|Rhou,-0.26
+hits,GO Biological Processes,19,GO:0061448,connective tissue development,19_GO:0032502 developmental process,-2.1,7,4,21160,274,33,3,9.1,5,12824|16007|20807,Col2a1|Ccn1|Srf,-0.26
+hits,GO Biological Processes,19,GO:0022411,cellular component disassembly,19_GO:0009987 cellular process,-2,6.9,3.9,21160,277,33,3,9.1,5,12611|67490|108079,Cebpg|Ufl1|Prkaa2,-0.25
+hits,GO Biological Processes,19,GO:0048732,gland development,19_GO:0032502 developmental process,-2,4.8,3.5,21160,532,33,4,12,5.7,12611|15205|16476|20807,Cebpg|Hes1|Jun|Srf,-0.25
+hits,GO Biological Processes,19,GO:0030036,actin cytoskeleton organization,19_GO:0009987 cellular process,-2,4.8,3.5,21160,535,33,4,12,5.7,11852|12340|20807|69581,Rhob|Capza1|Srf|Rhou,-0.24
+hits,GO Biological Processes,19,GO:0022604,regulation of cell morphogenesis,19_GO:0032502 developmental process,-2,6.8,3.9,21160,283,33,3,9.1,5,20403|67220|69581,Itsn2|Plekho1|Rhou,-0.23
+hits_MCODE_ALL,KEGG Pathway,24,mmu04380,Osteoclast differentiation - Mus musculus (house mouse),,-9.7,1.1e+02,23,21160,136,7,5,71,17,14281|14282|16476|16478|18708,Fos|Fosb|Jun|Jund|Pik3r1,-5.7
+hits_MCODE_ALL,GO Biological Processes,19,GO:0071277,cellular response to calcium ion,19_GO:0050896 response to stimulus,-8.1,1.4e+02,24,21160,86,7,4,57,19,14281|14282|16476|16478,Fos|Fosb|Jun|Jund,-4.7
+hits_MCODE_ALL,GO Biological Processes,19,GO:0048545,response to steroid hormone,19_GO:0050896 response to stimulus,-8,52,16,21160,293,7,5,71,17,14281|14282|16476|16478|18708,Fos|Fosb|Jun|Jund|Pik3r1,-4.7
+hits_MCODE_ALL,KEGG Pathway,24,mmu04657,IL-17 signaling pathway - Mus musculus (house mouse),,-7.9,1.3e+02,23,21160,93,7,4,57,19,14281|14282|16476|16478,Fos|Fosb|Jun|Jund,-4.6
+hits_MCODE_ALL,GO Biological Processes,19,GO:0006366,transcription by RNA polymerase II,19_GO:0009987 cellular process,-7.3,38,14,21160,400,7,5,71,17,14281|14282|16476|16478|18708,Fos|Fosb|Jun|Jund|Pik3r1,-4.2
+hits_MCODE_ALL,GO Biological Processes,19,GO:0051592,response to calcium ion,19_GO:0050896 response to stimulus,-7.1,81,18,21160,149,7,4,57,19,14281|14282|16476|16478,Fos|Fosb|Jun|Jund,-4
+hits_MCODE_ALL,WikiPathways,27,WP572,EGFR1 signaling pathway,,-6.8,69,16,21160,175,7,4,57,19,14281|16476|16478|18708,Fos|Jun|Jund|Pik3r1,-3.8
+hits_MCODE_ALL,GO Biological Processes,19,GO:0006351,DNA-templated transcription,19_GO:0009987 cellular process,-6.7,28,12,21160,542,7,5,71,17,14281|14282|16476|16478|18708,Fos|Fosb|Jun|Jund|Pik3r1,-3.7
+hits_MCODE_ALL,GO Biological Processes,19,GO:0071248,cellular response to metal ion,19_GO:0050896 response to stimulus,-6.5,59,15,21160,204,7,4,57,19,14281|14282|16476|16478,Fos|Fosb|Jun|Jund,-3.6
+hits_MCODE_ALL,KEGG Pathway,24,mmu05031,Amphetamine addiction - Mus musculus (house mouse),,-5.9,1.3e+02,20,21160,69,7,3,43,19,14281|14282|16476,Fos|Fosb|Jun,-3.1
+hits_MCODE_ALL,KEGG Pathway,24,mmu04662,B cell receptor signaling pathway - Mus musculus (house mouse),,-5.7,1.1e+02,18,21160,84,7,3,43,19,14281|16476|18708,Fos|Jun|Pik3r1,-2.9
+hits_MCODE_ALL,KEGG Pathway,24,mmu05235,PD-L1 expression and PD-1 checkpoint pathway in cancer - Mus musculus (house mouse),,-5.6,1e+02,17,21160,88,7,3,43,19,14281|16476|18708,Fos|Jun|Pik3r1,-2.9
+hits_MCODE_ALL,KEGG Pathway,24,mmu05210,Colorectal cancer - Mus musculus (house mouse),,-5.6,1e+02,17,21160,88,7,3,43,19,14281|16476|18708,Fos|Jun|Pik3r1,-2.9
+hits_MCODE_ALL,KEGG Pathway,24,mmu01522,Endocrine resistance - Mus musculus (house mouse),,-5.5,98,17,21160,93,7,3,43,19,14281|16476|18708,Fos|Jun|Pik3r1,-2.8
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-2454202,Fc epsilon receptor (FCERI) signaling,,-5.5,96,17,21160,94,7,3,43,19,14281|16476|18708,Fos|Jun|Pik3r1,-2.8
+hits_MCODE_ALL,KEGG Pathway,24,mmu05231,Choline metabolism in cancer - Mus musculus (house mouse),,-5.5,93,17,21160,98,7,3,43,19,14281|16476|18708,Fos|Jun|Pik3r1,-2.8
+hits_MCODE_ALL,WikiPathways,27,WP387,IL 6 signaling pathway,,-5.5,92,16,21160,99,7,3,43,19,14281|16476|18708,Fos|Jun|Pik3r1,-2.8
+hits_MCODE_ALL,GO Biological Processes,19,GO:0010038,response to metal ion,19_GO:0050896 response to stimulus,-5.4,31,11,21160,385,7,4,57,19,14281|14282|16476|16478,Fos|Fosb|Jun|Jund,-2.8
+hits_MCODE_ALL,KEGG Pathway,24,mmu05142,Chagas disease - Mus musculus (house mouse),,-5.4,88,16,21160,103,7,3,43,19,14281|16476|18708,Fos|Jun|Pik3r1,-2.8
+hits_MCODE_ALL,GO Biological Processes,19,GO:0051591,response to cAMP,19_GO:0050896 response to stimulus,-5.4,87,16,21160,104,7,3,43,19,14281|14282|18708,Fos|Fosb|Pik3r1,-2.8
+hits_MCODE_ALL,KEGG Pathway,24,mmu04620,Toll-like receptor signaling pathway - Mus musculus (house mouse),,-5.4,87,16,21160,104,7,3,43,19,14281|16476|18708,Fos|Jun|Pik3r1,-2.8
+hits_MCODE_ALL,KEGG Pathway,24,mmu04668,TNF signaling pathway - Mus musculus (house mouse),,-5.2,77,15,21160,118,7,3,43,19,14281|16476|18708,Fos|Jun|Pik3r1,-2.6
+hits_MCODE_ALL,KEGG Pathway,24,mmu04660,T cell receptor signaling pathway - Mus musculus (house mouse),,-5.2,74,15,21160,122,7,3,43,19,14281|16476|18708,Fos|Jun|Pik3r1,-2.6
+hits_MCODE_ALL,KEGG Pathway,24,mmu04926,Relaxin signaling pathway - Mus musculus (house mouse),,-5.1,70,14,21160,130,7,3,43,19,14281|16476|18708,Fos|Jun|Pik3r1,-2.5
+hits_MCODE_ALL,KEGG Pathway,24,mmu04210,Apoptosis - Mus musculus (house mouse),,-5.1,68,14,21160,134,7,3,43,19,14281|16476|18708,Fos|Jun|Pik3r1,-2.5
+hits_MCODE_ALL,KEGG Pathway,24,mmu04915,Estrogen signaling pathway - Mus musculus (house mouse),,-5.1,68,14,21160,134,7,3,43,19,14281|16476|18708,Fos|Jun|Pik3r1,-2.5
+hits_MCODE_ALL,KEGG Pathway,24,mmu05135,Yersinia infection - Mus musculus (house mouse),,-5,67,14,21160,136,7,3,43,19,14281|16476|18708,Fos|Jun|Pik3r1,-2.5
+hits_MCODE_ALL,GO Biological Processes,19,GO:0046683,response to organophosphorus,19_GO:0050896 response to stimulus,-5,63,14,21160,145,7,3,43,19,14281|14282|18708,Fos|Fosb|Pik3r1,-2.5
+hits_MCODE_ALL,KEGG Pathway,24,mmu05162,Measles - Mus musculus (house mouse),,-5,63,14,21160,145,7,3,43,19,14281|16476|18708,Fos|Jun|Pik3r1,-2.5
+hits_MCODE_ALL,GO Biological Processes,19,GO:0034614,cellular response to reactive oxygen species,19_GO:0050896 response to stimulus,-5,62,13,21160,146,7,3,43,19,11852|14281|16476,Rhob|Fos|Jun,-2.5
+hits_MCODE_ALL,KEGG Pathway,24,mmu05224,Breast cancer - Mus musculus (house mouse),,-4.9,62,13,21160,147,7,3,43,19,14281|16476|18708,Fos|Jun|Pik3r1,-2.5
+hits_MCODE_ALL,KEGG Pathway,24,mmu05418,Fluid shear stress and atherosclerosis - Mus musculus (house mouse),,-4.9,61,13,21160,148,7,3,43,19,14281|16476|18708,Fos|Jun|Pik3r1,-2.5
+hits_MCODE_ALL,GO Biological Processes,19,GO:0002761,regulation of myeloid leukocyte differentiation,19_GO:0002376 immune system process,-4.9,59,13,21160,154,7,3,43,19,14281|16476|18708,Fos|Jun|Pik3r1,-2.4
+hits_MCODE_ALL,WikiPathways,27,WP493,Mapk signaling pathway,,-4.8,57,13,21160,159,7,3,43,19,14281|16476|16478,Fos|Jun|Jund,-2.4
+hits_MCODE_ALL,WikiPathways,27,WP65,Insulin signaling,,-4.8,57,13,21160,159,7,3,43,19,14281|16476|18708,Fos|Jun|Pik3r1,-2.4
+hits_MCODE_ALL,KEGG Pathway,24,mmu04932,Non-alcoholic fatty liver disease - Mus musculus (house mouse),,-4.8,56,13,21160,162,7,3,43,19,14281|16476|18708,Fos|Jun|Pik3r1,-2.4
+hits_MCODE_ALL,GO Biological Processes,19,GO:0051384,response to glucocorticoid,19_GO:0050896 response to stimulus,-4.8,56,13,21160,163,7,3,43,19,14281|14282|18708,Fos|Fosb|Pik3r1,-2.4
+hits_MCODE_ALL,KEGG Pathway,24,mmu05161,Hepatitis B - Mus musculus (house mouse),,-4.8,55,13,21160,164,7,3,43,19,14281|16476|18708,Fos|Jun|Pik3r1,-2.4
+hits_MCODE_ALL,GO Biological Processes,19,GO:0014074,response to purine-containing compound,19_GO:0050896 response to stimulus,-4.8,55,13,21160,165,7,3,43,19,14281|14282|18708,Fos|Fosb|Pik3r1,-2.4
+hits_MCODE_ALL,GO Biological Processes,19,GO:0031960,response to corticosteroid,19_GO:0050896 response to stimulus,-4.7,50,12,21160,183,7,3,43,19,14281|14282|18708,Fos|Fosb|Pik3r1,-2.3
+hits_MCODE_ALL,WikiPathways,27,WP85,Focal adhesion,,-4.6,49,12,21160,185,7,3,43,19,11852|16476|18708,Rhob|Jun|Pik3r1,-2.3
+hits_MCODE_ALL,GO Biological Processes,19,GO:0002573,myeloid leukocyte differentiation,19_GO:0032502 developmental process,-4.6,48,12,21160,187,7,3,43,19,14281|16476|18708,Fos|Jun|Pik3r1,-2.3
+hits_MCODE_ALL,GO Biological Processes,19,GO:0000302,response to reactive oxygen species,19_GO:0050896 response to stimulus,-4.5,44,11,21160,204,7,3,43,19,11852|14281|16476,Rhob|Fos|Jun,-2.2
+hits_MCODE_ALL,KEGG Pathway,24,mmu05417,Lipid and atherosclerosis - Mus musculus (house mouse),,-4.4,42,11,21160,217,7,3,43,19,14281|16476|18708,Fos|Jun|Pik3r1,-2.1
+hits_MCODE_ALL,KEGG Pathway,24,mmu05167,Kaposi sarcoma-associated herpesvirus infection - Mus musculus (house mouse),,-4.4,41,11,21160,223,7,3,43,19,14281|16476|18708,Fos|Jun|Pik3r1,-2.1
+hits_MCODE_ALL,KEGG Pathway,24,mmu04024,cAMP signaling pathway - Mus musculus (house mouse),,-4.4,40,11,21160,224,7,3,43,19,14281|16476|18708,Fos|Jun|Pik3r1,-2.1
+hits_MCODE_ALL,KEGG Pathway,24,mmu05207,Chemical carcinogenesis - receptor activation - Mus musculus (house mouse),,-4.4,40,11,21160,228,7,3,43,19,14281|16476|18708,Fos|Jun|Pik3r1,-2.1
+hits_MCODE_ALL,KEGG Pathway,24,mmu05208,Chemical carcinogenesis - reactive oxygen species - Mus musculus (house mouse),,-4.4,40,11,21160,229,7,3,43,19,14281|16476|18708,Fos|Jun|Pik3r1,-2.1
+hits_MCODE_ALL,GO Biological Processes,19,GO:0034599,cellular response to oxidative stress,19_GO:0050896 response to stimulus,-4.3,39,11,21160,235,7,3,43,19,11852|14281|16476,Rhob|Fos|Jun,-2
+hits_MCODE_ALL,GO Biological Processes,19,GO:0045637,regulation of myeloid cell differentiation,19_GO:0002376 immune system process,-4.3,38,11,21160,236,7,3,43,19,14281|16476|18708,Fos|Jun|Pik3r1,-2
+hits_MCODE_ALL,KEGG Pathway,24,mmu05170,Human immunodeficiency virus 1 infection - Mus musculus (house mouse),,-4.3,38,10,21160,241,7,3,43,19,14281|16476|18708,Fos|Jun|Pik3r1,-2
+hits_MCODE_ALL,KEGG Pathway,24,mmu05166,Human T-cell leukemia virus 1 infection - Mus musculus (house mouse),,-4.3,37,10,21160,247,7,3,43,19,14281|16476|18708,Fos|Jun|Pik3r1,-2
+hits_MCODE_ALL,KEGG Pathway,24,mmu05132,Salmonella infection - Mus musculus (house mouse),,-4.2,36,10,21160,252,7,3,43,19,11852|14281|16476,Rhob|Fos|Jun,-2
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-449147,Signaling by Interleukins,,-4.2,34,9.9,21160,264,7,3,43,19,14281|16476|18708,Fos|Jun|Pik3r1,-1.9
+hits_MCODE_ALL,GO Biological Processes,19,GO:0009612,response to mechanical stimulus,19_GO:0050896 response to stimulus,-4.2,34,9.8,21160,270,7,3,43,19,14281|14282|16476,Fos|Fosb|Jun,-1.9
+hits_MCODE_ALL,KEGG Pathway,24,mmu04010,MAPK signaling pathway - Mus musculus (house mouse),,-4,30,9.3,21160,299,7,3,43,19,14281|16476|16478,Fos|Jun|Jund,-1.8
+hits_MCODE_ALL,GO Biological Processes,19,GO:0062197,cellular response to chemical stress,19_GO:0050896 response to stimulus,-4,29,9.1,21160,313,7,3,43,19,11852|14281|16476,Rhob|Fos|Jun,-1.8
+hits_MCODE_ALL,KEGG Pathway,24,mmu05171,Coronavirus disease - COVID-19 - Mus musculus (house mouse),,-3.9,27,8.8,21160,334,7,3,43,19,14281|16476|18708,Fos|Jun|Pik3r1,-1.7
+hits_MCODE_ALL,GO Biological Processes,19,GO:0030099,myeloid cell differentiation,19_GO:0032502 developmental process,-3.8,25,8.4,21160,361,7,3,43,19,14281|16476|18708,Fos|Jun|Pik3r1,-1.6
+hits_MCODE_ALL,GO Biological Processes,19,GO:1902105,regulation of leukocyte differentiation,19_GO:0002376 immune system process,-3.7,24,8.3,21160,373,7,3,43,19,14281|16476|18708,Fos|Jun|Pik3r1,-1.6
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-9012999,RHO GTPase cycle,,-3.7,23,8.1,21160,388,7,3,43,19,11852|18708|69581,Rhob|Pik3r1|Rhou,-1.5
+hits_MCODE_ALL,GO Biological Processes,19,GO:0006979,response to oxidative stress,19_GO:0050896 response to stimulus,-3.6,23,7.9,21160,402,7,3,43,19,11852|14281|16476,Rhob|Fos|Jun,-1.5
+hits_MCODE_ALL,GO Biological Processes,19,GO:1903131,mononuclear cell differentiation,19_GO:0032502 developmental process,-3.6,22,7.8,21160,415,7,3,43,19,14281|16476|18708,Fos|Jun|Pik3r1,-1.5
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-1280215,Cytokine Signaling in Immune system,,-3.5,20,7.5,21160,444,7,3,43,19,14281|16476|18708,Fos|Jun|Pik3r1,-1.4
+hits_MCODE_ALL,GO Biological Processes,19,GO:1903706,regulation of hemopoiesis,19_GO:0002376 immune system process,-3.5,20,7.4,21160,459,7,3,43,19,14281|16476|18708,Fos|Jun|Pik3r1,-1.4
+hits_MCODE_ALL,GO Biological Processes,19,GO:0009314,response to radiation,19_GO:0050896 response to stimulus,-3.4,19,7.2,21160,478,7,3,43,19,11852|14281|18708,Rhob|Fos|Pik3r1,-1.3
+hits_MCODE_ALL,GO Biological Processes,19,GO:0002521,leukocyte differentiation,19_GO:0032502 developmental process,-3.4,18,7.1,21160,491,7,3,43,19,14281|16476|18708,Fos|Jun|Pik3r1,-1.3
+hits_MCODE_ALL,GO Biological Processes,19,GO:0009410,response to xenobiotic stimulus,19_GO:0050896 response to stimulus,-3.4,18,7.1,21160,500,7,3,43,19,14281|14282|16476,Fos|Fosb|Jun,-1.3
+hits_MCODE_ALL,KEGG Pathway,24,mmu05200,Pathways in cancer - Mus musculus (house mouse),,-3.3,17,6.7,21160,548,7,3,43,19,14281|16476|18708,Fos|Jun|Pik3r1,-1.2
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-194315,Signaling by Rho GTPases,,-3.2,16,6.6,21160,562,7,3,43,19,11852|18708|69581,Rhob|Pik3r1|Rhou,-1.2
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-9716542,"Signaling by Rho GTPases, Miro GTPases and RHOBTB3",,-3.2,16,6.5,21160,577,7,3,43,19,11852|18708|69581,Rhob|Pik3r1|Rhou,-1.2
+hits_MCODE_ALL,GO Biological Processes,19,GO:0032870,cellular response to hormone stimulus,19_GO:0050896 response to stimulus,-3.2,15,6.4,21160,591,7,3,43,19,14281|14282|18708,Fos|Fosb|Pik3r1,-1.1
+hits_MCODE_ALL,GO Biological Processes,19,GO:0030335,positive regulation of cell migration,19_GO:0040011 locomotion,-3.1,15,6.3,21160,621,7,3,43,19,11852|16476|18708,Rhob|Jun|Pik3r1,-1.1
+hits_MCODE_ALL,GO Biological Processes,19,GO:0007167,enzyme-linked receptor protein signaling pathway,19_GO:0050896 response to stimulus,-3.1,14,6.2,21160,636,7,3,43,19,14281|16476|18708,Fos|Jun|Pik3r1,-1.1
+hits_MCODE_ALL,GO Biological Processes,19,GO:2000147,positive regulation of cell motility,19_GO:0040011 locomotion,-3,14,6.1,21160,651,7,3,43,19,11852|16476|18708,Rhob|Jun|Pik3r1,-1.1
+hits_MCODE_ALL,GO Biological Processes,19,GO:0040017,positive regulation of locomotion,19_GO:0040011 locomotion,-3,14,6,21160,668,7,3,43,19,11852|16476|18708,Rhob|Jun|Pik3r1,-1
+hits_SUB1_MCODE_1,GO Biological Processes,19,GO:0071277,cellular response to calcium ion,19_GO:0050896 response to stimulus,-9.6,2.5e+02,31,21160,86,4,4,1e+02,22,14281|14282|16476|16478,Fos|Fosb|Jun|Jund,-5.7
+hits_SUB1_MCODE_1,KEGG Pathway,24,mmu04657,IL-17 signaling pathway - Mus musculus (house mouse),,-9.5,2.3e+02,30,21160,93,4,4,1e+02,22,14281|14282|16476|16478,Fos|Fosb|Jun|Jund,-5.7
+hits_SUB1_MCODE_1,KEGG Pathway,24,mmu04380,Osteoclast differentiation - Mus musculus (house mouse),,-8.8,1.6e+02,25,21160,136,4,4,1e+02,22,14281|14282|16476|16478,Fos|Fosb|Jun|Jund,-5.1
+hits_SUB1_MCODE_1,GO Biological Processes,19,GO:0051592,response to calcium ion,19_GO:0050896 response to stimulus,-8.6,1.4e+02,24,21160,149,4,4,1e+02,22,14281|14282|16476|16478,Fos|Fosb|Jun|Jund,-5.1
+hits_SUB1_MCODE_1,GO Biological Processes,19,GO:0071248,cellular response to metal ion,19_GO:0050896 response to stimulus,-8.1,1e+02,20,21160,204,4,4,1e+02,22,14281|14282|16476|16478,Fos|Fosb|Jun|Jund,-4.7
+hits_SUB1_MCODE_1,GO Biological Processes,19,GO:0048545,response to steroid hormone,19_GO:0050896 response to stimulus,-7.4,72,17,21160,293,4,4,1e+02,22,14281|14282|16476|16478,Fos|Fosb|Jun|Jund,-4.2
+hits_SUB1_MCODE_1,GO Biological Processes,19,GO:0010038,response to metal ion,19_GO:0050896 response to stimulus,-7,55,15,21160,385,4,4,1e+02,22,14281|14282|16476|16478,Fos|Fosb|Jun|Jund,-3.9
+hits_SUB1_MCODE_1,GO Biological Processes,19,GO:0006366,transcription by RNA polymerase II,19_GO:0009987 cellular process,-6.9,53,14,21160,400,4,4,1e+02,22,14281|14282|16476|16478,Fos|Fosb|Jun|Jund,-3.9
+hits_SUB1_MCODE_1,KEGG Pathway,24,mmu05031,Amphetamine addiction - Mus musculus (house mouse),,-6.9,2.3e+02,26,21160,69,4,3,75,22,14281|14282|16476,Fos|Fosb|Jun,-3.9
+hits_SUB1_MCODE_1,GO Biological Processes,19,GO:0006351,DNA-templated transcription,19_GO:0009987 cellular process,-6.4,39,12,21160,542,4,4,1e+02,22,14281|14282|16476|16478,Fos|Fosb|Jun|Jund,-3.5
+hits_SUB1_MCODE_1,WikiPathways,27,WP493,Mapk signaling pathway,,-5.8,1e+02,17,21160,159,4,3,75,22,14281|16476|16478,Fos|Jun|Jund,-2.9
+hits_SUB1_MCODE_1,WikiPathways,27,WP572,EGFR1 signaling pathway,,-5.7,91,16,21160,175,4,3,75,22,14281|16476|16478,Fos|Jun|Jund,-2.9
+hits_SUB1_MCODE_1,GO Biological Processes,19,GO:0009612,response to mechanical stimulus,19_GO:0050896 response to stimulus,-5.1,59,13,21160,270,4,3,75,22,14281|14282|16476,Fos|Fosb|Jun,-2.5
+hits_SUB1_MCODE_1,KEGG Pathway,24,mmu04010,MAPK signaling pathway - Mus musculus (house mouse),,-5,53,12,21160,299,4,3,75,22,14281|16476|16478,Fos|Jun|Jund,-2.5
+hits_SUB1_MCODE_1,GO Biological Processes,19,GO:0009410,response to xenobiotic stimulus,19_GO:0050896 response to stimulus,-4.3,32,9.6,21160,500,4,3,75,22,14281|14282|16476,Fos|Fosb|Jun,-2
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-9012999,RHO GTPase cycle,,-5.2,55,13,21160,388,3,3,1e+02,27,11852|18708|69581,Rhob|Pik3r1|Rhou,-2.6
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-194315,Signaling by Rho GTPases,,-4.7,38,10,21160,562,3,3,1e+02,27,11852|18708|69581,Rhob|Pik3r1|Rhou,-2.3
+hits_SUB1_MCODE_2,Reactome Gene Sets,6,R-MMU-9716542,"Signaling by Rho GTPases, Miro GTPases and RHOBTB3",,-4.7,37,10,21160,577,3,3,1e+02,27,11852|18708|69581,Rhob|Pik3r1|Rhou,-2.3

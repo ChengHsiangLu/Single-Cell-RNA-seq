@@ -1,0 +1,12 @@
+_MEMBER_hits,_LogP_hits,GO,Description,_PATTERN_,_RANK_,CHILD_GO_hits
+1,-6.15481357740914,GO:0009987,cellular process,M1,1,GO:0032787 monocarboxylic acid metabolic process
+1,-6.1461464182685495,GO:0050896,response to stimulus,M1,1,GO:0070848 response to growth factor
+1,-4.436042440159835,GO:0051179,localization,M1,1,GO:1905039 carboxylic acid transmembrane transport
+1,-3.4414814290114366,GO:0032502,developmental process,M1,1,GO:0048858 cell projection morphogenesis
+1,-2.8849831315053986,GO:0042592,homeostatic process,M1,1,GO:0045494 photoreceptor cell maintenance
+1,-2.3985077169002014,GO:0048518,positive regulation of biological process,M1,1,GO:0045778 positive regulation of ossification
+1,-2.3387599144370457,GO:0040011,locomotion,M1,1,GO:0002688 regulation of leukocyte chemotaxis
+1,-2.2861125026392535,GO:0032501,multicellular organismal process,M1,1,GO:0030278 regulation of ossification
+1,-2.2578949872413308,GO:0050789,regulation of biological process,M1,1,GO:0050730 regulation of peptidyl-tyrosine phosphorylation
+1,-2.1571492854984418,GO:0044419,biological process involved in interspecies interaction between organisms,M1,1,GO:0051851 modulation by host of symbiont process
+1,-2.0251831680461727,GO:0048519,negative regulation of biological process,M1,1,GO:0006469 negative regulation of protein kinase activity

@@ -1,0 +1,2 @@
+_MEMBER_hits,_LogP_hits,GO,_PATTERN_,_RANK_,GiniIndex,Category,CategoryID,Description,PARENT_GO,LogP,Enrichment,Z-score,#TotalGeneInLibrary,#GeneInGO,#GeneInHitList,#GeneInGOAndHitList,%InGO,STDV %InGO,GeneID,Hits,Log(q-value),EvidenceCutoff
+1,-2.1,PGB:00015,M1,1,0,PaGenBase,36,Tissue-specific: retina,,-2.1,5.2,3.7,21160,167,97,4,4.1,2,14913|69239|75782|170788,Guca1a|Pdzph1|Lca5|Crb1,0,0

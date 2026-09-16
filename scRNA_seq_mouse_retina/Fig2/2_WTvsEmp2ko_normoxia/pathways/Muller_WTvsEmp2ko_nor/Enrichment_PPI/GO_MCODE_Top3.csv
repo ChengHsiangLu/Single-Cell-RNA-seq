@@ -1,0 +1,5 @@
+Network,Annotation
+hits,GO:0071248|cellular response to metal ion|-7.6;R-MMU-8953897|Cellular responses to stimuli|-7.0;GO:0071276|cellular response to cadmium ion|-6.8
+hits_MCODE_ALL,mmu04380|Osteoclast differentiation - Mus musculus (house mouse)|-9.7;GO:0071277|cellular response to calcium ion|-8.1;GO:0048545|response to steroid hormone|-8.0
+hits_SUB1_MCODE_1,GO:0071277|cellular response to calcium ion|-9.6;mmu04657|IL-17 signaling pathway - Mus musculus (house mouse)|-9.5;mmu04380|Osteoclast differentiation - Mus musculus (house mouse)|-8.8
+hits_SUB1_MCODE_2,"R-MMU-9012999|RHO GTPase cycle|-5.2;R-MMU-194315|Signaling by Rho GTPases|-4.7;R-MMU-9716542|Signaling by Rho GTPases, Miro GTPases and RHOBTB3|-4.7"
