@@ -1,0 +1,321 @@
+_MEMBER_hits,_LogP_hits,GO,Description,_PATTERN_,_RANK_,GiniIndex
+1,-5.8,GO:0046395,carboxylic acid catabolic process,M1,1,0
+1,-2.3,GO:0031669,cellular response to nutrient levels,M1,1,0
+1,-2.6,GO:2000765,regulation of cytoplasmic translation,M1,1,0
+1,-9.8,R-MMU-5607764,CLEC7A (Dectin-1) signaling,M1,1,0
+1,-12,R-MMU-8941858,Regulation of RUNX3 expression and activity,M1,1,0
+1,-9.1,R-MMU-69202,Cyclin E associated events during G1/S transition,M1,1,0
+1,-11,R-MMU-4641257,Degradation of AXIN,M1,1,0
+1,-2.4,R-MMU-5696395,Formation of Incision Complex in GG-NER,M1,1,0
+1,-2.2,WP5051,Na K ATPase Src signaling,M1,1,0
+1,-2,GO:0170038,proteinogenic amino acid biosynthetic process,M1,1,0
+1,-2.7,GO:0016042,lipid catabolic process,M1,1,0
+1,-8.8,R-MMU-453279,Mitotic G1 phase and G1/S transition,M1,1,0
+1,-3.3,mmu04540,Gap junction - Mus musculus (house mouse),M1,1,0
+1,-2.2,mmu04921,Oxytocin signaling pathway - Mus musculus (house mouse),M1,1,0
+1,-8.6,R-MMU-9006925,Intracellular signaling by second messengers,M1,1,0
+1,-2.1,GO:0010977,negative regulation of neuron projection development,M1,1,0
+1,-13,R-MMU-71291,Metabolism of amino acids and derivatives,M1,1,0
+1,-2.5,GO:0001894,tissue homeostasis,M1,1,0
+1,-2,mmu05200,Pathways in cancer - Mus musculus (house mouse),M1,1,0
+1,-2.2,GO:0009895,negative regulation of catabolic process,M1,1,0
+1,-6,R-MMU-201681,TCF dependent signaling in response to WNT,M1,1,0
+1,-2,GO:0170034,L-amino acid biosynthetic process,M1,1,0
+1,-2.5,GO:2001234,negative regulation of apoptotic signaling pathway,M1,1,0
+1,-2.1,GO:0170039,proteinogenic amino acid metabolic process,M1,1,0
+1,-2.1,R-MMU-9609507,Protein localization,M1,1,0
+1,-13,R-MMU-9711123,Cellular response to chemical stress,M1,1,0
+1,-3.4,R-MMU-9707564,Cytoprotection by HMOX1,M1,1,0
+1,-7.1,R-MMU-446652,Interleukin-1 family signaling,M1,1,0
+1,-11,R-MMU-5610780,Degradation of GLI1 by the proteasome,M1,1,0
+1,-3.2,mmu04727,GABAergic synapse - Mus musculus (house mouse),M1,1,0
+1,-10,R-MMU-8852276,The role of GTSE1 in G2/M progression after G2 checkpoint,M1,1,0
+1,-2.4,R-MMU-9006934,Signaling by Receptor Tyrosine Kinases,M1,1,0
+1,-3,WP523,Regulation of actin cytoskeleton,M1,1,0
+1,-3.7,WP310,mRNA processing,M1,1,0
+1,-2,GO:0006635,fatty acid beta-oxidation,M1,1,0
+1,-2.3,mmu03320,PPAR signaling pathway - Mus musculus (house mouse),M1,1,0
+1,-2.2,R-MMU-9013405,RHOD GTPase cycle,M1,1,0
+1,-2.7,R-MMU-166520,Signaling by NTRKs,M1,1,0
+1,-2.3,GO:0051347,positive regulation of transferase activity,M1,1,0
+1,-9.2,R-MMU-202403,TCR signaling,M1,1,0
+1,-5,GO:0006511,ubiquitin-dependent protein catabolic process,M1,1,0
+1,-2.2,GO:0051129,negative regulation of cellular component organization,M1,1,0
+1,-7.2,R-MMU-2467813,Separation of Sister Chromatids,M1,1,0
+1,-10,R-MMU-8878159,Transcriptional regulation by RUNX3,M1,1,0
+1,-2,GO:0009064,glutamine family amino acid metabolic process,M1,1,0
+1,-8.4,R-MMU-453274,Mitotic G2-G2/M phases,M1,1,0
+1,-3.8,R-MMU-1280215,Cytokine Signaling in Immune system,M1,1,0
+1,-2.9,mmu04120,Ubiquitin mediated proteolysis - Mus musculus (house mouse),M1,1,0
+1,-3.1,WP662,Amino acid metabolism,M1,1,0
+1,-8.4,R-MMU-453276,Regulation of mitotic cell cycle,M1,1,0
+1,-2.1,GO:0033209,tumor necrosis factor-mediated signaling pathway,M1,1,0
+1,-11,R-MMU-4086400,PCP/CE pathway,M1,1,0
+1,-2.6,R-MMU-9646399,Aggrephagy,M1,1,0
+1,-12,R-MMU-5610785,GLI3 is processed to GLI3R by the proteasome,M1,1,0
+1,-2.3,GO:0010661,positive regulation of muscle cell apoptotic process,M1,1,0
+1,-2.1,GO:0030834,regulation of actin filament depolymerization,M1,1,0
+1,-8,R-MMU-5689603,UCH proteinases,M1,1,0
+1,-9.1,R-MMU-983705,Signaling by the B Cell Receptor (BCR),M1,1,0
+1,-12,R-MMU-8939902,Regulation of RUNX2 expression and activity,M1,1,0
+1,-3.4,GO:0015980,energy derivation by oxidation of organic compounds,M1,1,0
+1,-11,R-MMU-9762114,GSK3B and BTRC:CUL1-mediated-degradation of NFE2L2,M1,1,0
+1,-2.7,mmu04810,Regulation of actin cytoskeleton - Mus musculus (house mouse),M1,1,0
+1,-5.3,R-MMU-9612973,Autophagy,M1,1,0
+1,-10,R-MMU-9759194,Nuclear events mediated by NFE2L2,M1,1,0
+1,-9.2,R-MMU-69017,CDK-mediated phosphorylation and removal of Cdc6,M1,1,0
+1,-2.1,R-MMU-8866654,E3 ubiquitin ligases ubiquitinate target proteins,M1,1,0
+1,-2.2,GO:0000165,MAPK cascade,M1,1,0
+1,-2.2,GO:0046173,polyol biosynthetic process,M1,1,0
+1,-11,R-MMU-69610,p53-Independent DNA Damage Response,M1,1,0
+1,-5.3,R-MMU-1632852,Macroautophagy,M1,1,0
+1,-5.6,GO:0019941,modification-dependent protein catabolic process,M1,1,0
+1,-5.6,R-MMU-1640170,Cell Cycle,M1,1,0
+1,-8.2,R-MMU-69052,Switching of origins to a post-replicative state,M1,1,0
+1,-9.8,R-MMU-69563,p53-Dependent G1 DNA Damage Response,M1,1,0
+1,-2.8,GO:0061061,muscle structure development,M1,1,0
+1,-2.1,mmu04916,Melanogenesis - Mus musculus (house mouse),M1,1,0
+1,-7,R-MMU-1236975,Antigen processing-Cross presentation,M1,1,0
+1,-5.1,R-MMU-983169,Class I MHC mediated antigen processing & presentation,M1,1,0
+1,-9,R-MMU-382556,ABC-family proteins mediated transport,M1,1,0
+1,-3.2,GO:0009065,glutamine family amino acid catabolic process,M1,1,0
+1,-9.1,R-MMU-2262752,Cellular responses to stress,M1,1,0
+1,-2.1,GO:1990748,cellular detoxification,M1,1,0
+1,-2.2,GO:0046903,secretion,M1,1,0
+1,-2.7,R-MMU-5218859,Regulated Necrosis,M1,1,0
+1,-2.4,GO:0071398,cellular response to fatty acid,M1,1,0
+1,-2.8,GO:0046777,protein autophosphorylation,M1,1,0
+1,-11,R-MMU-69613,p53-Independent G1/S DNA damage checkpoint,M1,1,0
+1,-2.8,GO:2001233,regulation of apoptotic signaling pathway,M1,1,0
+1,-7.8,R-MMU-9020702,Interleukin-1 signaling,M1,1,0
+1,-2.6,GO:0032940,secretion by cell,M1,1,0
+1,-4.2,R-MMU-110314,Recognition of DNA damage by PCNA-containing replication complex,M1,1,0
+1,-2.9,R-MMU-5653656,Vesicle-mediated transport,M1,1,0
+1,-9,R-MMU-69656,Cyclin A:Cdk2-associated events at S phase entry,M1,1,0
+1,-2,mmu04714,Thermogenesis - Mus musculus (house mouse),M1,1,0
+1,-3.2,mmu04260,Cardiac muscle contraction - Mus musculus (house mouse),M1,1,0
+1,-11,R-MMU-1234174,Cellular response to hypoxia,M1,1,0
+1,-11,R-MMU-8854050,FBXL7 down-regulates AURKA during mitotic entry and in early mitosis,M1,1,0
+1,-8.3,mmu05022,Pathways of neurodegeneration - multiple diseases - Mus musculus (house mouse),M1,1,0
+1,-7.5,R-MMU-5683057,MAPK family signaling cascades,M1,1,0
+1,-2.3,R-MMU-3700989,Transcriptional Regulation by TP53,M1,1,0
+1,-5,R-MMU-5688426,Deubiquitination,M1,1,0
+1,-5.6,GO:0043161,proteasome-mediated ubiquitin-dependent protein catabolic process,M1,1,0
+1,-9.9,R-MMU-8939236,RUNX1 regulates transcription of genes involved in differentiation of HSCs,M1,1,0
+1,-8.4,R-MMU-174143,APC/C-mediated degradation of cell cycle proteins,M1,1,0
+1,-3.8,GO:0016032,viral process,M1,1,0
+1,-2.2,GO:0031396,regulation of protein ubiquitination,M1,1,0
+1,-3,WP6,Integrin mediated cell adhesion,M1,1,0
+1,-6.3,R-MMU-8951664,Neddylation,M1,1,0
+1,-8.8,R-MMU-5632684,Hedgehog 'on' state,M1,1,0
+1,-7.3,R-MMU-2555396,Mitotic Metaphase and Anaphase,M1,1,0
+1,-3.2,GO:0006417,regulation of translation,M1,1,0
+1,-10,R-MMU-3858494,Beta-catenin independent WNT signaling,M1,1,0
+1,-4.3,mmu00330,Arginine and proline metabolism - Mus musculus (house mouse),M1,1,0
+1,-4.4,GO:0006091,generation of precursor metabolites and energy,M1,1,0
+1,-9,R-MMU-176409,APC/C:Cdc20 mediated degradation of mitotic proteins,M1,1,0
+1,-2.2,GO:0009409,response to cold,M1,1,0
+1,-9.1,R-MMU-179419,APC:Cdc20 mediated degradation of cell cycle proteins prior to satisfation of the cell cycle checkpoint,M1,1,0
+1,-2.7,GO:0009060,aerobic respiration,M1,1,0
+1,-4.2,mmu05208,Chemical carcinogenesis - reactive oxygen species - Mus musculus (house mouse),M1,1,0
+1,-11,R-MMU-1168372,Downstream signaling events of B Cell Receptor (BCR),M1,1,0
+1,-2,mmu04014,Ras signaling pathway - Mus musculus (house mouse),M1,1,0
+1,-2.5,GO:0070972,protein localization to endoplasmic reticulum,M1,1,0
+1,-2.5,R-MMU-5696400,Dual Incision in GG-NER,M1,1,0
+1,-2.9,GO:0045333,cellular respiration,M1,1,0
+1,-2.8,GO:0048041,focal adhesion assembly,M1,1,0
+1,-13,R-MMU-8948751,Regulation of PTEN stability and activity,M1,1,0
+1,-6.4,R-MMU-1280218,Adaptive Immune System,M1,1,0
+1,-9.5,mmu05020,Prion disease - Mus musculus (house mouse),M1,1,0
+1,-12,R-MMU-4608870,Asymmetric localization of PCP proteins,M1,1,0
+1,-2.1,GO:0006886,intracellular protein transport,M1,1,0
+1,-9.8,R-MMU-450531,Regulation of mRNA stability by proteins that bind AU-rich elements,M1,1,0
+1,-2.1,mmu00071,Fatty acid degradation - Mus musculus (house mouse),M1,1,0
+1,-2.7,GO:0030258,lipid modification,M1,1,0
+1,-2.1,GO:0090181,regulation of cholesterol metabolic process,M1,1,0
+1,-11,R-MMU-450408,AUF1 (hnRNP D0) binds and destabilizes mRNA,M1,1,0
+1,-2,mmu04370,VEGF signaling pathway - Mus musculus (house mouse),M1,1,0
+1,-2.1,mmu04150,mTOR signaling pathway - Mus musculus (house mouse),M1,1,0
+1,-2.4,WP2316,PPAR signaling pathway,M1,1,0
+1,-3.3,GO:0034446,substrate adhesion-dependent cell spreading,M1,1,0
+1,-2.3,R-MMU-177929,Signaling by EGFR,M1,1,0
+1,-3.9,GO:0045727,positive regulation of translation,M1,1,0
+1,-9.2,R-MMU-174184,Cdc20:Phospho-APC/C mediated degradation of Cyclin A,M1,1,0
+1,-9,R-MMU-9755511,KEAP1-NFE2L2 pathway,M1,1,0
+1,-3,mmu04137,Mitophagy - animal - Mus musculus (house mouse),M1,1,0
+1,-2.1,GO:1990542,mitochondrial transmembrane transport,M1,1,0
+1,-2.1,GO:0030518,nuclear receptor-mediated steroid hormone signaling pathway,M1,1,0
+1,-2.8,GO:0170040,proteinogenic amino acid catabolic process,M1,1,0
+1,-3,R-MMU-390918,Peroxisomal lipid metabolism,M1,1,0
+1,-2.2,WP295,Electron transport chain,M1,1,0
+1,-7.4,R-MMU-2454202,Fc epsilon receptor (FCERI) signaling,M1,1,0
+1,-2.4,R-MMU-5675221,Negative regulation of MAPK pathway,M1,1,0
+1,-2,GO:0036294,cellular response to decreased oxygen levels,M1,1,0
+1,-2.3,GO:1904262,negative regulation of TORC1 signaling,M1,1,0
+1,-8.7,mmu05016,Huntington disease - Mus musculus (house mouse),M1,1,0
+1,-9.4,R-MMU-68949,Orc1 removal from chromatin,M1,1,0
+1,-2.3,GO:0045047,protein targeting to ER,M1,1,0
+1,-11,R-MMU-5687128,MAPK6/MAPK4 signaling,M1,1,0
+1,-3.5,GO:0006119,oxidative phosphorylation,M1,1,0
+1,-12,R-MMU-6807070,PTEN Regulation,M1,1,0
+1,-3.4,R-MMU-1428517,Aerobic respiration and respiratory electron transport,M1,1,0
+1,-2.7,GO:0006446,regulation of translational initiation,M1,1,0
+1,-2,R-MMU-6782210,Gap-filling DNA repair synthesis and ligation in TC-NER,M1,1,0
+1,-2.2,GO:0097352,autophagosome maturation,M1,1,0
+1,-3.3,WP157,Glycolysis and gluconeogenesis,M1,1,0
+1,-3,GO:1903432,regulation of TORC1 signaling,M1,1,0
+1,-8,R-MMU-5668541,TNFR2 non-canonical NF-kB pathway,M1,1,0
+1,-3.4,R-MMU-73893,DNA Damage Bypass,M1,1,0
+1,-2.4,R-MMU-9864848,Complex IV assembly,M1,1,0
+1,-11,R-MMU-349425,Autodegradation of the E3 ubiquitin ligase COP1,M1,1,0
+1,-11,R-MMU-8878166,Transcriptional regulation by RUNX2,M1,1,0
+1,-2.5,mmu01230,Biosynthesis of amino acids - Mus musculus (house mouse),M1,1,0
+1,-2.8,GO:0050821,protein stabilization,M1,1,0
+1,-4.3,GO:0019080,viral gene expression,M1,1,0
+1,-7.1,R-MMU-5684996,MAPK1/MAPK3 signaling,M1,1,0
+1,-2.1,mmu05161,Hepatitis B - Mus musculus (house mouse),M1,1,0
+1,-9.6,R-MMU-5658442,Regulation of RAS by GAPs,M1,1,0
+1,-8.2,R-MMU-69239,Synthesis of DNA,M1,1,0
+1,-6,R-MMU-983168,Antigen processing: Ubiquitination & Proteasome degradation,M1,1,0
+1,-10,R-MMU-1169091,Activation of NF-kappaB in B cells,M1,1,0
+1,-2.7,R-MMU-437239,Recycling pathway of L1,M1,1,0
+1,-13,R-MMU-350562,Regulation of ornithine decarboxylase (ODC),M1,1,0
+1,-8.9,R-MMU-176814,Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins,M1,1,0
+1,-11,R-MMU-1234176,Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha,M1,1,0
+1,-10,R-MMU-202424,Downstream TCR signaling,M1,1,0
+1,-2.1,GO:1900542,regulation of purine nucleotide metabolic process,M1,1,0
+1,-3.3,R-MMU-6798695,Neutrophil degranulation,M1,1,0
+1,-3.6,GO:0042775,mitochondrial ATP synthesis coupled electron transport,M1,1,0
+1,-2.1,GO:0140352,export from cell,M1,1,0
+1,-2.1,GO:0031333,negative regulation of protein-containing complex assembly,M1,1,0
+1,-11,mmu05012,Parkinson disease - Mus musculus (house mouse),M1,1,0
+1,-4.6,GO:0022904,respiratory electron transport chain,M1,1,0
+1,-2.3,GO:1901606,alpha-amino acid catabolic process,M1,1,0
+1,-2.3,GO:0009062,fatty acid catabolic process,M1,1,0
+1,-2.9,GO:1902532,negative regulation of intracellular signal transduction,M1,1,0
+1,-3.3,GO:0006123,"mitochondrial electron transport, cytochrome c to oxygen",M1,1,0
+1,-6.3,GO:0044282,small molecule catabolic process,M1,1,0
+1,-2.1,GO:0006140,regulation of nucleotide metabolic process,M1,1,0
+1,-2.7,GO:0031398,positive regulation of protein ubiquitination,M1,1,0
+1,-5.8,GO:0016054,organic acid catabolic process,M1,1,0
+1,-2.2,GO:0043648,dicarboxylic acid metabolic process,M1,1,0
+1,-5.9,R-MMU-68886,M Phase,M1,1,0
+1,-2.7,GO:0170035,L-amino acid catabolic process,M1,1,0
+1,-2.3,GO:0034440,lipid oxidation,M1,1,0
+1,-2.8,GO:0006536,glutamate metabolic process,M1,1,0
+1,-2.3,R-MMU-1227986,Signaling by ERBB2,M1,1,0
+1,-2.6,R-MMU-9663891,Selective autophagy,M1,1,0
+1,-9.6,R-MMU-174154,APC/C:Cdc20 mediated degradation of Securin,M1,1,0
+1,-4.8,GO:0044248,cellular catabolic process,M1,1,0
+1,-12,R-MMU-351202,Metabolism of polyamines,M1,1,0
+1,-2.2,GO:0014015,positive regulation of gliogenesis,M1,1,0
+1,-2.4,GO:0019395,fatty acid oxidation,M1,1,0
+1,-2.3,GO:0009267,cellular response to starvation,M1,1,0
+1,-2.1,GO:0051602,response to electrical stimulus,M1,1,0
+1,-11,R-MMU-5607761,Dectin-1 mediated noncanonical NF-kB signaling,M1,1,0
+1,-7.2,R-MMU-5673001,RAF/MAP kinase cascade,M1,1,0
+1,-2.3,GO:1903322,positive regulation of protein modification by small protein conjugation or removal,M1,1,0
+1,-2,GO:0046032,ADP catabolic process,M1,1,0
+1,-11,R-MMU-69541,Stabilization of p53,M1,1,0
+1,-11,R-MMU-4641258,Degradation of DVL,M1,1,0
+1,-5.2,GO:0010498,proteasomal protein catabolic process,M1,1,0
+1,-2.1,mmu05207,Chemical carcinogenesis - receptor activation - Mus musculus (house mouse),M1,1,0
+1,-9.7,R-MMU-1236978,Cross-presentation of soluble exogenous antigens (endosomes),M1,1,0
+1,-4.8,GO:0019081,viral translation,M1,1,0
+1,-2.4,GO:0007160,cell-matrix adhesion,M1,1,0
+1,-2.2,GO:0032006,regulation of TOR signaling,M1,1,0
+1,-2.3,GO:0032984,protein-containing complex disassembly,M1,1,0
+1,-2.7,mmu05203,Viral carcinogenesis - Mus musculus (house mouse),M1,1,0
+1,-4.7,R-MMU-212436,Generic Transcription Pathway,M1,1,0
+1,-2.2,R-MMU-5173105,O-linked glycosylation,M1,1,0
+1,-3.8,R-MMU-5628897,TP53 Regulates Metabolic Genes,M1,1,0
+1,-2.8,R-MMU-9033241,Peroxisomal protein import,M1,1,0
+1,-2.3,mmu00190,Oxidative phosphorylation - Mus musculus (house mouse),M1,1,0
+1,-3.2,GO:0031589,cell-substrate adhesion,M1,1,0
+1,-2.2,GO:0072599,establishment of protein localization to endoplasmic reticulum,M1,1,0
+1,-9.6,R-MMU-69615,G1/S DNA Damage Checkpoints,M1,1,0
+1,-5.1,GO:0019646,aerobic electron transport chain,M1,1,0
+1,-3.1,R-MMU-199991,Membrane Trafficking,M1,1,0
+1,-3.3,GO:0030970,"retrograde protein transport, ER to cytosol",M1,1,0
+1,-9.8,R-MMU-5358351,Signaling by Hedgehog,M1,1,0
+1,-10,R-MMU-5610787,Hedgehog 'off' state,M1,1,0
+1,-2.2,WP723,Wnt signaling pathway and pluripotency,M1,1,0
+1,-6.1,R-MMU-69620,Cell Cycle Checkpoints,M1,1,0
+1,-5.9,R-MMU-69278,"Cell Cycle, Mitotic",M1,1,0
+1,-6.1,R-MMU-8878171,Transcriptional regulation by RUNX1,M1,1,0
+1,-2.1,GO:0006094,gluconeogenesis,M1,1,0
+1,-3.1,GO:0036503,ERAD pathway,M1,1,0
+1,-2.2,GO:0007626,locomotory behavior,M1,1,0
+1,-2.3,GO:0010608,post-transcriptional regulation of gene expression,M1,1,0
+1,-12,R-MMU-5358346,Hedgehog ligand biogenesis,M1,1,0
+1,-2.3,GO:0019751,polyol metabolic process,M1,1,0
+1,-8.6,mmu03050,Proteasome - Mus musculus (house mouse),M1,1,0
+1,-8.5,R-MMU-68867,Assembly of the pre-replicative complex,M1,1,0
+1,-4.9,mmu05017,Spinocerebellar ataxia - Mus musculus (house mouse),M1,1,0
+1,-2.7,GO:0072329,monocarboxylic acid catabolic process,M1,1,0
+1,-7.9,R-MMU-69481,G2/M Checkpoints,M1,1,0
+1,-2.1,mmu04932,Non-alcoholic fatty liver disease - Mus musculus (house mouse),M1,1,0
+1,-4.8,R-MMU-446388,Regulation of cytoskeletal remodeling and cell spreading by IPP complex components,M1,1,0
+1,-2.4,GO:0030111,regulation of Wnt signaling pathway,M1,1,0
+1,-3,GO:0032527,protein exit from endoplasmic reticulum,M1,1,0
+1,-4.3,R-MMU-5357801,Programmed Cell Death,M1,1,0
+1,-2.4,GO:1901873,regulation of post-translational protein modification,M1,1,0
+1,-9.1,R-MMU-174178,APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1,M1,1,0
+1,-2.5,R-MMU-5674135,MAP2K and MAPK activation,M1,1,0
+1,-2.5,R-MMU-2565942,Regulation of PLK1 Activity at G2/M Transition,M1,1,0
+1,-7,R-MMU-195721,Signaling by WNT,M1,1,0
+1,-8.9,R-MMU-69002,DNA Replication Pre-Initiation,M1,1,0
+1,-9,R-MMU-195253,Degradation of beta-catenin by the destruction complex,M1,1,0
+1,-9.6,R-MMU-174084,Autodegradation of Cdh1 by Cdh1:APC/C,M1,1,0
+1,-11,R-MMU-69601,Ubiquitin Mediated Degradation of Phosphorylated Cdc25A,M1,1,0
+1,-8.6,R-MMU-9907900,Proteasome assembly,M1,1,0
+1,-4.4,R-MMU-449147,Signaling by Interleukins,M1,1,0
+1,-3.3,GO:1903513,endoplasmic reticulum to cytosol transport,M1,1,0
+1,-9.8,R-MMU-8953897,Cellular responses to stimuli,M1,1,0
+1,-9.3,R-MMU-2871837,FCERI mediated NF-kB activation,M1,1,0
+1,-2.9,GO:0009063,amino acid catabolic process,M1,1,0
+1,-8.2,R-MMU-1257604,PIP3 activates AKT signaling,M1,1,0
+1,-2.4,GO:0007044,cell-substrate junction assembly,M1,1,0
+1,-8.5,R-MMU-69275,G2/M Transition,M1,1,0
+1,-2.3,GO:1901605,alpha-amino acid metabolic process,M1,1,0
+1,-2.7,GO:0031647,regulation of protein stability,M1,1,0
+1,-2.1,GO:0007179,transforming growth factor beta receptor signaling pathway,M1,1,0
+1,-2,R-MMU-422475,Axon guidance,M1,1,0
+1,-2.5,WP85,Focal adhesion,M1,1,0
+1,-4.5,R-MMU-8953854,Metabolism of RNA,M1,1,0
+1,-5.5,GO:0043632,modification-dependent macromolecule catabolic process,M1,1,0
+1,-2.4,GO:0071456,cellular response to hypoxia,M1,1,0
+1,-2.9,mmu05415,Diabetic cardiomyopathy - Mus musculus (house mouse),M1,1,0
+1,-8.6,R-MMU-69206,G1/S Transition,M1,1,0
+1,-7.3,R-MMU-68882,Mitotic Anaphase,M1,1,0
+1,-2,GO:0019319,hexose biosynthetic process,M1,1,0
+1,-2.3,GO:1903578,regulation of ATP metabolic process,M1,1,0
+1,-2.2,WP373,IL 3 signaling pathway,M1,1,0
+1,-8.3,WP519,Proteasome degradation,M1,1,0
+1,-7.3,mmu05010,Alzheimer disease - Mus musculus (house mouse),M1,1,0
+1,-4.4,mmu04140,Autophagy - animal - Mus musculus (house mouse),M1,1,0
+1,-3.7,R-MMU-446203,Asparagine N-linked glycosylation,M1,1,0
+1,-2.5,GO:0034391,regulation of smooth muscle cell apoptotic process,M1,1,0
+1,-3.9,WP193,Hepatocyte growth factor receptor signaling,M1,1,0
+1,-3.3,R-MMU-611105,Respiratory electron transport,M1,1,0
+1,-2.3,GO:0150115,cell-substrate junction organization,M1,1,0
+1,-4.4,GO:0022900,electron transport chain,M1,1,0
+1,-5.1,GO:0051603,proteolysis involved in protein catabolic process,M1,1,0
+1,-3.6,GO:0042773,ATP synthesis coupled electron transport,M1,1,0
+1,-2.7,R-MMU-5673000,RAF activation,M1,1,0
+1,-10,R-MMU-5621481,C-type lectin receptors (CLRs),M1,1,0
+1,-2.3,GO:1901875,positive regulation of post-translational protein modification,M1,1,0
+1,-11,R-MMU-75815,Ubiquitin-dependent degradation of Cyclin D,M1,1,0
+1,-9.8,R-MMU-69580,p53-Dependent G1/S DNA damage checkpoint,M1,1,0
+1,-7.2,R-MMU-69242,S Phase,M1,1,0
+1,-2.4,GO:0046434,organophosphate catabolic process,M1,1,0
+1,-2.5,mmu04068,FoxO signaling pathway - Mus musculus (house mouse),M1,1,0
+1,-6.3,R-MMU-5689880,Ub-specific processing proteases,M1,1,0
+1,-2.5,GO:0060249,anatomical structure homeostasis,M1,1,0
+1,-4,R-MMU-382551,Transport of small molecules,M1,1,0
+1,-7.5,mmu05014,Amyotrophic lateral sclerosis - Mus musculus (house mouse),M1,1,0
+1,-3.6,R-MMU-446353,Cell-extracellular matrix interactions,M1,1,0
+1,-9.9,R-MMU-187577,SCF(Skp2)-mediated degradation of p27/p21,M1,1,0
+1,-2.9,R-MMU-373760,L1CAM interactions,M1,1,0
+1,-11,R-MMU-5676590,NIK-->noncanonical NF-kB signaling,M1,1,0
+1,-7.8,R-MMU-69306,DNA Replication,M1,1,0

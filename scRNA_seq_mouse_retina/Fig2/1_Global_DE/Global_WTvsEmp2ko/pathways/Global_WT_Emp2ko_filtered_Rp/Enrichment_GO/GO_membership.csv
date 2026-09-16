@@ -1,0 +1,101 @@
+_MEMBER_hits,_LogP_hits,GO,Description,_PATTERN_,_RANK_,GiniIndex
+1,-2.6,GO:0051084,'de novo' post-translational protein folding,M1,1,0
+1,-5.2,GO:0090083,regulation of inclusion body assembly,M1,1,0
+1,-2.1,GO:0060999,positive regulation of dendritic spine development,M1,1,0
+1,-2.4,R-MMU-72203,Processing of Capped Intron-Containing Pre-mRNA,M1,1,0
+1,-3.2,GO:2001234,negative regulation of apoptotic signaling pathway,M1,1,0
+1,-2.8,GO:0051491,positive regulation of filopodium assembly,M1,1,0
+1,-2,mmu05212,Pancreatic cancer - Mus musculus (house mouse),M1,1,0
+1,-5.1,R-MMU-3371571,HSF1-dependent transactivation,M1,1,0
+1,-2.6,GO:0050769,positive regulation of neurogenesis,M1,1,0
+1,-2.5,GO:0061462,protein localization to lysosome,M1,1,0
+1,-4.8,R-MMU-8953897,Cellular responses to stimuli,M1,1,0
+1,-3,GO:0070670,response to interleukin-4,M1,1,0
+1,-2.3,GO:0062207,regulation of pattern recognition receptor signaling pathway,M1,1,0
+1,-2.3,mmu03040,Spliceosome - Mus musculus (house mouse),M1,1,0
+1,-2.6,R-MMU-9006934,Signaling by Receptor Tyrosine Kinases,M1,1,0
+1,-3.1,GO:0071353,cellular response to interleukin-4,M1,1,0
+1,-2,GO:0051051,negative regulation of transport,M1,1,0
+1,-3.7,GO:0051131,chaperone-mediated protein complex assembly,M1,1,0
+1,-2.5,GO:0032200,telomere organization,M1,1,0
+1,-3.5,GO:0050821,protein stabilization,M1,1,0
+1,-2.1,GO:0051091,positive regulation of DNA-binding transcription factor activity,M1,1,0
+1,-2.7,GO:0051962,positive regulation of nervous system development,M1,1,0
+1,-5.9,GO:0006457,protein folding,M1,1,0
+1,-2.3,GO:0051489,regulation of filopodium assembly,M1,1,0
+1,-2.3,mmu05012,Parkinson disease - Mus musculus (house mouse),M1,1,0
+1,-2.4,GO:0016071,mRNA metabolic process,M1,1,0
+1,-3,GO:0051085,chaperone cofactor-dependent protein refolding,M1,1,0
+1,-2.8,GO:1902175,regulation of oxidative stress-induced intrinsic apoptotic signaling pathway,M1,1,0
+1,-2.6,GO:0000723,telomere maintenance,M1,1,0
+1,-4.4,GO:1905907,negative regulation of amyloid fibril formation,M1,1,0
+1,-3.3,GO:0010975,regulation of neuron projection development,M1,1,0
+1,-3.4,R-MMU-3371453,Regulation of HSF1-mediated heat shock response,M1,1,0
+1,-4.9,mmu04915,Estrogen signaling pathway - Mus musculus (house mouse),M1,1,0
+1,-4,GO:0062208,positive regulation of pattern recognition receptor signaling pathway,M1,1,0
+1,-3.3,mmu04141,Protein processing in endoplasmic reticulum - Mus musculus (house mouse),M1,1,0
+1,-2.7,R-MMU-1169410,Antiviral mechanism by IFN-stimulated genes,M1,1,0
+1,-2.7,R-MMU-9716542,"Signaling by Rho GTPases, Miro GTPases and RHOBTB3",M1,1,0
+1,-2.1,GO:0098876,vesicle-mediated transport to the plasma membrane,M1,1,0
+1,-2,mmu05167,Kaposi sarcoma-associated herpesvirus infection - Mus musculus (house mouse),M1,1,0
+1,-2.6,GO:0033365,protein localization to organelle,M1,1,0
+1,-3.9,R-MMU-2262752,Cellular responses to stress,M1,1,0
+1,-3.3,GO:2001243,negative regulation of intrinsic apoptotic signaling pathway,M1,1,0
+1,-2.3,GO:2001242,regulation of intrinsic apoptotic signaling pathway,M1,1,0
+1,-2,R-MMU-74752,Signaling by Insulin receptor,M1,1,0
+1,-2.5,GO:0044380,protein localization to cytoskeleton,M1,1,0
+1,-3.1,GO:0031344,regulation of cell projection organization,M1,1,0
+1,-4.1,GO:0009266,response to temperature stimulus,M1,1,0
+1,-2.3,GO:0090398,cellular senescence,M1,1,0
+1,-2.9,GO:0043271,negative regulation of monoatomic ion transport,M1,1,0
+1,-3.6,GO:0098761,cellular response to interleukin-7,M1,1,0
+1,-2,R-MMU-2029480,Fcgamma receptor (FCGR) dependent phagocytosis,M1,1,0
+1,-2.8,GO:0051604,protein maturation,M1,1,0
+1,-2,GO:0032092,positive regulation of protein binding,M1,1,0
+1,-2.1,GO:0051926,negative regulation of calcium ion transport,M1,1,0
+1,-2.3,GO:0048193,Golgi vesicle transport,M1,1,0
+1,-2.1,GO:0039531,regulation of cytoplasmic pattern recognition receptor signaling pathway,M1,1,0
+1,-3,GO:0032434,regulation of proteasomal ubiquitin-dependent protein catabolic process,M1,1,0
+1,-3.3,GO:1902176,negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway,M1,1,0
+1,-2.2,R-MMU-8953854,Metabolism of RNA,M1,1,0
+1,-3.3,R-MMU-9833482,PKR-mediated signaling,M1,1,0
+1,-3.2,GO:0120035,regulation of plasma membrane bounded cell projection organization,M1,1,0
+1,-2.2,GO:0050775,positive regulation of dendrite morphogenesis,M1,1,0
+1,-2.4,GO:0007080,mitotic metaphase chromosome alignment,M1,1,0
+1,-3.1,R-MMU-72172,mRNA Splicing,M1,1,0
+1,-4,GO:1905906,regulation of amyloid fibril formation,M1,1,0
+1,-2.2,R-MMU-9009391,Extra-nuclear estrogen signaling,M1,1,0
+1,-2.4,R-MMU-1280218,Adaptive Immune System,M1,1,0
+1,-3,mmu05020,Prion disease - Mus musculus (house mouse),M1,1,0
+1,-2.6,GO:1902903,regulation of supramolecular fiber organization,M1,1,0
+1,-2.2,GO:0051092,positive regulation of NF-kappaB transcription factor activity,M1,1,0
+1,-3.6,GO:0042026,protein refolding,M1,1,0
+1,-6.1,R-MMU-3371568,Attenuation phase,M1,1,0
+1,-3.6,GO:0098760,response to interleukin-7,M1,1,0
+1,-2.6,GO:0006458,'de novo' protein folding,M1,1,0
+1,-2.8,R-MMU-194315,Signaling by Rho GTPases,M1,1,0
+1,-2,GO:0072665,protein localization to vacuole,M1,1,0
+1,-2.1,R-MMU-9012999,RHO GTPase cycle,M1,1,0
+1,-2.2,GO:0010770,positive regulation of cell morphogenesis,M1,1,0
+1,-2.2,GO:0061136,regulation of proteasomal protein catabolic process,M1,1,0
+1,-2.2,GO:0006275,regulation of DNA replication,M1,1,0
+1,-3,R-MMU-913531,Interferon Signaling,M1,1,0
+1,-2.3,R-MMU-983168,Antigen processing: Ubiquitination & Proteasome degradation,M1,1,0
+1,-3.6,GO:0034605,cellular response to heat,M1,1,0
+1,-2.5,GO:1900182,positive regulation of protein localization to nucleus,M1,1,0
+1,-2.7,GO:0051129,negative regulation of cellular component organization,M1,1,0
+1,-3.5,GO:0031647,regulation of protein stability,M1,1,0
+1,-2.8,mmu05417,Lipid and atherosclerosis - Mus musculus (house mouse),M1,1,0
+1,-2.7,R-MMU-72165,mRNA Splicing - Minor Pathway,M1,1,0
+1,-2.2,GO:0042176,regulation of protein catabolic process,M1,1,0
+1,-2.8,GO:0031346,positive regulation of cell projection organization,M1,1,0
+1,-5.6,GO:0061077,chaperone-mediated protein folding,M1,1,0
+1,-2,WP450,IL 2 signaling pathway,M1,1,0
+1,-2.5,GO:2000058,regulation of ubiquitin-dependent protein catabolic process,M1,1,0
+1,-3.1,R-MMU-72163,mRNA Splicing - Major Pathway,M1,1,0
+1,-2.3,mmu04213,Longevity regulating pathway - multiple species - Mus musculus (house mouse),M1,1,0
+1,-7.8,R-MMU-3371497,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,M1,1,0
+1,-4.7,GO:0009408,response to heat,M1,1,0
+1,-4,R-MMU-3371556,Cellular response to heat stress,M1,1,0
+1,-2.5,GO:0170036,import into the mitochondrion,M1,1,0
+1,-2,GO:0043524,negative regulation of neuron apoptotic process,M1,1,0

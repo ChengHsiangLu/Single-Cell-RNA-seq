@@ -1,0 +1,7 @@
+Network,Annotation
+hits,R-MMU-8948751|Regulation of PTEN stability and activity|-15.3;R-MMU-350562|Regulation of ornithine decarboxylase (ODC)|-15.2;R-MMU-6807070|PTEN Regulation|-14.9
+hits_MCODE_ALL,mmu05012|Parkinson disease - Mus musculus (house mouse)|-20.6;R-MMU-350562|Regulation of ornithine decarboxylase (ODC)|-19.8;R-MMU-8941858|Regulation of RUNX3 expression and activity|-19.1
+hits_SUB1_MCODE_1,mmu04921|Oxytocin signaling pathway - Mus musculus (house mouse)|-7.5;mmu04540|Gap junction - Mus musculus (house mouse)|-6.6;mmu05203|Viral carcinogenesis - Mus musculus (house mouse)|-6.6
+hits_SUB1_MCODE_2,R-MMU-350562|Regulation of ornithine decarboxylase (ODC)|-25.7;R-MMU-351202|Metabolism of polyamines|-24.7;R-MMU-1234176|Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha|-24.1
+hits_SUB1_MCODE_3,GO:0019646|aerobic electron transport chain|-11.9;GO:0042775|mitochondrial ATP synthesis coupled electron transport|-11.6;GO:0042773|ATP synthesis coupled electron transport|-11.5
+hits_SUB1_MCODE_4,GO:0097352|autophagosome maturation|-7.9;R-MMU-9612973|Autophagy|-6.7;R-MMU-1632852|Macroautophagy|-6.7

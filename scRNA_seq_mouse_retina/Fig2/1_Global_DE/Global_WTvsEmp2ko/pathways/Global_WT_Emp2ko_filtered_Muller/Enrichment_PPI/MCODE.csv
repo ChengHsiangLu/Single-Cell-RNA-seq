@@ -1,0 +1,17 @@
+Cluster,Score,Type,Gene,Symbol,Network
+1,1.5,Clustered,16477,Junb,hits_SUB1
+1,1.5,Clustered,14281,Fos,hits_SUB1
+1,1.5,Clustered,16476,Jun,hits_SUB1
+1,1.5,Seed,14282,Fosb,hits_SUB1
+2,1.0,Seed,12608,Cebpb,hits_SUB1
+2,1.0,Clustered,11911,Atf4,hits_SUB1
+2,1.0,Clustered,12611,Cebpg,hits_SUB1
+3,1.0,Seed,53417,Hif3a,hits_SUB1
+3,1.0,Clustered,71745,Cul2,hits_SUB1
+3,1.0,Clustered,19173,Psmb5,hits_SUB1
+4,1.0,Clustered,18708,Pik3r1,hits_SUB1
+4,1.0,Clustered,224105,Pak2,hits_SUB1
+4,1.0,Seed,69581,Rhou,hits_SUB1
+5,1.0,Clustered,66212,Sec61b,hits_SUB3
+5,1.0,Clustered,665155,Srp54b,hits_SUB3
+5,1.0,Seed,22433,Xbp1,hits_SUB3

@@ -1,0 +1,201 @@
+Name,Category,CategoryID,GO,Description,PARENT_GO,LogP,Enrichment,Z-score,#TotalGeneInLibrary,#GeneInGO,#GeneInHitList,#GeneInGOAndHitList,%InGO,STDV %InGO,GeneID,Hits,Log(q-value)
+hits,Reactome Gene Sets,6,R-MMU-3371497,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,,-10,55,19,21160,50,54,7,13,4.6,15511|15516|20867|69654|81489|193740|227613,Hspa1b|Hsp90ab1|Stip1|Dctn2|Dnajb1|Hspa1a|Tubb4b,-7
+hits,Reactome Gene Sets,6,R-MMU-8953897,Cellular responses to stimuli,,-9.1,9.4,10,21160,543,54,13,24,5.8,12315|14695|15511|15516|20867|50868|54170|66144|69654|70369|81489|193740|227613,Calm3|Gnb3|Hspa1b|Hsp90ab1|Stip1|Keap1|Rragc|Atp6v1f|Dctn2|Bag5|Dnajb1|Hspa1a|Tubb4b,-5.9
+hits,Reactome Gene Sets,6,R-MMU-3371568,Attenuation phase,,-7.6,1.2e+02,22,21160,13,54,4,7.4,3.6,15511|15516|81489|193740,Hspa1b|Hsp90ab1|Dnajb1|Hspa1a,-4.7
+hits,Reactome Gene Sets,6,R-MMU-2262752,Cellular responses to stress,,-7.5,9,8.9,21160,480,54,11,20,5.5,15511|15516|20867|50868|54170|66144|69654|70369|81489|193740|227613,Hspa1b|Hsp90ab1|Stip1|Keap1|Rragc|Atp6v1f|Dctn2|Bag5|Dnajb1|Hspa1a|Tubb4b,-4.7
+hits,KEGG Pathway,24,mmu04915,Estrogen signaling pathway - Mus musculus (house mouse),,-7.3,20,11,21160,134,54,7,13,4.6,11911|12315|15511|15516|16668|18709|193740,Atf4|Calm3|Hspa1b|Hsp90ab1|Krt18|Pik3r2|Hspa1a,-4.5
+hits,Reactome Gene Sets,6,R-MMU-3371571,HSF1-dependent transactivation,,-6.6,71,17,21160,22,54,4,7.4,3.6,15511|15516|81489|193740,Hspa1b|Hsp90ab1|Dnajb1|Hspa1a,-3.9
+hits,GO Biological Processes,19,GO:0006457,protein folding,19_GO:0009987 cellular process,-6.4,15,9.7,21160,181,54,7,13,4.6,14976|15511|15516|18221|18637|81489|193740,Pfdn6|Hspa1b|Hsp90ab1|Nudc|Pfdn2|Dnajb1|Hspa1a,-3.8
+hits,Reactome Gene Sets,6,R-MMU-3371556,Cellular response to heat stress,,-5.8,25,11,21160,79,54,5,9.3,3.9,15511|15516|70369|81489|193740,Hspa1b|Hsp90ab1|Bag5|Dnajb1|Hspa1a,-3.1
+hits,GO Biological Processes,19,GO:0031647,regulation of protein stability,19_GO:0065007 biological regulation,-5.4,8.6,7.4,21160,365,54,8,15,4.8,15511|15516|18148|53376|70369|70925|76500|260302,Hspa1b|Hsp90ab1|Npm1|Usp2|Bag5|Cdkn2aip|Ip6k2|Gga3,-2.9
+hits,KEGG Pathway,24,mmu05020,Prion disease - Mus musculus (house mouse),,-5.2,10,7.6,21160,273,54,7,13,4.6,11911|15511|18709|20867|22272|193740|227613,Atf4|Hspa1b|Pik3r2|Stip1|Uqcrq|Hspa1a|Tubb4b,-2.7
+hits,Reactome Gene Sets,6,R-MMU-9006934,Signaling by Receptor Tyrosine Kinases,,-5.1,7.8,7,21160,400,54,8,15,4.8,12315|14173|18709|19341|20807|66144|76884|260302,Calm3|Fgf2|Pik3r2|Rab4a|Srf|Atp6v1f|Cyfip2|Gga3,-2.6
+hits,Reactome Gene Sets,6,R-MMU-3371453,Regulation of HSF1-mediated heat shock response,,-4.8,26,9.8,21160,61,54,4,7.4,3.6,15511|70369|81489|193740,Hspa1b|Bag5|Dnajb1|Hspa1a,-2.3
+hits,KEGG Pathway,24,mmu05417,Lipid and atherosclerosis - Mus musculus (house mouse),,-4.7,11,7.4,21160,217,54,6,11,4.3,11911|12315|15511|15516|18709|193740,Atf4|Calm3|Hspa1b|Hsp90ab1|Pik3r2|Hspa1a,-2.3
+hits,Reactome Gene Sets,6,R-MMU-9833482,PKR-mediated signaling,,-4.7,25,9.6,21160,63,54,4,7.4,3.6,15511|18148|193740|227613,Hspa1b|Npm1|Hspa1a|Tubb4b,-2.3
+hits,GO Biological Processes,19,GO:0098761,cellular response to interleukin-7,19_GO:0050896 response to stimulus,-4.7,56,13,21160,21,54,3,5.6,3.1,16451|20867|22608,Jak1|Stip1|Ybx1,-2.3
+hits,GO Biological Processes,19,GO:0090083,regulation of inclusion body assembly,19_GO:0050789 regulation of biological process,-4.7,56,13,21160,21,54,3,5.6,3.1,15511|70369|81489,Hspa1b|Bag5|Dnajb1,-2.3
+hits,GO Biological Processes,19,GO:0050821,protein stabilization,19_GO:0065007 biological regulation,-4.7,11,7.3,21160,221,54,6,11,4.3,15511|15516|18148|53376|70369|76500,Hspa1b|Hsp90ab1|Npm1|Usp2|Bag5|Ip6k2,-2.3
+hits,Reactome Gene Sets,6,R-MMU-913531,Interferon Signaling,,-4.6,15,8,21160,133,54,5,9.3,3.9,15511|18148|22608|193740|227613,Hspa1b|Npm1|Ybx1|Hspa1a|Tubb4b,-2.2
+hits,GO Biological Processes,19,GO:0098760,response to interleukin-7,19_GO:0050896 response to stimulus,-4.6,53,12,21160,22,54,3,5.6,3.1,16451|20867|22608,Jak1|Stip1|Ybx1,-2.2
+hits,GO Biological Processes,19,GO:0016071,mRNA metabolic process,19_GO:0009987 cellular process,-4.6,5.6,6,21160,626,54,9,17,5.1,11911|15511|20638|22608|50926|66070|66585|76938|193740,Atf4|Hspa1b|Snrpb|Ybx1|Hnrnpdl|Cwc15|Snrnp40|Rbm17|Hspa1a,-2.2
+hits,GO Biological Processes,19,GO:0061077,chaperone-mediated protein folding,19_GO:0009987 cellular process,-4.6,23,9.2,21160,68,54,4,7.4,3.6,15511|15516|81489|193740,Hspa1b|Hsp90ab1|Dnajb1|Hspa1a,-2.2
+hits,GO Biological Processes,19,GO:1902176,negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway,19_GO:0048519 negative regulation of biological process,-4.4,44,11,21160,27,54,3,5.6,3.1,11911|14173|70369,Atf4|Fgf2|Bag5,-2
+hits,KEGG Pathway,24,mmu03040,Spliceosome - Mus musculus (house mouse),,-4.2,8.9,6.5,21160,265,54,6,11,4.3,15511|20638|66070|66585|76938|193740,Hspa1b|Snrpb|Cwc15|Snrnp40|Rbm17|Hspa1a,-1.9
+hits,GO Biological Processes,19,GO:0071353,cellular response to interleukin-4,19_GO:0050896 response to stimulus,-4.1,37,10,21160,32,54,3,5.6,3.1,15516|16451|50868,Hsp90ab1|Jak1|Keap1,-1.8
+hits,GO Biological Processes,19,GO:0051604,protein maturation,19_GO:0009987 cellular process,-4.1,5.6,5.6,21160,555,54,8,15,4.8,14976|15511|15516|18221|18637|76884|81489|193740,Pfdn6|Hspa1b|Hsp90ab1|Nudc|Pfdn2|Cyfip2|Dnajb1|Hspa1a,-1.8
+hits,Reactome Gene Sets,6,R-MMU-1169410,Antiviral mechanism by IFN-stimulated genes,,-4.1,17,7.9,21160,90,54,4,7.4,3.6,15511|18148|193740|227613,Hspa1b|Npm1|Hspa1a|Tubb4b,-1.7
+hits,KEGG Pathway,24,mmu04141,Protein processing in endoplasmic reticulum - Mus musculus (house mouse),,-4.1,11,6.9,21160,175,54,5,9.3,3.9,11911|15511|15516|81489|193740,Atf4|Hspa1b|Hsp90ab1|Dnajb1|Hspa1a,-1.7
+hits,Reactome Gene Sets,6,R-MMU-194315,Signaling by Rho GTPases,,-4.1,5.6,5.6,21160,562,54,8,15,4.8,12315|15516|18221|18709|20807|20867|76884|227613,Calm3|Hsp90ab1|Nudc|Pik3r2|Srf|Stip1|Cyfip2|Tubb4b,-1.7
+hits,GO Biological Processes,19,GO:0051085,chaperone cofactor-dependent protein refolding,19_GO:0009987 cellular process,-4.1,35,9.9,21160,34,54,3,5.6,3.1,15511|81489|193740,Hspa1b|Dnajb1|Hspa1a,-1.7
+hits,GO Biological Processes,19,GO:0070670,response to interleukin-4,19_GO:0050896 response to stimulus,-4,34,9.8,21160,35,54,3,5.6,3.1,15516|16451|50868,Hsp90ab1|Jak1|Keap1,-1.7
+hits,GO Biological Processes,19,GO:0009408,response to heat,19_GO:0050896 response to stimulus,-4,17,7.7,21160,94,54,4,7.4,3.6,15511|15516|81489|193740,Hspa1b|Hsp90ab1|Dnajb1|Hspa1a,-1.7
+hits,Reactome Gene Sets,6,R-MMU-9716542,"Signaling by Rho GTPases, Miro GTPases and RHOBTB3",,-4,5.4,5.5,21160,577,54,8,15,4.8,12315|15516|18221|18709|20807|20867|76884|227613,Calm3|Hsp90ab1|Nudc|Pik3r2|Srf|Stip1|Cyfip2|Tubb4b,-1.7
+hits,Reactome Gene Sets,6,R-MMU-72163,mRNA Splicing - Major Pathway,,-4,11,6.6,21160,185,54,5,9.3,3.9,20638|22608|66070|66585|76938,Snrpb|Ybx1|Cwc15|Snrnp40|Rbm17,-1.7
+hits,Reactome Gene Sets,6,R-MMU-72172,mRNA Splicing,,-3.9,10,6.5,21160,191,54,5,9.3,3.9,20638|22608|66070|66585|76938,Snrpb|Ybx1|Cwc15|Snrnp40|Rbm17,-1.6
+hits,GO Biological Processes,19,GO:1900182,positive regulation of protein localization to nucleus,19_GO:0051179 localization,-3.9,15,7.3,21160,103,54,4,7.4,3.6,15516|16451|18148|18709,Hsp90ab1|Jak1|Npm1|Pik3r2,-1.6
+hits,GO Biological Processes,19,GO:1902175,regulation of oxidative stress-induced intrinsic apoptotic signaling pathway,19_GO:0050896 response to stimulus,-3.8,29,9.1,21160,40,54,3,5.6,3.1,11911|14173|70369,Atf4|Fgf2|Bag5,-1.5
+hits,WikiPathways,27,WP2841,Focal adhesion PI3K Akt mTOR signaling pathway,,-3.8,7.3,5.8,21160,322,54,6,11,4.3,11911|14173|14695|15516|16451|18709,Atf4|Fgf2|Gnb3|Hsp90ab1|Jak1|Pik3r2,-1.5
+hits,Reactome Gene Sets,6,R-MMU-72165,mRNA Splicing - Minor Pathway,,-3.7,27,8.6,21160,44,54,3,5.6,3.1,20638|22608|66585,Snrpb|Ybx1|Snrnp40,-1.4
+hits,GO Biological Processes,19,GO:0051084,'de novo' post-translational protein folding,19_GO:0009987 cellular process,-3.7,26,8.5,21160,45,54,3,5.6,3.1,15511|81489|193740,Hspa1b|Dnajb1|Hspa1a,-1.4
+hits,GO Biological Processes,19,GO:0006458,'de novo' protein folding,19_GO:0009987 cellular process,-3.6,25,8.3,21160,47,54,3,5.6,3.1,15511|81489|193740,Hspa1b|Dnajb1|Hspa1a,-1.4
+hits,KEGG Pathway,24,mmu05167,Kaposi sarcoma-associated herpesvirus infection - Mus musculus (house mouse),,-3.6,8.8,5.9,21160,223,54,5,9.3,3.9,12315|14173|14695|16451|18709,Calm3|Fgf2|Gnb3|Jak1|Pik3r2,-1.3
+hits,Reactome Gene Sets,6,R-MMU-195258,RHO GTPase Effectors,,-3.5,8.4,5.7,21160,234,54,5,9.3,3.9,12315|18221|20807|76884|227613,Calm3|Nudc|Srf|Cyfip2|Tubb4b,-1.2
+hits,KEGG Pathway,24,mmu04151,PI3K-Akt signaling pathway - Mus musculus (house mouse),,-3.5,6.4,5.3,21160,367,54,6,11,4.3,11911|14173|14695|15516|16451|18709,Atf4|Fgf2|Gnb3|Hsp90ab1|Jak1|Pik3r2,-1.2
+hits,GO Biological Processes,19,GO:0034605,cellular response to heat,19_GO:0050896 response to stimulus,-3.4,22,7.7,21160,54,54,3,5.6,3.1,15511|15516|81489,Hspa1b|Hsp90ab1|Dnajb1,-1.2
+hits,GO Biological Processes,19,GO:0032434,regulation of proteasomal ubiquitin-dependent protein catabolic process,19_GO:0050789 regulation of biological process,-3.4,12,6.3,21160,132,54,4,7.4,3.6,15511|15516|70369|193740,Hspa1b|Hsp90ab1|Bag5|Hspa1a,-1.2
+hits,GO Biological Processes,19,GO:0006351,DNA-templated transcription,19_GO:0009987 cellular process,-3.4,5.1,4.8,21160,542,54,7,13,4.6,11911|14173|17349|18148|20022|20807|21427,Atf4|Fgf2|Mlf1|Npm1|Polr2j|Srf|Vps72,-1.1
+hits,KEGG Pathway,24,mmu05200,Pathways in cancer - Mus musculus (house mouse),,-3.3,5,4.8,21160,548,54,7,13,4.6,12315|14173|14695|15516|16451|18709|50868,Calm3|Fgf2|Gnb3|Hsp90ab1|Jak1|Pik3r2|Keap1,-1.1
+hits,KEGG Pathway,24,mmu05163,Human cytomegalovirus infection - Mus musculus (house mouse),,-3.3,7.7,5.4,21160,254,54,5,9.3,3.9,11911|12315|14695|16451|18709,Atf4|Calm3|Gnb3|Jak1|Pik3r2,-1.1
+hits,KEGG Pathway,24,mmu04213,Longevity regulating pathway - multiple species - Mus musculus (house mouse),,-3.3,19,7.2,21160,61,54,3,5.6,3.1,15511|18709|193740,Hspa1b|Pik3r2|Hspa1a,-1.1
+hits,Reactome Gene Sets,6,R-MMU-72203,Processing of Capped Intron-Containing Pre-mRNA,,-3.3,7.6,5.4,21160,259,54,5,9.3,3.9,20638|22608|66070|66585|76938,Snrpb|Ybx1|Cwc15|Snrnp40|Rbm17,-1.1
+hits,KEGG Pathway,24,mmu05162,Measles - Mus musculus (house mouse),,-3.3,11,6,21160,145,54,4,7.4,3.6,15511|16451|18709|193740,Hspa1b|Jak1|Pik3r2|Hspa1a,-1.1
+hits,KEGG Pathway,24,mmu05418,Fluid shear stress and atherosclerosis - Mus musculus (house mouse),,-3.3,11,5.9,21160,148,54,4,7.4,3.6,12315|15516|18709|50868,Calm3|Hsp90ab1|Pik3r2|Keap1,-1
+hits,Reactome Gene Sets,6,R-MMU-8953854,Metabolism of RNA,,-3.2,4.8,4.7,21160,568,54,7,13,4.6,15511|20638|22608|66070|66585|76938|193740,Hspa1b|Snrpb|Ybx1|Cwc15|Snrnp40|Rbm17|Hspa1a,-1
+hits,GO Biological Processes,19,GO:1902903,regulation of supramolecular fiber organization,19_GO:0050789 regulation of biological process,-3.2,5.8,4.9,21160,408,54,6,11,4.3,14976|15511|18637|18709|76884|193740,Pfdn6|Hspa1b|Pfdn2|Pik3r2|Cyfip2|Hspa1a,-1
+hits,GO Biological Processes,19,GO:0032535,regulation of cellular component size,19_GO:0065007 biological regulation,-3.2,5.7,4.9,21160,409,54,6,11,4.3,14695|15516|18148|18709|20807|76884,Gnb3|Hsp90ab1|Npm1|Pik3r2|Srf|Cyfip2,-1
+hits,Reactome Gene Sets,6,R-MMU-8939211,ESR-mediated signaling,,-3.2,10,5.8,21160,153,54,4,7.4,3.6,12315|14695|15516|18709,Calm3|Gnb3|Hsp90ab1|Pik3r2,-1
+hits,Reactome Gene Sets,6,R-MMU-9009391,Extra-nuclear estrogen signaling,,-3.2,18,6.9,21160,66,54,3,5.6,3.1,12315|14695|18709,Calm3|Gnb3|Pik3r2,-1
+hits,KEGG Pathway,24,mmu05012,Parkinson disease - Mus musculus (house mouse),,-3.2,7.2,5.2,21160,274,54,5,9.3,3.9,11911|12315|22272|50868|227613,Atf4|Calm3|Uqcrq|Keap1|Tubb4b,-0.99
+hits,GO Biological Processes,19,GO:1900180,regulation of protein localization to nucleus,19_GO:0051179 localization,-3.1,9.5,5.5,21160,165,54,4,7.4,3.6,15516|16451|18148|18709,Hsp90ab1|Jak1|Npm1|Pik3r2,-0.9
+hits,Reactome Gene Sets,6,R-MMU-74752,Signaling by Insulin receptor,,-3,16,6.5,21160,74,54,3,5.6,3.1,14173|18709|66144,Fgf2|Pik3r2|Atp6v1f,-0.87
+hits,Reactome Gene Sets,6,R-MMU-2029480,Fcgamma receptor (FCGR) dependent phagocytosis,,-3,16,6.5,21160,74,54,3,5.6,3.1,15516|18709|76884,Hsp90ab1|Pik3r2|Cyfip2,-0.87
+hits,Reactome Gene Sets,6,R-MMU-1280215,Cytokine Signaling in Immune system,,-3,5.3,4.6,21160,444,54,6,11,4.3,15511|18148|18709|22608|193740|227613,Hspa1b|Npm1|Pik3r2|Ybx1|Hspa1a|Tubb4b,-0.87
+hits,GO Biological Processes,19,GO:2000058,regulation of ubiquitin-dependent protein catabolic process,19_GO:0050789 regulation of biological process,-3,9.2,5.4,21160,170,54,4,7.4,3.6,15511|15516|70369|193740,Hspa1b|Hsp90ab1|Bag5|Hspa1a,-0.86
+hits,WikiPathways,27,WP450,IL 2 signaling pathway,,-3,15,6.4,21160,76,54,3,5.6,3.1,16451|18709|22608,Jak1|Pik3r2|Ybx1,-0.85
+hits,KEGG Pathway,24,mmu04010,MAPK signaling pathway - Mus musculus (house mouse),,-3,6.6,4.9,21160,299,54,5,9.3,3.9,11911|14173|15511|20807|193740,Atf4|Fgf2|Hspa1b|Srf|Hspa1a,-0.85
+hits,GO Biological Processes,19,GO:0009266,response to temperature stimulus,19_GO:0050896 response to stimulus,-3,9,5.3,21160,175,54,4,7.4,3.6,15511|15516|81489|193740,Hspa1b|Hsp90ab1|Dnajb1|Hspa1a,-0.83
+hits,GO Biological Processes,19,GO:0001558,regulation of cell growth,19_GO:0040007 growth,-3,5.2,4.5,21160,456,54,6,11,4.3,15511|18148|20807|70925|76500|193740,Hspa1b|Npm1|Srf|Cdkn2aip|Ip6k2|Hspa1a,-0.83
+hits,WikiPathways,27,WP310,mRNA processing,,-3,5.2,4.5,21160,456,54,6,11,4.3,18148|20638|22608|50926|66585|76938,Npm1|Snrpb|Ybx1|Hnrnpdl|Snrnp40|Rbm17,-0.83
+hits,Reactome Gene Sets,6,R-MMU-1280218,Adaptive Immune System,,-3,4.3,4.3,21160,636,54,7,13,4.6,12315|18709|50868|69654|218215|227613|242785,Calm3|Pik3r2|Keap1|Dctn2|Rnf144b|Tubb4b|Klhl21,-0.81
+hits,KEGG Pathway,24,mmu01521,EGFR tyrosine kinase inhibitor resistance - Mus musculus (house mouse),,-2.9,15,6.2,21160,80,54,3,5.6,3.1,14173|16451|18709,Fgf2|Jak1|Pik3r2,-0.81
+hits,GO Biological Processes,19,GO:0051054,positive regulation of DNA metabolic process,19_GO:0048518 positive regulation of biological process,-2.9,6.2,4.7,21160,316,54,5,9.3,3.9,12301|14173|18148|21427|69714,Cacybp|Fgf2|Npm1|Vps72|Tfpt,-0.76
+hits,GO Biological Processes,19,GO:0051302,regulation of cell division,19_GO:0050789 regulation of biological process,-2.9,8.4,5.1,21160,186,54,4,7.4,3.6,12315|14173|22608|242785,Calm3|Fgf2|Ybx1|Klhl21,-0.75
+hits,KEGG Pathway,24,mmu04612,Antigen processing and presentation - Mus musculus (house mouse),,-2.8,14,5.9,21160,87,54,3,5.6,3.1,15511|15516|193740,Hspa1b|Hsp90ab1|Hspa1a,-0.71
+hits,GO Biological Processes,19,GO:0030308,negative regulation of cell growth,19_GO:0040007 growth,-2.8,8,5,21160,195,54,4,7.4,3.6,15511|70925|76500|193740,Hspa1b|Cdkn2aip|Ip6k2|Hspa1a,-0.68
+hits,GO Biological Processes,19,GO:0099003,vesicle-mediated transport in synapse,19_GO:0051179 localization,-2.8,8,5,21160,196,54,4,7.4,3.6,12315|19341|23969|66144,Calm3|Rab4a|Pacsin1|Atp6v1f,-0.68
+hits,GO Biological Processes,19,GO:0061136,regulation of proteasomal protein catabolic process,19_GO:0050789 regulation of biological process,-2.8,8,5,21160,197,54,4,7.4,3.6,15511|15516|70369|193740,Hspa1b|Hsp90ab1|Bag5|Hspa1a,-0.67
+hits,Reactome Gene Sets,6,R-MMU-6807878,COPI-mediated anterograde transport,,-2.8,13,5.8,21160,91,54,3,5.6,3.1,67542|69654|227613,Cog6|Dctn2|Tubb4b,-0.67
+hits,Reactome Gene Sets,6,R-MMU-4420097,VEGFA-VEGFR2 Pathway,,-2.8,13,5.8,21160,91,54,3,5.6,3.1,12315|18709|76884,Calm3|Pik3r2|Cyfip2,-0.67
+hits,Reactome Gene Sets,6,R-MMU-9006931,Signaling by Nuclear Receptors,,-2.7,7.7,4.9,21160,203,54,4,7.4,3.6,12315|14695|15516|18709,Calm3|Gnb3|Hsp90ab1|Pik3r2,-0.64
+hits,GO Biological Processes,19,GO:0040008,regulation of growth,19_GO:0040007 growth,-2.7,4,4,21160,691,54,7,13,4.6,14173|15511|18148|20807|70925|76500|193740,Fgf2|Hspa1b|Npm1|Srf|Cdkn2aip|Ip6k2|Hspa1a,-0.64
+hits,KEGG Pathway,24,mmu04070,Phosphatidylinositol signaling system - Mus musculus (house mouse),,-2.7,12,5.6,21160,96,54,3,5.6,3.1,12315|18709|76500,Calm3|Pik3r2|Ip6k2,-0.62
+hits,Reactome Gene Sets,6,R-MMU-194138,Signaling by VEGF,,-2.7,12,5.5,21160,98,54,3,5.6,3.1,12315|18709|76884,Calm3|Pik3r2|Cyfip2,-0.59
+hits,GO Biological Processes,19,GO:0032271,regulation of protein polymerization,19_GO:0050789 regulation of biological process,-2.7,7.4,4.7,21160,211,54,4,7.4,3.6,15511|18709|76884|193740,Hspa1b|Pik3r2|Cyfip2|Hspa1a,-0.59
+hits,GO Biological Processes,19,GO:0000723,telomere maintenance,19_GO:0009987 cellular process,-2.7,12,5.5,21160,99,54,3,5.6,3.1,15516|69714|193740,Hsp90ab1|Tfpt|Hspa1a,-0.59
+hits,KEGG Pathway,24,mmu05215,Prostate cancer - Mus musculus (house mouse),,-2.7,12,5.5,21160,100,54,3,5.6,3.1,11911|15516|18709,Atf4|Hsp90ab1|Pik3r2,-0.58
+hits,GO Biological Processes,19,GO:0031396,regulation of protein ubiquitination,19_GO:0050789 regulation of biological process,-2.6,7.3,4.7,21160,216,54,4,7.4,3.6,15511|15516|18148|70369,Hspa1b|Hsp90ab1|Npm1|Bag5,-0.56
+hits,GO Biological Processes,19,GO:0008361,regulation of cell size,19_GO:0065007 biological regulation,-2.6,7.2,4.7,21160,217,54,4,7.4,3.6,14695|15516|18148|20807,Gnb3|Hsp90ab1|Npm1|Srf,-0.55
+hits,WikiPathways,27,WP5242,Comprehensive IL 17A signaling,,-2.6,11,5.4,21160,103,54,3,5.6,3.1,12301|15511|18148,Cacybp|Hspa1b|Npm1,-0.55
+hits,GO Biological Processes,19,GO:0043524,negative regulation of neuron apoptotic process,19_GO:0048519 negative regulation of biological process,-2.6,7.1,4.6,21160,221,54,4,7.4,3.6,11911|14173|15516|18148,Atf4|Fgf2|Hsp90ab1|Npm1,-0.53
+hits,GO Biological Processes,19,GO:0032200,telomere organization,19_GO:0009987 cellular process,-2.6,11,5.2,21160,107,54,3,5.6,3.1,15516|69714|193740,Hsp90ab1|Tfpt|Hspa1a,-0.51
+hits,GO Biological Processes,19,GO:0042176,regulation of protein catabolic process,19_GO:0050789 regulation of biological process,-2.6,5.2,4.2,21160,374,54,5,9.3,3.9,15511|15516|70369|193740|260302,Hspa1b|Hsp90ab1|Bag5|Hspa1a|Gga3,-0.51
+hits,GO Biological Processes,19,GO:0008380,RNA splicing,19_GO:0009987 cellular process,-2.6,5.2,4.2,21160,376,54,5,9.3,3.9,20638|22608|66070|66585|76938,Snrpb|Ybx1|Cwc15|Snrnp40|Rbm17,-0.5
+hits,Reactome Gene Sets,6,R-MMU-9006925,Intracellular signaling by second messengers,,-2.6,6.9,4.5,21160,228,54,4,7.4,3.6,12315|14173|18709|54170,Calm3|Fgf2|Pik3r2|Rragc,-0.5
+hits,KEGG Pathway,24,mmu05207,Chemical carcinogenesis - receptor activation - Mus musculus (house mouse),,-2.6,6.9,4.5,21160,228,54,4,7.4,3.6,11911|14173|15516|18709,Atf4|Fgf2|Hsp90ab1|Pik3r2,-0.5
+hits,KEGG Pathway,24,mmu05203,Viral carcinogenesis - Mus musculus (house mouse),,-2.6,6.9,4.5,21160,228,54,4,7.4,3.6,11911|16451|18709|20807,Atf4|Jak1|Pik3r2|Srf,-0.5
+hits,KEGG Pathway,24,mmu05145,Toxoplasmosis - Mus musculus (house mouse),,-2.6,11,5.2,21160,109,54,3,5.6,3.1,15511|16451|193740,Hspa1b|Jak1|Hspa1a,-0.5
+hits,GO Biological Processes,19,GO:2001243,negative regulation of intrinsic apoptotic signaling pathway,19_GO:0048519 negative regulation of biological process,-2.6,11,5.2,21160,110,54,3,5.6,3.1,11911|14173|70369,Atf4|Fgf2|Bag5,-0.5
+hits,GO Biological Processes,19,GO:0051493,regulation of cytoskeleton organization,19_GO:0050789 regulation of biological process,-2.5,4.2,3.9,21160,557,54,6,11,4.3,15511|18148|18637|18709|76884|193740,Hspa1b|Npm1|Pfdn2|Pik3r2|Cyfip2|Hspa1a,-0.49
+hits,GO Biological Processes,19,GO:1903050,regulation of proteolysis involved in protein catabolic process,19_GO:0050789 regulation of biological process,-2.5,6.7,4.4,21160,234,54,4,7.4,3.6,15511|15516|70369|193740,Hspa1b|Hsp90ab1|Bag5|Hspa1a,-0.47
+hits,KEGG Pathway,24,mmu04725,Cholinergic synapse - Mus musculus (house mouse),,-2.5,10,5.1,21160,113,54,3,5.6,3.1,11911|14695|18709,Atf4|Gnb3|Pik3r2,-0.47
+hits,Reactome Gene Sets,6,R-MMU-9012999,RHO GTPase cycle,,-2.5,5,4.1,21160,388,54,5,9.3,3.9,15516|18221|18709|20867|76884,Hsp90ab1|Nudc|Pik3r2|Stip1|Cyfip2,-0.47
+hits,KEGG Pathway,24,mmu04014,Ras signaling pathway - Mus musculus (house mouse),,-2.5,6.6,4.4,21160,236,54,4,7.4,3.6,12315|14173|14695|18709,Calm3|Fgf2|Gnb3|Pik3r2,-0.47
+hits,KEGG Pathway,24,mmu05010,Alzheimer disease - Mus musculus (house mouse),,-2.5,5,4.1,21160,389,54,5,9.3,3.9,11911|12315|18709|22272|227613,Atf4|Calm3|Pik3r2|Uqcrq|Tubb4b,-0.47
+hits,WikiPathways,27,WP339,ESC pluripotency pathways,,-2.5,10,5,21160,117,54,3,5.6,3.1,14173|16451|18709,Fgf2|Jak1|Pik3r2,-0.44
+hits,GO Biological Processes,19,GO:0051129,negative regulation of cellular component organization,19_GO:0048519 negative regulation of biological process,-2.5,3.5,3.6,21160,778,54,7,13,4.6,14976|15511|18148|18637|23969|70369|81489,Pfdn6|Hspa1b|Npm1|Pfdn2|Pacsin1|Bag5|Dnajb1,-0.42
+hits,GO Biological Processes,19,GO:0006366,transcription by RNA polymerase II,19_GO:0009987 cellular process,-2.5,4.9,4,21160,400,54,5,9.3,3.9,11911|14173|20022|20807|21427,Atf4|Fgf2|Polr2j|Srf|Vps72,-0.42
+hits,KEGG Pathway,24,mmu05166,Human T-cell leukemia virus 1 infection - Mus musculus (house mouse),,-2.4,6.3,4.3,21160,247,54,4,7.4,3.6,11911|16451|18709|20807,Atf4|Jak1|Pik3r2|Srf,-0.41
+hits,KEGG Pathway,24,mmu04722,Neurotrophin signaling pathway - Mus musculus (house mouse),,-2.4,9.7,4.9,21160,121,54,3,5.6,3.1,11911|12315|18709,Atf4|Calm3|Pik3r2,-0.41
+hits,GO Biological Processes,19,GO:2001234,negative regulation of apoptotic signaling pathway,19_GO:0048519 negative regulation of biological process,-2.4,6.2,4.2,21160,252,54,4,7.4,3.6,11911|14173|15511|70369,Atf4|Fgf2|Hspa1b|Bag5,-0.39
+hits,KEGG Pathway,24,mmu05132,Salmonella infection - Mus musculus (house mouse),,-2.4,6.2,4.2,21160,252,54,4,7.4,3.6,15516|69654|76884|227613,Hsp90ab1|Dctn2|Cyfip2|Tubb4b,-0.39
+hits,GO Biological Processes,19,GO:1903320,regulation of protein modification by small protein conjugation or removal,19_GO:0050789 regulation of biological process,-2.4,6.2,4.2,21160,252,54,4,7.4,3.6,15511|15516|18148|70369,Hspa1b|Hsp90ab1|Npm1|Bag5,-0.39
+hits,GO Biological Processes,19,GO:0006275,regulation of DNA replication,19_GO:0050789 regulation of biological process,-2.4,9.5,4.8,21160,124,54,3,5.6,3.1,12301|18148|69714,Cacybp|Npm1|Tfpt,-0.39
+hits,GO Biological Processes,19,GO:0090066,regulation of anatomical structure size,19_GO:0065007 biological regulation,-2.4,4,3.7,21160,594,54,6,11,4.3,14695|15516|18148|18709|20807|76884,Gnb3|Hsp90ab1|Npm1|Pik3r2|Srf|Cyfip2,-0.39
+hits,GO Biological Processes,19,GO:0045926,negative regulation of growth,19_GO:0040007 growth,-2.4,6.2,4.2,21160,253,54,4,7.4,3.6,15511|70925|76500|193740,Hspa1b|Cdkn2aip|Ip6k2|Hspa1a,-0.39
+hits,GO Biological Processes,19,GO:0033365,protein localization to organelle,19_GO:0051179 localization,-2.4,3.4,3.5,21160,799,54,7,13,4.6,19341|22608|26356|54170|69654|242785|260302,Rab4a|Ybx1|Ing1|Rragc|Dctn2|Klhl21|Gga3,-0.38
+hits,GO Biological Processes,19,GO:1901873,regulation of post-translational protein modification,19_GO:0050789 regulation of biological process,-2.4,6.1,4.1,21160,258,54,4,7.4,3.6,15511|15516|18148|70369,Hspa1b|Hsp90ab1|Npm1|Bag5,-0.37
+hits,Reactome Gene Sets,6,R-MMU-5663220,RHO GTPases Activate Formins,,-2.3,9,4.7,21160,130,54,3,5.6,3.1,18221|20807|227613,Nudc|Srf|Tubb4b,-0.35
+hits,KEGG Pathway,24,mmu04926,Relaxin signaling pathway - Mus musculus (house mouse),,-2.3,9,4.7,21160,130,54,3,5.6,3.1,11911|14695|18709,Atf4|Gnb3|Pik3r2,-0.35
+hits,KEGG Pathway,24,mmu04728,Dopaminergic synapse - Mus musculus (house mouse),,-2.3,8.6,4.5,21160,136,54,3,5.6,3.1,11911|12315|14695,Atf4|Calm3|Gnb3,-0.3
+hits,GO Biological Processes,19,GO:0043271,negative regulation of monoatomic ion transport,19_GO:0051179 localization,-2.3,8.5,4.5,21160,138,54,3,5.6,3.1,11911|12315|53376,Atf4|Calm3|Usp2,-0.28
+hits,KEGG Pathway,24,mmu04550,Signaling pathways regulating pluripotency of stem cells - Mus musculus (house mouse),,-2.3,8.4,4.4,21160,140,54,3,5.6,3.1,14173|16451|18709,Fgf2|Jak1|Pik3r2,-0.27
+hits,Reactome Gene Sets,6,R-MMU-5683057,MAPK family signaling cascades,,-2.3,5.6,3.9,21160,279,54,4,7.4,3.6,12315|14173|18709|81489,Calm3|Fgf2|Pik3r2|Dnajb1,-0.26
+hits,Reactome Gene Sets,6,R-MMU-199977,ER to Golgi Anterograde Transport,,-2.2,8.1,4.3,21160,145,54,3,5.6,3.1,67542|69654|227613,Cog6|Dctn2|Tubb4b,-0.23
+hits,GO Biological Processes,19,GO:0006397,mRNA processing,19_GO:0009987 cellular process,-2.2,4.3,3.6,21160,461,54,5,9.3,3.9,20638|22608|66070|66585|76938,Snrpb|Ybx1|Cwc15|Snrnp40|Rbm17,-0.21
+hits,GO Biological Processes,19,GO:0045860,positive regulation of protein kinase activity,19_GO:0048518 positive regulation of biological process,-2.2,5.4,3.8,21160,290,54,4,7.4,3.6,14173|18011|18148|76500,Fgf2|Neurl1a|Npm1|Ip6k2,-0.21
+hits,WikiPathways,27,WP385,Myometrial relaxation and contraction pathways,,-2.2,7.8,4.3,21160,150,54,3,5.6,3.1,11911|12315|14695,Atf4|Calm3|Gnb3,-0.19
+hits,WikiPathways,27,WP523,Regulation of actin cytoskeleton,,-2.2,7.8,4.2,21160,151,54,3,5.6,3.1,14173|18709|76884,Fgf2|Pik3r2|Cyfip2,-0.19
+hits,GO Biological Processes,19,GO:0033674,positive regulation of kinase activity,19_GO:0048518 positive regulation of biological process,-2.1,5.2,3.7,21160,302,54,4,7.4,3.6,14173|18011|18148|76500,Fgf2|Neurl1a|Npm1|Ip6k2,-0.16
+hits,KEGG Pathway,24,mmu05022,Pathways of neurodegeneration - multiple diseases - Mus musculus (house mouse),,-2.1,4.1,3.4,21160,481,54,5,9.3,3.9,11911|12315|22272|69654|227613,Atf4|Calm3|Uqcrq|Dctn2|Tubb4b,-0.15
+hits,KEGG Pathway,24,mmu04150,mTOR signaling pathway - Mus musculus (house mouse),,-2.1,7.4,4.1,21160,158,54,3,5.6,3.1,18709|54170|66144,Pik3r2|Rragc|Atp6v1f,-0.14
+hits,WikiPathways,27,WP493,Mapk signaling pathway,,-2.1,7.4,4.1,21160,159,54,3,5.6,3.1,11911|20807|193740,Atf4|Srf|Hspa1a,-0.14
+hits,Reactome Gene Sets,6,R-MMU-69275,G2/M Transition,,-2.1,7.4,4.1,21160,159,54,3,5.6,3.1,15516|69654|227613,Hsp90ab1|Dctn2|Tubb4b,-0.14
+hits,WikiPathways,27,WP65,Insulin signaling,,-2.1,7.4,4.1,21160,159,54,3,5.6,3.1,18709|19341|20807,Pik3r2|Rab4a|Srf,-0.14
+hits,KEGG Pathway,24,mmu05016,Huntington disease - Mus musculus (house mouse),,-2.1,5.1,3.7,21160,308,54,4,7.4,3.6,20022|22272|69654|227613,Polr2j|Uqcrq|Dctn2|Tubb4b,-0.14
+hits,GO Biological Processes,19,GO:0051276,chromosome organization,19_GO:0009987 cellular process,-2.1,4,3.4,21160,489,54,5,9.3,3.9,15516|18221|69654|69714|193740,Hsp90ab1|Nudc|Dctn2|Tfpt|Hspa1a,-0.13
+hits,Reactome Gene Sets,6,R-MMU-453274,Mitotic G2-G2/M phases,,-2.1,7.3,4.1,21160,161,54,3,5.6,3.1,15516|69654|227613,Hsp90ab1|Dctn2|Tubb4b,-0.13
+hits,KEGG Pathway,24,mmu04932,Non-alcoholic fatty liver disease - Mus musculus (house mouse),,-2.1,7.3,4,21160,162,54,3,5.6,3.1,11911|18709|22272,Atf4|Pik3r2|Uqcrq,-0.13
+hits,KEGG Pathway,24,mmu05161,Hepatitis B - Mus musculus (house mouse),,-2.1,7.2,4,21160,164,54,3,5.6,3.1,11911|16451|18709,Atf4|Jak1|Pik3r2,-0.12
+hits,GO Biological Processes,19,GO:0051052,regulation of DNA metabolic process,19_GO:0050789 regulation of biological process,-2,3.9,3.3,21160,505,54,5,9.3,3.9,12301|14173|18148|21427|69714,Cacybp|Fgf2|Npm1|Vps72|Tfpt,-0.084
+hits,KEGG Pathway,24,mmu04022,cGMP-PKG signaling pathway - Mus musculus (house mouse),,-2,6.8,3.9,21160,172,54,3,5.6,3.1,11911|12315|20807,Atf4|Calm3|Srf,-0.064
+hits,GO Biological Processes,19,GO:0030336,negative regulation of cell migration,19_GO:0040011 locomotion,-2,4.8,3.5,21160,328,54,4,7.4,3.6,14173|18709|20807|26356,Fgf2|Pik3r2|Srf|Ing1,-0.062
+hits,Reactome Gene Sets,6,R-MMU-948021,Transport to the Golgi and subsequent modification,,-2,6.8,3.9,21160,173,54,3,5.6,3.1,67542|69654|227613,Cog6|Dctn2|Tubb4b,-0.062
+hits,GO Biological Processes,19,GO:0043523,regulation of neuron apoptotic process,19_GO:0050789 regulation of biological process,-2,4.7,3.5,21160,330,54,4,7.4,3.6,11911|14173|15516|18148,Atf4|Fgf2|Hsp90ab1|Npm1,-0.059
+hits,KEGG Pathway,24,mmu05164,Influenza A - Mus musculus (house mouse),,-2,6.8,3.9,21160,174,54,3,5.6,3.1,16451|18709|81489,Jak1|Pik3r2|Dnajb1,-0.059
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-3371497,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,,-13,4.2e+02,46,21160,50,5,5,1e+02,18,15511|15516|20867|81489|193740,Hspa1b|Hsp90ab1|Stip1|Dnajb1|Hspa1a,-9.3
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-3371568,Attenuation phase,,-12,1.3e+03,72,21160,13,5,4,80,18,15511|15516|81489|193740,Hspa1b|Hsp90ab1|Dnajb1|Hspa1a,-8.7
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-3371571,HSF1-dependent transactivation,,-11,7.7e+02,55,21160,22,5,4,80,18,15511|15516|81489|193740,Hspa1b|Hsp90ab1|Dnajb1|Hspa1a,-7.9
+hits_MCODE_ALL,GO Biological Processes,19,GO:0061077,chaperone-mediated protein folding,19_GO:0009987 cellular process,-9.3,2.5e+02,31,21160,68,5,4,80,18,15511|15516|81489|193740,Hspa1b|Hsp90ab1|Dnajb1|Hspa1a,-6
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-3371556,Cellular response to heat stress,,-9,2.1e+02,29,21160,79,5,4,80,18,15511|15516|81489|193740,Hspa1b|Hsp90ab1|Dnajb1|Hspa1a,-5.9
+hits_MCODE_ALL,GO Biological Processes,19,GO:0009408,response to heat,19_GO:0050896 response to stimulus,-8.7,1.8e+02,27,21160,94,5,4,80,18,15511|15516|81489|193740,Hspa1b|Hsp90ab1|Dnajb1|Hspa1a,-5.6
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-2262752,Cellular responses to stress,,-8.2,44,15,21160,480,5,5,1e+02,18,15511|15516|20867|81489|193740,Hspa1b|Hsp90ab1|Stip1|Dnajb1|Hspa1a,-5.2
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-8953897,Cellular responses to stimuli,,-8,39,14,21160,543,5,5,1e+02,18,15511|15516|20867|81489|193740,Hspa1b|Hsp90ab1|Stip1|Dnajb1|Hspa1a,-5
+hits_MCODE_ALL,KEGG Pathway,24,mmu04141,Protein processing in endoplasmic reticulum - Mus musculus (house mouse),,-7.6,97,20,21160,175,5,4,80,18,15511|15516|81489|193740,Hspa1b|Hsp90ab1|Dnajb1|Hspa1a,-4.7
+hits_MCODE_ALL,GO Biological Processes,19,GO:0009266,response to temperature stimulus,19_GO:0050896 response to stimulus,-7.6,97,20,21160,175,5,4,80,18,15511|15516|81489|193740,Hspa1b|Hsp90ab1|Dnajb1|Hspa1a,-4.7
+hits_MCODE_ALL,GO Biological Processes,19,GO:0006457,protein folding,19_GO:0009987 cellular process,-7.6,94,19,21160,181,5,4,80,18,15511|15516|81489|193740,Hspa1b|Hsp90ab1|Dnajb1|Hspa1a,-4.7
+hits_MCODE_ALL,GO Biological Processes,19,GO:0051085,chaperone cofactor-dependent protein refolding,19_GO:0009987 cellular process,-7.4,3.7e+02,33,21160,34,5,3,60,22,15511|81489|193740,Hspa1b|Dnajb1|Hspa1a,-4.6
+hits_MCODE_ALL,GO Biological Processes,19,GO:0051084,'de novo' post-translational protein folding,19_GO:0009987 cellular process,-7,2.8e+02,29,21160,45,5,3,60,22,15511|81489|193740,Hspa1b|Dnajb1|Hspa1a,-4.3
+hits_MCODE_ALL,GO Biological Processes,19,GO:0006458,'de novo' protein folding,19_GO:0009987 cellular process,-7,2.7e+02,28,21160,47,5,3,60,22,15511|81489|193740,Hspa1b|Dnajb1|Hspa1a,-4.3
+hits_MCODE_ALL,GO Biological Processes,19,GO:0034605,cellular response to heat,19_GO:0050896 response to stimulus,-6.8,2.4e+02,26,21160,54,5,3,60,22,15511|15516|81489,Hspa1b|Hsp90ab1|Dnajb1,-4.1
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-3371453,Regulation of HSF1-mediated heat shock response,,-6.6,2.1e+02,25,21160,61,5,3,60,22,15511|81489|193740,Hspa1b|Dnajb1|Hspa1a,-4
+hits_MCODE_ALL,KEGG Pathway,24,mmu04612,Antigen processing and presentation - Mus musculus (house mouse),,-6.2,1.5e+02,21,21160,87,5,3,60,22,15511|15516|193740,Hspa1b|Hsp90ab1|Hspa1a,-3.5
+hits_MCODE_ALL,GO Biological Processes,19,GO:0051604,protein maturation,19_GO:0009987 cellular process,-5.6,31,11,21160,555,5,4,80,18,15511|15516|81489|193740,Hspa1b|Hsp90ab1|Dnajb1|Hspa1a,-3
+hits_MCODE_ALL,GO Biological Processes,19,GO:0032434,regulation of proteasomal ubiquitin-dependent protein catabolic process,19_GO:0050789 regulation of biological process,-5.6,96,17,21160,132,5,3,60,22,15511|15516|193740,Hspa1b|Hsp90ab1|Hspa1a,-3
+hits_MCODE_ALL,KEGG Pathway,24,mmu04915,Estrogen signaling pathway - Mus musculus (house mouse),,-5.6,95,17,21160,134,5,3,60,22,15511|15516|193740,Hspa1b|Hsp90ab1|Hspa1a,-3
+hits_MCODE_ALL,GO Biological Processes,19,GO:2000058,regulation of ubiquitin-dependent protein catabolic process,19_GO:0050789 regulation of biological process,-5.3,75,15,21160,170,5,3,60,22,15511|15516|193740,Hspa1b|Hsp90ab1|Hspa1a,-2.8
+hits_MCODE_ALL,GO Biological Processes,19,GO:0061136,regulation of proteasomal protein catabolic process,19_GO:0050789 regulation of biological process,-5.1,64,14,21160,197,5,3,60,22,15511|15516|193740,Hspa1b|Hsp90ab1|Hspa1a,-2.6
+hits_MCODE_ALL,KEGG Pathway,24,mmu05417,Lipid and atherosclerosis - Mus musculus (house mouse),,-5,59,13,21160,217,5,3,60,22,15511|15516|193740,Hspa1b|Hsp90ab1|Hspa1a,-2.5
+hits_MCODE_ALL,GO Biological Processes,19,GO:1903050,regulation of proteolysis involved in protein catabolic process,19_GO:0050789 regulation of biological process,-4.9,54,13,21160,234,5,3,60,22,15511|15516|193740,Hspa1b|Hsp90ab1|Hspa1a,-2.4
+hits_MCODE_ALL,KEGG Pathway,24,mmu05020,Prion disease - Mus musculus (house mouse),,-4.7,47,12,21160,273,5,3,60,22,15511|20867|193740,Hspa1b|Stip1|Hspa1a,-2.3
+hits_MCODE_ALL,GO Biological Processes,19,GO:0042176,regulation of protein catabolic process,19_GO:0050789 regulation of biological process,-4.3,34,9.9,21160,374,5,3,60,22,15511|15516|193740,Hspa1b|Hsp90ab1|Hspa1a,-1.9
+hits_MCODE_ALL,Reactome Gene Sets,6,R-MMU-6798695,Neutrophil degranulation,,-3.9,25,8.4,21160,506,5,3,60,22,15511|15516|193740,Hspa1b|Hsp90ab1|Hspa1a,-1.6
+hits_MCODE_ALL,GO Biological Processes,19,GO:0030162,regulation of proteolysis,19_GO:0050789 regulation of biological process,-3.6,19,7.4,21160,653,5,3,60,22,15511|15516|193740,Hspa1b|Hsp90ab1|Hspa1a,-1.3
+hits_SUB1_MCODE_1,Reactome Gene Sets,6,R-MMU-3371497,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,,-13,4.2e+02,46,21160,50,5,5,1e+02,18,15511|15516|20867|81489|193740,Hspa1b|Hsp90ab1|Stip1|Dnajb1|Hspa1a,-9.3
+hits_SUB1_MCODE_1,Reactome Gene Sets,6,R-MMU-3371568,Attenuation phase,,-12,1.3e+03,72,21160,13,5,4,80,18,15511|15516|81489|193740,Hspa1b|Hsp90ab1|Dnajb1|Hspa1a,-8.7
+hits_SUB1_MCODE_1,Reactome Gene Sets,6,R-MMU-3371571,HSF1-dependent transactivation,,-11,7.7e+02,55,21160,22,5,4,80,18,15511|15516|81489|193740,Hspa1b|Hsp90ab1|Dnajb1|Hspa1a,-7.9
+hits_SUB1_MCODE_1,GO Biological Processes,19,GO:0061077,chaperone-mediated protein folding,19_GO:0009987 cellular process,-9.3,2.5e+02,31,21160,68,5,4,80,18,15511|15516|81489|193740,Hspa1b|Hsp90ab1|Dnajb1|Hspa1a,-6
+hits_SUB1_MCODE_1,Reactome Gene Sets,6,R-MMU-3371556,Cellular response to heat stress,,-9,2.1e+02,29,21160,79,5,4,80,18,15511|15516|81489|193740,Hspa1b|Hsp90ab1|Dnajb1|Hspa1a,-5.9
+hits_SUB1_MCODE_1,GO Biological Processes,19,GO:0009408,response to heat,19_GO:0050896 response to stimulus,-8.7,1.8e+02,27,21160,94,5,4,80,18,15511|15516|81489|193740,Hspa1b|Hsp90ab1|Dnajb1|Hspa1a,-5.6
+hits_SUB1_MCODE_1,Reactome Gene Sets,6,R-MMU-2262752,Cellular responses to stress,,-8.2,44,15,21160,480,5,5,1e+02,18,15511|15516|20867|81489|193740,Hspa1b|Hsp90ab1|Stip1|Dnajb1|Hspa1a,-5.2
+hits_SUB1_MCODE_1,Reactome Gene Sets,6,R-MMU-8953897,Cellular responses to stimuli,,-8,39,14,21160,543,5,5,1e+02,18,15511|15516|20867|81489|193740,Hspa1b|Hsp90ab1|Stip1|Dnajb1|Hspa1a,-5
+hits_SUB1_MCODE_1,KEGG Pathway,24,mmu04141,Protein processing in endoplasmic reticulum - Mus musculus (house mouse),,-7.6,97,20,21160,175,5,4,80,18,15511|15516|81489|193740,Hspa1b|Hsp90ab1|Dnajb1|Hspa1a,-4.7
+hits_SUB1_MCODE_1,GO Biological Processes,19,GO:0009266,response to temperature stimulus,19_GO:0050896 response to stimulus,-7.6,97,20,21160,175,5,4,80,18,15511|15516|81489|193740,Hspa1b|Hsp90ab1|Dnajb1|Hspa1a,-4.7
+hits_SUB1_MCODE_1,GO Biological Processes,19,GO:0006457,protein folding,19_GO:0009987 cellular process,-7.6,94,19,21160,181,5,4,80,18,15511|15516|81489|193740,Hspa1b|Hsp90ab1|Dnajb1|Hspa1a,-4.7
+hits_SUB1_MCODE_1,GO Biological Processes,19,GO:0051085,chaperone cofactor-dependent protein refolding,19_GO:0009987 cellular process,-7.4,3.7e+02,33,21160,34,5,3,60,22,15511|81489|193740,Hspa1b|Dnajb1|Hspa1a,-4.6
+hits_SUB1_MCODE_1,GO Biological Processes,19,GO:0051084,'de novo' post-translational protein folding,19_GO:0009987 cellular process,-7,2.8e+02,29,21160,45,5,3,60,22,15511|81489|193740,Hspa1b|Dnajb1|Hspa1a,-4.3
+hits_SUB1_MCODE_1,GO Biological Processes,19,GO:0006458,'de novo' protein folding,19_GO:0009987 cellular process,-7,2.7e+02,28,21160,47,5,3,60,22,15511|81489|193740,Hspa1b|Dnajb1|Hspa1a,-4.3
+hits_SUB1_MCODE_1,GO Biological Processes,19,GO:0034605,cellular response to heat,19_GO:0050896 response to stimulus,-6.8,2.4e+02,26,21160,54,5,3,60,22,15511|15516|81489,Hspa1b|Hsp90ab1|Dnajb1,-4.1
+hits_SUB1_MCODE_1,Reactome Gene Sets,6,R-MMU-3371453,Regulation of HSF1-mediated heat shock response,,-6.6,2.1e+02,25,21160,61,5,3,60,22,15511|81489|193740,Hspa1b|Dnajb1|Hspa1a,-4
+hits_SUB1_MCODE_1,KEGG Pathway,24,mmu04612,Antigen processing and presentation - Mus musculus (house mouse),,-6.2,1.5e+02,21,21160,87,5,3,60,22,15511|15516|193740,Hspa1b|Hsp90ab1|Hspa1a,-3.5
+hits_SUB1_MCODE_1,GO Biological Processes,19,GO:0051604,protein maturation,19_GO:0009987 cellular process,-5.6,31,11,21160,555,5,4,80,18,15511|15516|81489|193740,Hspa1b|Hsp90ab1|Dnajb1|Hspa1a,-3
+hits_SUB1_MCODE_1,GO Biological Processes,19,GO:0032434,regulation of proteasomal ubiquitin-dependent protein catabolic process,19_GO:0050789 regulation of biological process,-5.6,96,17,21160,132,5,3,60,22,15511|15516|193740,Hspa1b|Hsp90ab1|Hspa1a,-3
+hits_SUB1_MCODE_1,KEGG Pathway,24,mmu04915,Estrogen signaling pathway - Mus musculus (house mouse),,-5.6,95,17,21160,134,5,3,60,22,15511|15516|193740,Hspa1b|Hsp90ab1|Hspa1a,-3
+hits_SUB1_MCODE_1,GO Biological Processes,19,GO:2000058,regulation of ubiquitin-dependent protein catabolic process,19_GO:0050789 regulation of biological process,-5.3,75,15,21160,170,5,3,60,22,15511|15516|193740,Hspa1b|Hsp90ab1|Hspa1a,-2.8
+hits_SUB1_MCODE_1,GO Biological Processes,19,GO:0061136,regulation of proteasomal protein catabolic process,19_GO:0050789 regulation of biological process,-5.1,64,14,21160,197,5,3,60,22,15511|15516|193740,Hspa1b|Hsp90ab1|Hspa1a,-2.6
+hits_SUB1_MCODE_1,KEGG Pathway,24,mmu05417,Lipid and atherosclerosis - Mus musculus (house mouse),,-5,59,13,21160,217,5,3,60,22,15511|15516|193740,Hspa1b|Hsp90ab1|Hspa1a,-2.5
+hits_SUB1_MCODE_1,GO Biological Processes,19,GO:1903050,regulation of proteolysis involved in protein catabolic process,19_GO:0050789 regulation of biological process,-4.9,54,13,21160,234,5,3,60,22,15511|15516|193740,Hspa1b|Hsp90ab1|Hspa1a,-2.4
+hits_SUB1_MCODE_1,KEGG Pathway,24,mmu05020,Prion disease - Mus musculus (house mouse),,-4.7,47,12,21160,273,5,3,60,22,15511|20867|193740,Hspa1b|Stip1|Hspa1a,-2.3
+hits_SUB1_MCODE_1,GO Biological Processes,19,GO:0042176,regulation of protein catabolic process,19_GO:0050789 regulation of biological process,-4.3,34,9.9,21160,374,5,3,60,22,15511|15516|193740,Hspa1b|Hsp90ab1|Hspa1a,-1.9
+hits_SUB1_MCODE_1,Reactome Gene Sets,6,R-MMU-6798695,Neutrophil degranulation,,-3.9,25,8.4,21160,506,5,3,60,22,15511|15516|193740,Hspa1b|Hsp90ab1|Hspa1a,-1.6
+hits_SUB1_MCODE_1,GO Biological Processes,19,GO:0030162,regulation of proteolysis,19_GO:0050789 regulation of biological process,-3.6,19,7.4,21160,653,5,3,60,22,15511|15516|193740,Hspa1b|Hsp90ab1|Hspa1a,-1.3

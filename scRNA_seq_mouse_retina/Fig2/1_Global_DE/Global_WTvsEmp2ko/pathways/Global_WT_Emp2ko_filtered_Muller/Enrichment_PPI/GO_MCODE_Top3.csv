@@ -1,0 +1,7 @@
+Network,Annotation
+hits,GO:0006366|transcription by RNA polymerase II|-7.8;GO:0006351|DNA-templated transcription|-7.5;mmu04668|TNF signaling pathway - Mus musculus (house mouse)|-7.4
+hits_MCODE_ALL,GO:0006351|DNA-templated transcription|-12.1;GO:0006366|transcription by RNA polymerase II|-11.5;mmu04668|TNF signaling pathway - Mus musculus (house mouse)|-9.7
+hits_SUB1_MCODE_1,GO:0071277|cellular response to calcium ion|-9.6;mmu04380|Osteoclast differentiation - Mus musculus (house mouse)|-8.8;GO:0051592|response to calcium ion|-8.6
+hits_SUB1_MCODE_2,GO:0006351|DNA-templated transcription|-4.8;GO:0001819|positive regulation of cytokine production|-4.8
+hits_SUB1_MCODE_3,R-MMU-1234176|Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha|-7.9;R-MMU-1234174|Cellular response to hypoxia|-7.8;R-MMU-8951664|Neddylation|-6.1
+hits_SUB1_MCODE_4,R-MMU-9013420|RHOU GTPase cycle|-8.4;R-MMU-9012999|RHO GTPase cycle|-5.2;R-MMU-194315|Signaling by Rho GTPases|-4.7

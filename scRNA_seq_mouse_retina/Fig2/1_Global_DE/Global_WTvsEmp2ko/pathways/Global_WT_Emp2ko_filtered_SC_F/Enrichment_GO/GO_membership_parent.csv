@@ -1,0 +1,8 @@
+_MEMBER_hits,_LogP_hits,GO,Description,_PATTERN_,_RANK_,CHILD_GO_hits
+1,-3.4306931197173722,GO:0050896,response to stimulus,M1,1,GO:0071363 cellular response to growth factor stimulus
+1,-3.3906228507008644,GO:0050789,regulation of biological process,M1,1,GO:1903426 regulation of reactive oxygen species biosynthetic process
+1,-3.3505142226808515,GO:0048519,negative regulation of biological process,M1,1,GO:1903427 negative regulation of reactive oxygen species biosynthetic process
+1,-2.885397750382708,GO:0032502,developmental process,M1,1,GO:0035107 appendage morphogenesis
+1,-2.73755481198339,GO:0048518,positive regulation of biological process,M1,1,GO:0051057 positive regulation of small GTPase mediated signal transduction
+1,-2.6342375501877067,GO:0009987,cellular process,M1,1,GO:0007005 mitochondrion organization
+1,-2.2030541287860936,GO:0051179,localization,M1,1,GO:1902305 regulation of sodium ion transmembrane transport

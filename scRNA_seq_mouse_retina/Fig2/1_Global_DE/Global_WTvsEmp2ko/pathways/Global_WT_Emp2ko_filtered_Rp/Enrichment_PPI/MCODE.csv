@@ -1,0 +1,6 @@
+Cluster,Score,Type,Gene,Symbol,Network
+1,2.0,Seed,15511,Hspa1b,hits_SUB1
+1,2.0,Clustered,15516,Hsp90ab1,hits_SUB1
+1,2.0,Clustered,193740,Hspa1a,hits_SUB1
+1,2.0,Clustered,20867,Stip1,hits_SUB1
+1,2.0,Clustered,81489,Dnajb1,hits_SUB1

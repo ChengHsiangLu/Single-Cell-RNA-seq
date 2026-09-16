@@ -1,0 +1,178 @@
+_MEMBER_hits,_LogP_hits,GO,Description,_PATTERN_,_RANK_,GiniIndex
+1,-4,GO:0071276,cellular response to cadmium ion,M1,1,0
+1,-2.5,WP265,Delta Notch signaling pathway,M1,1,0
+1,-3,GO:0070372,regulation of ERK1 and ERK2 cascade,M1,1,0
+1,-2.9,GO:0035335,peptidyl-tyrosine dephosphorylation,M1,1,0
+1,-2.1,GO:0071560,cellular response to transforming growth factor beta stimulus,M1,1,0
+1,-2.7,mmu05031,Amphetamine addiction - Mus musculus (house mouse),M1,1,0
+1,-3.2,mmu04380,Osteoclast differentiation - Mus musculus (house mouse),M1,1,0
+1,-3.2,mmu04657,IL-17 signaling pathway - Mus musculus (house mouse),M1,1,0
+1,-3,R-MMU-2262752,Cellular responses to stress,M1,1,0
+1,-2.7,GO:0045637,regulation of myeloid cell differentiation,M1,1,0
+1,-2,GO:0061008,hepaticobiliary system development,M1,1,0
+1,-2.3,GO:0050684,regulation of mRNA processing,M1,1,0
+1,-2.8,GO:0022604,regulation of cell morphogenesis,M1,1,0
+1,-2.7,R-MMU-168164,Toll Like Receptor 3 (TLR3) Cascade,M1,1,0
+1,-2.7,GO:0032231,regulation of actin filament bundle assembly,M1,1,0
+1,-2.5,GO:0044706,multi-multicellular organism process,M1,1,0
+1,-2.3,mmu05210,Colorectal cancer - Mus musculus (house mouse),M1,1,0
+1,-2.1,GO:0014896,muscle hypertrophy,M1,1,0
+1,-2.9,GO:0060711,labyrinthine layer development,M1,1,0
+1,-2.1,GO:0006195,purine nucleotide catabolic process,M1,1,0
+1,-2.1,mmu04620,Toll-like receptor signaling pathway - Mus musculus (house mouse),M1,1,0
+1,-2.1,GO:0009261,ribonucleotide catabolic process,M1,1,0
+1,-3.5,GO:0001944,vasculature development,M1,1,0
+1,-2.1,WP65,Insulin signaling,M1,1,0
+1,-2.4,GO:0003151,outflow tract morphogenesis,M1,1,0
+1,-2.3,GO:0009410,response to xenobiotic stimulus,M1,1,0
+1,-6.8,GO:0006351,DNA-templated transcription,M1,1,0
+1,-2.5,R-MMU-975155,MyD88 dependent cascade initiated on endosome,M1,1,0
+1,-3.2,GO:0001568,blood vessel development,M1,1,0
+1,-2.7,GO:0008285,negative regulation of cell population proliferation,M1,1,0
+1,-2.3,GO:0014855,striated muscle cell proliferation,M1,1,0
+1,-3.9,mmu05166,Human T-cell leukemia virus 1 infection - Mus musculus (house mouse),M1,1,0
+1,-3.4,GO:0030099,myeloid cell differentiation,M1,1,0
+1,-2.3,R-MMU-389356,Co-stimulation by CD28,M1,1,0
+1,-2.3,GO:0097190,apoptotic signaling pathway,M1,1,0
+1,-2.2,WP387,IL 6 signaling pathway,M1,1,0
+1,-2.1,GO:0030855,epithelial cell differentiation,M1,1,0
+1,-2,GO:0003179,heart valve morphogenesis,M1,1,0
+1,-3,R-MMU-450282,MAPK targets/ Nuclear events mediated by MAP kinases,M1,1,0
+1,-2.2,WP385,Myometrial relaxation and contraction pathways,M1,1,0
+1,-2.1,GO:0030010,establishment of cell polarity,M1,1,0
+1,-2.6,R-MMU-168188,Toll Like Receptor TLR6:TLR2 Cascade,M1,1,0
+1,-2.6,GO:0031960,response to corticosteroid,M1,1,0
+1,-2.5,R-MMU-202403,TCR signaling,M1,1,0
+1,-2.6,R-MMU-422475,Axon guidance,M1,1,0
+1,-4.2,R-MMU-8953897,Cellular responses to stimuli,M1,1,0
+1,-2.5,R-MMU-975138,TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation,M1,1,0
+1,-2.1,GO:0071356,cellular response to tumor necrosis factor,M1,1,0
+1,-4.1,R-MMU-2454202,Fc epsilon receptor (FCERI) signaling,M1,1,0
+1,-2.6,R-MMU-9013420,RHOU GTPase cycle,M1,1,0
+1,-2.4,GO:0031669,cellular response to nutrient levels,M1,1,0
+1,-2.1,WP2432,Spinal cord injury,M1,1,0
+1,-2.4,GO:0048660,regulation of smooth muscle cell proliferation,M1,1,0
+1,-2,GO:0062197,cellular response to chemical stress,M1,1,0
+1,-3,mmu04933,AGE-RAGE signaling pathway in diabetic complications - Mus musculus (house mouse),M1,1,0
+1,-2.4,GO:0070059,intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress,M1,1,0
+1,-2.7,GO:0001892,embryonic placenta development,M1,1,0
+1,-2.5,mmu04210,Apoptosis - Mus musculus (house mouse),M1,1,0
+1,-2.6,GO:0045943,positive regulation of transcription by RNA polymerase I,M1,1,0
+1,-3.4,GO:0006356,regulation of transcription by RNA polymerase I,M1,1,0
+1,-2.3,mmu05418,Fluid shear stress and atherosclerosis - Mus musculus (house mouse),M1,1,0
+1,-2.1,GO:0051591,response to cAMP,M1,1,0
+1,-2.7,GO:0045600,positive regulation of fat cell differentiation,M1,1,0
+1,-2.9,WP412,Oxidative stress response,M1,1,0
+1,-2.4,GO:0071277,cellular response to calcium ion,M1,1,0
+1,-3.4,mmu04662,B cell receptor signaling pathway - Mus musculus (house mouse),M1,1,0
+1,-7.2,GO:0006366,transcription by RNA polymerase II,M1,1,0
+1,-2.4,GO:0002521,leukocyte differentiation,M1,1,0
+1,-2.3,R-MMU-937061,TRIF (TICAM1)-mediated TLR4 signaling,M1,1,0
+1,-2.6,GO:0001654,eye development,M1,1,0
+1,-2.3,R-MMU-166166,MyD88-independent TLR4 cascade,M1,1,0
+1,-2.1,mmu05142,Chagas disease - Mus musculus (house mouse),M1,1,0
+1,-5.5,mmu04668,TNF signaling pathway - Mus musculus (house mouse),M1,1,0
+1,-2.9,GO:0043010,camera-type eye development,M1,1,0
+1,-3.3,mmu04926,Relaxin signaling pathway - Mus musculus (house mouse),M1,1,0
+1,-3.1,GO:0035994,response to muscle stretch,M1,1,0
+1,-3.1,GO:2000628,regulation of miRNA metabolic process,M1,1,0
+1,-3.2,GO:0070848,response to growth factor,M1,1,0
+1,-3,GO:0048514,blood vessel morphogenesis,M1,1,0
+1,-2.5,GO:0044703,multi-organism reproductive process,M1,1,0
+1,-2.7,GO:0048545,response to steroid hormone,M1,1,0
+1,-3,GO:0060716,labyrinthine layer blood vessel development,M1,1,0
+1,-2.5,GO:0033365,protein localization to organelle,M1,1,0
+1,-2.6,R-MMU-975871,MyD88 cascade initiated on plasma membrane,M1,1,0
+1,-2.4,GO:0071363,cellular response to growth factor stimulus,M1,1,0
+1,-2.8,R-MMU-9013408,RHOG GTPase cycle,M1,1,0
+1,-2.1,GO:0046503,glycerolipid catabolic process,M1,1,0
+1,-2.5,GO:0048880,sensory system development,M1,1,0
+1,-2.4,R-MMU-983705,Signaling by the B Cell Receptor (BCR),M1,1,0
+1,-2,GO:0010810,regulation of cell-substrate adhesion,M1,1,0
+1,-2.8,GO:0051384,response to glucocorticoid,M1,1,0
+1,-2.6,GO:0150063,visual system development,M1,1,0
+1,-2.2,R-MMU-1234176,Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha,M1,1,0
+1,-2.2,GO:0014897,striated muscle hypertrophy,M1,1,0
+1,-2.8,GO:0043524,negative regulation of neuron apoptotic process,M1,1,0
+1,-3.4,GO:1902904,negative regulation of supramolecular fiber organization,M1,1,0
+1,-2.5,GO:1902683,regulation of receptor localization to synapse,M1,1,0
+1,-3,GO:0071248,cellular response to metal ion,M1,1,0
+1,-2.8,GO:0006882,intracellular zinc ion homeostasis,M1,1,0
+1,-2.7,WP572,EGFR1 signaling pathway,M1,1,0
+1,-2.2,WP544,Exercise induced circadian regulation,M1,1,0
+1,-2.8,mmu05161,Hepatitis B - Mus musculus (house mouse),M1,1,0
+1,-2.4,GO:0001890,placenta development,M1,1,0
+1,-2.6,R-MMU-168176,Toll Like Receptor 5 (TLR5) Cascade,M1,1,0
+1,-2.2,mmu05030,Cocaine addiction - Mus musculus (house mouse),M1,1,0
+1,-2.8,GO:0031667,response to nutrient levels,M1,1,0
+1,-2.7,WP2872,White fat cell differentiation,M1,1,0
+1,-2.6,R-MMU-168142,Toll Like Receptor 10 (TLR10) Cascade,M1,1,0
+1,-2.1,R-MMU-448424,Interleukin-17 signaling,M1,1,0
+1,-2.2,GO:0045638,negative regulation of myeloid cell differentiation,M1,1,0
+1,-2.6,GO:0043409,negative regulation of MAPK cascade,M1,1,0
+1,-2.6,GO:0061035,regulation of cartilage development,M1,1,0
+1,-2.8,GO:0001525,angiogenesis,M1,1,0
+1,-2.8,mmu04932,Non-alcoholic fatty liver disease - Mus musculus (house mouse),M1,1,0
+1,-2.8,GO:0070167,regulation of biomineral tissue development,M1,1,0
+1,-2.1,GO:0001889,liver development,M1,1,0
+1,-3.6,GO:0032232,negative regulation of actin filament bundle assembly,M1,1,0
+1,-2.3,mmu05235,PD-L1 expression and PD-1 checkpoint pathway in cancer - Mus musculus (house mouse),M1,1,0
+1,-2.1,GO:0008038,neuron recognition,M1,1,0
+1,-3,R-MMU-449147,Signaling by Interleukins,M1,1,0
+1,-3,GO:1904754,positive regulation of vascular associated smooth muscle cell migration,M1,1,0
+1,-2.2,GO:0051129,negative regulation of cellular component organization,M1,1,0
+1,-2.6,GO:0042594,response to starvation,M1,1,0
+1,-2,GO:0034599,cellular response to oxidative stress,M1,1,0
+1,-3,GO:0070169,positive regulation of biomineral tissue development,M1,1,0
+1,-3.3,GO:0034976,response to endoplasmic reticulum stress,M1,1,0
+1,-2.3,mmu05224,Breast cancer - Mus musculus (house mouse),M1,1,0
+1,-2.3,GO:0060041,retina development in camera-type eye,M1,1,0
+1,-2.2,GO:0007565,female pregnancy,M1,1,0
+1,-2.2,R-MMU-194138,Signaling by VEGF,M1,1,0
+1,-2.9,mmu05417,Lipid and atherosclerosis - Mus musculus (house mouse),M1,1,0
+1,-2.3,GO:0009154,purine ribonucleotide catabolic process,M1,1,0
+1,-2.6,R-MMU-181438,Toll Like Receptor 2 (TLR2) Cascade,M1,1,0
+1,-2.3,GO:0009267,cellular response to starvation,M1,1,0
+1,-3.1,GO:0046686,response to cadmium ion,M1,1,0
+1,-2.7,mmu05211,Renal cell carcinoma - Mus musculus (house mouse),M1,1,0
+1,-2.3,GO:1901292,nucleoside phosphate catabolic process,M1,1,0
+1,-2.3,R-MMU-373755,Semaphorin interactions,M1,1,0
+1,-2,GO:0014910,regulation of smooth muscle cell migration,M1,1,0
+1,-2.2,GO:0010639,negative regulation of organelle organization,M1,1,0
+1,-2.9,R-MMU-2871796,FCERI mediated MAPK activation,M1,1,0
+1,-2.6,GO:1903706,regulation of hemopoiesis,M1,1,0
+1,-2,GO:0032330,regulation of chondrocyte differentiation,M1,1,0
+1,-2.4,GO:0046434,organophosphate catabolic process,M1,1,0
+1,-2.4,GO:0043523,regulation of neuron apoptotic process,M1,1,0
+1,-2.6,R-MMU-166058,MyD88:MAL(TIRAP) cascade initiated on plasma membrane,M1,1,0
+1,-2.2,GO:0003300,cardiac muscle hypertrophy,M1,1,0
+1,-2.1,GO:0035272,exocrine system development,M1,1,0
+1,-2.1,R-MMU-450294,MAP kinase activation,M1,1,0
+1,-3.5,R-MMU-1280218,Adaptive Immune System,M1,1,0
+1,-2.6,GO:0061036,positive regulation of cartilage development,M1,1,0
+1,-2.6,mmu04660,T cell receptor signaling pathway - Mus musculus (house mouse),M1,1,0
+1,-2.1,GO:0051603,proteolysis involved in protein catabolic process,M1,1,0
+1,-2.7,mmu05207,Chemical carcinogenesis - receptor activation - Mus musculus (house mouse),M1,1,0
+1,-2.1,mmu05208,Chemical carcinogenesis - reactive oxygen species - Mus musculus (house mouse),M1,1,0
+1,-2,R-MMU-166016,Toll Like Receptor 4 (TLR4) Cascade,M1,1,0
+1,-2.7,GO:0032922,circadian regulation of gene expression,M1,1,0
+1,-2.5,GO:0060674,placenta blood vessel development,M1,1,0
+1,-2.2,GO:0051492,regulation of stress fiber assembly,M1,1,0
+1,-2.6,GO:0014911,positive regulation of smooth muscle cell migration,M1,1,0
+1,-2.6,R-MMU-9675108,Nervous system development,M1,1,0
+1,-2.2,R-MMU-1280215,Cytokine Signaling in Immune system,M1,1,0
+1,-2.5,R-MMU-9006934,Signaling by Receptor Tyrosine Kinases,M1,1,0
+1,-2.6,R-MMU-168179,Toll Like Receptor TLR1:TLR2 Cascade,M1,1,0
+1,-3.3,GO:0070373,negative regulation of ERK1 and ERK2 cascade,M1,1,0
+1,-2.1,R-MMU-1234174,Cellular response to hypoxia,M1,1,0
+1,-2.3,R-MMU-168138,Toll Like Receptor 9 (TLR9) Cascade,M1,1,0
+1,-2.5,GO:1904752,regulation of vascular associated smooth muscle cell migration,M1,1,0
+1,-3.9,GO:2000630,positive regulation of miRNA metabolic process,M1,1,0
+1,-2.4,mmu03060,Protein export - Mus musculus (house mouse),M1,1,0
+1,-2.5,GO:0007431,salivary gland development,M1,1,0
+1,-3,WP3654,Novel Jun Dmp1 pathway,M1,1,0
+1,-2.4,R-MMU-168181,Toll Like Receptor 7/8 (TLR7/8) Cascade,M1,1,0
+1,-3.5,GO:1902893,regulation of miRNA transcription,M1,1,0
+1,-2.9,WP493,Mapk signaling pathway,M1,1,0
+1,-4.1,GO:1902895,positive regulation of miRNA transcription,M1,1,0
+1,-2.7,GO:0051497,negative regulation of stress fiber assembly,M1,1,0
