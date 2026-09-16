@@ -1,0 +1,861 @@
+_MEMBER_hits,_LogP_hits,GO,Description,_PATTERN_,_RANK_,GiniIndex
+1,-4.4,GO:0048732,gland development,M1,1,0
+1,-2.9,R-MMU-2142753,Arachidonate metabolism,M1,1,0
+1,-3.2,GO:0022405,hair cycle process,M1,1,0
+1,-3.7,mmu01200,Carbon metabolism - Mus musculus (house mouse),M1,1,0
+1,-4,GO:0042939,tripeptide transport,M1,1,0
+1,-5.2,GO:0090287,regulation of cellular response to growth factor stimulus,M1,1,0
+1,-2.7,GO:0007596,blood coagulation,M1,1,0
+1,-2.8,GO:1905907,negative regulation of amyloid fibril formation,M1,1,0
+1,-2.6,R-MMU-70326,Glucose metabolism,M1,1,0
+1,-7.6,GO:0022900,electron transport chain,M1,1,0
+1,-4.5,GO:0010039,response to iron ion,M1,1,0
+1,-2.9,mmu04216,Ferroptosis - Mus musculus (house mouse),M1,1,0
+1,-4.6,GO:0097250,mitochondrial respirasome assembly,M1,1,0
+1,-3.8,GO:0006643,membrane lipid metabolic process,M1,1,0
+1,-8.5,GO:0051129,negative regulation of cellular component organization,M1,1,0
+1,-2.9,GO:0071709,membrane assembly,M1,1,0
+1,-2.4,GO:0032024,positive regulation of insulin secretion,M1,1,0
+1,-2.3,mmu00600,Sphingolipid metabolism - Mus musculus (house mouse),M1,1,0
+1,-3.6,GO:0043254,regulation of protein-containing complex assembly,M1,1,0
+1,-2.1,GO:0030036,actin cytoskeleton organization,M1,1,0
+1,-2.8,GO:0007009,plasma membrane organization,M1,1,0
+1,-3,GO:0098660,inorganic ion transmembrane transport,M1,1,0
+1,-2.6,mmu04512,ECM-receptor interaction - Mus musculus (house mouse),M1,1,0
+1,-5.4,R-MMU-2046106,alpha-linolenic acid (ALA) metabolism,M1,1,0
+1,-2.6,GO:0051338,regulation of transferase activity,M1,1,0
+1,-6.1,mmu04142,Lysosome - Mus musculus (house mouse),M1,1,0
+1,-2.3,GO:1904407,positive regulation of nitric oxide metabolic process,M1,1,0
+1,-4.4,GO:0044403,biological process involved in symbiotic interaction,M1,1,0
+1,-2.6,WP4466,Oxidative stress and redox pathway,M1,1,0
+1,-3.7,GO:0045596,negative regulation of cell differentiation,M1,1,0
+1,-3.1,GO:2000179,positive regulation of neural precursor cell proliferation,M1,1,0
+1,-2.6,GO:0048568,embryonic organ development,M1,1,0
+1,-2.2,GO:0008406,gonad development,M1,1,0
+1,-2.3,GO:0007626,locomotory behavior,M1,1,0
+1,-3.1,GO:0061620,glycolytic process through glucose-6-phosphate,M1,1,0
+1,-3.2,GO:1904706,negative regulation of vascular associated smooth muscle cell proliferation,M1,1,0
+1,-2.2,GO:0007007,inner mitochondrial membrane organization,M1,1,0
+1,-8.3,GO:0042776,proton motive force-driven mitochondrial ATP synthesis,M1,1,0
+1,-2.6,GO:0071901,negative regulation of protein serine/threonine kinase activity,M1,1,0
+1,-2,R-MMU-112409,RAF-independent MAPK1/3 activation,M1,1,0
+1,-3.7,GO:1903829,positive regulation of protein localization,M1,1,0
+1,-2,GO:0021872,forebrain generation of neurons,M1,1,0
+1,-3.8,GO:0098655,monoatomic cation transmembrane transport,M1,1,0
+1,-2.5,GO:0014015,positive regulation of gliogenesis,M1,1,0
+1,-3.3,GO:0051346,negative regulation of hydrolase activity,M1,1,0
+1,-2.8,GO:0031346,positive regulation of cell projection organization,M1,1,0
+1,-2.2,GO:0060606,tube closure,M1,1,0
+1,-3.9,GO:0044057,regulation of system process,M1,1,0
+1,-3.1,GO:0015800,acidic amino acid transport,M1,1,0
+1,-2.5,GO:0010766,negative regulation of sodium ion transport,M1,1,0
+1,-2.4,GO:0034111,negative regulation of homotypic cell-cell adhesion,M1,1,0
+1,-2.1,R-MMU-212436,Generic Transcription Pathway,M1,1,0
+1,-2.5,GO:0045665,negative regulation of neuron differentiation,M1,1,0
+1,-2.2,GO:0090162,establishment of epithelial cell polarity,M1,1,0
+1,-2.2,GO:0009064,glutamine family amino acid metabolic process,M1,1,0
+1,-2.1,mmu04960,Aldosterone-regulated sodium reabsorption - Mus musculus (house mouse),M1,1,0
+1,-4.9,GO:1905906,regulation of amyloid fibril formation,M1,1,0
+1,-2.7,GO:0050821,protein stabilization,M1,1,0
+1,-3.5,GO:0046718,symbiont entry into host cell,M1,1,0
+1,-4.6,GO:0010639,negative regulation of organelle organization,M1,1,0
+1,-2.8,GO:0007167,enzyme-linked receptor protein signaling pathway,M1,1,0
+1,-2.4,GO:0048880,sensory system development,M1,1,0
+1,-2.1,GO:0031069,hair follicle morphogenesis,M1,1,0
+1,-4.2,GO:0034103,regulation of tissue remodeling,M1,1,0
+1,-2.7,GO:0042761,very long-chain fatty acid biosynthetic process,M1,1,0
+1,-5.7,R-MMU-8978868,Fatty acid metabolism,M1,1,0
+1,-4,WP2573,Primary focal segmental glomerulosclerosis FSGS,M1,1,0
+1,-2.7,GO:0007617,mating behavior,M1,1,0
+1,-3,R-MMU-983170,"Antigen Presentation: Folding, assembly and peptide loading of class I MHC",M1,1,0
+1,-2.1,GO:0035567,non-canonical Wnt signaling pathway,M1,1,0
+1,-2.6,R-MMU-6811434,COPI-dependent Golgi-to-ER retrograde traffic,M1,1,0
+1,-4.1,GO:0006790,sulfur compound metabolic process,M1,1,0
+1,-2.5,R-MMU-204005,COPII-mediated vesicle transport,M1,1,0
+1,-2.1,R-MMU-156590,Glutathione conjugation,M1,1,0
+1,-3.2,GO:0090596,sensory organ morphogenesis,M1,1,0
+1,-2.5,GO:0071616,acyl-CoA biosynthetic process,M1,1,0
+1,-3,R-MMU-8856688,Golgi-to-ER retrograde transport,M1,1,0
+1,-3.9,GO:0098801,regulation of renal system process,M1,1,0
+1,-3.6,GO:0071363,cellular response to growth factor stimulus,M1,1,0
+1,-2,GO:0070085,glycosylation,M1,1,0
+1,-2.6,GO:0061077,chaperone-mediated protein folding,M1,1,0
+1,-2,GO:0038084,vascular endothelial growth factor signaling pathway,M1,1,0
+1,-2.9,GO:0030336,negative regulation of cell migration,M1,1,0
+1,-2.9,GO:0046457,prostanoid biosynthetic process,M1,1,0
+1,-3.4,R-MMU-9013405,RHOD GTPase cycle,M1,1,0
+1,-3,GO:0032272,negative regulation of protein polymerization,M1,1,0
+1,-13,mmu05020,Prion disease - Mus musculus (house mouse),M1,1,0
+1,-13,mmu05208,Chemical carcinogenesis - reactive oxygen species - Mus musculus (house mouse),M1,1,0
+1,-2.9,GO:0031669,cellular response to nutrient levels,M1,1,0
+1,-2.1,mmu04911,Insulin secretion - Mus musculus (house mouse),M1,1,0
+1,-4,GO:0060828,regulation of canonical Wnt signaling pathway,M1,1,0
+1,-3.4,GO:0061621,canonical glycolysis,M1,1,0
+1,-6.2,GO:0032787,monocarboxylic acid metabolic process,M1,1,0
+1,-2.1,GO:0016485,protein processing,M1,1,0
+1,-2.6,R-MMU-77387,Insulin receptor recycling,M1,1,0
+1,-2.1,GO:0071786,endoplasmic reticulum tubular network organization,M1,1,0
+1,-2.9,GO:0032836,glomerular basement membrane development,M1,1,0
+1,-6.3,R-MMU-948021,Transport to the Golgi and subsequent modification,M1,1,0
+1,-2.5,GO:0001654,eye development,M1,1,0
+1,-2.6,GO:0060670,branching involved in labyrinthine layer morphogenesis,M1,1,0
+1,-2.8,GO:0005975,carbohydrate metabolic process,M1,1,0
+1,-2.4,GO:0048010,vascular endothelial growth factor receptor signaling pathway,M1,1,0
+1,-2.4,GO:0050818,regulation of coagulation,M1,1,0
+1,-2,GO:0010595,positive regulation of endothelial cell migration,M1,1,0
+1,-4.4,mmu01212,Fatty acid metabolism - Mus musculus (house mouse),M1,1,0
+1,-3.1,GO:0006857,oligopeptide transport,M1,1,0
+1,-4.5,GO:1904951,positive regulation of establishment of protein localization,M1,1,0
+1,-2.2,GO:0097106,postsynaptic density organization,M1,1,0
+1,-9.4,GO:0019646,aerobic electron transport chain,M1,1,0
+1,-3.1,GO:0110053,regulation of actin filament organization,M1,1,0
+1,-2.3,GO:0044849,estrous cycle,M1,1,0
+1,-5.1,R-MMU-5628897,TP53 Regulates Metabolic Genes,M1,1,0
+1,-2.6,GO:0001764,neuron migration,M1,1,0
+1,-2.1,GO:0045787,positive regulation of cell cycle,M1,1,0
+1,-3.3,GO:0071356,cellular response to tumor necrosis factor,M1,1,0
+1,-3.2,GO:0120039,plasma membrane bounded cell projection morphogenesis,M1,1,0
+1,-2.5,GO:0000302,response to reactive oxygen species,M1,1,0
+1,-2.4,GO:0034762,regulation of transmembrane transport,M1,1,0
+1,-2.6,GO:0010951,negative regulation of endopeptidase activity,M1,1,0
+1,-5,GO:0044092,negative regulation of molecular function,M1,1,0
+1,-6.8,GO:0006636,unsaturated fatty acid biosynthetic process,M1,1,0
+1,-4.5,GO:0006692,prostanoid metabolic process,M1,1,0
+1,-2.9,GO:0042246,tissue regeneration,M1,1,0
+1,-2.5,GO:0035384,thioester biosynthetic process,M1,1,0
+1,-2.3,GO:0045124,regulation of bone resorption,M1,1,0
+1,-2,GO:0090263,positive regulation of canonical Wnt signaling pathway,M1,1,0
+1,-3.7,GO:0060560,developmental growth involved in morphogenesis,M1,1,0
+1,-2.8,GO:0030837,negative regulation of actin filament polymerization,M1,1,0
+1,-3.8,GO:0071787,endoplasmic reticulum tubular network formation,M1,1,0
+1,-2.4,GO:0071869,response to catecholamine,M1,1,0
+1,-2.3,R-MMU-917937,Iron uptake and transport,M1,1,0
+1,-5.1,GO:0010257,NADH dehydrogenase complex assembly,M1,1,0
+1,-6.7,GO:0051235,maintenance of location,M1,1,0
+1,-3.3,GO:0042391,regulation of membrane potential,M1,1,0
+1,-2.1,mmu05165,Human papillomavirus infection - Mus musculus (house mouse),M1,1,0
+1,-2.7,R-MMU-3371568,Attenuation phase,M1,1,0
+1,-2.7,GO:0010959,regulation of metal ion transport,M1,1,0
+1,-3.5,GO:0098773,skin epidermis development,M1,1,0
+1,-3.1,GO:1990778,protein localization to cell periphery,M1,1,0
+1,-5,GO:0006163,purine nucleotide metabolic process,M1,1,0
+1,-4.8,GO:0001822,kidney development,M1,1,0
+1,-2.4,GO:0001838,embryonic epithelial tube formation,M1,1,0
+1,-5.9,R-MMU-216083,Integrin cell surface interactions,M1,1,0
+1,-2.1,GO:0060071,"Wnt signaling pathway, planar cell polarity pathway",M1,1,0
+1,-2.1,GO:0003007,heart morphogenesis,M1,1,0
+1,-8.1,GO:0043603,amide metabolic process,M1,1,0
+1,-4.9,GO:1902003,regulation of amyloid-beta formation,M1,1,0
+1,-4.3,GO:0048858,cell projection morphogenesis,M1,1,0
+1,-3.5,GO:0080135,regulation of cellular response to stress,M1,1,0
+1,-2.8,GO:0051302,regulation of cell division,M1,1,0
+1,-5.4,GO:0044283,small molecule biosynthetic process,M1,1,0
+1,-6,GO:2001234,negative regulation of apoptotic signaling pathway,M1,1,0
+1,-5.8,GO:0009152,purine ribonucleotide biosynthetic process,M1,1,0
+1,-2.5,GO:0005996,monosaccharide metabolic process,M1,1,0
+1,-2.3,GO:1990000,amyloid fibril formation,M1,1,0
+1,-2.9,GO:0090331,negative regulation of platelet aggregation,M1,1,0
+1,-5.4,R-MMU-2046104,alpha-linolenic (omega3) and linoleic (omega6) acid metabolism,M1,1,0
+1,-3,GO:0070972,protein localization to endoplasmic reticulum,M1,1,0
+1,-2.2,GO:0021761,limbic system development,M1,1,0
+1,-3.7,GO:0043524,negative regulation of neuron apoptotic process,M1,1,0
+1,-3.8,GO:0120035,regulation of plasma membrane bounded cell projection organization,M1,1,0
+1,-2.4,R-MMU-6811442,Intra-Golgi and retrograde Golgi-to-ER traffic,M1,1,0
+1,-3.4,GO:0043409,negative regulation of MAPK cascade,M1,1,0
+1,-2.3,R-MMU-936837,Ion transport by P-type ATPases,M1,1,0
+1,-5,GO:0050678,regulation of epithelial cell proliferation,M1,1,0
+1,-3.1,GO:0042026,protein refolding,M1,1,0
+1,-2.1,GO:0048705,skeletal system morphogenesis,M1,1,0
+1,-5.1,GO:0045229,external encapsulating structure organization,M1,1,0
+1,-2.8,GO:0006897,endocytosis,M1,1,0
+1,-11,GO:0042773,ATP synthesis coupled electron transport,M1,1,0
+1,-2.4,mmu00510,N-Glycan biosynthesis - Mus musculus (house mouse),M1,1,0
+1,-2.9,GO:0051896,regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction,M1,1,0
+1,-2.3,GO:0042692,muscle cell differentiation,M1,1,0
+1,-3.6,GO:0097191,extrinsic apoptotic signaling pathway,M1,1,0
+1,-2,GO:0014020,primary neural tube formation,M1,1,0
+1,-4.3,GO:0040017,positive regulation of locomotion,M1,1,0
+1,-8.7,GO:0051651,maintenance of location in cell,M1,1,0
+1,-4.5,GO:0046394,carboxylic acid biosynthetic process,M1,1,0
+1,-3.6,GO:0031344,regulation of cell projection organization,M1,1,0
+1,-3.6,GO:0010544,negative regulation of platelet activation,M1,1,0
+1,-2.7,GO:0048260,positive regulation of receptor-mediated endocytosis,M1,1,0
+1,-5,GO:0006665,sphingolipid metabolic process,M1,1,0
+1,-3.4,GO:0090101,negative regulation of transmembrane receptor protein serine/threonine kinase signaling pathway,M1,1,0
+1,-2.9,GO:0071214,cellular response to abiotic stimulus,M1,1,0
+1,-2.2,GO:0009416,response to light stimulus,M1,1,0
+1,-4.4,GO:0003401,axis elongation,M1,1,0
+1,-2.5,WP730,Glutathione and one carbon metabolism,M1,1,0
+1,-2.3,GO:0044550,secondary metabolite biosynthetic process,M1,1,0
+1,-3.9,GO:0044248,cellular catabolic process,M1,1,0
+1,-2.2,GO:0032970,regulation of actin filament-based process,M1,1,0
+1,-4.5,GO:0030335,positive regulation of cell migration,M1,1,0
+1,-2,GO:0009062,fatty acid catabolic process,M1,1,0
+1,-2.2,GO:0007162,negative regulation of cell adhesion,M1,1,0
+1,-3.2,GO:0043407,negative regulation of MAP kinase activity,M1,1,0
+1,-2.1,GO:0071295,cellular response to vitamin,M1,1,0
+1,-2.4,R-MMU-9865881,Complex III assembly,M1,1,0
+1,-2.8,GO:1904018,positive regulation of vasculature development,M1,1,0
+1,-16,GO:0009060,aerobic respiration,M1,1,0
+1,-3.2,GO:0085029,extracellular matrix assembly,M1,1,0
+1,-2.6,GO:0046395,carboxylic acid catabolic process,M1,1,0
+1,-3.4,GO:0061718,glucose catabolic process to pyruvate,M1,1,0
+1,-5.1,GO:0006633,fatty acid biosynthetic process,M1,1,0
+1,-2.4,mmu04151,PI3K-Akt signaling pathway - Mus musculus (house mouse),M1,1,0
+1,-2.1,GO:0070374,positive regulation of ERK1 and ERK2 cascade,M1,1,0
+1,-3.8,GO:0007023,post-chaperonin tubulin folding pathway,M1,1,0
+1,-3.1,GO:0048662,negative regulation of smooth muscle cell proliferation,M1,1,0
+1,-3,mmu05418,Fluid shear stress and atherosclerosis - Mus musculus (house mouse),M1,1,0
+1,-2.3,GO:0043434,response to peptide hormone,M1,1,0
+1,-2.5,GO:0010543,regulation of platelet activation,M1,1,0
+1,-3.1,GO:1903828,negative regulation of protein localization,M1,1,0
+1,-2.2,GO:0038063,collagen-activated tyrosine kinase receptor signaling pathway,M1,1,0
+1,-3.4,GO:0042063,gliogenesis,M1,1,0
+1,-5,GO:0060562,epithelial tube morphogenesis,M1,1,0
+1,-3.6,GO:0019368,"fatty acid elongation, unsaturated fatty acid",M1,1,0
+1,-4.3,GO:0034635,glutathione transport,M1,1,0
+1,-2.5,GO:1900076,regulation of cellular response to insulin stimulus,M1,1,0
+1,-2.5,GO:0042438,melanin biosynthetic process,M1,1,0
+1,-4.7,GO:0034248,regulation of amide metabolic process,M1,1,0
+1,-2.4,GO:0051492,regulation of stress fiber assembly,M1,1,0
+1,-8.7,GO:0046034,ATP metabolic process,M1,1,0
+1,-3.9,GO:0080171,lytic vacuole organization,M1,1,0
+1,-3.4,GO:0019367,"fatty acid elongation, saturated fatty acid",M1,1,0
+1,-2.6,GO:0009749,response to glucose,M1,1,0
+1,-2.5,GO:1903077,negative regulation of protein localization to plasma membrane,M1,1,0
+1,-11,GO:0015980,energy derivation by oxidation of organic compounds,M1,1,0
+1,-2.4,GO:0046688,response to copper ion,M1,1,0
+1,-2.6,GO:0010001,glial cell differentiation,M1,1,0
+1,-5.1,GO:0072330,monocarboxylic acid biosynthetic process,M1,1,0
+1,-2.8,GO:0070372,regulation of ERK1 and ERK2 cascade,M1,1,0
+1,-4.1,R-MMU-1474290,Collagen formation,M1,1,0
+1,-2.5,GO:0035383,thioester metabolic process,M1,1,0
+1,-2,R-MMU-9855142,Cellular responses to mechanical stimuli,M1,1,0
+1,-5.4,R-MMU-2022090,Assembly of collagen fibrils and other multimeric structures,M1,1,0
+1,-2.5,GO:0002396,MHC protein complex assembly,M1,1,0
+1,-3.9,GO:0043604,amide biosynthetic process,M1,1,0
+1,-2.7,GO:0060221,retinal rod cell differentiation,M1,1,0
+1,-2.8,R-MMU-9006936,Signaling by TGFB family members,M1,1,0
+1,-2.5,GO:0006690,icosanoid metabolic process,M1,1,0
+1,-2.6,GO:0044091,membrane biogenesis,M1,1,0
+1,-2.4,GO:0099587,inorganic ion import across plasma membrane,M1,1,0
+1,-4.8,GO:0006164,purine nucleotide biosynthetic process,M1,1,0
+1,-3.1,GO:0001890,placenta development,M1,1,0
+1,-4.8,GO:0008285,negative regulation of cell population proliferation,M1,1,0
+1,-3.4,R-MMU-422475,Axon guidance,M1,1,0
+1,-2.1,GO:0050921,positive regulation of chemotaxis,M1,1,0
+1,-2.9,GO:2000177,regulation of neural precursor cell proliferation,M1,1,0
+1,-7.6,GO:0009141,nucleoside triphosphate metabolic process,M1,1,0
+1,-2,GO:0006749,glutathione metabolic process,M1,1,0
+1,-3.5,GO:0030902,hindbrain development,M1,1,0
+1,-4.8,GO:0072657,protein localization to membrane,M1,1,0
+1,-2.8,GO:0045766,positive regulation of angiogenesis,M1,1,0
+1,-4.6,GO:0006693,prostaglandin metabolic process,M1,1,0
+1,-3,GO:0035148,tube formation,M1,1,0
+1,-3.4,GO:0033688,regulation of osteoblast proliferation,M1,1,0
+1,-2.5,GO:0043068,positive regulation of programmed cell death,M1,1,0
+1,-3.3,GO:0010466,negative regulation of peptidase activity,M1,1,0
+1,-3.8,GO:0010975,regulation of neuron projection development,M1,1,0
+1,-2.1,GO:0048754,branching morphogenesis of an epithelial tube,M1,1,0
+1,-2.6,GO:0002685,regulation of leukocyte migration,M1,1,0
+1,-2.2,GO:1900024,regulation of substrate adhesion-dependent cell spreading,M1,1,0
+1,-3.1,R-MMU-2132295,MHC class II antigen presentation,M1,1,0
+1,-2.1,R-MMU-9696273,RND1 GTPase cycle,M1,1,0
+1,-4.9,GO:0098657,import into cell,M1,1,0
+1,-7.5,GO:0061024,membrane organization,M1,1,0
+1,-6.9,GO:1902992,negative regulation of amyloid precursor protein catabolic process,M1,1,0
+1,-2.2,GO:0044088,regulation of vacuole organization,M1,1,0
+1,-3.5,GO:0043588,skin development,M1,1,0
+1,-2.2,GO:0016486,peptide hormone processing,M1,1,0
+1,-2.1,GO:0010226,response to lithium ion,M1,1,0
+1,-2.4,GO:0043549,regulation of kinase activity,M1,1,0
+1,-2,GO:0048863,stem cell differentiation,M1,1,0
+1,-4.7,R-MMU-2262752,Cellular responses to stress,M1,1,0
+1,-2.9,GO:0010594,regulation of endothelial cell migration,M1,1,0
+1,-8.2,GO:0009144,purine nucleoside triphosphate metabolic process,M1,1,0
+1,-3.8,GO:0008544,epidermis development,M1,1,0
+1,-3.7,GO:0006873,intracellular monoatomic ion homeostasis,M1,1,0
+1,-2.7,GO:0001942,hair follicle development,M1,1,0
+1,-2.9,GO:0098662,inorganic cation transmembrane transport,M1,1,0
+1,-2.7,GO:0032835,glomerulus development,M1,1,0
+1,-2.2,GO:0045667,regulation of osteoblast differentiation,M1,1,0
+1,-6.6,GO:2001233,regulation of apoptotic signaling pathway,M1,1,0
+1,-2.6,GO:0032680,regulation of tumor necrosis factor production,M1,1,0
+1,-6.2,R-MMU-109582,Hemostasis,M1,1,0
+1,-2.8,GO:0046949,fatty-acyl-CoA biosynthetic process,M1,1,0
+1,-3.2,GO:0000038,very long-chain fatty acid metabolic process,M1,1,0
+1,-3.1,GO:0072329,monocarboxylic acid catabolic process,M1,1,0
+1,-3.3,GO:0006605,protein targeting,M1,1,0
+1,-4.5,GO:0072595,maintenance of protein localization in organelle,M1,1,0
+1,-4.3,GO:0030900,forebrain development,M1,1,0
+1,-3,GO:0061615,glycolytic process through fructose-6-phosphate,M1,1,0
+1,-2.7,GO:2001243,negative regulation of intrinsic apoptotic signaling pathway,M1,1,0
+1,-2.1,GO:0010719,negative regulation of epithelial to mesenchymal transition,M1,1,0
+1,-2.5,GO:0007588,excretion,M1,1,0
+1,-3.5,GO:0061138,morphogenesis of a branching epithelium,M1,1,0
+1,-5.1,R-MMU-199977,ER to Golgi Anterograde Transport,M1,1,0
+1,-2.6,GO:1903573,negative regulation of response to endoplasmic reticulum stress,M1,1,0
+1,-2.2,GO:0032868,response to insulin,M1,1,0
+1,-3.4,mmu04974,Protein digestion and absorption - Mus musculus (house mouse),M1,1,0
+1,-3,GO:0060348,bone development,M1,1,0
+1,-4,R-MMU-8957275,Post-translational protein phosphorylation,M1,1,0
+1,-2.3,WP193,Hepatocyte growth factor receptor signaling,M1,1,0
+1,-3.5,GO:0042060,wound healing,M1,1,0
+1,-2.4,GO:2000737,negative regulation of stem cell differentiation,M1,1,0
+1,-2.3,GO:0032535,regulation of cellular component size,M1,1,0
+1,-2.3,GO:0001977,renal system process involved in regulation of blood volume,M1,1,0
+1,-5.7,GO:0033559,unsaturated fatty acid metabolic process,M1,1,0
+1,-2.4,GO:0003382,epithelial cell morphogenesis,M1,1,0
+1,-2.9,GO:0071635,negative regulation of transforming growth factor beta production,M1,1,0
+1,-2.5,R-MMU-166520,Signaling by NTRKs,M1,1,0
+1,-4.5,GO:0030514,negative regulation of BMP signaling pathway,M1,1,0
+1,-2.8,mmu00513,Various types of N-glycan biosynthesis - Mus musculus (house mouse),M1,1,0
+1,-2.3,GO:0060441,epithelial tube branching involved in lung morphogenesis,M1,1,0
+1,-2.3,GO:0021543,pallium development,M1,1,0
+1,-2.7,GO:0040008,regulation of growth,M1,1,0
+1,-4.3,GO:0033365,protein localization to organelle,M1,1,0
+1,-2.2,GO:1901381,positive regulation of potassium ion transmembrane transport,M1,1,0
+1,-3.5,GO:0071677,positive regulation of mononuclear cell migration,M1,1,0
+1,-16,GO:0006119,oxidative phosphorylation,M1,1,0
+1,-2.2,GO:0007601,visual perception,M1,1,0
+1,-3.7,GO:0080164,regulation of nitric oxide metabolic process,M1,1,0
+1,-5.5,GO:1902904,negative regulation of supramolecular fiber organization,M1,1,0
+1,-3.6,GO:0048608,reproductive structure development,M1,1,0
+1,-3.8,GO:1903895,negative regulation of IRE1-mediated unfolded protein response,M1,1,0
+1,-3.8,GO:1905330,regulation of morphogenesis of an epithelium,M1,1,0
+1,-2.9,GO:0034284,response to monosaccharide,M1,1,0
+1,-2.1,GO:0110020,regulation of actomyosin structure organization,M1,1,0
+1,-2.2,GO:1900102,negative regulation of endoplasmic reticulum unfolded protein response,M1,1,0
+1,-2.8,GO:0009611,response to wounding,M1,1,0
+1,-6.2,R-MMU-6799198,Complex I biogenesis,M1,1,0
+1,-5.2,GO:0006631,fatty acid metabolic process,M1,1,0
+1,-2.5,GO:0009743,response to carbohydrate,M1,1,0
+1,-4.4,GO:0050767,regulation of neurogenesis,M1,1,0
+1,-2.1,GO:0048667,cell morphogenesis involved in neuron differentiation,M1,1,0
+1,-2.7,GO:0050817,coagulation,M1,1,0
+1,-3,GO:0032781,positive regulation of ATP-dependent activity,M1,1,0
+1,-5.1,GO:0043062,extracellular structure organization,M1,1,0
+1,-3.2,GO:0048193,Golgi vesicle transport,M1,1,0
+1,-2.4,GO:0060008,Sertoli cell differentiation,M1,1,0
+1,-2.3,GO:0048762,mesenchymal cell differentiation,M1,1,0
+1,-2.2,GO:0072164,mesonephric tubule development,M1,1,0
+1,-3.5,GO:0031667,response to nutrient levels,M1,1,0
+1,-3.9,GO:0031099,regeneration,M1,1,0
+1,-2.3,GO:0055075,potassium ion homeostasis,M1,1,0
+1,-2.6,mmu05230,Central carbon metabolism in cancer - Mus musculus (house mouse),M1,1,0
+1,-4.3,GO:2001237,negative regulation of extrinsic apoptotic signaling pathway,M1,1,0
+1,-2.6,GO:0003093,regulation of glomerular filtration,M1,1,0
+1,-3.8,GO:0007029,endoplasmic reticulum organization,M1,1,0
+1,-4.5,GO:0030162,regulation of proteolysis,M1,1,0
+1,-13,mmu05415,Diabetic cardiomyopathy - Mus musculus (house mouse),M1,1,0
+1,-3,GO:0051145,smooth muscle cell differentiation,M1,1,0
+1,-2.2,GO:0072163,mesonephric epithelium development,M1,1,0
+1,-3.8,R-MMU-381426,Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),M1,1,0
+1,-2,GO:0055078,sodium ion homeostasis,M1,1,0
+1,-2.5,GO:0006465,signal peptide processing,M1,1,0
+1,-6.7,GO:0006457,protein folding,M1,1,0
+1,-2.4,GO:0090209,negative regulation of triglyceride metabolic process,M1,1,0
+1,-13,mmu04932,Non-alcoholic fatty liver disease - Mus musculus (house mouse),M1,1,0
+1,-2.2,GO:0042886,amide transport,M1,1,0
+1,-2.2,GO:0035886,vascular associated smooth muscle cell differentiation,M1,1,0
+1,-2.4,GO:0009100,glycoprotein metabolic process,M1,1,0
+1,-2.3,GO:0097094,craniofacial suture morphogenesis,M1,1,0
+1,-3.6,GO:0016050,vesicle organization,M1,1,0
+1,-4,GO:0045732,positive regulation of protein catabolic process,M1,1,0
+1,-4,GO:0061458,reproductive system development,M1,1,0
+1,-12,mmu05014,Amyotrophic lateral sclerosis - Mus musculus (house mouse),M1,1,0
+1,-7.8,R-MMU-6798695,Neutrophil degranulation,M1,1,0
+1,-3.2,GO:0090090,negative regulation of canonical Wnt signaling pathway,M1,1,0
+1,-2.7,GO:1903672,positive regulation of sprouting angiogenesis,M1,1,0
+1,-3.9,mmu04918,Thyroid hormone synthesis - Mus musculus (house mouse),M1,1,0
+1,-3.2,R-MMU-983712,Ion channel transport,M1,1,0
+1,-2,R-MMU-3371571,HSF1-dependent transactivation,M1,1,0
+1,-14,GO:0006091,generation of precursor metabolites and energy,M1,1,0
+1,-3.6,GO:0060449,bud elongation involved in lung branching,M1,1,0
+1,-2.2,GO:0007423,sensory organ development,M1,1,0
+1,-5.3,R-MMU-9012999,RHO GTPase cycle,M1,1,0
+1,-6.5,R-MMU-8953897,Cellular responses to stimuli,M1,1,0
+1,-2.5,GO:0030178,negative regulation of Wnt signaling pathway,M1,1,0
+1,-3.6,GO:0034625,"fatty acid elongation, monounsaturated fatty acid",M1,1,0
+1,-2.4,GO:1902106,negative regulation of leukocyte differentiation,M1,1,0
+1,-2.4,R-MMU-5694530,Cargo concentration in the ER,M1,1,0
+1,-4.5,GO:0031333,negative regulation of protein-containing complex assembly,M1,1,0
+1,-2.6,GO:0002521,leukocyte differentiation,M1,1,0
+1,-2.8,GO:0072175,epithelial tube formation,M1,1,0
+1,-2.4,GO:1904376,negative regulation of protein localization to cell periphery,M1,1,0
+1,-3.4,R-MMU-9675108,Nervous system development,M1,1,0
+1,-2.8,GO:0043542,endothelial cell migration,M1,1,0
+1,-3.9,GO:0031589,cell-substrate adhesion,M1,1,0
+1,-2.9,R-MMU-975634,Retinoid metabolism and transport,M1,1,0
+1,-2.2,GO:0001823,mesonephros development,M1,1,0
+1,-4.4,GO:0001568,blood vessel development,M1,1,0
+1,-4.4,GO:1901699,cellular response to nitrogen compound,M1,1,0
+1,-3.3,GO:0048812,neuron projection morphogenesis,M1,1,0
+1,-2.2,GO:0048709,oligodendrocyte differentiation,M1,1,0
+1,-2.1,GO:0010507,negative regulation of autophagy,M1,1,0
+1,-4.8,GO:0090092,regulation of transmembrane receptor protein serine/threonine kinase signaling pathway,M1,1,0
+1,-2.6,GO:0048593,camera-type eye morphogenesis,M1,1,0
+1,-2.6,GO:0061136,regulation of proteasomal protein catabolic process,M1,1,0
+1,-2.6,WP4351,Omega 9 fatty acid synthesis,M1,1,0
+1,-8.1,GO:0009145,purine nucleoside triphosphate biosynthetic process,M1,1,0
+1,-3.2,GO:0030148,sphingolipid biosynthetic process,M1,1,0
+1,-2.5,GO:0034614,cellular response to reactive oxygen species,M1,1,0
+1,-3.5,GO:0070201,regulation of establishment of protein localization,M1,1,0
+1,-4.7,R-MMU-382551,Transport of small molecules,M1,1,0
+1,-2.6,GO:0032231,regulation of actin filament bundle assembly,M1,1,0
+1,-4.5,GO:2000147,positive regulation of cell motility,M1,1,0
+1,-2.9,GO:0104004,cellular response to environmental stimulus,M1,1,0
+1,-3,GO:0042303,molting cycle,M1,1,0
+1,-4.1,GO:0071675,regulation of mononuclear cell migration,M1,1,0
+1,-12,mmu05016,Huntington disease - Mus musculus (house mouse),M1,1,0
+1,-5.2,R-MMU-1442490,Collagen degradation,M1,1,0
+1,-2.7,R-MMU-6806667,Metabolism of fat-soluble vitamins,M1,1,0
+1,-2.6,GO:0006622,protein targeting to lysosome,M1,1,0
+1,-2.7,GO:1902230,negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage,M1,1,0
+1,-2.7,GO:1902902,negative regulation of autophagosome assembly,M1,1,0
+1,-3,R-MMU-3000480,Scavenging by Class A Receptors,M1,1,0
+1,-2.6,GO:0071868,cellular response to monoamine stimulus,M1,1,0
+1,-2.3,GO:0001657,ureteric bud development,M1,1,0
+1,-2.8,GO:0007005,mitochondrion organization,M1,1,0
+1,-3.4,GO:0007611,learning or memory,M1,1,0
+1,-2.1,GO:1905475,regulation of protein localization to membrane,M1,1,0
+1,-2.2,GO:0042440,pigment metabolic process,M1,1,0
+1,-2.4,GO:0030007,intracellular potassium ion homeostasis,M1,1,0
+1,-3,GO:0046824,positive regulation of nucleocytoplasmic transport,M1,1,0
+1,-2.3,GO:0010720,positive regulation of cell development,M1,1,0
+1,-2.3,GO:0043269,regulation of monoatomic ion transport,M1,1,0
+1,-2.1,GO:0048710,regulation of astrocyte differentiation,M1,1,0
+1,-2.3,GO:0016242,negative regulation of macroautophagy,M1,1,0
+1,-3.7,GO:0050680,negative regulation of epithelial cell proliferation,M1,1,0
+1,-3.2,GO:0010837,regulation of keratinocyte proliferation,M1,1,0
+1,-3,GO:0071281,cellular response to iron ion,M1,1,0
+1,-2.7,GO:0002028,regulation of sodium ion transport,M1,1,0
+1,-2.1,GO:0090083,regulation of inclusion body assembly,M1,1,0
+1,-2.3,R-MMU-2243919,Crosslinking of collagen fibrils,M1,1,0
+1,-2.1,GO:1903789,regulation of amino acid transmembrane transport,M1,1,0
+1,-2.8,GO:0090151,establishment of protein localization to mitochondrial membrane,M1,1,0
+1,-2.5,WP434,TCA cycle,M1,1,0
+1,-2.5,GO:0030149,sphingolipid catabolic process,M1,1,0
+1,-2.7,GO:0021549,cerebellum development,M1,1,0
+1,-2.7,GO:0010721,negative regulation of cell development,M1,1,0
+1,-2.9,mmu04723,Retrograde endocannabinoid signaling - Mus musculus (house mouse),M1,1,0
+1,-2.3,GO:1900182,positive regulation of protein localization to nucleus,M1,1,0
+1,-3.1,WP5140,Oxylipins pathways,M1,1,0
+1,-2.8,GO:0050890,cognition,M1,1,0
+1,-3.2,GO:0051781,positive regulation of cell division,M1,1,0
+1,-2.5,GO:0045048,protein insertion into ER membrane,M1,1,0
+1,-2.5,R-MMU-4086400,PCP/CE pathway,M1,1,0
+1,-3.7,GO:0030111,regulation of Wnt signaling pathway,M1,1,0
+1,-2.5,GO:0045668,negative regulation of osteoblast differentiation,M1,1,0
+1,-3.2,GO:0051497,negative regulation of stress fiber assembly,M1,1,0
+1,-3.7,GO:2001242,regulation of intrinsic apoptotic signaling pathway,M1,1,0
+1,-12,R-MMU-611105,Respiratory electron transport,M1,1,0
+1,-2,R-MMU-9709957,Sensory Perception,M1,1,0
+1,-2.5,GO:0043403,skeletal muscle tissue regeneration,M1,1,0
+1,-2.3,WP85,Focal adhesion,M1,1,0
+1,-2.2,GO:0031345,negative regulation of cell projection organization,M1,1,0
+1,-3.1,GO:2000146,negative regulation of cell motility,M1,1,0
+1,-3.5,GO:0007033,vacuole organization,M1,1,0
+1,-2.4,GO:0021695,cerebellar cortex development,M1,1,0
+1,-2.5,WP662,Amino acid metabolism,M1,1,0
+1,-2.3,GO:1901615,organic hydroxy compound metabolic process,M1,1,0
+1,-11,mmu05022,Pathways of neurodegeneration - multiple diseases - Mus musculus (house mouse),M1,1,0
+1,-5.3,GO:0009260,ribonucleotide biosynthetic process,M1,1,0
+1,-4.8,GO:0048514,blood vessel morphogenesis,M1,1,0
+1,-2,GO:0030001,metal ion transport,M1,1,0
+1,-3.4,GO:0071280,cellular response to copper ion,M1,1,0
+1,-7,R-MMU-446203,Asparagine N-linked glycosylation,M1,1,0
+1,-7.7,mmu04141,Protein processing in endoplasmic reticulum - Mus musculus (house mouse),M1,1,0
+1,-3.1,GO:0008360,regulation of cell shape,M1,1,0
+1,-6.6,GO:0034249,negative regulation of amide metabolic process,M1,1,0
+1,-2.2,GO:0045137,development of primary sexual characteristics,M1,1,0
+1,-2.3,GO:0002573,myeloid leukocyte differentiation,M1,1,0
+1,-2.1,GO:0050953,sensory perception of light stimulus,M1,1,0
+1,-2.3,GO:0090066,regulation of anatomical structure size,M1,1,0
+1,-4.1,GO:0034220,monoatomic ion transmembrane transport,M1,1,0
+1,-2.2,GO:0001843,neural tube closure,M1,1,0
+1,-2.1,GO:0045321,leukocyte activation,M1,1,0
+1,-2.2,GO:1900180,regulation of protein localization to nucleus,M1,1,0
+1,-3.8,GO:1902600,proton transmembrane transport,M1,1,0
+1,-3.4,GO:0010038,response to metal ion,M1,1,0
+1,-2.7,GO:0033273,response to vitamin,M1,1,0
+1,-4.7,GO:0022604,regulation of cell morphogenesis,M1,1,0
+1,-2.9,GO:0045050,protein insertion into ER membrane by stop-transfer membrane-anchor sequence,M1,1,0
+1,-4,GO:0006812,monoatomic cation transport,M1,1,0
+1,-3,GO:1903894,regulation of IRE1-mediated unfolded protein response,M1,1,0
+1,-3.9,GO:0051962,positive regulation of nervous system development,M1,1,0
+1,-2.4,mmu04071,Sphingolipid signaling pathway - Mus musculus (house mouse),M1,1,0
+1,-2.4,GO:0042326,negative regulation of phosphorylation,M1,1,0
+1,-3.7,GO:0050673,epithelial cell proliferation,M1,1,0
+1,-2.7,GO:0062197,cellular response to chemical stress,M1,1,0
+1,-3.3,GO:0060070,canonical Wnt signaling pathway,M1,1,0
+1,-3,GO:0048280,vesicle fusion with Golgi apparatus,M1,1,0
+1,-4.4,R-MMU-2129379,Molecules associated with elastic fibres,M1,1,0
+1,-7,R-MMU-1474244,Extracellular matrix organization,M1,1,0
+1,-2.9,GO:0046148,pigment biosynthetic process,M1,1,0
+1,-3.4,GO:0006536,glutamate metabolic process,M1,1,0
+1,-3.1,R-MMU-1236975,Antigen processing-Cross presentation,M1,1,0
+1,-7.9,GO:0015986,proton motive force-driven ATP synthesis,M1,1,0
+1,-2.8,GO:0009410,response to xenobiotic stimulus,M1,1,0
+1,-2.5,GO:1903050,regulation of proteolysis involved in protein catabolic process,M1,1,0
+1,-8.2,GO:0009206,purine ribonucleoside triphosphate biosynthetic process,M1,1,0
+1,-6.4,GO:1902532,negative regulation of intracellular signal transduction,M1,1,0
+1,-4.8,R-MMU-6807878,COPI-mediated anterograde transport,M1,1,0
+1,-6.6,GO:0010256,endomembrane system organization,M1,1,0
+1,-4.3,GO:0043523,regulation of neuron apoptotic process,M1,1,0
+1,-4.9,GO:0030510,regulation of BMP signaling pathway,M1,1,0
+1,-4.2,GO:0090150,establishment of protein localization to membrane,M1,1,0
+1,-3.1,GO:0048592,eye morphogenesis,M1,1,0
+1,-2.4,GO:0019318,hexose metabolic process,M1,1,0
+1,-2,GO:0060009,Sertoli cell development,M1,1,0
+1,-2.7,GO:1990535,neuron projection maintenance,M1,1,0
+1,-3.5,GO:0006886,intracellular protein transport,M1,1,0
+1,-5.1,GO:0019725,cellular homeostasis,M1,1,0
+1,-2.5,WP3675,Factors and pathways affecting insulin like growth factor IGF1 Akt signaling,M1,1,0
+1,-4,GO:0050769,positive regulation of neurogenesis,M1,1,0
+1,-2.1,GO:0051131,chaperone-mediated protein complex assembly,M1,1,0
+1,-3.5,GO:0045765,regulation of angiogenesis,M1,1,0
+1,-3.5,GO:0044409,symbiont entry into host,M1,1,0
+1,-3.3,R-MMU-3700989,Transcriptional Regulation by TP53,M1,1,0
+1,-2.5,GO:0050920,regulation of chemotaxis,M1,1,0
+1,-2.4,GO:0003013,circulatory system process,M1,1,0
+1,-2.4,GO:0098659,inorganic cation import across plasma membrane,M1,1,0
+1,-3.8,WP4491,Elongation of very long chain fatty acids,M1,1,0
+1,-3,R-MMU-1650814,Collagen biosynthesis and modifying enzymes,M1,1,0
+1,-3.7,GO:0007584,response to nutrient,M1,1,0
+1,-4.1,GO:0051668,localization within membrane,M1,1,0
+1,-2.5,GO:0001754,eye photoreceptor cell differentiation,M1,1,0
+1,-2.4,R-MMU-9861718,Regulation of pyruvate metabolism,M1,1,0
+1,-2.4,GO:0007030,Golgi organization,M1,1,0
+1,-2.1,GO:0042445,hormone metabolic process,M1,1,0
+1,-2.5,GO:0042593,glucose homeostasis,M1,1,0
+1,-2.5,GO:0001525,angiogenesis,M1,1,0
+1,-4.4,R-MMU-194315,Signaling by Rho GTPases,M1,1,0
+1,-3.7,GO:1904705,regulation of vascular associated smooth muscle cell proliferation,M1,1,0
+1,-2.9,GO:0022037,metencephalon development,M1,1,0
+1,-2.2,GO:0051347,positive regulation of transferase activity,M1,1,0
+1,-3.4,GO:0044282,small molecule catabolic process,M1,1,0
+1,-4.1,GO:0071248,cellular response to metal ion,M1,1,0
+1,-3.6,GO:0060627,regulation of vesicle-mediated transport,M1,1,0
+1,-2.2,GO:1902305,regulation of sodium ion transmembrane transport,M1,1,0
+1,-2.8,GO:0046626,regulation of insulin receptor signaling pathway,M1,1,0
+1,-4.8,GO:0007613,memory,M1,1,0
+1,-2.5,R-MMU-1280218,Adaptive Immune System,M1,1,0
+1,-2.5,GO:0043648,dicarboxylic acid metabolic process,M1,1,0
+1,-2.9,GO:0043085,positive regulation of catalytic activity,M1,1,0
+1,-2.3,GO:0001933,negative regulation of protein phosphorylation,M1,1,0
+1,-2.5,GO:0030901,midbrain development,M1,1,0
+1,-7.7,R-MMU-76005,Response to elevated platelet cytosolic Ca2+,M1,1,0
+1,-3,GO:0051494,negative regulation of cytoskeleton organization,M1,1,0
+1,-3.3,GO:0008610,lipid biosynthetic process,M1,1,0
+1,-2.3,GO:0035336,long-chain fatty-acyl-CoA metabolic process,M1,1,0
+1,-2.1,GO:0008015,blood circulation,M1,1,0
+1,-6.6,GO:0072521,purine-containing compound metabolic process,M1,1,0
+1,-4.1,R-MMU-1679131,Trafficking and processing of endosomal TLR,M1,1,0
+1,-3.3,WP318,Eicosanoid synthesis,M1,1,0
+1,-2.6,R-MMU-399954,Sema3A PAK dependent Axon repulsion,M1,1,0
+1,-14,R-MMU-1428517,Aerobic respiration and respiratory electron transport,M1,1,0
+1,-5.1,GO:0030198,extracellular matrix organization,M1,1,0
+1,-4.2,R-MMU-2187338,Visual phototransduction,M1,1,0
+1,-2.4,GO:0006002,fructose 6-phosphate metabolic process,M1,1,0
+1,-4.1,R-MMU-71387,Metabolism of carbohydrates,M1,1,0
+1,-5.4,GO:1902903,regulation of supramolecular fiber organization,M1,1,0
+1,-3.3,GO:0051701,biological process involved in interaction with host,M1,1,0
+1,-3,GO:0060572,morphogenesis of an epithelial bud,M1,1,0
+1,-3.5,GO:1901163,regulation of trophoblast cell migration,M1,1,0
+1,-3.7,mmu01230,Biosynthesis of amino acids - Mus musculus (house mouse),M1,1,0
+1,-6.8,GO:0045807,positive regulation of endocytosis,M1,1,0
+1,-2.9,GO:0016331,morphogenesis of embryonic epithelium,M1,1,0
+1,-4.2,R-MMU-9716542,"Signaling by Rho GTPases, Miro GTPases and RHOBTB3",M1,1,0
+1,-4.4,GO:0030100,regulation of endocytosis,M1,1,0
+1,-2.2,GO:0045687,positive regulation of glial cell differentiation,M1,1,0
+1,-4.2,GO:0033108,mitochondrial respiratory chain complex assembly,M1,1,0
+1,-3.4,GO:0051223,regulation of protein transport,M1,1,0
+1,-3.9,GO:0072337,modified amino acid transport,M1,1,0
+1,-4.3,R-MMU-9013418,RHOBTB2 GTPase cycle,M1,1,0
+1,-3.2,GO:0034764,positive regulation of transmembrane transport,M1,1,0
+1,-3.4,R-MMU-2046105,Linoleic acid (LA) metabolism,M1,1,0
+1,-2.1,GO:0007548,sex differentiation,M1,1,0
+1,-2.8,GO:0034976,response to endoplasmic reticulum stress,M1,1,0
+1,-2.9,GO:1905476,negative regulation of protein localization to membrane,M1,1,0
+1,-2.3,GO:0009314,response to radiation,M1,1,0
+1,-2.5,GO:0003143,embryonic heart tube morphogenesis,M1,1,0
+1,-2.3,GO:1900221,regulation of amyloid-beta clearance,M1,1,0
+1,-4.4,GO:0009165,nucleotide biosynthetic process,M1,1,0
+1,-4,GO:0098739,import across plasma membrane,M1,1,0
+1,-3.7,GO:0045861,negative regulation of proteolysis,M1,1,0
+1,-3.3,R-MMU-3371497,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,M1,1,0
+1,-4.1,R-MMU-170834,Signaling by TGF-beta Receptor Complex,M1,1,0
+1,-2.6,R-MMU-373755,Semaphorin interactions,M1,1,0
+1,-2,R-MMU-174824,"Plasma lipoprotein assembly, remodeling, and clearance",M1,1,0
+1,-4.4,R-MMU-2453902,The canonical retinoid cycle in rods (twilight vision),M1,1,0
+1,-2.7,R-MMU-9033241,Peroxisomal protein import,M1,1,0
+1,-5.8,R-MMU-9864848,Complex IV assembly,M1,1,0
+1,-2.6,GO:0043112,receptor metabolic process,M1,1,0
+1,-3.2,GO:0050808,synapse organization,M1,1,0
+1,-4.9,GO:0016032,viral process,M1,1,0
+1,-2.5,WP4350,Omega 3 omega 6 fatty acid synthesis,M1,1,0
+1,-3,GO:0042633,hair cycle,M1,1,0
+1,-3.5,GO:2001028,positive regulation of endothelial cell chemotaxis,M1,1,0
+1,-2.4,GO:0097212,lysosomal membrane organization,M1,1,0
+1,-3.2,GO:0071867,response to monoamine,M1,1,0
+1,-2,GO:1901142,insulin metabolic process,M1,1,0
+1,-2,GO:0070861,regulation of protein exit from endoplasmic reticulum,M1,1,0
+1,-7.9,R-MMU-114608,Platelet degranulation,M1,1,0
+1,-7.5,GO:0009142,nucleoside triphosphate biosynthetic process,M1,1,0
+1,-3,GO:0035338,long-chain fatty-acyl-CoA biosynthetic process,M1,1,0
+1,-3,GO:0002693,positive regulation of cellular extravasation,M1,1,0
+1,-2.1,R-MMU-8852276,The role of GTSE1 in G2/M progression after G2 checkpoint,M1,1,0
+1,-3.4,GO:0030003,intracellular monoatomic cation homeostasis,M1,1,0
+1,-2.5,GO:1903555,regulation of tumor necrosis factor superfamily cytokine production,M1,1,0
+1,-3.5,GO:0030168,platelet activation,M1,1,0
+1,-2.9,GO:0051493,regulation of cytoskeleton organization,M1,1,0
+1,-2.7,GO:0035337,fatty-acyl-CoA metabolic process,M1,1,0
+1,-3.2,GO:0022404,molting cycle process,M1,1,0
+1,-2.1,GO:0046942,carboxylic acid transport,M1,1,0
+1,-2.9,GO:0046329,negative regulation of JNK cascade,M1,1,0
+1,-8.1,GO:0022904,respiratory electron transport chain,M1,1,0
+1,-3.1,GO:0010811,positive regulation of cell-substrate adhesion,M1,1,0
+1,-2.7,GO:0048562,embryonic organ morphogenesis,M1,1,0
+1,-3.3,GO:0090316,positive regulation of intracellular protein transport,M1,1,0
+1,-5.4,GO:1902991,regulation of amyloid precursor protein catabolic process,M1,1,0
+1,-5.3,GO:0090407,organophosphate biosynthetic process,M1,1,0
+1,-4.5,GO:0002064,epithelial cell development,M1,1,0
+1,-2.2,GO:0006734,NADH metabolic process,M1,1,0
+1,-6,R-MMU-9711123,Cellular response to chemical stress,M1,1,0
+1,-3,GO:0032355,response to estradiol,M1,1,0
+1,-2.5,GO:1903670,regulation of sprouting angiogenesis,M1,1,0
+1,-4.1,GO:0002502,peptide antigen assembly with MHC class I protein complex,M1,1,0
+1,-5,R-MMU-556833,Metabolism of lipids,M1,1,0
+1,-5.8,mmu04612,Antigen processing and presentation - Mus musculus (house mouse),M1,1,0
+1,-4.3,GO:0046850,regulation of bone remodeling,M1,1,0
+1,-2.1,GO:0009896,positive regulation of catabolic process,M1,1,0
+1,-2.5,GO:0009746,response to hexose,M1,1,0
+1,-2.2,GO:0046184,aldehyde biosynthetic process,M1,1,0
+1,-4.1,GO:2001236,regulation of extrinsic apoptotic signaling pathway,M1,1,0
+1,-3.3,GO:0040007,growth,M1,1,0
+1,-2.8,GO:0031647,regulation of protein stability,M1,1,0
+1,-2.2,GO:0033623,regulation of integrin activation,M1,1,0
+1,-4.5,GO:0006979,response to oxidative stress,M1,1,0
+1,-4.1,GO:0002397,MHC class I protein complex assembly,M1,1,0
+1,-3.4,GO:0050801,monoatomic ion homeostasis,M1,1,0
+1,-2.5,mmu04510,Focal adhesion - Mus musculus (house mouse),M1,1,0
+1,-2.3,GO:0031547,brain-derived neurotrophic factor receptor signaling pathway,M1,1,0
+1,-3.9,GO:0007040,lysosome organization,M1,1,0
+1,-2,GO:0044794,positive regulation by host of viral process,M1,1,0
+1,-3.2,GO:0006888,endoplasmic reticulum to Golgi vesicle-mediated transport,M1,1,0
+1,-5,GO:0046390,ribose phosphate biosynthetic process,M1,1,0
+1,-2.1,WP1270,Endochondral ossification,M1,1,0
+1,-4.2,GO:0051960,regulation of nervous system development,M1,1,0
+1,-2.6,GO:0016054,organic acid catabolic process,M1,1,0
+1,-2,GO:0038065,collagen-activated signaling pathway,M1,1,0
+1,-5.1,GO:0032981,mitochondrial respiratory chain complex I assembly,M1,1,0
+1,-2.6,GO:0006883,intracellular sodium ion homeostasis,M1,1,0
+1,-2.3,GO:0040034,"regulation of development, heterochronic",M1,1,0
+1,-2.1,GO:0010958,regulation of amino acid import across plasma membrane,M1,1,0
+1,-4.9,R-MMU-1566948,Elastic fibre formation,M1,1,0
+1,-3.1,GO:0070555,response to interleukin-1,M1,1,0
+1,-4.7,WP1248,Oxidative phosphorylation,M1,1,0
+1,-2,GO:0015849,organic acid transport,M1,1,0
+1,-2.2,WP164,Glutathione metabolism,M1,1,0
+1,-2.7,WP4348,Eicosanoid metabolism via lipoxygenases LOX,M1,1,0
+1,-2.4,GO:0033157,regulation of intracellular protein transport,M1,1,0
+1,-3.4,R-MMU-9706574,RHOBTB GTPase Cycle,M1,1,0
+1,-4.2,GO:0043086,negative regulation of catalytic activity,M1,1,0
+1,-7.2,GO:1902430,negative regulation of amyloid-beta formation,M1,1,0
+1,-2.3,GO:0032388,positive regulation of intracellular transport,M1,1,0
+1,-8,GO:0006754,ATP biosynthetic process,M1,1,0
+1,-3,GO:1902229,regulation of intrinsic apoptotic signaling pathway in response to DNA damage,M1,1,0
+1,-2.5,R-MMU-1236974,ER-Phagosome pathway,M1,1,0
+1,-5.8,R-MMU-1474228,Degradation of the extracellular matrix,M1,1,0
+1,-6.4,GO:1901293,nucleoside phosphate biosynthetic process,M1,1,0
+1,-2.4,GO:0046548,retinal rod cell development,M1,1,0
+1,-3,GO:0042177,negative regulation of protein catabolic process,M1,1,0
+1,-2.7,GO:0043010,camera-type eye development,M1,1,0
+1,-3.1,GO:0030879,mammary gland development,M1,1,0
+1,-6.6,GO:0055086,nucleobase-containing small molecule metabolic process,M1,1,0
+1,-3.8,GO:0045428,regulation of nitric oxide biosynthetic process,M1,1,0
+1,-8.2,GO:0009199,ribonucleoside triphosphate metabolic process,M1,1,0
+1,-3,GO:0097190,apoptotic signaling pathway,M1,1,0
+1,-2.4,GO:0043508,negative regulation of JUN kinase activity,M1,1,0
+1,-2,GO:0002690,positive regulation of leukocyte chemotaxis,M1,1,0
+1,-4.8,mmu04978,Mineral absorption - Mus musculus (house mouse),M1,1,0
+1,-4.1,GO:0090288,negative regulation of cellular response to growth factor stimulus,M1,1,0
+1,-2.2,GO:0090100,positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway,M1,1,0
+1,-3.8,GO:0043408,regulation of MAPK cascade,M1,1,0
+1,-2.1,R-MMU-168898,Toll-like Receptor Cascades,M1,1,0
+1,-2.1,GO:0043117,positive regulation of vascular permeability,M1,1,0
+1,-2.6,GO:0048008,platelet-derived growth factor receptor signaling pathway,M1,1,0
+1,-5.3,GO:1901137,carbohydrate derivative biosynthetic process,M1,1,0
+1,-2.3,GO:0006687,glycosphingolipid metabolic process,M1,1,0
+1,-2.1,GO:0035023,regulation of Rho protein signal transduction,M1,1,0
+1,-14,GO:0045333,cellular respiration,M1,1,0
+1,-6.5,R-MMU-9707564,Cytoprotection by HMOX1,M1,1,0
+1,-2.6,R-MMU-2162123,Synthesis of Prostaglandins (PG) and Thromboxanes (TX),M1,1,0
+1,-4,GO:0035437,maintenance of protein localization in endoplasmic reticulum,M1,1,0
+1,-3.2,GO:0007599,hemostasis,M1,1,0
+1,-6.8,GO:0051604,protein maturation,M1,1,0
+1,-4.4,GO:0016053,organic acid biosynthetic process,M1,1,0
+1,-3.6,GO:0034626,"fatty acid elongation, polyunsaturated fatty acid",M1,1,0
+1,-2.6,GO:0043065,positive regulation of apoptotic process,M1,1,0
+1,-2.4,GO:0035107,appendage morphogenesis,M1,1,0
+1,-2.8,GO:0000165,MAPK cascade,M1,1,0
+1,-3,R-MMU-8948216,Collagen chain trimerization,M1,1,0
+1,-2,GO:0001935,endothelial cell proliferation,M1,1,0
+1,-2.5,GO:1903034,regulation of response to wounding,M1,1,0
+1,-3.5,GO:0052547,regulation of peptidase activity,M1,1,0
+1,-11,mmu04714,Thermogenesis - Mus musculus (house mouse),M1,1,0
+1,-2.2,GO:0046467,membrane lipid biosynthetic process,M1,1,0
+1,-3,GO:0019677,NAD catabolic process,M1,1,0
+1,-4,R-MMU-199991,Membrane Trafficking,M1,1,0
+1,-3,GO:0106027,neuron projection organization,M1,1,0
+1,-2.1,R-MMU-3858494,Beta-catenin independent WNT signaling,M1,1,0
+1,-2.7,GO:1905897,regulation of response to endoplasmic reticulum stress,M1,1,0
+1,-2.1,GO:0019098,reproductive behavior,M1,1,0
+1,-2.8,GO:0042989,sequestering of actin monomers,M1,1,0
+1,-2.3,GO:0032006,regulation of TOR signaling,M1,1,0
+1,-6.5,GO:0032507,maintenance of protein location in cell,M1,1,0
+1,-3.1,GO:0042307,positive regulation of protein import into nucleus,M1,1,0
+1,-3.7,GO:0048711,positive regulation of astrocyte differentiation,M1,1,0
+1,-5,GO:0051222,positive regulation of protein transport,M1,1,0
+1,-2.1,GO:0043462,regulation of ATP-dependent activity,M1,1,0
+1,-5.6,R-MMU-9006934,Signaling by Receptor Tyrosine Kinases,M1,1,0
+1,-8.4,GO:0035239,tube morphogenesis,M1,1,0
+1,-5.7,GO:0009150,purine ribonucleotide metabolic process,M1,1,0
+1,-3,GO:0045039,protein insertion into mitochondrial inner membrane,M1,1,0
+1,-2.5,GO:0061462,protein localization to lysosome,M1,1,0
+1,-3.9,GO:0001944,vasculature development,M1,1,0
+1,-3.4,GO:1901342,regulation of vasculature development,M1,1,0
+1,-2.2,GO:0019682,glyceraldehyde-3-phosphate metabolic process,M1,1,0
+1,-2.2,GO:0030850,prostate gland development,M1,1,0
+1,-2.9,GO:0046513,ceramide biosynthetic process,M1,1,0
+1,-3.3,WP157,Glycolysis and gluconeogenesis,M1,1,0
+1,-3.4,GO:0021537,telencephalon development,M1,1,0
+1,-3.4,GO:1903286,regulation of potassium ion import,M1,1,0
+1,-3.4,GO:0006735,NADH regeneration,M1,1,0
+1,-5,GO:0072001,renal system development,M1,1,0
+1,-13,mmu05012,Parkinson disease - Mus musculus (house mouse),M1,1,0
+1,-3.6,GO:0070371,ERK1 and ERK2 cascade,M1,1,0
+1,-2.2,GO:1903707,negative regulation of hemopoiesis,M1,1,0
+1,-2.2,GO:0021915,neural tube development,M1,1,0
+1,-6.2,GO:0072522,purine-containing compound biosynthetic process,M1,1,0
+1,-3,GO:0048589,developmental growth,M1,1,0
+1,-4.2,GO:0060688,regulation of morphogenesis of a branching structure,M1,1,0
+1,-3,GO:0007021,tubulin complex assembly,M1,1,0
+1,-2.6,GO:0001501,skeletal system development,M1,1,0
+1,-4.5,GO:0006672,ceramide metabolic process,M1,1,0
+1,-3.3,GO:0060602,branch elongation of an epithelium,M1,1,0
+1,-4,GO:0006122,"mitochondrial electron transport, ubiquinol to cytochrome c",M1,1,0
+1,-3,GO:0048660,regulation of smooth muscle cell proliferation,M1,1,0
+1,-4.9,GO:0030855,epithelial cell differentiation,M1,1,0
+1,-2.8,GO:1904646,cellular response to amyloid-beta,M1,1,0
+1,-2.4,mmu00480,Glutathione metabolism - Mus musculus (house mouse),M1,1,0
+1,-2.5,R-MMU-196854,Metabolism of vitamins and cofactors,M1,1,0
+1,-4.5,GO:0019058,viral life cycle,M1,1,0
+1,-3.6,GO:0070848,response to growth factor,M1,1,0
+1,-2.4,GO:0032271,regulation of protein polymerization,M1,1,0
+1,-14,mmu05010,Alzheimer disease - Mus musculus (house mouse),M1,1,0
+1,-3.2,GO:0055080,monoatomic cation homeostasis,M1,1,0
+1,-2.3,GO:0001841,neural tube formation,M1,1,0
+1,-4.9,GO:0055082,intracellular chemical homeostasis,M1,1,0
+1,-3.1,R-MMU-2173789,TGF-beta receptor signaling activates SMADs,M1,1,0
+1,-2.5,GO:0097084,vascular associated smooth muscle cell development,M1,1,0
+1,-5.7,GO:0006123,"mitochondrial electron transport, cytochrome c to oxygen",M1,1,0
+1,-2.5,GO:0036376,sodium ion export across plasma membrane,M1,1,0
+1,-2.6,GO:0071870,cellular response to catecholamine stimulus,M1,1,0
+1,-2.3,GO:0061025,membrane fusion,M1,1,0
+1,-2.3,GO:2000027,regulation of animal organ morphogenesis,M1,1,0
+1,-4.1,GO:0014910,regulation of smooth muscle cell migration,M1,1,0
+1,-5.7,R-MMU-76002,"Platelet activation, signaling and aggregation",M1,1,0
+1,-6.9,GO:0045185,maintenance of protein location,M1,1,0
+1,-2.6,mmu00062,Fatty acid elongation - Mus musculus (house mouse),M1,1,0
+1,-2.5,GO:0098771,inorganic ion homeostasis,M1,1,0
+1,-5,GO:0048729,tissue morphogenesis,M1,1,0
+1,-3.6,GO:1903288,positive regulation of potassium ion import across plasma membrane,M1,1,0
+1,-2.4,GO:0045429,positive regulation of nitric oxide biosynthetic process,M1,1,0
+1,-2,WP1259,Retinol metabolism,M1,1,0
+1,-3,GO:0010810,regulation of cell-substrate adhesion,M1,1,0
+1,-2.1,GO:0014912,negative regulation of smooth muscle cell migration,M1,1,0
+1,-6.4,GO:0002009,morphogenesis of an epithelium,M1,1,0
+1,-2.6,GO:0044272,sulfur compound biosynthetic process,M1,1,0
+1,-3.7,GO:0072659,protein localization to plasma membrane,M1,1,0
+1,-3.8,GO:0060736,prostate gland growth,M1,1,0
+1,-2.6,GO:0021700,developmental maturation,M1,1,0
+1,-7.8,GO:0042176,regulation of protein catabolic process,M1,1,0
+1,-2.7,GO:0045859,regulation of protein kinase activity,M1,1,0
+1,-2,mmu05205,Proteoglycans in cancer - Mus musculus (house mouse),M1,1,0
+1,-2.5,GO:1904645,response to amyloid-beta,M1,1,0
+1,-5.2,GO:0009259,ribonucleotide metabolic process,M1,1,0
+1,-3,GO:2001026,regulation of endothelial cell chemotaxis,M1,1,0
+1,-17,mmu00190,Oxidative phosphorylation - Mus musculus (house mouse),M1,1,0
+1,-2.9,R-MMU-70171,Glycolysis,M1,1,0
+1,-2,R-MMU-9860931,Response of endothelial cells to shear stress,M1,1,0
+1,-5,GO:0019693,ribose phosphate metabolic process,M1,1,0
+1,-2.6,GO:0031638,zymogen activation,M1,1,0
+1,-7.9,GO:0009201,ribonucleoside triphosphate biosynthetic process,M1,1,0
+1,-2.2,GO:0099175,regulation of postsynapse organization,M1,1,0
+1,-2.2,GO:0070050,neuron cellular homeostasis,M1,1,0
+1,-2.2,GO:0032102,negative regulation of response to external stimulus,M1,1,0
+1,-2.2,GO:0046466,membrane lipid catabolic process,M1,1,0
+1,-2.6,GO:0002688,regulation of leukocyte chemotaxis,M1,1,0
+1,-2.5,GO:0002501,peptide antigen assembly with MHC protein complex,M1,1,0
+1,-2.7,GO:0006007,glucose catabolic process,M1,1,0
+1,-2,mmu04964,Proximal tubule bicarbonate reclamation - Mus musculus (house mouse),M1,1,0
+1,-2.3,GO:0032869,cellular response to insulin stimulus,M1,1,0
+1,-2.4,GO:0050679,positive regulation of epithelial cell proliferation,M1,1,0
+1,-5,GO:0009117,nucleotide metabolic process,M1,1,0
+1,-3.6,GO:0031670,cellular response to nutrient,M1,1,0
+1,-4.7,GO:0009895,negative regulation of catabolic process,M1,1,0
+1,-2.5,GO:0021782,glial cell development,M1,1,0
+1,-3.2,GO:0051051,negative regulation of transport,M1,1,0
+1,-5.1,GO:1902996,regulation of neurofibrillary tangle assembly,M1,1,0
+1,-2.3,GO:0043277,apoptotic cell clearance,M1,1,0
+1,-2.5,GO:0034599,cellular response to oxidative stress,M1,1,0
+1,-2.3,GO:0006582,melanin metabolic process,M1,1,0
+1,-3.9,GO:0034612,response to tumor necrosis factor,M1,1,0
+1,-2.5,GO:0006637,acyl-CoA metabolic process,M1,1,0
+1,-2.5,GO:1902116,negative regulation of organelle assembly,M1,1,0
+1,-4.2,mmu01040,Biosynthesis of unsaturated fatty acids - Mus musculus (house mouse),M1,1,0
+1,-2.4,GO:0002687,positive regulation of leukocyte migration,M1,1,0
+1,-2.4,GO:0030177,positive regulation of Wnt signaling pathway,M1,1,0
+1,-2.5,GO:0034446,substrate adhesion-dependent cell spreading,M1,1,0
+1,-3.4,R-MMU-202733,Cell surface interactions at the vascular wall,M1,1,0
+1,-2.9,GO:0001516,prostaglandin biosynthetic process,M1,1,0
+1,-4.8,GO:0050878,regulation of body fluid levels,M1,1,0
+1,-2.9,GO:0040013,negative regulation of locomotion,M1,1,0
+1,-2.5,GO:0050764,regulation of phagocytosis,M1,1,0
+1,-3.4,GO:0034330,cell junction organization,M1,1,0
+1,-6.5,GO:0006753,nucleoside phosphate metabolic process,M1,1,0
+1,-2.7,mmu04148,Efferocytosis - Mus musculus (house mouse),M1,1,0
+1,-2.1,GO:2001235,positive regulation of apoptotic signaling pathway,M1,1,0
+1,-2.3,GO:0072006,nephron development,M1,1,0
+1,-3.3,GO:0001763,morphogenesis of a branching structure,M1,1,0
+1,-3,GO:0052548,regulation of endopeptidase activity,M1,1,0
+1,-2.2,GO:0042306,regulation of protein import into nucleus,M1,1,0
+1,-2.8,GO:0032956,regulation of actin cytoskeleton organization,M1,1,0
+1,-8.5,GO:0009205,purine ribonucleoside triphosphate metabolic process,M1,1,0
+1,-2,GO:1900026,positive regulation of substrate adhesion-dependent cell spreading,M1,1,0
+1,-2.1,R-MMU-373760,L1CAM interactions,M1,1,0
+1,-3.8,GO:0072594,establishment of protein localization to organelle,M1,1,0
+1,-2.4,GO:0035108,limb morphogenesis,M1,1,0
+1,-15,WP295,Electron transport chain,M1,1,0
+1,-2.2,GO:0050918,positive chemotaxis,M1,1,0
+1,-2.1,GO:0046822,regulation of nucleocytoplasmic transport,M1,1,0
+1,-2.5,GO:0033500,carbohydrate homeostasis,M1,1,0
+1,-2.9,GO:0032232,negative regulation of actin filament bundle assembly,M1,1,0
+1,-2.8,GO:0048598,embryonic morphogenesis,M1,1,0
+1,-2.5,GO:0150063,visual system development,M1,1,0
+1,-3.8,GO:0007420,brain development,M1,1,0
+1,-2.1,GO:0050766,positive regulation of phagocytosis,M1,1,0
+1,-3,GO:0017038,protein import,M1,1,0
+1,-2,GO:0050919,negative chemotaxis,M1,1,0
+1,-11,GO:0042775,mitochondrial ATP synthesis coupled electron transport,M1,1,0
+1,-2.1,R-MMU-9035034,RHOF GTPase cycle,M1,1,0
+1,-3.4,GO:0071526,semaphorin-plexin signaling pathway,M1,1,0
+1,-2.7,GO:0003014,renal system process,M1,1,0
+1,-2.5,GO:0030497,fatty acid elongation,M1,1,0
+1,-9.5,mmu04260,Cardiac muscle contraction - Mus musculus (house mouse),M1,1,0
+1,-2.4,WP519,Proteasome degradation,M1,1,0
+1,-4.8,R-MMU-5653656,Vesicle-mediated transport,M1,1,0
+1,-2.4,WP4347,Eicosanoid metabolism via cyclooxygenases COX,M1,1,0
+1,-3.7,GO:0051336,regulation of hydrolase activity,M1,1,0

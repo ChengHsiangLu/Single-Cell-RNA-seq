@@ -1,0 +1,11 @@
+Network,Annotation
+hits,GO:0050953|sensory perception of light stimulus|-19.4;GO:0007601|visual perception|-18.3;mmu04744|Phototransduction - Mus musculus (house mouse)|-13.9
+hits_MCODE_ALL,mmu04744|Phototransduction - Mus musculus (house mouse)|-14.9;R-MMU-2514856|The phototransduction cascade|-12.6;R-MMU-2187338|Visual phototransduction|-12.4
+hits_SUB1_MCODE_1,R-MMU-2485179|Activation of the phototransduction cascade|-14.9;mmu04744|Phototransduction - Mus musculus (house mouse)|-14.7;R-MMU-4086398|Ca2+ pathway|-13.2
+hits_SUB1_MCODE_2,R-MMU-3371497|HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand|-8.5;GO:0042026|protein refolding|-7.2;GO:0006457|protein folding|-6.2
+hits_SUB1_MCODE_3,GO:0048545|response to steroid hormone|-4.1;GO:0009896|positive regulation of catabolic process|-3.3;GO:0032870|cellular response to hormone stimulus|-3.2
+hits_SUB1_MCODE_4,mmu00051|Fructose and mannose metabolism - Mus musculus (house mouse)|-14.0;GO:0006096|glycolytic process|-13.0;GO:0046032|ADP catabolic process|-12.9
+hits_SUB1_MCODE_5,GO:0090596|sensory organ morphogenesis|-4.8;GO:0030036|actin cytoskeleton organization|-4.2;GO:0030029|actin filament-based process|-4.1
+hits_SUB1_MCODE_6,R-MMU-8856825|Cargo recognition for clathrin-mediated endocytosis|-9.4;R-MMU-8856828|Clathrin-mediated endocytosis|-8.9;R-MMU-182971|EGFR downregulation|-8.0
+hits_SUB1_MCODE_7,WP339|ESC pluripotency pathways|-6.8;mmu05167|Kaposi sarcoma-associated herpesvirus infection - Mus musculus (house mouse)|-5.9;mmu05207|Chemical carcinogenesis - receptor activation - Mus musculus (house mouse)|-5.9
+hits_SUB1_MCODE_8,mmu00561|Glycerolipid metabolism - Mus musculus (house mouse)|-7.6;mmu00564|Glycerophospholipid metabolism - Mus musculus (house mouse)|-7.0;mmu04072|Phospholipase D signaling pathway - Mus musculus (house mouse)|-6.5

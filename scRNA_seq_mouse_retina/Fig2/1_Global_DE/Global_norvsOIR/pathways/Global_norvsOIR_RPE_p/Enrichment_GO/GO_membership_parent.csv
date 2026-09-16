@@ -1,0 +1,18 @@
+_MEMBER_hits,_LogP_hits,GO,Description,_PATTERN_,_RANK_,CHILD_GO_hits
+1,-16.429775255937454,GO:0009987,cellular process,M1,1,GO:0006119 oxidative phosphorylation
+1,-8.691199564918923,GO:0051179,localization,M1,1,GO:0051651 maintenance of location in cell
+1,-8.478262165173943,GO:0048519,negative regulation of biological process,M1,1,GO:0051129 negative regulation of cellular component organization
+1,-8.412071699503189,GO:0032502,developmental process,M1,1,GO:0035239 tube morphogenesis
+1,-7.811471860159946,GO:0050789,regulation of biological process,M1,1,GO:0042176 regulation of protein catabolic process
+1,-6.614854947090443,GO:0050896,response to stimulus,M1,1,GO:2001233 regulation of apoptotic signaling pathway
+1,-5.11478430288935,GO:0042592,homeostatic process,M1,1,GO:0019725 cellular homeostasis
+1,-5.011616632923546,GO:0065007,biological regulation,M1,1,GO:0044092 negative regulation of molecular function
+1,-4.89617558350691,GO:0016032,viral process,M1,1,GO:0016032 viral process
+1,-4.7728967243382945,GO:0032501,multicellular organismal process,M1,1,GO:0007613 memory
+1,-4.511950001766151,GO:0040011,locomotion,M1,1,GO:2000147 positive regulation of cell motility
+1,-4.399198898435187,GO:0040007,growth,M1,1,GO:0003401 axis elongation
+1,-4.358361675518953,GO:0044419,biological process involved in interspecies interaction between organisms,M1,1,GO:0044403 biological process involved in symbiotic interaction
+1,-4.089355251268168,GO:0002376,immune system process,M1,1,GO:0002502 peptide antigen assembly with MHC class I protein complex
+1,-4.048869530456008,GO:0048518,positive regulation of biological process,M1,1,GO:0045732 positive regulation of protein catabolic process
+1,-3.606176762665129,GO:0022414,reproductive process,M1,1,GO:0048608 reproductive structure development
+1,-2.3359184496251224,GO:0048511,rhythmic process,M1,1,GO:0044849 estrous cycle

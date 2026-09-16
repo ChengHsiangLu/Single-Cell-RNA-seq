@@ -1,0 +1,16 @@
+_MEMBER_hits,_LogP_hits,GO,Description,_PATTERN_,_RANK_,CHILD_GO_hits
+1,-19.09369408457719,GO:0032501,multicellular organismal process,M1,1,GO:0050953 sensory perception of light stimulus
+1,-11.798228000732392,GO:0050896,response to stimulus,M1,1,GO:0009583 detection of light stimulus
+1,-11.581533275729216,GO:0032502,developmental process,M1,1,GO:0060041 retina development in camera-type eye
+1,-6.225173977412808,GO:0009987,cellular process,M1,1,GO:0046365 monosaccharide catabolic process
+1,-5.336988485204056,GO:0042592,homeostatic process,M1,1,GO:0019725 cellular homeostasis
+1,-5.1623465094046965,GO:0051179,localization,M1,1,GO:2000650 negative regulation of sodium ion transmembrane transporter activity
+1,-3.7279523632951386,GO:0048518,positive regulation of biological process,M1,1,GO:0035022 positive regulation of Rac protein signal transduction
+1,-3.6261299476924567,GO:0050789,regulation of biological process,M1,1,GO:0062012 regulation of small molecule metabolic process
+1,-3.3572970798819606,GO:0048519,negative regulation of biological process,M1,1,GO:0051494 negative regulation of cytoskeleton organization
+1,-3.181757559518723,GO:0040007,growth,M1,1,GO:0045926 negative regulation of growth
+1,-3.075577268433924,GO:0048511,rhythmic process,M1,1,GO:0032922 circadian regulation of gene expression
+1,-2.832675243875194,GO:0044419,biological process involved in interspecies interaction between organisms,M1,1,GO:0002753 cytoplasmic pattern recognition receptor signaling pathway
+1,-2.832675243875194,GO:0040011,locomotion,M1,1,GO:0010632 regulation of epithelial cell migration
+1,-2.5325662472295978,GO:0002376,immune system process,M1,1,GO:0002761 regulation of myeloid leukocyte differentiation
+1,-2.257788106563376,GO:0065007,biological regulation,M1,1,GO:0032409 regulation of transporter activity

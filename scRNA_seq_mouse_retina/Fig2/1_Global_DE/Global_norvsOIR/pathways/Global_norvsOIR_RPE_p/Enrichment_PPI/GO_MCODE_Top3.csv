@@ -1,0 +1,14 @@
+Network,Annotation
+hits,mmu00190|Oxidative phosphorylation - Mus musculus (house mouse)|-20.4;GO:0006119|oxidative phosphorylation|-19.5;GO:0009060|aerobic respiration|-19.5
+hits_MCODE_ALL,GO:0006119|oxidative phosphorylation|-26.8;mmu00190|Oxidative phosphorylation - Mus musculus (house mouse)|-25.4;mmu05020|Prion disease - Mus musculus (house mouse)|-24.8
+hits_SUB1_MCODE_1,GO:0006119|oxidative phosphorylation|-47.8;mmu00190|Oxidative phosphorylation - Mus musculus (house mouse)|-46.4;mmu04932|Non-alcoholic fatty liver disease - Mus musculus (house mouse)|-45.0
+hits_SUB1_MCODE_2,mmu00480|Glutathione metabolism - Mus musculus (house mouse)|-8.6;GO:0006749|glutathione metabolic process|-6.8;WP4466|Oxidative stress and redox pathway|-6.1
+hits_SUB1_MCODE_3,"R-MMU-983170|Antigen Presentation: Folding, assembly and peptide loading of class I MHC|-8.2;R-MMU-194315|Signaling by Rho GTPases|-7.9;R-MMU-9716542|Signaling by Rho GTPases, Miro GTPases and RHOBTB3|-7.8"
+hits_SUB1_MCODE_4,R-MMU-3371568|Attenuation phase|-7.7;R-MMU-3371571|HSF1-dependent transactivation|-6.9;GO:0022618|protein-RNA complex assembly|-6.0
+hits_SUB1_MCODE_5,R-MMU-199977|ER to Golgi Anterograde Transport|-14.3;R-MMU-948021|Transport to the Golgi and subsequent modification|-13.8;R-MMU-6807878|COPI-mediated anterograde transport|-12.8
+hits_SUB1_MCODE_6,GO:1902991|regulation of amyloid precursor protein catabolic process|-9.5;GO:1905906|regulation of amyloid fibril formation|-8.1;GO:1900221|regulation of amyloid-beta clearance|-8.0
+hits_SUB1_MCODE_7,R-MMU-2022090|Assembly of collagen fibrils and other multimeric structures|-7.0;R-MMU-1650814|Collagen biosynthesis and modifying enzymes|-6.8;R-MMU-1474290|Collagen formation|-6.5
+hits_SUB1_MCODE_9,R-MMU-2132295|MHC class II antigen presentation|-6.7;R-MMU-1474228|Degradation of the extracellular matrix|-6.7;mmu04210|Apoptosis - Mus musculus (house mouse)|-6.6
+hits_SUB1_MCODE_11,R-MMU-2453902|The canonical retinoid cycle in rods (twilight vision)|-9.1;WP1259|Retinol metabolism|-8.2;R-MMU-2187338|Visual phototransduction|-7.2
+hits_SUB3_MCODE_12,"R-MMU-114608|Platelet degranulation|-6.8;R-MMU-76005|Response to elevated platelet cytosolic Ca2+|-6.8;R-MMU-76002|Platelet activation, signaling and aggregation|-5.8"
+hits_SUB4_MCODE_13,GO:0035567|non-canonical Wnt signaling pathway|-8.3;GO:0060070|canonical Wnt signaling pathway|-6.9;GO:0090090|negative regulation of canonical Wnt signaling pathway|-6.6

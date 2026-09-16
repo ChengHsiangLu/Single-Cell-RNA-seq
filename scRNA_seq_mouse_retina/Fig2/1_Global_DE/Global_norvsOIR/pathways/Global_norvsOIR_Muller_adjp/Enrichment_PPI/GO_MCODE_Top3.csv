@@ -1,0 +1,10 @@
+Network,Annotation
+hits,GO:0030335|positive regulation of cell migration|-16.0;GO:2000147|positive regulation of cell motility|-15.4;GO:0040017|positive regulation of locomotion|-15.1
+hits_MCODE_ALL,GO:0030335|positive regulation of cell migration|-13.5;GO:2000147|positive regulation of cell motility|-13.2;GO:0040017|positive regulation of locomotion|-13.0
+hits_SUB1_MCODE_1,WP157|Glycolysis and gluconeogenesis|-18.6;mmu00010|Glycolysis / Gluconeogenesis - Mus musculus (house mouse)|-17.6;GO:0006090|pyruvate metabolic process|-17.0
+hits_SUB1_MCODE_2,R-MMU-9646399|Aggrephagy|-6.8;R-MMU-6811436|COPI-independent Golgi-to-ER retrograde traffic|-6.4;R-MMU-3371497|HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand|-6.4
+hits_SUB1_MCODE_3,R-MMU-9035034|RHOF GTPase cycle|-16.7;R-MMU-9013405|RHOD GTPase cycle|-12.5;R-MMU-9012999|RHO GTPase cycle|-10.4
+hits_SUB1_MCODE_4,R-MMU-1650814|Collagen biosynthesis and modifying enzymes|-13.0;R-MMU-1474290|Collagen formation|-12.5;R-MMU-8948216|Collagen chain trimerization|-10.3
+hits_SUB1_MCODE_5,GO:0045732|positive regulation of protein catabolic process|-5.4;GO:0045862|positive regulation of proteolysis|-4.8;GO:0046486|glycerolipid metabolic process|-4.8
+hits_SUB1_MCODE_6,mmu04810|Regulation of actin cytoskeleton - Mus musculus (house mouse)|-5.3;R-MMU-9012999|RHO GTPase cycle|-4.6;R-MMU-194315|Signaling by Rho GTPases|-4.1
+hits_SUB1_MCODE_7,GO:0051897|positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction|-8.0;mmu04014|Ras signaling pathway - Mus musculus (house mouse)|-7.8;GO:0051896|regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction|-7.4
